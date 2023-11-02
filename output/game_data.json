@@ -1,0 +1,906 @@
+{
+    "light_cones": {
+        "Arrows": {
+            "rarity": 3
+        },
+        "Cornucopia": {
+            "rarity": 3
+        },
+        "Collapsing Sky": {
+            "rarity": 3
+        },
+        "Amber": {
+            "rarity": 3
+        },
+        "Void": {
+            "rarity": 3
+        },
+        "Chorus": {
+            "rarity": 3
+        },
+        "Data Bank": {
+            "rarity": 3
+        },
+        "Darting Arrow": {
+            "rarity": 3
+        },
+        "Fine Fruit": {
+            "rarity": 3
+        },
+        "Shattered Home": {
+            "rarity": 3
+        },
+        "Defense": {
+            "rarity": 3
+        },
+        "Loop": {
+            "rarity": 3
+        },
+        "Meshing Cogs": {
+            "rarity": 3
+        },
+        "Passkey": {
+            "rarity": 3
+        },
+        "Adversarial": {
+            "rarity": 3
+        },
+        "Multiplication": {
+            "rarity": 3
+        },
+        "Mutual Demise": {
+            "rarity": 3
+        },
+        "Pioneering": {
+            "rarity": 3
+        },
+        "Hidden Shadow": {
+            "rarity": 3
+        },
+        "Mediation": {
+            "rarity": 3
+        },
+        "Sagacity": {
+            "rarity": 3
+        },
+        "Post-Op Conversation": {
+            "rarity": 4
+        },
+        "Good Night and Sleep Well": {
+            "rarity": 4
+        },
+        "Day One of My New Life": {
+            "rarity": 4
+        },
+        "Only Silence Remains": {
+            "rarity": 4
+        },
+        "Memories of the Past": {
+            "rarity": 4
+        },
+        "The Moles Welcome You": {
+            "rarity": 4
+        },
+        "The Birth of the Self": {
+            "rarity": 4
+        },
+        "Shared Feeling": {
+            "rarity": 4
+        },
+        "Eyes of the Prey": {
+            "rarity": 4
+        },
+        "Landau's Choice": {
+            "rarity": 4
+        },
+        "Swordplay": {
+            "rarity": 4
+        },
+        "Planetary Rendezvous": {
+            "rarity": 4
+        },
+        "A Secret Vow": {
+            "rarity": 4
+        },
+        "Make the World Clamor": {
+            "rarity": 4
+        },
+        "Perfect Timing": {
+            "rarity": 4
+        },
+        "Resolution Shines As Pearls of Sweat": {
+            "rarity": 4
+        },
+        "Trend of the Universal Market": {
+            "rarity": 4
+        },
+        "Subscribe for More!": {
+            "rarity": 4
+        },
+        "Dance! Dance! Dance!": {
+            "rarity": 4
+        },
+        "Under the Blue Sky": {
+            "rarity": 4
+        },
+        "Geniuses' Repose": {
+            "rarity": 4
+        },
+        "Quid Pro Quo": {
+            "rarity": 4
+        },
+        "Fermata": {
+            "rarity": 4
+        },
+        "We Are Wildfire": {
+            "rarity": 4
+        },
+        "River Flows in Spring": {
+            "rarity": 4
+        },
+        "Woof! Walk Time!": {
+            "rarity": 4
+        },
+        "The Seriousness of Breakfast": {
+            "rarity": 4
+        },
+        "Warmth Shortens Cold Nights": {
+            "rarity": 4
+        },
+        "We Will Meet Again": {
+            "rarity": 4
+        },
+        "This Is Me!": {
+            "rarity": 4
+        },
+        "Return to Darkness": {
+            "rarity": 4
+        },
+        "Carve the Moon, Weave the Clouds": {
+            "rarity": 4
+        },
+        "Nowhere to Run": {
+            "rarity": 4
+        },
+        "Today Is Another Peaceful Day": {
+            "rarity": 4
+        },
+        "Before the Tutorial Mission Starts": {
+            "rarity": 4
+        },
+        "Night on the Milky Way": {
+            "rarity": 5
+        },
+        "In the Night": {
+            "rarity": 5
+        },
+        "Something Irreplaceable": {
+            "rarity": 5
+        },
+        "But the Battle Isn't Over": {
+            "rarity": 5
+        },
+        "In the Name of the World": {
+            "rarity": 5
+        },
+        "Moment of Victory": {
+            "rarity": 5
+        },
+        "Patience Is All You Need": {
+            "rarity": 5
+        },
+        "Incessant Rain": {
+            "rarity": 5
+        },
+        "Echoes of the Coffin": {
+            "rarity": 5
+        },
+        "The Unreachable Side": {
+            "rarity": 5
+        },
+        "Before Dawn": {
+            "rarity": 5
+        },
+        "She Already Shut Her Eyes": {
+            "rarity": 5
+        },
+        "Sleep Like the Dead": {
+            "rarity": 5
+        },
+        "Time Waits for No One": {
+            "rarity": 5
+        },
+        "I Shall Be My Own Sword": {
+            "rarity": 5
+        },
+        "Brighter Than the Sun": {
+            "rarity": 5
+        },
+        "Worrisome, Blissful": {
+            "rarity": 5
+        },
+        "On the Fall of an Aeon": {
+            "rarity": 5
+        },
+        "Cruising in the Stellar Sea": {
+            "rarity": 5
+        },
+        "Texture of Memories": {
+            "rarity": 5
+        },
+        "Past and Future": {
+            "rarity": 4
+        },
+        "Solitary Healing": {
+            "rarity": 5
+        }
+    },
+    "relics": {
+        "Passerby's Rejuvenated Wooden Hairstick": {
+            "setKey": "Passerby of Wandering Cloud",
+            "slotKey": "Head"
+        },
+        "Passerby's Roaming Dragon Bracer": {
+            "setKey": "Passerby of Wandering Cloud",
+            "slotKey": "Hand"
+        },
+        "Passerby's Ragged Embroided Coat": {
+            "setKey": "Passerby of Wandering Cloud",
+            "slotKey": "Body"
+        },
+        "Passerby's Stygian Hiking Boots": {
+            "setKey": "Passerby of Wandering Cloud",
+            "slotKey": "Foot"
+        },
+        "Musketeer's Wild Wheat Felt Hat": {
+            "setKey": "Musketeer of Wild Wheat",
+            "slotKey": "Head"
+        },
+        "Musketeer's Coarse Leather Gloves": {
+            "setKey": "Musketeer of Wild Wheat",
+            "slotKey": "Hand"
+        },
+        "Musketeer's Wind-Hunting Shawl": {
+            "setKey": "Musketeer of Wild Wheat",
+            "slotKey": "Body"
+        },
+        "Musketeer's Rivets Riding Boots": {
+            "setKey": "Musketeer of Wild Wheat",
+            "slotKey": "Foot"
+        },
+        "Knight's Forgiving Casque": {
+            "setKey": "Knight of Purity Palace",
+            "slotKey": "Head"
+        },
+        "Knight's Silent Oath Ring": {
+            "setKey": "Knight of Purity Palace",
+            "slotKey": "Hand"
+        },
+        "Knight's Solemn Breastplate": {
+            "setKey": "Knight of Purity Palace",
+            "slotKey": "Body"
+        },
+        "Knight's Iron Boots of Order": {
+            "setKey": "Knight of Purity Palace",
+            "slotKey": "Foot"
+        },
+        "Hunter's Artaius Hood": {
+            "setKey": "Hunter of Glacial Forest",
+            "slotKey": "Head"
+        },
+        "Hunter's Lizard Gloves": {
+            "setKey": "Hunter of Glacial Forest",
+            "slotKey": "Hand"
+        },
+        "Hunter's Ice Dragon Cloak": {
+            "setKey": "Hunter of Glacial Forest",
+            "slotKey": "Body"
+        },
+        "Hunter's Soft Elkskin Boots": {
+            "setKey": "Hunter of Glacial Forest",
+            "slotKey": "Foot"
+        },
+        "Champion's Headgear": {
+            "setKey": "Champion of Streetwise Boxing",
+            "slotKey": "Head"
+        },
+        "Champion's Heavy Gloves": {
+            "setKey": "Champion of Streetwise Boxing",
+            "slotKey": "Hand"
+        },
+        "Champion's Chest Guard": {
+            "setKey": "Champion of Streetwise Boxing",
+            "slotKey": "Body"
+        },
+        "Champion's Fleetfoot Boots": {
+            "setKey": "Champion of Streetwise Boxing",
+            "slotKey": "Foot"
+        },
+        "Guard's Cast Iron Helmet": {
+            "setKey": "Guard of Wuthering Snow",
+            "slotKey": "Head"
+        },
+        "Guard's Shining Gauntlets": {
+            "setKey": "Guard of Wuthering Snow",
+            "slotKey": "Hand"
+        },
+        "Guard's Uniform of Old": {
+            "setKey": "Guard of Wuthering Snow",
+            "slotKey": "Body"
+        },
+        "Guard's Silver Greaves": {
+            "setKey": "Guard of Wuthering Snow",
+            "slotKey": "Foot"
+        },
+        "Firesmith's Obsidian Goggles": {
+            "setKey": "Firesmith of Lava-Forging",
+            "slotKey": "Head"
+        },
+        "Firesmith's Ring of Flame-Mastery": {
+            "setKey": "Firesmith of Lava-Forging",
+            "slotKey": "Hand"
+        },
+        "Firesmith's Fireproof Apron": {
+            "setKey": "Firesmith of Lava-Forging",
+            "slotKey": "Body"
+        },
+        "Firesmith's Alloy Leg": {
+            "setKey": "Firesmith of Lava-Forging",
+            "slotKey": "Foot"
+        },
+        "Genius's Ultraremote Sensing Visor": {
+            "setKey": "Genius of Brilliant Stars",
+            "slotKey": "Head"
+        },
+        "Genius's Frequency Catcher": {
+            "setKey": "Genius of Brilliant Stars",
+            "slotKey": "Hand"
+        },
+        "Genius's Metafield Suit": {
+            "setKey": "Genius of Brilliant Stars",
+            "slotKey": "Body"
+        },
+        "Genius's Gravity Walker": {
+            "setKey": "Genius of Brilliant Stars",
+            "slotKey": "Foot"
+        },
+        "Band's Polarized Sunglasses": {
+            "setKey": "Band of Sizzling Thunder",
+            "slotKey": "Head"
+        },
+        "Band's Touring Bracelet": {
+            "setKey": "Band of Sizzling Thunder",
+            "slotKey": "Hand"
+        },
+        "Band's Leather Jacket With Studs": {
+            "setKey": "Band of Sizzling Thunder",
+            "slotKey": "Body"
+        },
+        "Band's Ankle Boots With Rivets": {
+            "setKey": "Band of Sizzling Thunder",
+            "slotKey": "Foot"
+        },
+        "Eagle's Beaked Helmet": {
+            "setKey": "Eagle of Twilight Line",
+            "slotKey": "Head"
+        },
+        "Eagle's Soaring Ring": {
+            "setKey": "Eagle of Twilight Line",
+            "slotKey": "Hand"
+        },
+        "Eagle's Winged Suit Harness": {
+            "setKey": "Eagle of Twilight Line",
+            "slotKey": "Body"
+        },
+        "Eagle's Quilted Puttees": {
+            "setKey": "Eagle of Twilight Line",
+            "slotKey": "Foot"
+        },
+        "Thief's Myriad-Faced Mask": {
+            "setKey": "Thief of Shooting Meteor",
+            "slotKey": "Head"
+        },
+        "Thief's Gloves With Prints": {
+            "setKey": "Thief of Shooting Meteor",
+            "slotKey": "Hand"
+        },
+        "Thief's Steel Grappling Hook": {
+            "setKey": "Thief of Shooting Meteor",
+            "slotKey": "Body"
+        },
+        "Thief's Meteor Boots": {
+            "setKey": "Thief of Shooting Meteor",
+            "slotKey": "Foot"
+        },
+        "Wastelander's Breathing Mask": {
+            "setKey": "Wastelander of Banditry Desert",
+            "slotKey": "Head"
+        },
+        "Wastelander's Desert Terminal": {
+            "setKey": "Wastelander of Banditry Desert",
+            "slotKey": "Hand"
+        },
+        "Wastelander's Friar Robe": {
+            "setKey": "Wastelander of Banditry Desert",
+            "slotKey": "Body"
+        },
+        "Wastelander's Powered Greaves": {
+            "setKey": "Wastelander of Banditry Desert",
+            "slotKey": "Foot"
+        },
+        "Herta's Space Station": {
+            "setKey": "Space Sealing Station",
+            "slotKey": "Link Rope"
+        },
+        "Herta's Wandering Trek": {
+            "setKey": "Space Sealing Station",
+            "slotKey": "Planar Sphere"
+        },
+        "The Xianzhou Luofu's Celestial Ark": {
+            "setKey": "Fleet of the Ageless",
+            "slotKey": "Link Rope"
+        },
+        "The Xianzhou Luofu's Ambrosial Arbor Vines": {
+            "setKey": "Fleet of the Ageless",
+            "slotKey": "Planar Sphere"
+        },
+        "The IPC's Mega HQ": {
+            "setKey": "Pan-Cosmic Commercial Enterprise",
+            "slotKey": "Link Rope"
+        },
+        "The IPC's Trade Route": {
+            "setKey": "Pan-Cosmic Commercial Enterprise",
+            "slotKey": "Planar Sphere"
+        },
+        "Belobog's Fortress of Preservation": {
+            "setKey": "Belobog of the Architects",
+            "slotKey": "Link Rope"
+        },
+        "Belobog's Iron Defense": {
+            "setKey": "Belobog of the Architects",
+            "slotKey": "Planar Sphere"
+        },
+        "Planet Screwllum's Mechanical Sun": {
+            "setKey": "Celestial Differentiator",
+            "slotKey": "Link Rope"
+        },
+        "Planet Screwllum's Ring System": {
+            "setKey": "Celestial Differentiator",
+            "slotKey": "Planar Sphere"
+        },
+        "Salsotto's Moving City": {
+            "setKey": "Inert Salsotto",
+            "slotKey": "Link Rope"
+        },
+        "Salsotto's Terminator Line": {
+            "setKey": "Inert Salsotto",
+            "slotKey": "Planar Sphere"
+        },
+        "Talia's Nailscrap Town": {
+            "setKey": "Talia: Kingdom of Banditry",
+            "slotKey": "Link Rope"
+        },
+        "Talia's Exposed Electric Wire": {
+            "setKey": "Talia: Kingdom of Banditry",
+            "slotKey": "Planar Sphere"
+        },
+        "Vonwacq's Island of Birth": {
+            "setKey": "Sprightly Vonwacq",
+            "slotKey": "Link Rope"
+        },
+        "Vonwacq's Islandic Coast": {
+            "setKey": "Sprightly Vonwacq",
+            "slotKey": "Planar Sphere"
+        },
+        "Taikiyan Laser Stadium": {
+            "setKey": "Rutilant Arena",
+            "slotKey": "Link Rope"
+        },
+        "Taikiyan's Arclight Race Track": {
+            "setKey": "Rutilant Arena",
+            "slotKey": "Planar Sphere"
+        },
+        "Insumousu's Whalefall Ship": {
+            "setKey": "Broken Keel",
+            "slotKey": "Link Rope"
+        },
+        "Insumousu's Frayed Hawser": {
+            "setKey": "Broken Keel",
+            "slotKey": "Planar Sphere"
+        },
+        "Disciple's Prosthetic Eye": {
+            "setKey": "Longevous Disciple",
+            "slotKey": "Head"
+        },
+        "Disciple's Ingenium Hand": {
+            "setKey": "Longevous Disciple",
+            "slotKey": "Hand"
+        },
+        "Disciple's Dewy Feather Garb": {
+            "setKey": "Longevous Disciple",
+            "slotKey": "Body"
+        },
+        "Disciple's Celestial Silk Sandals": {
+            "setKey": "Longevous Disciple",
+            "slotKey": "Foot"
+        },
+        "Messenger's Holovisor": {
+            "setKey": "Messenger Traversing Hackerspace",
+            "slotKey": "Head"
+        },
+        "Messenger's Transformative Arm": {
+            "setKey": "Messenger Traversing Hackerspace",
+            "slotKey": "Hand"
+        },
+        "Messenger's Secret Satchel": {
+            "setKey": "Messenger Traversing Hackerspace",
+            "slotKey": "Body"
+        },
+        "Messenger's Par-kool Sneakers": {
+            "setKey": "Messenger Traversing Hackerspace",
+            "slotKey": "Foot"
+        }
+    },
+    "characters": {
+        "March 7th": {
+            "e3": {
+                "ult": 2,
+                "basic": 1
+            },
+            "e5": {
+                "skill": 2,
+                "talent": 2
+            }
+        },
+        "Dan Heng": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Himeko": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Welt": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Kafka": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Silver Wolf": {
+            "e3": {
+                "skill": 2,
+                "talent": 2
+            },
+            "e5": {
+                "ult": 2,
+                "basic": 1
+            }
+        },
+        "Arlan": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Asta": {
+            "e3": {
+                "skill": 2,
+                "talent": 2
+            },
+            "e5": {
+                "ult": 2,
+                "basic": 1
+            }
+        },
+        "Herta": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Bronya": {
+            "e3": {
+                "ult": 2,
+                "talent": 2
+            },
+            "e5": {
+                "skill": 2,
+                "basic": 1
+            }
+        },
+        "Seele": {
+            "e3": {
+                "skill": 2,
+                "talent": 2
+            },
+            "e5": {
+                "ult": 2,
+                "basic": 1
+            }
+        },
+        "Serval": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Gepard": {
+            "e3": {
+                "ult": 2,
+                "talent": 2
+            },
+            "e5": {
+                "skill": 2,
+                "basic": 1
+            }
+        },
+        "Natasha": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Pela": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Clara": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Sampo": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Hook": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Lynx": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Luka": {
+            "e3": {
+                "skill": 2,
+                "talent": 2
+            },
+            "e5": {
+                "ult": 2,
+                "basic": 1
+            }
+        },
+        "Topaz and Numby": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Qingque": {
+            "e3": {
+                "ult": 2,
+                "talent": 2
+            },
+            "e5": {
+                "skill": 2,
+                "basic": 1
+            }
+        },
+        "Tingyun": {
+            "e3": {
+                "ult": 2,
+                "basic": 1
+            },
+            "e5": {
+                "skill": 2,
+                "talent": 2
+            }
+        },
+        "Luocha": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Jing Yuan": {
+            "e3": {
+                "ult": 2,
+                "basic": 1
+            },
+            "e5": {
+                "skill": 2,
+                "talent": 2
+            }
+        },
+        "Blade": {
+            "e3": {
+                "ult": 2,
+                "talent": 2
+            },
+            "e5": {
+                "skill": 2,
+                "basic": 1
+            }
+        },
+        "Sushang": {
+            "e3": {
+                "ult": 2,
+                "talent": 2
+            },
+            "e5": {
+                "skill": 2,
+                "basic": 1
+            }
+        },
+        "Yukong": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Fu Xuan": {
+            "e3": {
+                "skill": 2,
+                "talent": 2
+            },
+            "e5": {
+                "ult": 2,
+                "basic": 1
+            }
+        },
+        "Yanqing": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Guinaifen": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Bailu": {
+            "e3": {
+                "skill": 2,
+                "talent": 2
+            },
+            "e5": {
+                "ult": 2,
+                "basic": 1
+            }
+        },
+        "Jingliu": {
+            "e3": {
+                "ult": 2,
+                "talent": 2
+            },
+            "e5": {
+                "skill": 2,
+                "basic": 1
+            }
+        },
+        "Dan Heng \u2022 Imbibitor Lunae": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "TrailblazerDestruction": {
+            "e3": {
+                "skill": 2,
+                "talent": 2
+            },
+            "e5": {
+                "ult": 2,
+                "basic": 1
+            }
+        },
+        "TrailblazerPreservation": {
+            "e3": {
+                "skill": 2,
+                "talent": 2
+            },
+            "e5": {
+                "ult": 2,
+                "basic": 1
+            }
+        }
+    }
+}
