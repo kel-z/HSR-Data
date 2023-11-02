@@ -2,7 +2,11 @@ import base64
 import json
 import os
 
+# output folder
 OUTPUT_PATH = "output"
+
+# game version that the output is up to date with
+HSR_VERSION = "1.4"
 
 # file paths as of https://github.com/Dimbreath/StarRailData/tree/6acdba3 (Oct 8, 2023)
 STAR_RAIL_DATA_PATH = "src/data/repos/StarRailData"
@@ -29,6 +33,7 @@ def get_game_data(include_icons) -> dict:
     characters = get_characters(text_map_en)
 
     res = {
+        "version": HSR_VERSION,
         "light_cones": light_cones,
         "relics": relics,
         "characters": characters,
