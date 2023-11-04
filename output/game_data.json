@@ -238,308 +238,308 @@
     },
     "relics": {
         "Passerby's Rejuvenated Wooden Hairstick": {
-            "setKey": "Passerby of Wandering Cloud",
-            "slotKey": "Head"
+            "set": "Passerby of Wandering Cloud",
+            "slot": "Head"
         },
         "Passerby's Roaming Dragon Bracer": {
-            "setKey": "Passerby of Wandering Cloud",
-            "slotKey": "Hand"
+            "set": "Passerby of Wandering Cloud",
+            "slot": "Hands"
         },
         "Passerby's Ragged Embroided Coat": {
-            "setKey": "Passerby of Wandering Cloud",
-            "slotKey": "Body"
+            "set": "Passerby of Wandering Cloud",
+            "slot": "Body"
         },
         "Passerby's Stygian Hiking Boots": {
-            "setKey": "Passerby of Wandering Cloud",
-            "slotKey": "Foot"
+            "set": "Passerby of Wandering Cloud",
+            "slot": "Feet"
         },
         "Musketeer's Wild Wheat Felt Hat": {
-            "setKey": "Musketeer of Wild Wheat",
-            "slotKey": "Head"
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Head"
         },
         "Musketeer's Coarse Leather Gloves": {
-            "setKey": "Musketeer of Wild Wheat",
-            "slotKey": "Hand"
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Hands"
         },
         "Musketeer's Wind-Hunting Shawl": {
-            "setKey": "Musketeer of Wild Wheat",
-            "slotKey": "Body"
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Body"
         },
         "Musketeer's Rivets Riding Boots": {
-            "setKey": "Musketeer of Wild Wheat",
-            "slotKey": "Foot"
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Feet"
         },
         "Knight's Forgiving Casque": {
-            "setKey": "Knight of Purity Palace",
-            "slotKey": "Head"
+            "set": "Knight of Purity Palace",
+            "slot": "Head"
         },
         "Knight's Silent Oath Ring": {
-            "setKey": "Knight of Purity Palace",
-            "slotKey": "Hand"
+            "set": "Knight of Purity Palace",
+            "slot": "Hands"
         },
         "Knight's Solemn Breastplate": {
-            "setKey": "Knight of Purity Palace",
-            "slotKey": "Body"
+            "set": "Knight of Purity Palace",
+            "slot": "Body"
         },
         "Knight's Iron Boots of Order": {
-            "setKey": "Knight of Purity Palace",
-            "slotKey": "Foot"
+            "set": "Knight of Purity Palace",
+            "slot": "Feet"
         },
         "Hunter's Artaius Hood": {
-            "setKey": "Hunter of Glacial Forest",
-            "slotKey": "Head"
+            "set": "Hunter of Glacial Forest",
+            "slot": "Head"
         },
         "Hunter's Lizard Gloves": {
-            "setKey": "Hunter of Glacial Forest",
-            "slotKey": "Hand"
+            "set": "Hunter of Glacial Forest",
+            "slot": "Hands"
         },
         "Hunter's Ice Dragon Cloak": {
-            "setKey": "Hunter of Glacial Forest",
-            "slotKey": "Body"
+            "set": "Hunter of Glacial Forest",
+            "slot": "Body"
         },
         "Hunter's Soft Elkskin Boots": {
-            "setKey": "Hunter of Glacial Forest",
-            "slotKey": "Foot"
+            "set": "Hunter of Glacial Forest",
+            "slot": "Feet"
         },
         "Champion's Headgear": {
-            "setKey": "Champion of Streetwise Boxing",
-            "slotKey": "Head"
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head"
         },
         "Champion's Heavy Gloves": {
-            "setKey": "Champion of Streetwise Boxing",
-            "slotKey": "Hand"
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Hands"
         },
         "Champion's Chest Guard": {
-            "setKey": "Champion of Streetwise Boxing",
-            "slotKey": "Body"
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Body"
         },
         "Champion's Fleetfoot Boots": {
-            "setKey": "Champion of Streetwise Boxing",
-            "slotKey": "Foot"
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Feet"
         },
         "Guard's Cast Iron Helmet": {
-            "setKey": "Guard of Wuthering Snow",
-            "slotKey": "Head"
+            "set": "Guard of Wuthering Snow",
+            "slot": "Head"
         },
         "Guard's Shining Gauntlets": {
-            "setKey": "Guard of Wuthering Snow",
-            "slotKey": "Hand"
+            "set": "Guard of Wuthering Snow",
+            "slot": "Hands"
         },
         "Guard's Uniform of Old": {
-            "setKey": "Guard of Wuthering Snow",
-            "slotKey": "Body"
+            "set": "Guard of Wuthering Snow",
+            "slot": "Body"
         },
         "Guard's Silver Greaves": {
-            "setKey": "Guard of Wuthering Snow",
-            "slotKey": "Foot"
+            "set": "Guard of Wuthering Snow",
+            "slot": "Feet"
         },
         "Firesmith's Obsidian Goggles": {
-            "setKey": "Firesmith of Lava-Forging",
-            "slotKey": "Head"
+            "set": "Firesmith of Lava-Forging",
+            "slot": "Head"
         },
         "Firesmith's Ring of Flame-Mastery": {
-            "setKey": "Firesmith of Lava-Forging",
-            "slotKey": "Hand"
+            "set": "Firesmith of Lava-Forging",
+            "slot": "Hands"
         },
         "Firesmith's Fireproof Apron": {
-            "setKey": "Firesmith of Lava-Forging",
-            "slotKey": "Body"
+            "set": "Firesmith of Lava-Forging",
+            "slot": "Body"
         },
         "Firesmith's Alloy Leg": {
-            "setKey": "Firesmith of Lava-Forging",
-            "slotKey": "Foot"
+            "set": "Firesmith of Lava-Forging",
+            "slot": "Feet"
         },
         "Genius's Ultraremote Sensing Visor": {
-            "setKey": "Genius of Brilliant Stars",
-            "slotKey": "Head"
+            "set": "Genius of Brilliant Stars",
+            "slot": "Head"
         },
         "Genius's Frequency Catcher": {
-            "setKey": "Genius of Brilliant Stars",
-            "slotKey": "Hand"
+            "set": "Genius of Brilliant Stars",
+            "slot": "Hands"
         },
         "Genius's Metafield Suit": {
-            "setKey": "Genius of Brilliant Stars",
-            "slotKey": "Body"
+            "set": "Genius of Brilliant Stars",
+            "slot": "Body"
         },
         "Genius's Gravity Walker": {
-            "setKey": "Genius of Brilliant Stars",
-            "slotKey": "Foot"
+            "set": "Genius of Brilliant Stars",
+            "slot": "Feet"
         },
         "Band's Polarized Sunglasses": {
-            "setKey": "Band of Sizzling Thunder",
-            "slotKey": "Head"
+            "set": "Band of Sizzling Thunder",
+            "slot": "Head"
         },
         "Band's Touring Bracelet": {
-            "setKey": "Band of Sizzling Thunder",
-            "slotKey": "Hand"
+            "set": "Band of Sizzling Thunder",
+            "slot": "Hands"
         },
         "Band's Leather Jacket With Studs": {
-            "setKey": "Band of Sizzling Thunder",
-            "slotKey": "Body"
+            "set": "Band of Sizzling Thunder",
+            "slot": "Body"
         },
         "Band's Ankle Boots With Rivets": {
-            "setKey": "Band of Sizzling Thunder",
-            "slotKey": "Foot"
+            "set": "Band of Sizzling Thunder",
+            "slot": "Feet"
         },
         "Eagle's Beaked Helmet": {
-            "setKey": "Eagle of Twilight Line",
-            "slotKey": "Head"
+            "set": "Eagle of Twilight Line",
+            "slot": "Head"
         },
         "Eagle's Soaring Ring": {
-            "setKey": "Eagle of Twilight Line",
-            "slotKey": "Hand"
+            "set": "Eagle of Twilight Line",
+            "slot": "Hands"
         },
         "Eagle's Winged Suit Harness": {
-            "setKey": "Eagle of Twilight Line",
-            "slotKey": "Body"
+            "set": "Eagle of Twilight Line",
+            "slot": "Body"
         },
         "Eagle's Quilted Puttees": {
-            "setKey": "Eagle of Twilight Line",
-            "slotKey": "Foot"
+            "set": "Eagle of Twilight Line",
+            "slot": "Feet"
         },
         "Thief's Myriad-Faced Mask": {
-            "setKey": "Thief of Shooting Meteor",
-            "slotKey": "Head"
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head"
         },
         "Thief's Gloves With Prints": {
-            "setKey": "Thief of Shooting Meteor",
-            "slotKey": "Hand"
+            "set": "Thief of Shooting Meteor",
+            "slot": "Hands"
         },
         "Thief's Steel Grappling Hook": {
-            "setKey": "Thief of Shooting Meteor",
-            "slotKey": "Body"
+            "set": "Thief of Shooting Meteor",
+            "slot": "Body"
         },
         "Thief's Meteor Boots": {
-            "setKey": "Thief of Shooting Meteor",
-            "slotKey": "Foot"
+            "set": "Thief of Shooting Meteor",
+            "slot": "Feet"
         },
         "Wastelander's Breathing Mask": {
-            "setKey": "Wastelander of Banditry Desert",
-            "slotKey": "Head"
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Head"
         },
         "Wastelander's Desert Terminal": {
-            "setKey": "Wastelander of Banditry Desert",
-            "slotKey": "Hand"
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Hands"
         },
         "Wastelander's Friar Robe": {
-            "setKey": "Wastelander of Banditry Desert",
-            "slotKey": "Body"
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body"
         },
         "Wastelander's Powered Greaves": {
-            "setKey": "Wastelander of Banditry Desert",
-            "slotKey": "Foot"
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Feet"
         },
         "Herta's Space Station": {
-            "setKey": "Space Sealing Station",
-            "slotKey": "Link Rope"
+            "set": "Space Sealing Station",
+            "slot": "Link Rope"
         },
         "Herta's Wandering Trek": {
-            "setKey": "Space Sealing Station",
-            "slotKey": "Planar Sphere"
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere"
         },
         "The Xianzhou Luofu's Celestial Ark": {
-            "setKey": "Fleet of the Ageless",
-            "slotKey": "Link Rope"
+            "set": "Fleet of the Ageless",
+            "slot": "Link Rope"
         },
         "The Xianzhou Luofu's Ambrosial Arbor Vines": {
-            "setKey": "Fleet of the Ageless",
-            "slotKey": "Planar Sphere"
+            "set": "Fleet of the Ageless",
+            "slot": "Planar Sphere"
         },
         "The IPC's Mega HQ": {
-            "setKey": "Pan-Cosmic Commercial Enterprise",
-            "slotKey": "Link Rope"
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Link Rope"
         },
         "The IPC's Trade Route": {
-            "setKey": "Pan-Cosmic Commercial Enterprise",
-            "slotKey": "Planar Sphere"
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Planar Sphere"
         },
         "Belobog's Fortress of Preservation": {
-            "setKey": "Belobog of the Architects",
-            "slotKey": "Link Rope"
+            "set": "Belobog of the Architects",
+            "slot": "Link Rope"
         },
         "Belobog's Iron Defense": {
-            "setKey": "Belobog of the Architects",
-            "slotKey": "Planar Sphere"
+            "set": "Belobog of the Architects",
+            "slot": "Planar Sphere"
         },
         "Planet Screwllum's Mechanical Sun": {
-            "setKey": "Celestial Differentiator",
-            "slotKey": "Link Rope"
+            "set": "Celestial Differentiator",
+            "slot": "Link Rope"
         },
         "Planet Screwllum's Ring System": {
-            "setKey": "Celestial Differentiator",
-            "slotKey": "Planar Sphere"
+            "set": "Celestial Differentiator",
+            "slot": "Planar Sphere"
         },
         "Salsotto's Moving City": {
-            "setKey": "Inert Salsotto",
-            "slotKey": "Link Rope"
+            "set": "Inert Salsotto",
+            "slot": "Link Rope"
         },
         "Salsotto's Terminator Line": {
-            "setKey": "Inert Salsotto",
-            "slotKey": "Planar Sphere"
+            "set": "Inert Salsotto",
+            "slot": "Planar Sphere"
         },
         "Talia's Nailscrap Town": {
-            "setKey": "Talia: Kingdom of Banditry",
-            "slotKey": "Link Rope"
+            "set": "Talia: Kingdom of Banditry",
+            "slot": "Link Rope"
         },
         "Talia's Exposed Electric Wire": {
-            "setKey": "Talia: Kingdom of Banditry",
-            "slotKey": "Planar Sphere"
+            "set": "Talia: Kingdom of Banditry",
+            "slot": "Planar Sphere"
         },
         "Vonwacq's Island of Birth": {
-            "setKey": "Sprightly Vonwacq",
-            "slotKey": "Link Rope"
+            "set": "Sprightly Vonwacq",
+            "slot": "Link Rope"
         },
         "Vonwacq's Islandic Coast": {
-            "setKey": "Sprightly Vonwacq",
-            "slotKey": "Planar Sphere"
+            "set": "Sprightly Vonwacq",
+            "slot": "Planar Sphere"
         },
         "Taikiyan Laser Stadium": {
-            "setKey": "Rutilant Arena",
-            "slotKey": "Link Rope"
+            "set": "Rutilant Arena",
+            "slot": "Link Rope"
         },
         "Taikiyan's Arclight Race Track": {
-            "setKey": "Rutilant Arena",
-            "slotKey": "Planar Sphere"
+            "set": "Rutilant Arena",
+            "slot": "Planar Sphere"
         },
         "Insumousu's Whalefall Ship": {
-            "setKey": "Broken Keel",
-            "slotKey": "Link Rope"
+            "set": "Broken Keel",
+            "slot": "Link Rope"
         },
         "Insumousu's Frayed Hawser": {
-            "setKey": "Broken Keel",
-            "slotKey": "Planar Sphere"
+            "set": "Broken Keel",
+            "slot": "Planar Sphere"
         },
         "Disciple's Prosthetic Eye": {
-            "setKey": "Longevous Disciple",
-            "slotKey": "Head"
+            "set": "Longevous Disciple",
+            "slot": "Head"
         },
         "Disciple's Ingenium Hand": {
-            "setKey": "Longevous Disciple",
-            "slotKey": "Hand"
+            "set": "Longevous Disciple",
+            "slot": "Hands"
         },
         "Disciple's Dewy Feather Garb": {
-            "setKey": "Longevous Disciple",
-            "slotKey": "Body"
+            "set": "Longevous Disciple",
+            "slot": "Body"
         },
         "Disciple's Celestial Silk Sandals": {
-            "setKey": "Longevous Disciple",
-            "slotKey": "Foot"
+            "set": "Longevous Disciple",
+            "slot": "Feet"
         },
         "Messenger's Holovisor": {
-            "setKey": "Messenger Traversing Hackerspace",
-            "slotKey": "Head"
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Head"
         },
         "Messenger's Transformative Arm": {
-            "setKey": "Messenger Traversing Hackerspace",
-            "slotKey": "Hand"
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Hands"
         },
         "Messenger's Secret Satchel": {
-            "setKey": "Messenger Traversing Hackerspace",
-            "slotKey": "Body"
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Body"
         },
         "Messenger's Par-kool Sneakers": {
-            "setKey": "Messenger Traversing Hackerspace",
-            "slotKey": "Foot"
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Feet"
         }
     },
     "characters": {

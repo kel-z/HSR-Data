@@ -88,8 +88,8 @@ def get_relics(text_map_en: dict) -> dict:
                 relic = relics[rid]
                 name = text_map_en[_get_stable_hash(relic["RelicName"])]
                 res[name] = {
-                    "setKey": set_name,
-                    "slotKey": _get_slot_from_relic_type(relic["Type"]),
+                    "set": set_name,
+                    "slot": _get_slot_from_relic_type(relic["Type"]),
                 }
 
         except KeyError as e:
@@ -189,11 +189,11 @@ def _get_slot_from_relic_type(relic_type: str) -> str:
         case "HEAD":
             return "Head"
         case "HAND":
-            return "Hand"
+            return "Hands"
         case "BODY":
             return "Body"
         case "FOOT":
-            return "Foot"
+            return "Feet"
         case "NECK":
             return "Link Rope"
         case "OBJECT":
