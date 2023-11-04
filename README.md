@@ -1,6 +1,6 @@
 # HSR-Data
 
-Contains a single formatted [JSON file](output/game_data.json) detailing the Honkai: Star Rail game metadata. Formatted specifically for [HSR-Scanner](https://github.com/kel-z/HSR-Scanner).
+Contains a single formatted [JSON file](output/game_data.json) detailing Honkai: Star Rail's light cone, relic, and character metadata. Formatted specifically for [HSR-Scanner](https://github.com/kel-z/HSR-Scanner).
 
 ### Example usage:
 ```Python
