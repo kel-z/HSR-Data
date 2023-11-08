@@ -195,9 +195,9 @@ def _get_slot_from_relic_type(relic_type: str) -> str:
         case "FOOT":
             return "Feet"
         case "NECK":
-            return "Link Rope"
-        case "OBJECT":
             return "Planar Sphere"
+        case "OBJECT":
+            return "Link Rope"
         case _:
             raise ValueError(f"Invalid relic type: {relic_type}")
 
