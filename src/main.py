@@ -6,7 +6,7 @@ import os
 OUTPUT_PATH = "output"
 
 # game version that the output is up to date with
-HSR_VERSION = "1.4"
+HSR_VERSION = "1.5"
 
 # file paths as of https://github.com/Dimbreath/StarRailData/tree/6acdba3 (Oct 8, 2023)
 STAR_RAIL_DATA_PATH = "src/data/repos/StarRailData"
@@ -41,6 +41,17 @@ def get_game_data(include_icons) -> dict:
 
     if include_icons:
         res["mini_icons"] = get_mini_icons()
+
+        # check that all characters have a mini icon
+        for name in characters:
+            name = name.replace(" ", "")
+            name = "".join([c for c in name if c.isalnum()])
+            if name.startswith("Trailblazer"):
+                for gender in ["#F", "#M"]:
+                    if name + gender not in res["mini_icons"]:
+                        print(f"WARN: Missing icon for character {name + gender}")
+            elif name not in res["mini_icons"]:
+                print(f"WARN: Missing icon for character {name}")
 
     return res
 

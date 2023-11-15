@@ -1,5 +1,5 @@
 {
-    "version": "1.4",
+    "version": "1.5",
     "light_cones": {
         "Arrows": {
             "rarity": 3
@@ -83,9 +83,6 @@
             "rarity": 4
         },
         "The Birth of the Self": {
-            "rarity": 4
-        },
-        "Shared Feeling": {
             "rarity": 4
         },
         "Eyes of the Prey": {
@@ -232,8 +229,20 @@
         "Past and Future": {
             "rarity": 4
         },
+        "Night of Fright": {
+            "rarity": 5
+        },
+        "An Instant Before A Gaze": {
+            "rarity": 5
+        },
+        "Hey, Over Here": {
+            "rarity": 4
+        },
         "Solitary Healing": {
             "rarity": 5
+        },
+        "Shared Feeling": {
+            "rarity": 4
         }
     },
     "relics": {
@@ -540,6 +549,54 @@
         "Messenger's Par-kool Sneakers": {
             "set": "Messenger Traversing Hackerspace",
             "slot": "Feet"
+        },
+        "Grand Duke's Crown of Netherflame": {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Head"
+        },
+        "Grand Duke's Gloves of Fieryfur": {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Hands"
+        },
+        "Grand Duke's Robe of Grace": {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Body"
+        },
+        "Grand Duke's Ceremonial Boots": {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Feet"
+        },
+        "Prisoner's Sealed Muzzle": {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Head"
+        },
+        "Prisoner's Leadstone Shackles": {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Hands"
+        },
+        "Prisoner's Repressive Straitjacket": {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Body"
+        },
+        "Prisoner's Restrictive Fetters": {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Feet"
+        },
+        "Glamoth's Iron Cavalry Regiment": {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Planar Sphere"
+        },
+        "Glamoth's Silent Tombstone": {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Link Rope"
+        },
+        "Penacony's Grand Hotel": {
+            "set": "Penacony, Land of the Dreams",
+            "slot": "Planar Sphere"
+        },
+        "Penacony's Dream-Seeking Tracks": {
+            "set": "Penacony, Land of the Dreams",
+            "slot": "Link Rope"
         }
     },
     "characters": {
@@ -743,7 +800,7 @@
                 "basic": 1
             }
         },
-        "Topaz and Numby": {
+        "Topaz & Numby": {
             "e3": {
                 "skill": 2,
                 "basic": 1
@@ -881,6 +938,36 @@
             "e5": {
                 "ult": 2,
                 "talent": 2
+            }
+        },
+        "Hanya": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Huohuo": {
+            "e3": {
+                "ult": 2,
+                "talent": 2
+            },
+            "e5": {
+                "skill": 2,
+                "basic": 1
+            }
+        },
+        "Argenti": {
+            "e3": {
+                "skill": 2,
+                "talent": 2
+            },
+            "e5": {
+                "ult": 2,
+                "basic": 1
             }
         },
         "TrailblazerDestruction": {

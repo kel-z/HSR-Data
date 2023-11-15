@@ -3,6 +3,7 @@
 Contains a single formatted [JSON file](output/game_data.json) detailing Honkai: Star Rail's light cone, relic, and character metadata. Formatted specifically for [HSR-Scanner](https://github.com/kel-z/HSR-Scanner).
 
 ### Example usage:
+
 ```Python
 import requests
 
@@ -47,7 +48,9 @@ To generate the JSON file with the game data, perform the following steps:
 1. Ensure you have Python 3.6 or newer installed
 2. Clone this repository and ensure that you've also cloned the submodules properly  
    `git clone --recursive https://github.com/kel-z/HSR-Data.git`
-3. Navigate to the repository's root directory in your terminal
-4. Run `python src/main.py`
+3. Ensure submodules are up-to-date
+   `git submodule update --init --recursive --remote`
+4. Navigate to the repository's root directory in your terminal
+5. Run `python src/main.py`
 
 The resulting game data JSON will be located in the `output/` directory with the filename `game_data.json`.
