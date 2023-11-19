@@ -26,7 +26,7 @@ def get_game_data_verbose(include_icons: bool) -> dict:
     :param include_icons: Whether to include base64-encoded icons in the output.
     :return: A dictionary containing light cone, relic, and character data.
     """
-    if not os.path.exists(STAR_RAIL_RES_PATH):
+    if not os.path.exists(INFO):
         raise FileNotFoundError(
             "Star Rail Res submodule not found. "
             "Please run `git submodule update --init --recursive --remote`."

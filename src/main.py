@@ -3,6 +3,7 @@ import os
 from extractors.game_data_verbose import get_game_data_verbose
 from extractors.game_data import get_game_data
 
+
 # output folder
 OUTPUT_PATH = "output"
 
