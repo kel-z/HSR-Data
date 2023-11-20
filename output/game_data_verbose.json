@@ -11991,7 +11991,8 @@
                         "type": "HealRatioBase",
                         "value": 0.1
                     }
-                ]
+                ],
+                []
             ]
         },
         "Musketeer of Wild Wheat": {
@@ -12053,7 +12054,8 @@
                         "type": "DefenceAddedRatio",
                         "value": 0.15
                     }
-                ]
+                ],
+                []
             ]
         },
         "Hunter of Glacial Forest": {
@@ -12081,7 +12083,8 @@
                         "type": "IceAddedRatio",
                         "value": 0.1
                     }
-                ]
+                ],
+                []
             ]
         },
         "Champion of Streetwise Boxing": {
@@ -12109,7 +12112,8 @@
                         "type": "PhysicalAddedRatio",
                         "value": 0.1
                     }
-                ]
+                ],
+                []
             ]
         },
         "Guard of Wuthering Snow": {
@@ -12130,8 +12134,7 @@
             "desc": [
                 "Reduces DMG taken by 8%.",
                 "At the beginning of the turn, if the wearer's HP is equal to or less than 50%, restores HP equal to 8% of their Max HP and regenerates 5 Energy."
-            ],
-            "modifiers": []
+            ]
         },
         "Firesmith of Lava-Forging": {
             "pieces": {
@@ -12158,7 +12161,8 @@
                         "type": "FireAddedRatio",
                         "value": 0.1
                     }
-                ]
+                ],
+                []
             ]
         },
         "Genius of Brilliant Stars": {
@@ -12186,7 +12190,8 @@
                         "type": "QuantumAddedRatio",
                         "value": 0.1
                     }
-                ]
+                ],
+                []
             ]
         },
         "Band of Sizzling Thunder": {
@@ -12214,7 +12219,8 @@
                         "type": "ThunderAddedRatio",
                         "value": 0.1
                     }
-                ]
+                ],
+                []
             ]
         },
         "Eagle of Twilight Line": {
@@ -12242,7 +12248,8 @@
                         "type": "WindAddedRatio",
                         "value": 0.1
                     }
-                ]
+                ],
+                []
             ]
         },
         "Thief of Shooting Meteor": {
@@ -12304,7 +12311,8 @@
                         "type": "ImaginaryAddedRatio",
                         "value": 0.1
                     }
-                ]
+                ],
+                []
             ]
         },
         "Longevous Disciple": {
@@ -12332,7 +12340,8 @@
                         "type": "HPAddedRatio",
                         "value": 0.12
                     }
-                ]
+                ],
+                []
             ]
         },
         "Messenger Traversing Hackerspace": {
@@ -12360,7 +12369,8 @@
                         "type": "SpeedAddedRatio",
                         "value": 0.06
                     }
-                ]
+                ],
+                []
             ]
         },
         "The Ashblazing Grand Duke": {
@@ -12381,8 +12391,7 @@
             "desc": [
                 "Increases follow-up attack DMG dealt by 20%.",
                 "When the wearer uses follow-up attacks, increases the wearer's ATK by 6% every time the follow-up attack deals DMG. This effect can stack up to 8 time(s) and lasts for 3 turn(s). This effect is removed the next time the wearer uses a follow-up attack."
-            ],
-            "modifiers": []
+            ]
         },
         "Prisoner in Deep Confinement": {
             "pieces": {
@@ -12409,7 +12418,8 @@
                         "type": "AttackAddedRatio",
                         "value": 0.12
                     }
-                ]
+                ],
+                []
             ]
         },
         "Space Sealing Station": {

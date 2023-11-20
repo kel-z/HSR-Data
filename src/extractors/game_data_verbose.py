@@ -128,9 +128,9 @@ def get_relic_sets(include_icons: bool):
         relic_sets[key]["desc"] = [
             desc for desc in RELIC_SETS_JSON[set_id]["desc"] if desc
         ]
-        relic_sets[key]["modifiers"] = [
-            prop for prop in RELIC_SETS_JSON[set_id]["properties"] if prop
-        ]
+        modifiers = RELIC_SETS_JSON[set_id]["properties"]
+        if any(modifiers):
+            relic_sets[key]["modifiers"] = modifiers
 
     return relic_sets
 
