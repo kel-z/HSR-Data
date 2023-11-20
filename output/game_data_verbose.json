@@ -15013,7 +15013,7 @@
         "Kafka": {
             "rarity": 5,
             "path": "Nihility",
-            "element": "Thunder",
+            "element": "Lightning",
             "ascension": [
                 {
                     "hp": {
@@ -16300,7 +16300,7 @@
         "Arlan": {
             "rarity": 4,
             "path": "Destruction",
-            "element": "Thunder",
+            "element": "Lightning",
             "ascension": [
                 {
                     "hp": {
@@ -19150,7 +19150,7 @@
         "Serval": {
             "rarity": 4,
             "path": "Erudition",
-            "element": "Thunder",
+            "element": "Lightning",
             "ascension": [
                 {
                     "hp": {
@@ -25681,7 +25681,7 @@
         "Tingyun": {
             "rarity": 4,
             "path": "Harmony",
-            "element": "Thunder",
+            "element": "Lightning",
             "ascension": [
                 {
                     "hp": {
@@ -26863,7 +26863,7 @@
         "Jing Yuan": {
             "rarity": 5,
             "path": "Erudition",
-            "element": "Thunder",
+            "element": "Lightning",
             "ascension": [
                 {
                     "hp": {
@@ -31090,7 +31090,7 @@
         "Bailu": {
             "rarity": 5,
             "path": "Abundance",
-            "element": "Thunder",
+            "element": "Lightning",
             "ascension": [
                 {
                     "hp": {

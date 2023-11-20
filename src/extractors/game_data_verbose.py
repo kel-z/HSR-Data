@@ -165,7 +165,9 @@ def get_characters(include_icons: bool):
         characters[name] = {
             "rarity": character["rarity"],
             "path": path,
-            "element": character["element"],
+            "element": "Lightning"
+            if character["element"] == "Thunder"
+            else character["element"],
             "ascension": ascension,
             "eidolons": eidolons,
             "skills": skills,
