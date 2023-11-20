@@ -101,11 +101,10 @@ def _get_sub_affixes():
     rarities = [2, 3, 4, 5]
     res = {}
     for r in rarities:
-        curr_rarity = defaultdict(dict)
+        curr_rarity = {}
         curr_affixes = RELIC_SUB_AFFIXES_JSON[f"{r}"]["affixes"]
         for v in list(curr_affixes.values()):
-            curr_rarity[PROPERTY_TO_SUB[v["property"]]]["base"] = v["base"]
-            curr_rarity[PROPERTY_TO_SUB[v["property"]]]["step"] = v["step"]
+            curr_rarity[PROPERTY_TO_SUB[v["property"]]] = v["base"] + (v["step"] * 2)
 
         res[r] = curr_rarity
 
