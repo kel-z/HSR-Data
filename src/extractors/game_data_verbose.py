@@ -1,6 +1,6 @@
 import json
 from utils.helpers import get_path_from_avatar_base_type, get_slot_from_relic_type
-import base64
+import urllib.parse
 import os
 from collections import defaultdict
 
@@ -19,11 +19,13 @@ CHARACTER_SKILL_TREES = STAR_RAIL_RES_PATH + "/index_new/en/character_skill_tree
 CHARACTER_RANKS = STAR_RAIL_RES_PATH + "/index_new/en/character_ranks.json"
 CHARACTER_PROMOTIONS = STAR_RAIL_RES_PATH + "/index_new/en/character_promotions.json"
 
+IMG_BASE_URL = "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/"
+
 
 def get_game_data_verbose(include_icons: bool) -> dict:
     """Get light cone, relic, and character data from game files.
 
-    :param include_icons: Whether to include base64-encoded icons in the output.
+    :param include_icons: Whether to include icons the output.
     :return: A dictionary containing light cone, relic, and character data.
     """
     if not os.path.exists(INFO):
@@ -50,7 +52,7 @@ def get_game_data_verbose(include_icons: bool) -> dict:
 def get_light_cones(include_icons: bool):
     """Get light cone data from game files.
 
-    :param include_icons: Whether to include base64-encoded icons in the output.
+    :param include_icons: Whether to include icons in the output.
     :return: A dictionary containing light cone data.
     """
     with open(LIGHT_CONES, "r", encoding="utf-8") as f:
@@ -82,12 +84,9 @@ def get_light_cones(include_icons: bool):
         if any(modifiers):
             light_cones[light_cone["name"]]["ability"]["modifiers"] = modifiers
         if include_icons:
-            with open(
-                os.path.join(STAR_RAIL_RES_PATH, LIGHT_CONE_JSON[key]["preview"]),
-                "rb",
-            ) as f:
-                encoded_icon = base64.b64encode(f.read()).decode("utf-8")
-            light_cones[light_cone["name"]]["icon"] = encoded_icon
+            light_cones[light_cone["name"]]["icon"] = (
+                IMG_BASE_URL + light_cone["preview"]
+            )
 
     return light_cones
 
@@ -95,7 +94,7 @@ def get_light_cones(include_icons: bool):
 def get_relic_sets(include_icons: bool):
     """Get relic set data from game files.
 
-    :param include_icons: Whether to include base64-encoded icons in the output.
+    :param include_icons: Whether to include icons in the output.
     :return: A dictionary containing relic set data.
     """
     with open(RELICS, "r", encoding="utf-8") as f:
@@ -115,11 +114,9 @@ def get_relic_sets(include_icons: bool):
             "name": relic["name"],
         }
         if include_icons:
-            with open(os.path.join(STAR_RAIL_RES_PATH, relic["icon"]), "rb") as f:
-                encoded_icon = base64.b64encode(f.read()).decode("utf-8")
             relics[set_id]["pieces"][get_slot_from_relic_type(relic["type"])][
                 "icon"
-            ] = encoded_icon
+            ] = (IMG_BASE_URL + relic["icon"])
 
     relic_sets = {}
     for set_id in RELIC_SETS_JSON:
@@ -138,7 +135,7 @@ def get_relic_sets(include_icons: bool):
 def get_characters(include_icons: bool):
     """Get character data from game files.
 
-    :param include_icons: Whether to include base64-encoded icons in the output.
+    :param include_icons: Whether to include icons in the output.
     :return: A dictionary containing character data.
     """
     with open(CHARACTERS, "r", encoding="utf-8") as f:
@@ -175,19 +172,13 @@ def get_characters(include_icons: bool):
         }
 
         if include_icons:
-            with open(
-                os.path.join(STAR_RAIL_RES_PATH, CHARACTER_JSON[key]["preview"]),
-                "rb",
-            ) as f:
-                encoded_icon = base64.b64encode(f.read()).decode("utf-8")
-            with open(
-                f"src/data/mini_icons/{''.join([c for c in name if c.isalnum() or c == '#'])}.png",
-                "rb",
-            ) as f:
-                encoded_mini_icon = base64.b64encode(f.read()).decode("utf-8")
-
-            characters[name]["icon"] = encoded_icon
-            characters[name]["mini_icon"] = encoded_mini_icon
+            characters[name]["icon"] = IMG_BASE_URL + character["preview"]
+            characters[name]["mini_icon"] = (
+                "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/"
+                + urllib.parse.quote(
+                    f"data/mini_icons/{''.join([c for c in name if c.isalnum() or c == '#'])}.png"
+                )
+            )
 
     return characters
 
@@ -211,7 +202,7 @@ def _add_skills(traces: dict, character: dict, include_icons: bool) -> dict:
 
     :param traces: A dictionary for storing traces.
     :param character: A dictionary containing character data.
-    :param include_icons: Whether to include base64-encoded icons in the output.
+    :param include_icons: Whether to include icons in the output.
     """
     with open(CHARACTER_SKILLS, "r", encoding="utf-8") as f:
         CHARACTER_SKILLS_JSON = json.load(f)
@@ -229,9 +220,7 @@ def _add_skills(traces: dict, character: dict, include_icons: bool) -> dict:
             "params": params,
         }
         if include_icons:
-            with open(os.path.join(STAR_RAIL_RES_PATH, skill["icon"]), "rb") as f:
-                encoded_icon = base64.b64encode(f.read()).decode("utf-8")
-            traces[skill_type]["icon"] = encoded_icon
+            traces[skill_type]["icon"] = IMG_BASE_URL + skill["icon"]
 
 
 def _add_technique_trace(traces: dict, character: dict, include_icons: bool) -> dict:
@@ -239,7 +228,7 @@ def _add_technique_trace(traces: dict, character: dict, include_icons: bool) -> 
 
     :param traces: A dictionary for storing traces.
     :param character: A dictionary containing character data.
-    :param include_icons: Whether to include base64-encoded icons in the output.
+    :param include_icons: Whether to include icons in the output.
     """
     with open(CHARACTER_SKILLS, "r", encoding="utf-8") as f:
         CHARACTER_SKILLS_JSON = json.load(f)
@@ -262,9 +251,7 @@ def _add_technique_trace(traces: dict, character: dict, include_icons: bool) -> 
         "desc": desc,
     }
     if include_icons:
-        with open(os.path.join(STAR_RAIL_RES_PATH, skill["icon"]), "rb") as f:
-            encoded_icon = base64.b64encode(f.read()).decode("utf-8")
-        traces["technique"]["icon"] = encoded_icon
+        traces["technique"]["icon"] = IMG_BASE_URL + skill["icon"]
 
 
 def _add_ability_traces(traces: dict, character: dict, include_icons: bool) -> dict:
@@ -272,7 +259,7 @@ def _add_ability_traces(traces: dict, character: dict, include_icons: bool) -> d
 
     :param traces: A dictionary for storing traces.
     :param character: A dictionary containing character data.
-    :param include_icons: Whether to include base64-encoded icons in the output.
+    :param include_icons: Whether to include icons in the output.
     """
     with open(CHARACTER_SKILL_TREES, "r", encoding="utf-8") as f:
         CHARACTER_SKILL_TREES_JSON = json.load(f)
@@ -295,9 +282,7 @@ def _add_ability_traces(traces: dict, character: dict, include_icons: bool) -> d
             "desc": desc,
         }
         if include_icons:
-            with open(os.path.join(STAR_RAIL_RES_PATH, skill["icon"]), "rb") as f:
-                encoded_icon = base64.b64encode(f.read()).decode("utf-8")
-            traces[f"ability_{i+1}"]["icon"] = encoded_icon
+            traces[f"ability_{i+1}"]["icon"] = IMG_BASE_URL + skill["icon"]
 
 
 def _add_passive_traces(traces: dict, character: dict, include_icons: bool) -> dict:
@@ -305,7 +290,7 @@ def _add_passive_traces(traces: dict, character: dict, include_icons: bool) -> d
 
     :param traces: A dictionary for storing traces.
     :param character: A dictionary containing character data.
-    :param include_icons: Whether to include base64-encoded icons in the output.
+    :param include_icons: Whether to include icons in the output.
     """
     with open(CHARACTER_SKILL_TREES, "r", encoding="utf-8") as f:
         CHARACTER_SKILL_TREES_JSON = json.load(f)
@@ -318,9 +303,7 @@ def _add_passive_traces(traces: dict, character: dict, include_icons: bool) -> d
             "modifiers": skill["levels"][0]["properties"],
         }
         if include_icons:
-            with open(os.path.join(STAR_RAIL_RES_PATH, skill["icon"]), "rb") as f:
-                encoded_icon = base64.b64encode(f.read()).decode("utf-8")
-            traces[f"stat_{i+1}"]["icon"] = encoded_icon
+            traces[f"stat_{i+1}"]["icon"] = IMG_BASE_URL + skill["icon"]
 
     # need to swap order because I guessed wrong when making the scanner (I never win my 50/50s)
     if get_path_from_avatar_base_type(character["path"]) == "Erudition":
@@ -332,7 +315,7 @@ def _get_eidolons(character: dict, include_icons: bool) -> dict:
     """Get the eidolons of a character.
 
     :param character: A dictionary containing character data.
-    :param include_icons: Whether to include base64-encoded icons in the output.
+    :param include_icons: Whether to include icons in the output.
     :return: A dictionary containing the eidolons of a character.
     """
     with open(CHARACTER_RANKS, "r", encoding="utf-8") as f:
@@ -358,9 +341,7 @@ def _get_eidolons(character: dict, include_icons: bool) -> dict:
         if level_up_skills:
             res["level_up_skills"] = level_up_skills
         if include_icons:
-            with open(os.path.join(STAR_RAIL_RES_PATH, rank["icon"]), "rb") as f:
-                encoded_icon = base64.b64encode(f.read()).decode("utf-8")
-            res["icon"] = encoded_icon
+            res["icon"] = IMG_BASE_URL + rank["icon"]
         ranks.append(res)
 
     return ranks
