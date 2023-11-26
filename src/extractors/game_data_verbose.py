@@ -49,7 +49,7 @@ def get_game_data_verbose(include_icons: bool) -> dict:
     }
 
 
-def get_light_cones(include_icons: bool):
+def get_light_cones(include_icons: bool) -> dict:
     """Get light cone data from game files.
 
     :param include_icons: Whether to include icons in the output.
@@ -82,7 +82,10 @@ def get_light_cones(include_icons: bool):
         }
         modifiers = LIGHT_CONE_RANKS_JSON[light_cone["id"]]["properties"]
         if any(modifiers):
-            light_cones[light_cone["name"]]["ability"]["modifiers"] = modifiers
+            light_cones[light_cone["name"]]["ability"]["modifiers"] = [
+                [_format_modifier(modifier) for modifier in modifier_list]
+                for modifier_list in modifiers
+            ]
         if include_icons:
             light_cones[light_cone["name"]]["icon"] = (
                 IMG_BASE_URL + light_cone["preview"]
@@ -91,7 +94,7 @@ def get_light_cones(include_icons: bool):
     return light_cones
 
 
-def get_relic_sets(include_icons: bool):
+def get_relic_sets(include_icons: bool) -> dict:
     """Get relic set data from game files.
 
     :param include_icons: Whether to include icons in the output.
@@ -127,12 +130,15 @@ def get_relic_sets(include_icons: bool):
         ]
         modifiers = RELIC_SETS_JSON[set_id]["properties"]
         if any(modifiers):
-            relic_sets[key]["modifiers"] = modifiers
+            relic_sets[key]["modifiers"] = [
+                [_format_modifier(modifier) for modifier in modifier_list]
+                for modifier_list in modifiers
+            ]
 
     return relic_sets
 
 
-def get_characters(include_icons: bool):
+def get_characters(include_icons: bool) -> dict:
     """Get character data from game files.
 
     :param include_icons: Whether to include icons in the output.
@@ -195,6 +201,38 @@ def _format_name(character: dict) -> str:
         name = "Trailblazer" + path
         name += "#F" if "girl" in character["tag"] else "#M"
     return name
+
+
+def _format_modifier(modifier: dict) -> dict:
+    """Format the modifier.
+
+    :param modifier: A dictionary containing the modifier.
+    :return: The formatted modifier.
+    """
+    type_map = {
+        "DefenceAddedRatio": "def_",
+        "QuantumAddedRatio": "quantum",
+        "BreakDamageAddedRatioBase": "break",
+        "ImaginaryAddedRatio": "imaginary",
+        "FireAddedRatio": "fire",
+        "StatusProbabilityBase": "effect_hit",
+        "ThunderAddedRatio": "lightning",
+        "SpeedDelta": "spd",
+        "SpeedAddedRatio": "spd_",
+        "IceAddedRatio": "ice",
+        "StatusResistanceBase": "effect_res",
+        "HPAddedRatio": "hp_",
+        "AttackAddedRatio": "atk_",
+        "CriticalChanceBase": "crit_rate",
+        "WindAddedRatio": "wind",
+        "PhysicalAddedRatio": "physical",
+        "CriticalDamageBase": "crit_dmg",
+        "HealRatioBase": "heal",
+        "SPRatioBase": "energy",
+        "AllDamageTypeAddedRatio": "all_dmg",
+    }
+    modifier["type"] = type_map[modifier["type"]]
+    return modifier
 
 
 def _add_skills(traces: dict, character: dict, include_icons: bool) -> dict:
@@ -300,7 +338,10 @@ def _add_passive_traces(traces: dict, character: dict, include_icons: bool) -> d
         traces[f"stat_{i+1}"] = {
             "name": skill["name"],
             "desc": _parse_property(skill["levels"][0]["properties"][0]),
-            "modifiers": skill["levels"][0]["properties"],
+            "modifiers": [
+                _format_modifier(modifier)
+                for modifier in skill["levels"][0]["properties"]
+            ],
         }
         if include_icons:
             traces[f"stat_{i+1}"]["icon"] = IMG_BASE_URL + skill["icon"]
