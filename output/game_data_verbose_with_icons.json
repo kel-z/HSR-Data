@@ -13460,6 +13460,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1001.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1001.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/March7th.png"
         },
         "Dan Heng": {
@@ -14062,6 +14063,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1002.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1002.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/DanHeng.png"
         },
         "Himeko": {
@@ -14664,6 +14666,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1003.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1003.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Himeko.png"
         },
         "Welt": {
@@ -15281,6 +15284,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1004.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1004.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Welt.png"
         },
         "Kafka": {
@@ -15928,6 +15932,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1005.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1005.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Kafka.png"
         },
         "Silver Wolf": {
@@ -16620,6 +16625,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1006.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1006.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/SilverWolf.png"
         },
         "Arlan": {
@@ -17222,6 +17228,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1008.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1008.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Arlan.png"
         },
         "Asta": {
@@ -17809,6 +17816,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1009.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1009.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Asta.png"
         },
         "Herta": {
@@ -18396,6 +18404,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1013.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1013.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Herta.png"
         },
         "Bronya": {
@@ -19013,6 +19022,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1101.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1101.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Bronya.png"
         },
         "Seele": {
@@ -19600,6 +19610,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1102.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1102.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Seele.png"
         },
         "Serval": {
@@ -20217,6 +20228,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1103.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1103.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Serval.png"
         },
         "Gepard": {
@@ -20834,6 +20846,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1104.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1104.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Gepard.png"
         },
         "Natasha": {
@@ -21481,6 +21494,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1105.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1105.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Natasha.png"
         },
         "Pela": {
@@ -22083,6 +22097,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1106.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1106.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Pela.png"
         },
         "Clara": {
@@ -22700,6 +22715,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1107.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1107.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Clara.png"
         },
         "Sampo": {
@@ -23302,6 +23318,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1108.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1108.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Sampo.png"
         },
         "Hook": {
@@ -23904,6 +23921,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1109.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1109.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Hook.png"
         },
         "Lynx": {
@@ -24596,6 +24614,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1110.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1110.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Lynx.png"
         },
         "Luka": {
@@ -25213,6 +25232,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1111.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1111.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Luka.png"
         },
         "Topaz & Numby": {
@@ -25830,6 +25850,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1112.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1112.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/TopazNumby.png"
         },
         "Qingque": {
@@ -26417,6 +26438,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1201.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1201.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Qingque.png"
         },
         "Tingyun": {
@@ -27034,6 +27056,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1202.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1202.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Tingyun.png"
         },
         "Luocha": {
@@ -27651,6 +27674,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1203.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1203.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Luocha.png"
         },
         "Jing Yuan": {
@@ -28238,6 +28262,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1204.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1204.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/JingYuan.png"
         },
         "Blade": {
@@ -28915,6 +28940,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1205.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1205.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Blade.png"
         },
         "Sushang": {
@@ -29532,6 +29558,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1206.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1206.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Sushang.png"
         },
         "Yukong": {
@@ -30149,6 +30176,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1207.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1207.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Yukong.png"
         },
         "Fu Xuan": {
@@ -30766,6 +30794,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1208.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1208.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/FuXuan.png"
         },
         "Yanqing": {
@@ -31428,6 +31457,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1209.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1209.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Yanqing.png"
         },
         "Guinaifen": {
@@ -32060,6 +32090,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1210.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1210.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Guinaifen.png"
         },
         "Bailu": {
@@ -32722,6 +32753,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1211.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1211.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Bailu.png"
         },
         "Jingliu": {
@@ -33339,6 +33371,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1212.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1212.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Jingliu.png"
         },
         "Dan Heng \u2022 Imbibitor Lunae": {
@@ -33941,6 +33974,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1213.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1213.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/DanHengImbibitorLunae.png"
         },
         "Hanya": {
@@ -34543,6 +34577,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1215.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1215.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Hanya.png"
         },
         "Huohuo": {
@@ -35205,6 +35240,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1217.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1217.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Huohuo.png"
         },
         "Argenti": {
@@ -35792,6 +35828,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1302.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1302.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Argenti.png"
         },
         "TrailblazerDestruction#M": {
@@ -36409,6 +36446,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8001.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/8001.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/TrailblazerDestruction%23M.png"
         },
         "TrailblazerDestruction#F": {
@@ -37026,6 +37064,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8002.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/8002.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/TrailblazerDestruction%23F.png"
         },
         "TrailblazerPreservation#M": {
@@ -37643,6 +37682,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8003.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/8003.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/TrailblazerPreservation%23M.png"
         },
         "TrailblazerPreservation#F": {
@@ -38260,6 +38300,7 @@
                 }
             },
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8004.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/8004.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/TrailblazerPreservation%23F.png"
         }
     }

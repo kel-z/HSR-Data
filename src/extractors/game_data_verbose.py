@@ -179,6 +179,7 @@ def get_characters(include_icons: bool) -> dict:
 
         if include_icons:
             characters[name]["icon"] = IMG_BASE_URL + character["preview"]
+            characters[name]["splash"] = IMG_BASE_URL + character["portrait"]
             characters[name]["mini_icon"] = (
                 "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/"
                 + urllib.parse.quote(
