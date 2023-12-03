@@ -126,7 +126,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20000.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20000.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20000.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20000.png"
         },
         "Cornucopia": {
             "rarity": 3,
@@ -253,7 +255,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20001.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20001.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20001.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20001.png"
         },
         "Collapsing Sky": {
             "rarity": 3,
@@ -380,7 +384,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20002.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20002.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20002.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20002.png"
         },
         "Amber": {
             "rarity": 3,
@@ -544,7 +550,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20003.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20003.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20003.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20003.png"
         },
         "Void": {
             "rarity": 3,
@@ -671,7 +679,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20004.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20004.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20004.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20004.png"
         },
         "Chorus": {
             "rarity": 3,
@@ -798,7 +808,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20005.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20005.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20005.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20005.png"
         },
         "Data Bank": {
             "rarity": 3,
@@ -925,7 +937,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20006.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20006.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20006.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20006.png"
         },
         "Darting Arrow": {
             "rarity": 3,
@@ -1052,7 +1066,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20007.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20007.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20007.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20007.png"
         },
         "Fine Fruit": {
             "rarity": 3,
@@ -1179,7 +1195,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20008.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20008.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20008.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20008.png"
         },
         "Shattered Home": {
             "rarity": 3,
@@ -1306,7 +1324,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20009.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20009.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20009.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20009.png"
         },
         "Defense": {
             "rarity": 3,
@@ -1433,7 +1453,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20010.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20010.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20010.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20010.png"
         },
         "Loop": {
             "rarity": 3,
@@ -1560,7 +1582,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20011.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20011.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20011.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20011.png"
         },
         "Meshing Cogs": {
             "rarity": 3,
@@ -1687,7 +1711,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20012.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20012.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20012.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20012.png"
         },
         "Passkey": {
             "rarity": 3,
@@ -1814,7 +1840,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20013.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20013.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20013.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20013.png"
         },
         "Adversarial": {
             "rarity": 3,
@@ -1941,7 +1969,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20014.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20014.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20014.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20014.png"
         },
         "Multiplication": {
             "rarity": 3,
@@ -2068,7 +2098,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20015.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20015.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20015.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20015.png"
         },
         "Mutual Demise": {
             "rarity": 3,
@@ -2195,7 +2227,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20016.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20016.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20016.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20016.png"
         },
         "Pioneering": {
             "rarity": 3,
@@ -2322,7 +2356,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20017.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20017.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20017.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20017.png"
         },
         "Hidden Shadow": {
             "rarity": 3,
@@ -2449,7 +2485,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20018.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20018.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20018.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20018.png"
         },
         "Mediation": {
             "rarity": 3,
@@ -2576,7 +2614,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20019.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20019.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20019.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20019.png"
         },
         "Sagacity": {
             "rarity": 3,
@@ -2703,7 +2743,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20020.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/20020.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/20020.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20020.png"
         },
         "Post-Op Conversation": {
             "rarity": 4,
@@ -2867,7 +2909,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21000.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21000.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21000.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21000.png"
         },
         "Good Night and Sleep Well": {
             "rarity": 4,
@@ -2994,7 +3038,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21001.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21001.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21001.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21001.png"
         },
         "Day One of My New Life": {
             "rarity": 4,
@@ -3158,7 +3204,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21002.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21002.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21002.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21002.png"
         },
         "Only Silence Remains": {
             "rarity": 4,
@@ -3322,7 +3370,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21003.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21003.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21003.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21003.png"
         },
         "Memories of the Past": {
             "rarity": 4,
@@ -3486,7 +3536,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21004.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21004.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21004.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21004.png"
         },
         "The Moles Welcome You": {
             "rarity": 4,
@@ -3613,7 +3665,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21005.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21005.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21005.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21005.png"
         },
         "The Birth of the Self": {
             "rarity": 4,
@@ -3745,7 +3799,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21006.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21006.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21006.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21006.png"
         },
         "Shared Feeling": {
             "rarity": 4,
@@ -3909,7 +3965,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21007.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21007.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21007.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21007.png"
         },
         "Eyes of the Prey": {
             "rarity": 4,
@@ -4073,7 +4131,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21008.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21008.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21008.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21008.png"
         },
         "Landau's Choice": {
             "rarity": 4,
@@ -4200,7 +4260,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21009.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21009.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21009.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21009.png"
         },
         "Swordplay": {
             "rarity": 4,
@@ -4327,7 +4389,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21010.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21010.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21010.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21010.png"
         },
         "Planetary Rendezvous": {
             "rarity": 4,
@@ -4454,7 +4518,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21011.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21011.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21011.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21011.png"
         },
         "A Secret Vow": {
             "rarity": 4,
@@ -4618,7 +4684,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21012.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21012.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21012.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21012.png"
         },
         "Make the World Clamor": {
             "rarity": 4,
@@ -4750,7 +4818,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21013.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21013.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21013.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21013.png"
         },
         "Perfect Timing": {
             "rarity": 4,
@@ -4919,7 +4989,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21014.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21014.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21014.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21014.png"
         },
         "Resolution Shines As Pearls of Sweat": {
             "rarity": 4,
@@ -5051,7 +5123,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21015.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21015.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21015.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21015.png"
         },
         "Trend of the Universal Market": {
             "rarity": 4,
@@ -5220,7 +5294,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21016.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21016.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21016.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21016.png"
         },
         "Subscribe for More!": {
             "rarity": 4,
@@ -5352,7 +5428,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21017.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21017.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21017.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21017.png"
         },
         "Dance! Dance! Dance!": {
             "rarity": 4,
@@ -5479,7 +5557,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21018.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21018.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21018.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21018.png"
         },
         "Under the Blue Sky": {
             "rarity": 4,
@@ -5643,7 +5723,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21019.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21019.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21019.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21019.png"
         },
         "Geniuses' Repose": {
             "rarity": 4,
@@ -5807,7 +5889,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21020.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21020.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21020.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21020.png"
         },
         "Quid Pro Quo": {
             "rarity": 4,
@@ -5934,7 +6018,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21021.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21021.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21021.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21021.png"
         },
         "Fermata": {
             "rarity": 4,
@@ -6098,7 +6184,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21022.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21022.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21022.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21022.png"
         },
         "We Are Wildfire": {
             "rarity": 4,
@@ -6230,7 +6318,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21023.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21023.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21023.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21023.png"
         },
         "River Flows in Spring": {
             "rarity": 4,
@@ -6362,7 +6452,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21024.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21024.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21024.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21024.png"
         },
         "Past and Future": {
             "rarity": 4,
@@ -6489,7 +6581,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21025.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21025.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21025.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21025.png"
         },
         "Woof! Walk Time!": {
             "rarity": 4,
@@ -6653,7 +6747,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21026.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21026.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21026.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21026.png"
         },
         "The Seriousness of Breakfast": {
             "rarity": 4,
@@ -6817,7 +6913,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21027.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21027.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21027.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21027.png"
         },
         "Warmth Shortens Cold Nights": {
             "rarity": 4,
@@ -6981,7 +7079,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21028.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21028.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21028.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21028.png"
         },
         "We Will Meet Again": {
             "rarity": 4,
@@ -7108,7 +7208,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21029.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21029.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21029.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21029.png"
         },
         "This Is Me!": {
             "rarity": 4,
@@ -7272,7 +7374,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21030.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21030.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21030.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21030.png"
         },
         "Return to Darkness": {
             "rarity": 4,
@@ -7436,7 +7540,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21031.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21031.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21031.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21031.png"
         },
         "Carve the Moon, Weave the Clouds": {
             "rarity": 4,
@@ -7573,7 +7679,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21032.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21032.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21032.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21032.png"
         },
         "Nowhere to Run": {
             "rarity": 4,
@@ -7737,7 +7845,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21033.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21033.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21033.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21033.png"
         },
         "Today Is Another Peaceful Day": {
             "rarity": 4,
@@ -7864,7 +7974,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21034.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21034.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21034.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21034.png"
         },
         "Before the Tutorial Mission Starts": {
             "rarity": 4,
@@ -8028,7 +8140,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/22000.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/22000.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/22000.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/22000.png"
         },
         "Hey, Over Here": {
             "rarity": 4,
@@ -8192,7 +8306,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/22001.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/22001.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/22001.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/22001.png"
         },
         "Night on the Milky Way": {
             "rarity": 5,
@@ -8324,7 +8440,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23000.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23000.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23000.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23000.png"
         },
         "In the Night": {
             "rarity": 5,
@@ -8493,7 +8611,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23001.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23001.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23001.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23001.png"
         },
         "Something Irreplaceable": {
             "rarity": 5,
@@ -8662,7 +8782,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23002.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23002.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23002.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23002.png"
         },
         "But the Battle Isn't Over": {
             "rarity": 5,
@@ -8826,7 +8948,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23003.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23003.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23003.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23003.png"
         },
         "In the Name of the World": {
             "rarity": 5,
@@ -8963,7 +9087,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23004.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23004.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23004.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23004.png"
         },
         "Moment of Victory": {
             "rarity": 5,
@@ -9152,7 +9278,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23005.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23005.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23005.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23005.png"
         },
         "Patience Is All You Need": {
             "rarity": 5,
@@ -9321,7 +9449,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23006.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23006.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23006.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23006.png"
         },
         "Incessant Rain": {
             "rarity": 5,
@@ -9490,7 +9620,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23007.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23007.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23007.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23007.png"
         },
         "Echoes of the Coffin": {
             "rarity": 5,
@@ -9659,7 +9791,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23008.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23008.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23008.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23008.png"
         },
         "The Unreachable Side": {
             "rarity": 5,
@@ -9848,7 +9982,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23009.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23009.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23009.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23009.png"
         },
         "Before Dawn": {
             "rarity": 5,
@@ -10017,7 +10153,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23010.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23010.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23010.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23010.png"
         },
         "She Already Shut Her Eyes": {
             "rarity": 5,
@@ -10211,7 +10349,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23011.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23011.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23011.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23011.png"
         },
         "Sleep Like the Dead": {
             "rarity": 5,
@@ -10375,7 +10515,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23012.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23012.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23012.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23012.png"
         },
         "Time Waits for No One": {
             "rarity": 5,
@@ -10564,7 +10706,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23013.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23013.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23013.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23013.png"
         },
         "I Shall Be My Own Sword": {
             "rarity": 5,
@@ -10733,7 +10877,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23014.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23014.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23014.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23014.png"
         },
         "Brighter Than the Sun": {
             "rarity": 5,
@@ -10902,7 +11048,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23015.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23015.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23015.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23015.png"
         },
         "Worrisome, Blissful": {
             "rarity": 5,
@@ -11071,7 +11219,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23016.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23016.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23016.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23016.png"
         },
         "Night of Fright": {
             "rarity": 5,
@@ -11240,7 +11390,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23017.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23017.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23017.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23017.png"
         },
         "An Instant Before A Gaze": {
             "rarity": 5,
@@ -11404,7 +11556,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23018.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23018.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23018.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23018.png"
         },
         "On the Fall of an Aeon": {
             "rarity": 5,
@@ -11536,7 +11690,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/24000.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/24000.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/24000.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/24000.png"
         },
         "Cruising in the Stellar Sea": {
             "rarity": 5,
@@ -11705,7 +11861,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/24001.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/24001.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/24001.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/24001.png"
         },
         "Texture of Memories": {
             "rarity": 5,
@@ -11874,7 +12032,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/24002.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/24002.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/24002.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/24002.png"
         },
         "Solitary Healing": {
             "rarity": 5,
@@ -12043,7 +12203,9 @@
                     ]
                 ]
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/24003.png"
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/24003.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/24003.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/24003.png"
         }
     },
     "relic_sets": {

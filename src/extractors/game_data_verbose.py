@@ -90,6 +90,12 @@ def get_light_cones(include_icons: bool) -> dict:
             light_cones[light_cone["name"]]["icon"] = (
                 IMG_BASE_URL + light_cone["preview"]
             )
+            light_cones[light_cone["name"]]["image"] = (
+                IMG_BASE_URL + light_cone["portrait"]
+            )
+            light_cones[light_cone["name"]]["mini_icon"] = (
+                IMG_BASE_URL + light_cone["icon"]
+            )
 
     return light_cones
 
