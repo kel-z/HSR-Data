@@ -353,11 +353,6 @@ def _add_passive_traces(traces: dict, character: dict, include_icons: bool) -> d
         if include_icons:
             traces[f"stat_{i+1}"]["icon"] = IMG_BASE_URL + skill["icon"]
 
-    # need to swap order because I guessed wrong when making the scanner (I never win my 50/50s)
-    if get_path_from_avatar_base_type(character["path"]) == "Erudition":
-        traces["stat_3"], traces["stat_4"] = traces["stat_4"], traces["stat_3"]
-        traces["stat_6"], traces["stat_7"] = traces["stat_7"], traces["stat_6"]
-
 
 def _get_eidolons(character: dict, include_icons: bool) -> dict:
     """Get the eidolons of a character.

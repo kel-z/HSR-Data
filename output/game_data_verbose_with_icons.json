@@ -14739,17 +14739,6 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
                 },
                 "stat_3": {
-                    "name": "Effect RES Boost",
-                    "desc": "Effect RES resistance increases by 4.0%",
-                    "modifiers": [
-                        {
-                            "type": "effect_res",
-                            "value": 0.04
-                        }
-                    ],
-                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
-                },
-                "stat_4": {
                     "name": "DMG Boost: Fire",
                     "desc": "Fire DMG increases by 3.2%",
                     "modifiers": [
@@ -14759,6 +14748,17 @@
                         }
                     ],
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconFireAddedRatio.png"
+                },
+                "stat_4": {
+                    "name": "Effect RES Boost",
+                    "desc": "Effect RES resistance increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "effect_res",
+                            "value": 0.04
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
                 },
                 "stat_5": {
                     "name": "DMG Boost: Fire",
@@ -14772,17 +14772,6 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconFireAddedRatio.png"
                 },
                 "stat_6": {
-                    "name": "DMG Boost: Fire",
-                    "desc": "Fire DMG increases by 4.8%",
-                    "modifiers": [
-                        {
-                            "type": "fire",
-                            "value": 0.048
-                        }
-                    ],
-                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconFireAddedRatio.png"
-                },
-                "stat_7": {
                     "name": "ATK Boost",
                     "desc": "ATK increases by 6.0%",
                     "modifiers": [
@@ -14792,6 +14781,17 @@
                         }
                     ],
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
+                },
+                "stat_7": {
+                    "name": "DMG Boost: Fire",
+                    "desc": "Fire DMG increases by 4.8%",
+                    "modifiers": [
+                        {
+                            "type": "fire",
+                            "value": 0.048
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconFireAddedRatio.png"
                 },
                 "stat_8": {
                     "name": "Effect RES Boost",
@@ -18477,17 +18477,6 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconDefence.png"
                 },
                 "stat_3": {
-                    "name": "CRIT Rate Boost",
-                    "desc": "CRIT Rate increases by 2.7%",
-                    "modifiers": [
-                        {
-                            "type": "crit_rate",
-                            "value": 0.027
-                        }
-                    ],
-                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconCriticalChance.png"
-                },
-                "stat_4": {
                     "name": "DMG Boost: Ice",
                     "desc": "Ice DMG increases by 3.2%",
                     "modifiers": [
@@ -18497,6 +18486,17 @@
                         }
                     ],
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconIceAddedRatio.png"
+                },
+                "stat_4": {
+                    "name": "CRIT Rate Boost",
+                    "desc": "CRIT Rate increases by 2.7%",
+                    "modifiers": [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.027
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconCriticalChance.png"
                 },
                 "stat_5": {
                     "name": "DMG Boost: Ice",
@@ -18510,17 +18510,6 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconIceAddedRatio.png"
                 },
                 "stat_6": {
-                    "name": "DMG Boost: Ice",
-                    "desc": "Ice DMG increases by 4.8%",
-                    "modifiers": [
-                        {
-                            "type": "ice",
-                            "value": 0.048
-                        }
-                    ],
-                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconIceAddedRatio.png"
-                },
-                "stat_7": {
                     "name": "DEF Boost",
                     "desc": "DEF increases by 7.5%",
                     "modifiers": [
@@ -18530,6 +18519,17 @@
                         }
                     ],
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconDefence.png"
+                },
+                "stat_7": {
+                    "name": "DMG Boost: Ice",
+                    "desc": "Ice DMG increases by 4.8%",
+                    "modifiers": [
+                        {
+                            "type": "ice",
+                            "value": 0.048
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconIceAddedRatio.png"
                 },
                 "stat_8": {
                     "name": "CRIT Rate Boost",
@@ -20301,17 +20301,6 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusProbability.png"
                 },
                 "stat_3": {
-                    "name": "Effect RES Boost",
-                    "desc": "Effect RES resistance increases by 4.0%",
-                    "modifiers": [
-                        {
-                            "type": "effect_res",
-                            "value": 0.04
-                        }
-                    ],
-                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
-                },
-                "stat_4": {
                     "name": "CRIT Rate Boost",
                     "desc": "CRIT Rate increases by 2.7%",
                     "modifiers": [
@@ -20321,6 +20310,17 @@
                         }
                     ],
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconCriticalChance.png"
+                },
+                "stat_4": {
+                    "name": "Effect RES Boost",
+                    "desc": "Effect RES resistance increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "effect_res",
+                            "value": 0.04
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
                 },
                 "stat_5": {
                     "name": "CRIT Rate Boost",
@@ -20334,17 +20334,6 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconCriticalChance.png"
                 },
                 "stat_6": {
-                    "name": "CRIT Rate Boost",
-                    "desc": "CRIT Rate increases by 4.0%",
-                    "modifiers": [
-                        {
-                            "type": "crit_rate",
-                            "value": 0.04
-                        }
-                    ],
-                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconCriticalChance.png"
-                },
-                "stat_7": {
                     "name": "Effect Hit Rate Boost",
                     "desc": "Effect Hit Rate increases by 6.0%",
                     "modifiers": [
@@ -20354,6 +20343,17 @@
                         }
                     ],
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusProbability.png"
+                },
+                "stat_7": {
+                    "name": "CRIT Rate Boost",
+                    "desc": "CRIT Rate increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.04
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconCriticalChance.png"
                 },
                 "stat_8": {
                     "name": "Effect RES Boost",
@@ -26511,17 +26511,6 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconQuantumAddedRatio.png"
                 },
                 "stat_3": {
-                    "name": "DEF Boost",
-                    "desc": "DEF increases by 5.0%",
-                    "modifiers": [
-                        {
-                            "type": "def_",
-                            "value": 0.05
-                        }
-                    ],
-                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconDefence.png"
-                },
-                "stat_4": {
                     "name": "ATK Boost",
                     "desc": "ATK increases by 4.0%",
                     "modifiers": [
@@ -26531,6 +26520,17 @@
                         }
                     ],
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
+                },
+                "stat_4": {
+                    "name": "DEF Boost",
+                    "desc": "DEF increases by 5.0%",
+                    "modifiers": [
+                        {
+                            "type": "def_",
+                            "value": 0.05
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconDefence.png"
                 },
                 "stat_5": {
                     "name": "ATK Boost",
@@ -26544,17 +26544,6 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
                 },
                 "stat_6": {
-                    "name": "ATK Boost",
-                    "desc": "ATK increases by 6.0%",
-                    "modifiers": [
-                        {
-                            "type": "atk_",
-                            "value": 0.06
-                        }
-                    ],
-                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
-                },
-                "stat_7": {
                     "name": "DMG Boost: Quantum",
                     "desc": "Quantum DMG increases by 4.8%",
                     "modifiers": [
@@ -26564,6 +26553,17 @@
                         }
                     ],
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconQuantumAddedRatio.png"
+                },
+                "stat_7": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.06
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
                 },
                 "stat_8": {
                     "name": "DEF Boost",
@@ -28335,17 +28335,6 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconCriticalChance.png"
                 },
                 "stat_3": {
-                    "name": "DEF Boost",
-                    "desc": "DEF increases by 5.0%",
-                    "modifiers": [
-                        {
-                            "type": "def_",
-                            "value": 0.05
-                        }
-                    ],
-                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconDefence.png"
-                },
-                "stat_4": {
                     "name": "ATK Boost",
                     "desc": "ATK increases by 4.0%",
                     "modifiers": [
@@ -28355,6 +28344,17 @@
                         }
                     ],
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
+                },
+                "stat_4": {
+                    "name": "DEF Boost",
+                    "desc": "DEF increases by 5.0%",
+                    "modifiers": [
+                        {
+                            "type": "def_",
+                            "value": 0.05
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconDefence.png"
                 },
                 "stat_5": {
                     "name": "ATK Boost",
@@ -28368,17 +28368,6 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
                 },
                 "stat_6": {
-                    "name": "ATK Boost",
-                    "desc": "ATK increases by 6.0%",
-                    "modifiers": [
-                        {
-                            "type": "atk_",
-                            "value": 0.06
-                        }
-                    ],
-                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
-                },
-                "stat_7": {
                     "name": "CRIT Rate Boost",
                     "desc": "CRIT Rate increases by 4.0%",
                     "modifiers": [
@@ -28388,6 +28377,17 @@
                         }
                     ],
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconCriticalChance.png"
+                },
+                "stat_7": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.06
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
                 },
                 "stat_8": {
                     "name": "DEF Boost",
@@ -35901,17 +35901,6 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconPhysicalAddedRatio.png"
                 },
                 "stat_3": {
-                    "name": "HP Boost",
-                    "desc": "HP increases by 4.0%",
-                    "modifiers": [
-                        {
-                            "type": "hp_",
-                            "value": 0.04
-                        }
-                    ],
-                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconMaxHP.png"
-                },
-                "stat_4": {
                     "name": "ATK Boost",
                     "desc": "ATK increases by 4.0%",
                     "modifiers": [
@@ -35921,6 +35910,17 @@
                         }
                     ],
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
+                },
+                "stat_4": {
+                    "name": "HP Boost",
+                    "desc": "HP increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "hp_",
+                            "value": 0.04
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconMaxHP.png"
                 },
                 "stat_5": {
                     "name": "ATK Boost",
@@ -35934,17 +35934,6 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
                 },
                 "stat_6": {
-                    "name": "ATK Boost",
-                    "desc": "ATK increases by 6.0%",
-                    "modifiers": [
-                        {
-                            "type": "atk_",
-                            "value": 0.06
-                        }
-                    ],
-                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
-                },
-                "stat_7": {
                     "name": "DMG Boost: Physical",
                     "desc": "Physical DMG increases by 4.8%",
                     "modifiers": [
@@ -35954,6 +35943,17 @@
                         }
                     ],
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconPhysicalAddedRatio.png"
+                },
+                "stat_7": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.06
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
                 },
                 "stat_8": {
                     "name": "HP Boost",

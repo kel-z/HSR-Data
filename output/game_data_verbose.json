@@ -14338,22 +14338,22 @@
                     ]
                 },
                 "stat_3": {
-                    "name": "Effect RES Boost",
-                    "desc": "Effect RES resistance increases by 4.0%",
-                    "modifiers": [
-                        {
-                            "type": "effect_res",
-                            "value": 0.04
-                        }
-                    ]
-                },
-                "stat_4": {
                     "name": "DMG Boost: Fire",
                     "desc": "Fire DMG increases by 3.2%",
                     "modifiers": [
                         {
                             "type": "fire",
                             "value": 0.032
+                        }
+                    ]
+                },
+                "stat_4": {
+                    "name": "Effect RES Boost",
+                    "desc": "Effect RES resistance increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "effect_res",
+                            "value": 0.04
                         }
                     ]
                 },
@@ -14368,22 +14368,22 @@
                     ]
                 },
                 "stat_6": {
-                    "name": "DMG Boost: Fire",
-                    "desc": "Fire DMG increases by 4.8%",
-                    "modifiers": [
-                        {
-                            "type": "fire",
-                            "value": 0.048
-                        }
-                    ]
-                },
-                "stat_7": {
                     "name": "ATK Boost",
                     "desc": "ATK increases by 6.0%",
                     "modifiers": [
                         {
                             "type": "atk_",
                             "value": 0.06
+                        }
+                    ]
+                },
+                "stat_7": {
+                    "name": "DMG Boost: Fire",
+                    "desc": "Fire DMG increases by 4.8%",
+                    "modifiers": [
+                        {
+                            "type": "fire",
+                            "value": 0.048
                         }
                     ]
                 },
@@ -17914,22 +17914,22 @@
                     ]
                 },
                 "stat_3": {
-                    "name": "CRIT Rate Boost",
-                    "desc": "CRIT Rate increases by 2.7%",
-                    "modifiers": [
-                        {
-                            "type": "crit_rate",
-                            "value": 0.027
-                        }
-                    ]
-                },
-                "stat_4": {
                     "name": "DMG Boost: Ice",
                     "desc": "Ice DMG increases by 3.2%",
                     "modifiers": [
                         {
                             "type": "ice",
                             "value": 0.032
+                        }
+                    ]
+                },
+                "stat_4": {
+                    "name": "CRIT Rate Boost",
+                    "desc": "CRIT Rate increases by 2.7%",
+                    "modifiers": [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.027
                         }
                     ]
                 },
@@ -17944,22 +17944,22 @@
                     ]
                 },
                 "stat_6": {
-                    "name": "DMG Boost: Ice",
-                    "desc": "Ice DMG increases by 4.8%",
-                    "modifiers": [
-                        {
-                            "type": "ice",
-                            "value": 0.048
-                        }
-                    ]
-                },
-                "stat_7": {
                     "name": "DEF Boost",
                     "desc": "DEF increases by 7.5%",
                     "modifiers": [
                         {
                             "type": "def_",
                             "value": 0.075
+                        }
+                    ]
+                },
+                "stat_7": {
+                    "name": "DMG Boost: Ice",
+                    "desc": "Ice DMG increases by 4.8%",
+                    "modifiers": [
+                        {
+                            "type": "ice",
+                            "value": 0.048
                         }
                     ]
                 },
@@ -19657,22 +19657,22 @@
                     ]
                 },
                 "stat_3": {
-                    "name": "Effect RES Boost",
-                    "desc": "Effect RES resistance increases by 4.0%",
-                    "modifiers": [
-                        {
-                            "type": "effect_res",
-                            "value": 0.04
-                        }
-                    ]
-                },
-                "stat_4": {
                     "name": "CRIT Rate Boost",
                     "desc": "CRIT Rate increases by 2.7%",
                     "modifiers": [
                         {
                             "type": "crit_rate",
                             "value": 0.027
+                        }
+                    ]
+                },
+                "stat_4": {
+                    "name": "Effect RES Boost",
+                    "desc": "Effect RES resistance increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "effect_res",
+                            "value": 0.04
                         }
                     ]
                 },
@@ -19687,22 +19687,22 @@
                     ]
                 },
                 "stat_6": {
-                    "name": "CRIT Rate Boost",
-                    "desc": "CRIT Rate increases by 4.0%",
-                    "modifiers": [
-                        {
-                            "type": "crit_rate",
-                            "value": 0.04
-                        }
-                    ]
-                },
-                "stat_7": {
                     "name": "Effect Hit Rate Boost",
                     "desc": "Effect Hit Rate increases by 6.0%",
                     "modifiers": [
                         {
                             "type": "effect_hit",
                             "value": 0.06
+                        }
+                    ]
+                },
+                "stat_7": {
+                    "name": "CRIT Rate Boost",
+                    "desc": "CRIT Rate increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.04
                         }
                     ]
                 },
@@ -25597,22 +25597,22 @@
                     ]
                 },
                 "stat_3": {
-                    "name": "DEF Boost",
-                    "desc": "DEF increases by 5.0%",
-                    "modifiers": [
-                        {
-                            "type": "def_",
-                            "value": 0.05
-                        }
-                    ]
-                },
-                "stat_4": {
                     "name": "ATK Boost",
                     "desc": "ATK increases by 4.0%",
                     "modifiers": [
                         {
                             "type": "atk_",
                             "value": 0.04
+                        }
+                    ]
+                },
+                "stat_4": {
+                    "name": "DEF Boost",
+                    "desc": "DEF increases by 5.0%",
+                    "modifiers": [
+                        {
+                            "type": "def_",
+                            "value": 0.05
                         }
                     ]
                 },
@@ -25627,22 +25627,22 @@
                     ]
                 },
                 "stat_6": {
-                    "name": "ATK Boost",
-                    "desc": "ATK increases by 6.0%",
-                    "modifiers": [
-                        {
-                            "type": "atk_",
-                            "value": 0.06
-                        }
-                    ]
-                },
-                "stat_7": {
                     "name": "DMG Boost: Quantum",
                     "desc": "Quantum DMG increases by 4.8%",
                     "modifiers": [
                         {
                             "type": "quantum",
                             "value": 0.048
+                        }
+                    ]
+                },
+                "stat_7": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.06
                         }
                     ]
                 },
@@ -27340,22 +27340,22 @@
                     ]
                 },
                 "stat_3": {
-                    "name": "DEF Boost",
-                    "desc": "DEF increases by 5.0%",
-                    "modifiers": [
-                        {
-                            "type": "def_",
-                            "value": 0.05
-                        }
-                    ]
-                },
-                "stat_4": {
                     "name": "ATK Boost",
                     "desc": "ATK increases by 4.0%",
                     "modifiers": [
                         {
                             "type": "atk_",
                             "value": 0.04
+                        }
+                    ]
+                },
+                "stat_4": {
+                    "name": "DEF Boost",
+                    "desc": "DEF increases by 5.0%",
+                    "modifiers": [
+                        {
+                            "type": "def_",
+                            "value": 0.05
                         }
                     ]
                 },
@@ -27370,22 +27370,22 @@
                     ]
                 },
                 "stat_6": {
-                    "name": "ATK Boost",
-                    "desc": "ATK increases by 6.0%",
-                    "modifiers": [
-                        {
-                            "type": "atk_",
-                            "value": 0.06
-                        }
-                    ]
-                },
-                "stat_7": {
                     "name": "CRIT Rate Boost",
                     "desc": "CRIT Rate increases by 4.0%",
                     "modifiers": [
                         {
                             "type": "crit_rate",
                             "value": 0.04
+                        }
+                    ]
+                },
+                "stat_7": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.06
                         }
                     ]
                 },
@@ -34582,21 +34582,21 @@
                     ]
                 },
                 "stat_3": {
-                    "name": "HP Boost",
-                    "desc": "HP increases by 4.0%",
-                    "modifiers": [
-                        {
-                            "type": "hp_",
-                            "value": 0.04
-                        }
-                    ]
-                },
-                "stat_4": {
                     "name": "ATK Boost",
                     "desc": "ATK increases by 4.0%",
                     "modifiers": [
                         {
                             "type": "atk_",
+                            "value": 0.04
+                        }
+                    ]
+                },
+                "stat_4": {
+                    "name": "HP Boost",
+                    "desc": "HP increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "hp_",
                             "value": 0.04
                         }
                     ]
@@ -34612,22 +34612,22 @@
                     ]
                 },
                 "stat_6": {
-                    "name": "ATK Boost",
-                    "desc": "ATK increases by 6.0%",
-                    "modifiers": [
-                        {
-                            "type": "atk_",
-                            "value": 0.06
-                        }
-                    ]
-                },
-                "stat_7": {
                     "name": "DMG Boost: Physical",
                     "desc": "Physical DMG increases by 4.8%",
                     "modifiers": [
                         {
                             "type": "physical",
                             "value": 0.048
+                        }
+                    ]
+                },
+                "stat_7": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.06
                         }
                     ]
                 },
