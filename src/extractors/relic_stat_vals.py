@@ -115,10 +115,14 @@ def main():
     """Generate relic stats vals from game files and write it to output folder."""
     if not os.path.exists(OUTPUT_PATH):
         os.makedirs(OUTPUT_PATH)
+    if not os.path.exists(os.path.join(OUTPUT_PATH, "min")):
+        os.makedirs(os.path.join(OUTPUT_PATH, "min"))
 
     relic_stat_vals = get_relic_stat_vals()
     with open(os.path.join(OUTPUT_PATH, "relic_stat_vals.json"), "w") as f:
         json.dump(relic_stat_vals, f, indent=4)
+    with open(os.path.join(OUTPUT_PATH, "min", "relic_stat_vals.json"), "w") as f:
+        json.dump(relic_stat_vals, f, separators=(",", ":"), indent=None)
 
 
 if __name__ == "__main__":

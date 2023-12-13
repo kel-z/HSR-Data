@@ -9,13 +9,13 @@ import relic_stat_vals
 OUTPUT_PATH = "output"
 
 
-def generate_sums(nums, n):
+def generate_sums(nums: list, n: int) -> list:
     """
     Generate all possible sums of given numbers up to n.
 
-    :param nums: list of numbers
-    :param n: maximum value
-    :return: sorted list of all possible sums up to n
+    :param nums: List of numbers.
+    :param n: Maximum value.
+    :return: Sorted list of all possible sums up to n.
     """
     results = []
     for i in range(1, n + 1):
@@ -26,18 +26,18 @@ def generate_sums(nums, n):
     return sorted(list(set(results)))
 
 
-def calculate_multiplier(value, p, is_speed, is_percentage):
+def calculate_substat_value(value: int, p: int, is_speed: bool, is_percentage: bool) -> int:
     """
-    Calculate multiplier based on several conditions.
+    Calculate substat value based on the base value and roll value.
 
-    :param value: initial value
-    :param p: possible value
-    :param is_speed: boolean indicating if it's speed
-    :param is_percentage: boolean indicating if it's percentage
-    :return: calculated multiplier
+    :param value: Base value of the substat (i.e. what 100% would be).
+    :param p: Current percentage * 10. For example, 80% is 8.
+    :param is_speed: Boolean indicating if it's a SPD stat.
+    :param is_percentage: Boolean indicating if it's percentage
+    :return: Calculated substat value.
     """
     if is_speed:
-        return value * p / 10
+        return int(value * p / 10)
     elif is_percentage:
         return (
             ceil(value * p * 100) / 10
@@ -45,37 +45,35 @@ def calculate_multiplier(value, p, is_speed, is_percentage):
             else int(value * p * 100) / 10
         )
     else:
-        return value * p / 10
+        return int(value * p / 10)
 
 
-def generate_rarity_data(relic_data, possible_vals):
+def generate_rarity_data(substat_data: dict, possible_vals: list) -> dict:
     """
     Generate data for each rarity.
 
-    :param relic_data: initial data
-    :param possible_vals: list of possible values
-    :return: dictionary with data for each rarity
+    :param substat_data: Substat data.
+    :param possible_vals: List of possible roll values.
+    :return: Dictionary with substat data for each rarity
     """
     rarities = [2, 3, 4, 5]
     res = {}
 
     for rarity in rarities:
         curr_rarity = {}
-        for substat, value in relic_data["sub"][str(rarity)].items():
+        for substat, value in substat_data[str(rarity)].items():
             curr_substat = {}
             for p in possible_vals:
                 is_percentage = substat.endswith("_")
                 is_speed = substat == "SPD"
-                multiplier = calculate_multiplier(value, p, is_speed, is_percentage)
-                key = (
-                    int(multiplier) if not is_percentage else int(multiplier * 10) / 10
-                )
+                key = calculate_substat_value(value, p, is_speed, is_percentage)
 
                 if key == 0:
                     key = 1
                 elif str(key).endswith(".0"):
                     key = int(key)
 
+                # check for overlapping roll values
                 if key not in curr_substat:
                     curr_substat[key] = p / 10
                 else:
@@ -95,14 +93,18 @@ def main():
     """Generate relic stats vals from game files and write it to output folder."""
     if not os.path.exists(os.path.join(OUTPUT_PATH, "relic_stat_vals.json")):
         relic_stat_vals.main()
+    if not os.path.exists(os.path.join(OUTPUT_PATH, "min")):
+        os.makedirs(os.path.join(OUTPUT_PATH, "min"))
 
     with open(os.path.join(OUTPUT_PATH, "relic_stat_vals.json"), "r") as f:
         relic_data = json.load(f)
 
-    possible_vals = generate_sums([8, 9, 10], 50)
-    relic_roll_vals = generate_rarity_data(relic_data, possible_vals)
+    possible_vals = generate_sums([8, 9, 10], 60)
+    relic_roll_vals = generate_rarity_data(relic_data["sub"], possible_vals)
     with open(os.path.join(OUTPUT_PATH, "relic_roll_vals.json"), "w") as f:
         json.dump(relic_roll_vals, f, indent=4)
+    with open(os.path.join(OUTPUT_PATH, "min", "relic_roll_vals.json"), "w") as f:
+        json.dump(relic_roll_vals, f, separators=(",", ":"), indent=None)
 
 
 if __name__ == "__main__":
