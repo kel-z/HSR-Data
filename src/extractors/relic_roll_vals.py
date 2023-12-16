@@ -2,7 +2,7 @@ from math import ceil
 import os
 import json
 from itertools import combinations_with_replacement
-import relic_stat_vals
+from relic_stat_vals import get_relic_stat_vals
 
 
 # output folder
@@ -26,7 +26,9 @@ def generate_sums(nums: list, n: int) -> list:
     return sorted(list(set(results)))
 
 
-def calculate_substat_value(value: int, p: int, is_speed: bool, is_percentage: bool) -> int:
+def calculate_substat_value(
+    value: int, p: int, is_speed: bool, is_percentage: bool
+) -> int:
     """
     Calculate substat value based on the base value and roll value.
 
@@ -61,7 +63,7 @@ def generate_rarity_data(substat_data: dict, possible_vals: list) -> dict:
 
     for rarity in rarities:
         curr_rarity = {}
-        for substat, value in substat_data[str(rarity)].items():
+        for substat, value in substat_data[rarity].items():
             curr_substat = {}
             for p in possible_vals:
                 is_percentage = substat.endswith("_")
@@ -91,15 +93,9 @@ def generate_rarity_data(substat_data: dict, possible_vals: list) -> dict:
 
 def main():
     """Generate relic stats vals from game files and write it to output folder."""
-    if not os.path.exists(os.path.join(OUTPUT_PATH, "relic_stat_vals.json")):
-        relic_stat_vals.main()
-    if not os.path.exists(os.path.join(OUTPUT_PATH, "min")):
-        os.makedirs(os.path.join(OUTPUT_PATH, "min"))
-
-    with open(os.path.join(OUTPUT_PATH, "relic_stat_vals.json"), "r") as f:
-        relic_data = json.load(f)
-
+    relic_data = get_relic_stat_vals()
     possible_vals = generate_sums([8, 9, 10], 60)
+
     relic_roll_vals = generate_rarity_data(relic_data["sub"], possible_vals)
     with open(os.path.join(OUTPUT_PATH, "relic_roll_vals.json"), "w") as f:
         json.dump(relic_roll_vals, f, indent=4)
