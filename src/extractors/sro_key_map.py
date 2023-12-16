@@ -16,34 +16,34 @@ def get_sro_mappings(game_data: dict):
         "relic_sets": {},
         "light_cones": {},
     }
-    for name, _ in game_data["characters"].items():
+    for name in sorted(game_data["characters"].keys()):
         if name in TRAILBLAZER_MAPPINGS:
             sro_key_map["characters"][name] = TRAILBLAZER_MAPPINGS[name]
         else:
             sro_key_map["characters"][name] = "".join(
                 [
                     "".join([c for c in word.capitalize() if c.isalnum()])
-                    for word in name.split()
+                    for word in name.replace("-", " ").split()
                 ]
             )
 
     relic_sets = set()
-    for _, relic in game_data["relics"].items():
+    for relic in game_data["relics"].values():
         relic_sets.add(relic["set"])
 
-    for relic_set in relic_sets:
+    for relic_set in sorted(relic_sets):
         sro_key_map["relic_sets"][relic_set] = "".join(
             [
                 "".join([c for c in word.capitalize() if c.isalnum()])
-                for word in relic_set.split()
+                for word in relic_set.replace("-", " ").split()
             ]
         )
 
-    for light_cone in game_data["light_cones"]:
+    for light_cone in sorted(game_data["light_cones"]):
         sro_key_map["light_cones"][light_cone] = "".join(
             [
                 "".join([c for c in word.capitalize() if c.isalnum()])
-                for word in light_cone.split()
+                for word in light_cone.replace("-", " ").split()
             ]
         )
 
