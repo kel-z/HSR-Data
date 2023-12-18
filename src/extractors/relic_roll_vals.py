@@ -43,7 +43,7 @@ def calculate_substat_value(
     elif is_percentage:
         return (
             ceil(value * p * 100) / 10
-            if int(value * p * 10000) % 100 == 99
+            if int(value * p * 100000) % 1000 == 999
             else int(value * p * 100) / 10
         )
     else:
