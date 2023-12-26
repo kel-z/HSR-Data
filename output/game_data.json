@@ -1,5 +1,5 @@
 {
-    "version": "1.5",
+    "version": "1.6",
     "light_cones": {
         "Arrows": {
             "rarity": 3
@@ -235,13 +235,19 @@
         "An Instant Before A Gaze": {
             "rarity": 5
         },
-        "Hey, Over Here": {
-            "rarity": 4
+        "Past Self in Mirror": {
+            "rarity": 5
+        },
+        "Baptism of Pure Thought": {
+            "rarity": 5
         },
         "Solitary Healing": {
             "rarity": 5
         },
         "Shared Feeling": {
+            "rarity": 4
+        },
+        "Hey, Over Here": {
             "rarity": 4
         }
     },
@@ -940,6 +946,16 @@
                 "talent": 2
             }
         },
+        "Xueyi": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
         "Hanya": {
             "e3": {
                 "skill": 2,
@@ -968,6 +984,26 @@
             "e5": {
                 "ult": 2,
                 "basic": 1
+            }
+        },
+        "Ruan Mei": {
+            "e3": {
+                "ult": 2,
+                "talent": 2
+            },
+            "e5": {
+                "skill": 2,
+                "basic": 1
+            }
+        },
+        "Dr. Ratio": {
+            "e3": {
+                "ult": 2,
+                "basic": 1
+            },
+            "e5": {
+                "skill": 2,
+                "talent": 2
             }
         },
         "TrailblazerDestruction": {
