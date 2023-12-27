@@ -10,42 +10,60 @@ TRAILBLAZER_MAPPINGS = {
 }
 
 
-def get_sro_mappings(game_data: dict):
+def get_sro_mappings(game_data: dict, swap:bool=False):
+    """Generate SRO character key mappings from game data.
+
+    :param game_data: The game data to generate the mappings from.
+    :param swap: Whether to swap the keys and values, defaults to False.
+    :return: The SRO character key mappings.
+    """
     sro_key_map = {
         "characters": {},
         "relic_sets": {},
         "light_cones": {},
     }
     for name in sorted(game_data["characters"].keys()):
-        if name in TRAILBLAZER_MAPPINGS:
-            sro_key_map["characters"][name] = TRAILBLAZER_MAPPINGS[name]
+        key = name
+        value = TRAILBLAZER_MAPPINGS[name] if name in TRAILBLAZER_MAPPINGS else "".join(
+            [
+                "".join([c for c in word.capitalize() if c.isalnum()])
+                for word in name.replace("-", " ").split()
+            ]
+        )
+        if swap:
+            sro_key_map["characters"][value] = key
         else:
-            sro_key_map["characters"][name] = "".join(
-                [
-                    "".join([c for c in word.capitalize() if c.isalnum()])
-                    for word in name.replace("-", " ").split()
-                ]
-            )
+            sro_key_map["characters"][key] = value
 
     relic_sets = set()
     for relic in game_data["relics"].values():
         relic_sets.add(relic["set"])
 
     for relic_set in sorted(relic_sets):
-        sro_key_map["relic_sets"][relic_set] = "".join(
+        key = relic_set
+        value = "".join(
             [
                 "".join([c for c in word.capitalize() if c.isalnum()])
                 for word in relic_set.replace("-", " ").split()
             ]
         )
+        if swap:
+            sro_key_map["relic_sets"][value] = key
+        else:
+            sro_key_map["relic_sets"][key] = value
 
     for light_cone in sorted(game_data["light_cones"]):
-        sro_key_map["light_cones"][light_cone] = "".join(
+        key = light_cone
+        value = "".join(
             [
                 "".join([c for c in word.capitalize() if c.isalnum()])
                 for word in light_cone.replace("-", " ").split()
             ]
         )
+        if swap:
+            sro_key_map["light_cones"][value] = key
+        else:
+            sro_key_map["light_cones"][key] = value
 
     return sro_key_map
 
@@ -64,6 +82,12 @@ def main():
         json.dump(sro_key_map, f, indent=4)
     with open(os.path.join(OUTPUT_PATH, "min", "sro_key_map.json"), "w") as f:
         json.dump(sro_key_map, f, separators=(",", ":"), indent=None)
+
+    sro_to_hsrs = get_sro_mappings(game_data, swap=True)
+    with open(os.path.join(OUTPUT_PATH, "sro_to_hsrs.json"), "w") as f:
+        json.dump(sro_to_hsrs, f, indent=4)
+    with open(os.path.join(OUTPUT_PATH, "min", "sro_to_hsrs.json"), "w") as f:
+        json.dump(sro_to_hsrs, f, separators=(",", ":"), indent=None)
 
 
 if __name__ == "__main__":

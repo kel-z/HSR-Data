@@ -48,6 +48,12 @@ def main():
     with open(os.path.join(OUTPUT_PATH, "min", "sro_key_map.json"), "w") as f:
         json.dump(sro_key_map, f, separators=(",", ":"), indent=None)
 
+    sro_to_hsrs = get_sro_mappings(game_data, swap=True)
+    with open(os.path.join(OUTPUT_PATH, "sro_to_hsrs.json"), "w") as f:
+        json.dump(sro_to_hsrs, f, indent=4)
+    with open(os.path.join(OUTPUT_PATH, "min", "sro_to_hsrs.json"), "w") as f:
+        json.dump(sro_to_hsrs, f, separators=(",", ":"), indent=None)
+
 
 if __name__ == "__main__":
     main()
