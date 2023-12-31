@@ -50,18 +50,36 @@ def calculate_substat_value(
         return int(value * p / 10)
 
 
-def generate_rarity_data(substat_data: dict, possible_vals: list) -> dict:
+def generate_rarity_data() -> dict:
     """
     Generate data for each rarity.
 
-    :param substat_data: Substat data.
-    :param possible_vals: List of possible roll values.
     :return: Dictionary with substat data for each rarity
     """
-    rarities = [2, 3, 4, 5]
+    rarities = [
+        {
+            "rarity": 2,
+            "max_upgrades": 0
+        },
+        {
+            "rarity": 3,
+            "max_upgrades": 1
+        },
+        {
+            "rarity": 4,
+            "max_upgrades": 3
+        },
+        {
+            "rarity": 5,
+            "max_upgrades": 5
+        }
+    ]
     res = {}
+    substat_data = get_relic_stat_vals()["sub"]
 
-    for rarity in rarities:
+    for r in rarities:
+        rarity = r["rarity"]
+        possible_vals = generate_sums([8, 9, 10], (r["max_upgrades"] + 1) * 10)
         curr_rarity = {}
         for substat, value in substat_data[rarity].items():
             curr_substat = {}
@@ -93,10 +111,8 @@ def generate_rarity_data(substat_data: dict, possible_vals: list) -> dict:
 
 def main():
     """Generate relic stats vals from game files and write it to output folder."""
-    relic_data = get_relic_stat_vals()
-    possible_vals = generate_sums([8, 9, 10], 60)
 
-    relic_roll_vals = generate_rarity_data(relic_data["sub"], possible_vals)
+    relic_roll_vals = generate_rarity_data()
     with open(os.path.join(OUTPUT_PATH, "relic_roll_vals.json"), "w") as f:
         json.dump(relic_roll_vals, f, indent=4)
     with open(os.path.join(OUTPUT_PATH, "min", "relic_roll_vals.json"), "w") as f:
