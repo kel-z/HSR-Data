@@ -1,4 +1,4 @@
-from math import ceil
+from math import ceil, floor
 import os
 import json
 from itertools import combinations_with_replacement
@@ -27,7 +27,7 @@ def generate_sums(nums: list, n: int) -> list:
 
 
 def calculate_substat_value(
-    value: int, p: int, is_speed: bool, is_percentage: bool
+    value: int | dict, p: int, is_speed: bool, is_percentage: bool
 ) -> int:
     """
     Calculate substat value based on the base value and roll value.
@@ -39,15 +39,35 @@ def calculate_substat_value(
     :return: Calculated substat value.
     """
     if is_speed:
-        return int(value * p / 10)
+        low = (8, value["low"])
+        mid = (9, value["mid"])
+        high = (10, value["high"])
+        spds = [low, mid, high]
+
+        def backtrack(remaining: int, curr: list, results: set):
+            if remaining == 0:
+                results.add(floor(sum([c[1] for c in curr])))
+            elif remaining < 0:
+                return
+            else:
+                for s in spds:
+                    curr.append(s)
+                    backtrack(remaining - s[0], curr, results)
+                    curr.pop()
+
+        results = set()
+        backtrack(p, [], results)
+
+        return sorted(list(results))
+
     elif is_percentage:
-        return (
+        return [
             ceil(value * p * 100) / 10
             if int(value * p * 100000) % 1000 == 999
             else int(value * p * 100) / 10
-        )
+        ]
     else:
-        return int(value * p / 10)
+        return [int(value * p / 10)]
 
 
 def generate_rarity_data() -> dict:
@@ -57,22 +77,10 @@ def generate_rarity_data() -> dict:
     :return: Dictionary with substat data for each rarity
     """
     rarities = [
-        {
-            "rarity": 2,
-            "max_upgrades": 0
-        },
-        {
-            "rarity": 3,
-            "max_upgrades": 1
-        },
-        {
-            "rarity": 4,
-            "max_upgrades": 3
-        },
-        {
-            "rarity": 5,
-            "max_upgrades": 5
-        }
+        {"rarity": 2, "max_upgrades": 0},
+        {"rarity": 3, "max_upgrades": 1},
+        {"rarity": 4, "max_upgrades": 3},
+        {"rarity": 5, "max_upgrades": 5},
     ]
     res = {}
     substat_data = get_relic_stat_vals()["sub"]
@@ -86,21 +94,22 @@ def generate_rarity_data() -> dict:
             for p in possible_vals:
                 is_percentage = substat.endswith("_")
                 is_speed = substat == "SPD"
-                key = calculate_substat_value(value, p, is_speed, is_percentage)
+                keys = calculate_substat_value(value, p, is_speed, is_percentage)
 
-                if key == 0:
-                    key = 1
-                elif str(key).endswith(".0"):
-                    key = int(key)
+                for key in keys:
+                    if key == 0:
+                        key = 1
+                    elif str(key).endswith(".0"):
+                        key = int(key)
 
-                # check for overlapping roll values
-                if key not in curr_substat:
-                    curr_substat[key] = p / 10
-                else:
-                    # turn the value into an array if it's not already
-                    if not isinstance(curr_substat[key], list):
-                        curr_substat[key] = [curr_substat[key]]
-                    curr_substat[key].append(p / 10)
+                    # check for overlapping roll values
+                    if key not in curr_substat:
+                        curr_substat[key] = p / 10
+                    else:
+                        # turn the value into an array if it's not already
+                        if not isinstance(curr_substat[key], list):
+                            curr_substat[key] = [curr_substat[key]]
+                        curr_substat[key].append(p / 10)
 
             curr_rarity[substat] = curr_substat
 

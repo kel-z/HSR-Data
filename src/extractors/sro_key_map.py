@@ -10,7 +10,7 @@ TRAILBLAZER_MAPPINGS = {
 }
 
 
-def get_sro_mappings(game_data: dict, swap:bool=False):
+def get_sro_mappings(game_data: dict, swap: bool = False):
     """Generate SRO character key mappings from game data.
 
     :param game_data: The game data to generate the mappings from.
@@ -24,11 +24,15 @@ def get_sro_mappings(game_data: dict, swap:bool=False):
     }
     for name in sorted(game_data["characters"].keys()):
         key = name
-        value = TRAILBLAZER_MAPPINGS[name] if name in TRAILBLAZER_MAPPINGS else "".join(
-            [
-                "".join([c for c in word.capitalize() if c.isalnum()])
-                for word in name.replace("-", " ").split()
-            ]
+        value = (
+            TRAILBLAZER_MAPPINGS[name]
+            if name in TRAILBLAZER_MAPPINGS
+            else "".join(
+                [
+                    "".join([c for c in word.capitalize() if c.isalnum()])
+                    for word in name.replace("-", " ").split()
+                ]
+            )
         )
         if swap:
             sro_key_map["characters"][value] = key

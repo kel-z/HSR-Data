@@ -104,7 +104,17 @@ def _get_sub_affixes():
         curr_rarity = {}
         curr_affixes = RELIC_SUB_AFFIXES_JSON[f"{r}"]["affixes"]
         for v in list(curr_affixes.values()):
-            curr_rarity[PROPERTY_TO_SUB[v["property"]]] = v["base"] + (v["step"] * 2)
+            # SPD is a special case
+            if PROPERTY_TO_SUB[v["property"]] == "SPD":
+                curr_rarity[PROPERTY_TO_SUB[v["property"]]] = {
+                    "low": v["base"],
+                    "mid": v["base"] + v["step"],
+                    "high": v["base"] + (v["step"] * 2),
+                }
+            else:
+                curr_rarity[PROPERTY_TO_SUB[v["property"]]] = v["base"] + (
+                    v["step"] * 2
+                )
 
         res[r] = curr_rarity
 
