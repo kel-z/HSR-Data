@@ -238,16 +238,46 @@
         "Past Self in Mirror": {
             "rarity": 5
         },
+        "Earthly Escapade": {
+            "rarity": 5
+        },
         "Baptism of Pure Thought": {
             "rarity": 5
         },
         "Solitary Healing": {
             "rarity": 5
         },
+        "What Is Real?": {
+            "rarity": 4
+        },
+        "Flames Afar": {
+            "rarity": 4
+        },
+        "Destiny's Threads Forewoven": {
+            "rarity": 4
+        },
+        "The Day The Cosmos Fell": {
+            "rarity": 4
+        },
+        "It's Showtime": {
+            "rarity": 4
+        },
+        "Reforged Remembrance": {
+            "rarity": 5
+        },
         "Shared Feeling": {
             "rarity": 4
         },
         "Hey, Over Here": {
+            "rarity": 4
+        },
+        "Indelible Promise": {
+            "rarity": 4
+        },
+        "Final Victor": {
+            "rarity": 4
+        },
+        "Dreamville Adventure": {
             "rarity": 4
         }
     },
@@ -603,6 +633,38 @@
         "Penacony's Dream-Seeking Tracks": {
             "set": "Penacony, Land of the Dreams",
             "slot": "Link Rope"
+        },
+        "Pioneer's Heatproof Shell": {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Head"
+        },
+        "Pioneer's Lacuna Compass": {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands"
+        },
+        "Pioneer's Sealed Lead Apron": {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body"
+        },
+        "Pioneer's Starfaring Anchor": {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Feet"
+        },
+        "Watchmaker's Telescoping Lens": {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Head"
+        },
+        "Watchmaker's Fortuitous Wristwatch": {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Hands"
+        },
+        "Watchmaker's Illusory Formal Suit": {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Body"
+        },
+        "Watchmaker's Dream-Concealing Dress Shoes": {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Feet"
         }
     },
     "characters": {
@@ -997,6 +1059,36 @@
             }
         },
         "Dr. Ratio": {
+            "e3": {
+                "ult": 2,
+                "basic": 1
+            },
+            "e5": {
+                "skill": 2,
+                "talent": 2
+            }
+        },
+        "Sparkle": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Black Swan": {
+            "e3": {
+                "skill": 2,
+                "talent": 2
+            },
+            "e5": {
+                "ult": 2,
+                "basic": 1
+            }
+        },
+        "Misha": {
             "e3": {
                 "ult": 2,
                 "basic": 1
