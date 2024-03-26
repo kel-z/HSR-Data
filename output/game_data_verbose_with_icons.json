@@ -1,5 +1,5 @@
 {
-    "version": "2.0.0",
+    "version": "2.0.3",
     "light_cones": {
         "Arrows": {
             "rarity": 3,
@@ -8378,8 +8378,8 @@
                 }
             ],
             "ability": {
-                "name": "All In",
-                "desc": "Increases the wearer's ATK by {0}%. When the wearer lands a CRIT hit on enemies, gains a stack of Good Fortune, stacking up to 4 time(s). Every stack of Good Fortune the wearer has will increase their CRIT DMG by {1}%. Good Fortune will be removed at the end of the wearer's turn.",
+                "name": "Wager",
+                "desc": "Increases the wearer's ATK by {0}%. When the wearer lands a CRIT hit on enemies, gains 1 stack of Good Fortune. This can stack up to 4 time(s). Every stack of Good Fortune increases the wearer's CRIT DMG by {1}%. Good Fortune will be removed at the end of the wearer's turn.",
                 "params": [
                     [
                         "12",
@@ -8545,7 +8545,7 @@
             ],
             "ability": {
                 "name": "Deflagration",
-                "desc": "When the cumulative HP loss of the wearer during a single attack exceeds 25% of their Max HP, or if the amount of their own HP they consume at one time is greater than 25% of their Max HP, immediately heals the wearer for 15% of their Max HP, and at the same time, increases the DMG they deal by {0}% for 2 turn(s). This effect can only be triggered once every 3 turn(s).",
+                "desc": "When the wearer's cumulative HP loss during one attack exceeds 25% of their Max HP, or if the amount of their own HP consumed at one time is greater than 25% of their Max HP, immediately heals the wearer for 15% of their Max HP, and at the same time, increases the DMG they deal by {0}% for 2 turn(s). This effect can only be triggered once every 3 turn(s).",
                 "params": [
                     [
                         "25"
@@ -8845,7 +8845,7 @@
             ],
             "ability": {
                 "name": "Stratagem",
-                "desc": "Increases the wearer's ATK by {0}%. When the wearer uses an attack and at least 2 attacked enemies have the corresponding Weakness, the wearer's CRIT DMG increases by {1}% for 2 turn(s).",
+                "desc": "Increases the wearer's ATK by {0}%. When the wearer uses an attack and at least 2 attacked enemies have the corresponding Weakness, the wearer's CRIT DMG increases by {1}%, lasting for 2 turn(s).",
                 "params": [
                     [
                         "16",
@@ -13240,7 +13240,7 @@
             ],
             "ability": {
                 "name": "Capriciousness",
-                "desc": "Increases the wearer's CRIT DMG by {0}%. At the start of the battle, the wearer gains Mask, lasting for 3 turn(s). While the wearer has Mask, the wearer's allies have their CRIT Rate increased by {2}% and their CRIT DMG increased by {1}%. For every 1 Skill Point the wearer recovers (including Skill Points that exceed the limit), they gain 1 stack of Radiant Flame. And when the wearer has 4 stacks of Radiant Flame, all the stacks are removed, and they gain Mask for 4 turn(s).",
+                "desc": "Increases the wearer's CRIT DMG by {0}%. At the start of the battle, the wearer gains Mask, lasting for 3 turn(s). While the wearer has Mask, the wearer's allies have their CRIT Rate increased by {2}% and their CRIT DMG increased by {1}%. For every 1 Skill Point the wearer recovers (including Skill Points that exceed the limit), they gain 1 stack of Radiant Flame. And when the wearer has 4 stacks of Radiant Flame, all the stacks are removed, and they gain Mask, lasting for 4 turn(s).",
                 "params": [
                     [
                         "32",
@@ -14699,7 +14699,7 @@
             },
             "desc": [
                 "Increases Break Effect by 16%.",
-                "When the wearer uses their Ultimate on an ally, Break Effect for all allies increases by 30% for 2 turn(s). This effect cannot be stacked."
+                "When the wearer uses their Ultimate on an ally, all allies' Break Effect increases by 30% for 2 turn(s). This effect cannot be stacked."
             ],
             "modifiers": [
                 [
@@ -40018,12 +40018,12 @@
             "eidolons": [
                 {
                     "name": "Suspension of Disbelief",
-                    "desc": "The Cipher effect applied by the Ultimate lasts for 1 extra turn. All allies affected by Cipher have their ATK increased by 40%.",
+                    "desc": "The Cipher effect granted by the Ultimate lasts for 1 extra turn. All allies with Cipher have their ATK increased by 40%.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1306_rank1.png"
                 },
                 {
                     "name": "Purely Fictitious",
-                    "desc": "Each Talent stack allows allies to ignore 8% of the enemy target's DEF when dealing DMG to enemies.",
+                    "desc": "Every stack of the Talent's effect allows allies to additionally ignore 8% of the target's DEF when dealing DMG.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1306_rank2.png"
                 },
                 {
@@ -40037,7 +40037,7 @@
                 },
                 {
                     "name": "Life Is a Gamble",
-                    "desc": "The Ultimate recovers 1 more Skill Point. The Talent additionally increases Max Skill Points by 1.",
+                    "desc": "The Ultimate recovers 1 more Skill Point. The Talent additionally increases the Max Skill Points by 1.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1306_rank4.png"
                 },
                 {
@@ -40051,7 +40051,7 @@
                 },
                 {
                     "name": "Narrative Polysemy",
-                    "desc": "The CRIT DMG Boost effect of Sparkle's Skill additionally increases by 30% of Sparkle's CRIT DMG, and when she uses her Skill, the CRIT DMG Boost effect will apply to all allies currently with Cipher. When Sparkle uses her Ultimate, this effect will spread to all allies with Cipher should the allied target have the CRIT DMG increase effect provided by the Skill active on them.",
+                    "desc": "The CRIT DMG Boost effect provided by the Skill additionally increases by an amount equal to 30% of Sparkle's CRIT DMG. When Sparkle uses Skill, her Skill's CRIT DMG Boost effect will apply to all allies with Cipher. When Sparkle uses her Ultimate, any single ally who benefits from her Skill's CRIT DMG Boost will spread that effect to allies with Cipher.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1306_rank6.png"
                 }
             ],
@@ -40094,7 +40094,7 @@
                 "skill": {
                     "name": "Dreamdiver",
                     "max_level": 15,
-                    "desc": "Increases the CRIT DMG of a single ally by {0}% of Sparkle's CRIT DMG plus {1}%, lasting for 1 turn(s). And at the same time, Advances Forward this ally's action by 50%.\nWhen Sparkle uses this ability on herself, the Action Advance effect will not trigger.",
+                    "desc": "Increases the CRIT DMG of a single target ally by {0}% of Sparkle's CRIT DMG plus {1}%, lasting for 1 turn(s). And at the same time, Advances Forward this ally's action by 50%.\nWhen Sparkle uses this ability on herself, the Action Advance effect will not trigger.",
                     "params": [
                         [
                             "12.0",
@@ -40162,7 +40162,7 @@
                 "ult": {
                     "name": "The Hero with a Thousand Faces",
                     "max_level": 15,
-                    "desc": "Recovers 4 Skill Points for the team and grants all allies Cipher. When allies with Cipher trigger the DMG Boost effect provided by Sparkle's Talent, each stack additionally increases its effect by {0}%, lasting for 2 turns.",
+                    "desc": "Recovers 4 Skill Points for the team and grants all allies Cipher. For allies with Cipher, each stack of the DMG Boost effect provided by Sparkle's Talent additionally increases by {0}%, lasting for 2 turns.",
                     "params": [
                         [
                             "6.0"
@@ -40215,7 +40215,7 @@
                 "talent": {
                     "name": "Red Herring",
                     "max_level": 15,
-                    "desc": "While Sparkle is on the battlefield, additionally increases the max number of Skill Points by 2. Whenever an ally consumes 1 Skill Point, all allies' DMG increases by {0}%. This effect lasts for 2 turn(s) and can stack up to 3 time(s).",
+                    "desc": "While Sparkle is on the battlefield, additionally increases the max number of Skill Points by 2. Whenever an ally consumes 1 Skill Point, all allies' DMG dealt increases by {0}%. This effect lasts for 2 turn(s) and can stack up to 3 time(s).",
                     "params": [
                         [
                             "3.0"
@@ -40279,12 +40279,12 @@
                 },
                 "ability_2": {
                     "name": "Artificial Flower",
-                    "desc": "The CRIT DMG Boost effect provided by the Skill will extend to last until the start of the target's next turn.",
+                    "desc": "The CRIT DMG Boost effect provided by the Skill will be extended until the start of the target's next turn.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1306_skilltree2.png"
                 },
                 "ability_3": {
                     "name": "Nocturne",
-                    "desc": "Increases all allies' ATK by 15%. When there are 1/2/3 Quantum allies in your team, increases Quantum-Type allies' ATK by 5%/15%/30%.",
+                    "desc": "Increases all allies' ATK by 15%. When there are 1/2/3 Quantum-Type allies in the team, increases Quantum-Type allies' ATK by 5%/15%/30%.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1306_skilltree3.png"
                 },
                 "stat_1": {
@@ -40640,7 +40640,7 @@
                 },
                 {
                     "name": "In Tears We Gift",
-                    "desc": "While in the Epiphany state, enemy targets have their Effect RES reduced by 10%. And at the start of their turn or when they get defeated, Black Swan regenerates 8 Energy. This Energy Regeneration effect can only trigger up to 1 time while Epiphany lasts. And this trigger count resets after the enemy gets inflicted with Epiphany again.",
+                    "desc": "While in the Epiphany state, enemy targets have their Effect RES reduced by 10%. And at the start of their turn or when they get defeated, Black Swan regenerates 8 Energy. This Energy Regeneration effect can only trigger up to 1 time while Epiphany lasts. And the trigger count resets when Epiphany is applied again.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1307_rank4.png"
                 },
                 {
@@ -40654,7 +40654,7 @@
                 },
                 {
                     "name": "Pantheon Merciful, Masses Pitiful",
-                    "desc": "When enemy targets get attacked by Black Swan's allies, Black Swan has a 65% base chance of inflicting 1 stack of Arcana on the target.\\nEach time Black Swan inflicts Arcana on an enemy target, there is a 50% fixed chance to additionally increase the number of Arcana stacks afflicted this time by 1.",
+                    "desc": "When an enemy target gets attacked by Black Swan's allies, Black Swan has a 65% base chance of inflicting 1 stack of Arcana on the target.\\nEvery time Black Swan inflicts Arcana on an enemy target, there is a 50% fixed chance to additionally increase the number of Arcana stacked this time by 1.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1307_rank6.png"
                 }
             ],
@@ -40662,7 +40662,7 @@
                 "basic": {
                     "name": "Percipience, Silent Dawn",
                     "max_level": 9,
-                    "desc": "Deals Wind DMG equal to {0}% of Black Swan's ATK to a single target enemy, with a {1}% base chance of inflicting 1 stack of Arcana. And if the hit target currently has Wind Shear, Bleed, Burn, or Shock applied to them, each respectively has a {2}% base chance of inflicting 1 extra stack of Arcana onto the enemy.",
+                    "desc": "Deals Wind DMG equal to {0}% of Black Swan's ATK to a single target enemy, with a {1}% base chance of inflicting 1 stack of Arcana on the target. Additionally, when attacking a target that suffers Wind Shear, Bleed, Burn, or Shock, there is respectively a {2}% base chance of inflicting 1 extra stack of Arcana on the target.",
                     "params": [
                         [
                             "30",
@@ -40715,7 +40715,7 @@
                 "skill": {
                     "name": "Decadence, False Twilight",
                     "max_level": 15,
-                    "desc": "Deals Wind DMG equal to {0}% of Black Swan's ATK to a single target enemy and any adjacent targets. At the same time, there is a 100% base chance of inflicting 1 stack of Arcana on the target enemy and the adjacent targets. And there is a 100% base chance of reducing the DEF of the target enemy and the adjacent targets by {1}%, lasting for 3 turn(s).",
+                    "desc": "Deals Wind DMG equal to {0}% of Black Swan's ATK to a single target enemy and any adjacent targets. At the same time, there is a 100% base chance of inflicting 1 stack of Arcana on the target enemy and the adjacent targets. Additionally, there is a 100% base chance of reducing the DEF of the target enemy and the adjacent targets by {1}%, lasting for 3 turn(s).",
                     "params": [
                         [
                             "45",
@@ -40783,7 +40783,7 @@
                 "ult": {
                     "name": "Bliss of Otherworld's Embrace",
                     "max_level": 15,
-                    "desc": "Inflicts Epiphany on all enemies for 2 turn(s).\nEnemies affected by Epiphany take {1}% more DMG in their turn, and their Arcana effect is regarded as Wind Shear, Bleed, Burn, and Shock effects. In addition, when their Arcana effect is triggered at the beginning of the next turn, the Arcana stacks are not reset. The stack non-reset effect can be triggered up to 1 time(s) in Epiphany's duration, and its charges are replenished when Epiphany is applied again.\nDeals Wind DMG equal to {0}% of Black Swan's ATK to all enemies.",
+                    "desc": "Inflicts Epiphany on all enemies for 2 turn(s).\nWhile afflicted with Epiphany, enemies take {1}% increased DMG in their turn. Additionally, if enemies are also inflicted with Arcana, they are considered to be simultaneously afflicted with Wind Shear, Bleed, Burn, and Shock. After Arcana causes DMG at the start of each turn, its stacks are not reset. This non-reset effect of Arcana stacks can be triggered up to 1 time(s) for the duration of Epiphany. And the trigger count resets when Epiphany is applied again.\nDeals Wind DMG equal to {0}% of Black Swan's ATK to all enemies.",
                     "params": [
                         [
                             "72",
@@ -40851,7 +40851,7 @@
                 "talent": {
                     "name": "Loom of Fate's Caprice",
                     "max_level": 15,
-                    "desc": "Every time an enemy target receives DoT at the start of each turn, there is a {1}% base chance for it to be inflicted with Arcana.\nWhile afflicted with Arcana, enemy targets receive Wind DoT equal to {0}% of Black Swan's ATK at the start of each turn. Each stack of Arcana increases this DoT DMG multiplier by {2}%. Then Arcana resets to 1 stack. Arcana can stack up to 50 times.\nOnly when Arcana causes DMG at the start of an enemy target's turn, Black Swan triggers additional effects based on the number of Arcana stacks inflicted on the target:\nWhen there are 3 or more Arcana stacks, deals Wind DoT equal to {3}% of Black Swan's ATK to adjacent targets, with a {1}% base chance of inflicting 1 stack of Arcana on adjacent targets.\nWhen there are 7 or more Arcana stacks, enables the current DoT dealt this time to ignore 20% of the target's and adjacent targets' DEF.",
+                    "desc": "Every time an enemy target receives DoT at the start of each turn, there is a {1}% base chance for it to be inflicted with 1 stack of Arcana.\nWhile afflicted with Arcana, enemy targets receive Wind DoT equal to {0}% of Black Swan's ATK at the start of each turn. Each stack of Arcana increases this DMG multiplier by {2}%. Then Arcana resets to 1 stack. Arcana can stack up to 50 times.\nOnly when Arcana causes DMG at the start of an enemy target's turn, Black Swan triggers additional effects based on the number of Arcana stacks inflicted on the target:\nWhen there are 3 or more Arcana stacks, deals Wind DoT equal to {3}% of Black Swan's ATK to adjacent targets, with a {1}% base chance of inflicting 1 stack of Arcana on adjacent targets.\nWhen there are 7 or more Arcana stacks, enables the current DoT dealt this time to ignore 20% of the target's and adjacent targets' DEF.",
                     "params": [
                         [
                             "96",
@@ -40955,12 +40955,12 @@
                 },
                 "ability_1": {
                     "name": "Viscera's Disquiet",
-                    "desc": "After using the Skill to hit an enemy that has Wind Shear, Bleed, Burn, or Shock, each of these debuffs respectively has a 65% base chance of inflicting 1 extra stack of Arcana.",
+                    "desc": "After using the Skill to attack a single target enemy that has Wind Shear, Bleed, Burn, or Shock, each of these debuffs respectively has a 65% base chance of inflicting 1 extra stack of Arcana.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1307_skilltree1.png"
                 },
                 "ability_2": {
                     "name": "Goblet's Dredges",
-                    "desc": "There is a 65% base chance to inflict 1 stack of Arcana when a target enters battle. Every time an enemy target receives DoT during a single attack by an ally, there is a 65% base chance for the target to be inflicted with 1 stack of Arcana, stacking up to 3 time(s) during 1 single attack.",
+                    "desc": "When an enemy target enters battle, there is a 65% base chance for it to be inflicted with 1 stack of Arcana. Every time an enemy target receives DoT during a single attack by an ally, there is a 65% base chance for the target to be inflicted with 1 stack of Arcana. The maximum number of stacks that can be inflicted during 1 single attack is 3.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1307_skilltree2.png"
                 },
                 "ability_3": {
@@ -41302,7 +41302,7 @@
             "eidolons": [
                 {
                     "name": "Whimsicality of Fancy",
-                    "desc": "When using the Ultimate, for every enemy on the field, additionally increases the Hits Per Action for the Ultimate by 1 hit(s), up to a maximum increase of 5 hit(s).",
+                    "desc": "When using the Ultimate, for every enemy on the field, additionally increases the Hits Per Action for the current Ultimate by 1 hit(s), up to a maximum increase of 5 hit(s).",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1312_rank1.png"
                 },
                 {
@@ -41376,7 +41376,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1312_basic_atk.png"
                 },
                 "skill": {
-                    "name": "R\u2014Room Service",
+                    "name": "R\u2014Room Service!",
                     "max_level": 15,
                     "desc": "Increases the Hits Per Action for Misha's next Ultimate by 1 hit(s). Deals Ice DMG equal to {0}% of Misha's ATK to a single target enemy, and Ice DMG equal to {1}% of Misha's ATK to adjacent targets.",
                     "params": [
@@ -41529,7 +41529,7 @@
                 "talent": {
                     "name": "Horological Escapement",
                     "max_level": 15,
-                    "desc": "Whenever any ally consumes 1 Skill Point, Misha's next Ultimate delivers 1 more Hit(s) Per Action and Misha regenerates {0} Energy.",
+                    "desc": "For every 1 Skill Point allies consume, Misha's next Ultimate delivers 1 more Hit(s) Per Action and Misha regenerates {0} Energy.",
                     "params": [
                         [
                             "1.0"
@@ -41593,7 +41593,7 @@
                 },
                 "ability_2": {
                     "name": "Interlock",
-                    "desc": "When using the Ultimate, increases the Effect Hit Rate by 60%, lasting until the end of the Ultimate's current action.",
+                    "desc": "When using the Ultimate, increases the Effect Hit Rate by 60%, lasting until the end of the current Ultimate's action.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1312_skilltree2.png"
                 },
                 "ability_3": {

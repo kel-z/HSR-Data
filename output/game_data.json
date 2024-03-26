@@ -1,5 +1,5 @@
 {
-    "version": "2.0",
+    "version": "2.1",
     "light_cones": {
         "Arrows": {
             "rarity": 3
@@ -241,6 +241,9 @@
         "Earthly Escapade": {
             "rarity": 5
         },
+        "Inherently Unjust Destiny": {
+            "rarity": 5
+        },
         "Baptism of Pure Thought": {
             "rarity": 5
         },
@@ -248,6 +251,12 @@
             "rarity": 5
         },
         "What Is Real?": {
+            "rarity": 4
+        },
+        "Dreamville Adventure": {
+            "rarity": 4
+        },
+        "Final Victor": {
             "rarity": 4
         },
         "Flames Afar": {
@@ -271,13 +280,13 @@
         "Hey, Over Here": {
             "rarity": 4
         },
+        "Along the Passing Shore": {
+            "rarity": 5
+        },
         "Indelible Promise": {
             "rarity": 4
         },
-        "Final Victor": {
-            "rarity": 4
-        },
-        "Dreamville Adventure": {
+        "Concert for Two": {
             "rarity": 4
         }
     },
@@ -665,6 +674,22 @@
         "Watchmaker's Dream-Concealing Dress Shoes": {
             "set": "Watchmaker, Master of Dream Machinations",
             "slot": "Feet"
+        },
+        "Sigonia's Gaiathra Berth": {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere"
+        },
+        "Sigonia's Knot of Cyclicality": {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Link Rope"
+        },
+        "Izumo's Magatsu no Morokami": {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Planar Sphere"
+        },
+        "Izumo's Blades of Origin and End": {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Link Rope"
         }
     },
     "characters": {
@@ -1038,6 +1063,16 @@
                 "basic": 1
             }
         },
+        "Gallagher": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
         "Argenti": {
             "e3": {
                 "skill": 2,
@@ -1056,6 +1091,16 @@
             "e5": {
                 "skill": 2,
                 "basic": 1
+            }
+        },
+        "Aventurine": {
+            "e3": {
+                "ult": 2,
+                "basic": 1
+            },
+            "e5": {
+                "skill": 2,
+                "talent": 2
             }
         },
         "Dr. Ratio": {
@@ -1086,6 +1131,16 @@
             "e5": {
                 "ult": 2,
                 "basic": 1
+            }
+        },
+        "Acheron": {
+            "e3": {
+                "ult": 2,
+                "basic": 1
+            },
+            "e5": {
+                "skill": 2,
+                "talent": 2
             }
         },
         "Misha": {
