@@ -25,7 +25,7 @@ This repo uses [Dimbreath/StarRailData](https://github.com/Dimbreath/StarRailDat
 
 ## Description
 
-[`main.py`](src/main.py) parses the submodules and outputs the game data in a structured JSON format.
+[main.py](src/main.py) parses the submodules and outputs the game data in a structured JSON format.
 
 [game_data.json](output/game_data.json) includes:
 

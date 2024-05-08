@@ -1,5 +1,5 @@
 {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "light_cones": {
         "Arrows": {
             "rarity": 3,
@@ -5896,7 +5896,7 @@
         "Quid Pro Quo": {
             "rarity": 4,
             "path": "Abundance",
-            "desc": "After enjoying an intense massage from the dragon girl,\nthe Foxian girl held out her hand and playfully pinched the dragon girl's little chubby cheeks.\nThe little girl then pouted her lips, clearly offended, only to elicit a gleeful giggle from the Foxian girl.\n\"Now that's what I call a proper quid pro quo.\"",
+            "desc": "After enjoying an intense massage from the dragon girl,\nthe foxian girl held out her hand and playfully pinched the dragon girl's little chubby cheeks.\nThe little girl then pouted her lips, clearly offended, only to elicit a gleeful giggle from the foxian girl.\n\"Now that's what I call a proper quid pro quo.\"",
             "ascension": [
                 {
                     "hp": {
@@ -7547,7 +7547,7 @@
         "Carve the Moon, Weave the Clouds": {
             "rarity": 4,
             "path": "Harmony",
-            "desc": "He immediately falls in love with the golden vessel and is about to buy it,\nbut the Foxian girl drags him aside and whispers:\n\"Please return at night, Mr. Benefactor, and make up your mind then.\"\nAs promised, he returns at night.\nThe same Foxian girl opens the door and smiles at him.\n\"Please follow me, Mr. Benefactor.\"\nA ray of moonlight shines onto the base of the etched plate.\nThe artisan had traced the petals with lines of various depths, and he would not be able to see such details without the moonlight.\nHe finally recalls why this item is called \"Carve the Moon, Weave the Clouds.\"",
+            "desc": "He immediately falls in love with the golden vessel and is about to buy it,\nbut the foxian girl drags him aside and whispers:\n\"Please return at night, Mr. Benefactor, and make up your mind then.\"\nAs promised, he returns at night.\nThe same foxian girl opens the door and smiles at him.\n\"Please follow me, Mr. Benefactor.\"\nA ray of moonlight shines onto the base of the etched plate.\nThe artisan had traced the petals with lines of various depths, and he would not be able to see such details without the moonlight.\nHe finally recalls why this item is called \"Carve the Moon, Weave the Clouds.\"",
             "ascension": [
                 {
                     "hp": {
@@ -9371,6 +9371,172 @@
             "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21043.png",
             "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21043.png"
         },
+        "Boundless Choreo": {
+            "rarity": 4,
+            "path": "Nihility",
+            "desc": "Their dance glides gracefully, shadows and light silently exchanging places. She takes the other person's hand, her smile beaming into those indifferent eyes.\n\"Beautiful Ranger... Welcome to the stage of the Remembrance. At this proximity... you are far more enchanting than one might perceive.\"\nThe surroundings darken, a beam of light cascading from the dome above, tracing their evolving steps.\n\"However, some were meant to dance with us but have yet to arrive...\"\nIn a spinning moment, she draws closer to that expressionless face, grips that cold hand, and softly inquires\u2014\n\"Tell me. What have you done?\"\nAs their dance steps grow hurried more and more, fragmented snippets of the past rush into her mind through their joined fingertips.\nIn a past that stretches back further and further, she hears the sound of rain and the lamentations just before life's extinguish. Then, she sees her dance partner holding a blood-red paper umbrella in the drizzling rain. Finally, as far as her eyes can see\u2014\nA field of drowned corpses bobbing in the deluge.\nPanic-stricken, she tries to withdraw her hand, falling backward.\nThe surroundings brighten again, the banquet's clamor resurfacing. Her dance partner gently supports her waist, as if oblivious to the ordeal that just unfolded.\n\"What a lovely dance that was, Memokeeper. Shall we have another go?\"",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 43.2,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 21.6,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 15,
+                        "step": 2.25
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 95.04,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 47.52,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 33,
+                        "step": 2.25
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 164.16,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 82.08,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 57,
+                        "step": 2.25
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 233.28,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 116.64,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 81,
+                        "step": 2.25
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 302.4,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 151.2,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 105,
+                        "step": 2.25
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 371.52,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 185.76,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 129,
+                        "step": 2.25
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 440.64,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 220.32,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 153,
+                        "step": 2.25
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Scrutinize",
+                "desc": "Increase the wearer's CRIT Rate by {0}%. The wearer deals {1}% more CRIT DMG to enemies that are currently Slowed or have reduced DEF.",
+                "params": [
+                    [
+                        "8",
+                        "24"
+                    ],
+                    [
+                        "10",
+                        "30"
+                    ],
+                    [
+                        "12",
+                        "36"
+                    ],
+                    [
+                        "14",
+                        "42"
+                    ],
+                    [
+                        "16",
+                        "48"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.08
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.1
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.12
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.14
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.16
+                        }
+                    ]
+                ]
+            },
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21044.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21044.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21044.png"
+        },
         "Before the Tutorial Mission Starts": {
             "rarity": 4,
             "path": "Nihility",
@@ -9702,6 +9868,172 @@
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/22001.png",
             "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/22001.png",
             "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/22001.png"
+        },
+        "For Tomorrow's Journey": {
+            "rarity": 4,
+            "path": "Harmony",
+            "desc": "The hands of the compass keep turning until they point to the moment of dreams.\nThe Asdana system, overflowing with memoria, glows with a soft light outside the train's windows. The frontier prison within is currently engulfed in the fires of war.\n\"Hey guys, what do you suppose the world within the dream would look like?? I must meticulously map it out!\"\nThe girl, packing away her surveying tools, gazes at the new world within reach, filled with anticipation.\n\"That place is a mess. Don't you run off once we get there. I won't have you two getting kidnapped again...\"\nThe man in cowboy attire grumbles as he cleans his weapon, then walks over to the sofa with a drink, shaking his head in resignation.\n\"The Land of the Dreams promises infinite possibilities. We'll surely make our mark... Hey, conductor, if we fall in love with that place and never return, would you miss us?\"\nThe Nameless dressed like a gentleman winks at Pom-Pom, smiling.\n\"'You can't joke at the conductor's expense like this!' Is that what you want to say, conductor?\" The girl's mischievous grin spreads across her face.\n\"You guys are! So! Mean!\"\nBubbles drift up and down in the glass as the Express fills up with joyful laughter.\n...\nThe youthful silhouettes of these Nameless get gradually swallowed by memoria.\n\"Have a... safe... trip...please...\"\nWhen the conductor turns their head, the Express is already empty.\nThe conductor stand frozen, this scene hauntingly familiar, as if lived through countless times before.",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 43.2,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 21.6,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 15,
+                        "step": 2.25
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 95.04,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 47.52,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 33,
+                        "step": 2.25
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 164.16,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 82.08,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 57,
+                        "step": 2.25
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 233.28,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 116.64,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 81,
+                        "step": 2.25
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 302.4,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 151.2,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 105,
+                        "step": 2.25
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 371.52,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 185.76,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 129,
+                        "step": 2.25
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 440.64,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 220.32,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 153,
+                        "step": 2.25
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Bonds",
+                "desc": "Increases the wearer's ATK by {0}%. After the wearer uses their Ultimate, increases their DMG dealt by {1}%, lasting for 1 turn(s).",
+                "params": [
+                    [
+                        "16",
+                        "18"
+                    ],
+                    [
+                        "20",
+                        "21"
+                    ],
+                    [
+                        "24",
+                        "24"
+                    ],
+                    [
+                        "28",
+                        "27"
+                    ],
+                    [
+                        "32",
+                        "30"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "atk_",
+                            "value": 0.16
+                        }
+                    ],
+                    [
+                        {
+                            "type": "atk_",
+                            "value": 0.2
+                        }
+                    ],
+                    [
+                        {
+                            "type": "atk_",
+                            "value": 0.24
+                        }
+                    ],
+                    [
+                        {
+                            "type": "atk_",
+                            "value": 0.28
+                        }
+                    ],
+                    [
+                        {
+                            "type": "atk_",
+                            "value": 0.32
+                        }
+                    ]
+                ]
+            },
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/22002.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/22002.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/22002.png"
         },
         "Night on the Milky Way": {
             "rarity": 5,
@@ -13989,6 +14321,316 @@
             "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23024.png",
             "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23024.png"
         },
+        "Flowing Nightglow": {
+            "rarity": 5,
+            "path": "Harmony",
+            "desc": "Time flows through the mirror, metamorphosing the once inexperienced little girl into a seasoned songstress.\nShe studies her reflection in the mirror. Time has altered all but her green eyes, which still remain as serene as a lake, as if recounting an unshakable faith.\n\"You seem in high spirits today.\"\n\"Yes... after all, there's a very important 'performance'.\"\n\"Indeed. The Charmony Festival's rehearsal is about to start. Please head to the preparation room.\"\n...\nShe steps out from the dressing room, leaving behind the brilliant lights of the theater, fading into the distance.\n\"My stage lies not here.\"\nShe closes her eyes, letting the night swallow her silhouette.\n\"From the past to the present, my song has always been for...\"\n\"For those who have lost hope.\"",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 43.2,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 28.8,
+                        "step": 4.32
+                    },
+                    "def": {
+                        "base": 21,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 95.04,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 63.36,
+                        "step": 4.32
+                    },
+                    "def": {
+                        "base": 46.2,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 164.16,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 109.44,
+                        "step": 4.32
+                    },
+                    "def": {
+                        "base": 79.8,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 233.28,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 155.52,
+                        "step": 4.32
+                    },
+                    "def": {
+                        "base": 113.4,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 302.4,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 201.6,
+                        "step": 4.32
+                    },
+                    "def": {
+                        "base": 147,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 371.52,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 247.68,
+                        "step": 4.32
+                    },
+                    "def": {
+                        "base": 180.6,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 440.64,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 293.76,
+                        "step": 4.32
+                    },
+                    "def": {
+                        "base": 214.2,
+                        "step": 3.15
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Pacify",
+                "desc": "Every time an ally attacks, the wearer gains 1 stack of Cantillation. Each stack of Cantillation increases the wearer's Energy Regeneration Rate by {0}%, stacking up to 5 time(s). When the wearer uses their Ultimate, removes Cantillation and gains Cadenza. Cadenza increases the Wearer's ATK by {2}% and increases all allies' DMG dealt by {1}%, lasting for 1 turn(s).",
+                "params": [
+                    [
+                        "3.0",
+                        "24",
+                        "48"
+                    ],
+                    [
+                        "3.5",
+                        "28",
+                        "60"
+                    ],
+                    [
+                        "4.0",
+                        "32",
+                        "72"
+                    ],
+                    [
+                        "4.5",
+                        "36",
+                        "84"
+                    ],
+                    [
+                        "5.0",
+                        "40",
+                        "96"
+                    ]
+                ]
+            },
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23026.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23026.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23026.png"
+        },
+        "Sailing Towards a Second Life": {
+            "rarity": 5,
+            "path": "The Hunt",
+            "desc": "He felt as if he had fallen into a deep sea. Everything was departing from him, leaving only his hollow thoughts writhing and struggling all alone.\nTerror, anxiety, loneliness, darkness, rage \u2014 these feelings didn't dissipate with his physical body, but remained within the mechanical shell in a different manner \u2014 and they were even heavier than before.\nHe heard the call of the dead, smelled the scent of something being charred, the whirl of machinery buzzed around his ears, and the new blue blood flew towards his thirsty heart... Some cruel memories resurfaced as the unforgettable hatred turned into a weak light in the darkness. He followed the light to walk toward the end of it all, exerting every ounce of his strength to rise once again to the surface.\nHe opened his eyes and a flash of fireworks darted past before hearing the doctor's congratulations \u2014 \n\"Welcome to this world, once again.\"\nHe balled his hands into fists \u2014 hands that were now made of cold iron...\nHe would no longer live for himself.",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 48,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 26.4,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 21,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 105.6,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 58.08,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 46.2,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 182.4,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 100.32,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 79.8,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 259.2,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 142.56,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 113.4,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 336,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 184.8,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 147,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 412.8,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 227.04,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 180.6,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 489.6,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 269.28,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 214.2,
+                        "step": 3.15
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Rough Water",
+                "desc": "Increases the wearer's Break Effect by {0}%. The Break DMG dealt by the wearer ignores {1}% of the target's DEF. When the wearer's Break Effect in battle is at 150% or greater, increases their SPD by {2}%.",
+                "params": [
+                    [
+                        "60",
+                        "20",
+                        "12"
+                    ],
+                    [
+                        "70",
+                        "23",
+                        "14"
+                    ],
+                    [
+                        "80",
+                        "26",
+                        "16"
+                    ],
+                    [
+                        "90",
+                        "28",
+                        "18"
+                    ],
+                    [
+                        "100",
+                        "32",
+                        "20"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.6
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.7
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.8
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.9
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 1
+                        }
+                    ]
+                ]
+            },
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23027.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23027.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23027.png"
+        },
         "On the Fall of an Aeon": {
             "rarity": 5,
             "path": "Destruction",
@@ -17068,39 +17710,39 @@
                     "params": [
                         [
                             "100",
-                            "0"
-                        ],
-                        [
-                            "110",
-                            "8"
-                        ],
-                        [
-                            "120",
-                            "16"
-                        ],
-                        [
-                            "130",
-                            "24"
-                        ],
-                        [
-                            "140",
-                            "32"
-                        ],
-                        [
-                            "150",
                             "40"
                         ],
                         [
-                            "162",
-                            "50"
+                            "110",
+                            "44"
                         ],
                         [
-                            "175",
+                            "120",
+                            "48"
+                        ],
+                        [
+                            "130",
+                            "52"
+                        ],
+                        [
+                            "140",
+                            "56"
+                        ],
+                        [
+                            "150",
                             "60"
                         ],
                         [
-                            "187",
+                            "162",
+                            "65"
+                        ],
+                        [
+                            "175",
                             "70"
+                        ],
+                        [
+                            "187",
+                            "75"
                         ],
                         [
                             "200",
@@ -17108,23 +17750,23 @@
                         ],
                         [
                             "210",
-                            "88"
+                            "84"
                         ],
                         [
                             "220",
-                            "96"
+                            "88"
                         ],
                         [
                             "229",
-                            "104"
+                            "92"
                         ],
                         [
                             "240",
-                            "112"
+                            "96"
                         ],
                         [
                             "250",
-                            "120"
+                            "100"
                         ]
                     ],
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1003_skill.png"
@@ -17239,7 +17881,7 @@
             "traces": {
                 "technique": {
                     "name": "Incomplete Combustion",
-                    "desc": "After using Technique, creates a dimension that lasts for 15 second(s). After entering battle with enemies in the dimension, there is a 100% base chance to increase Fire DMG taken by enemies by 10% for 2 turn(s). Only 1 dimension created by allies can exist at the same time.",
+                    "desc": "After using Technique, creates a special dimension that lasts for 15 second(s). After entering battle with enemies in the special dimension, there is a 100% base chance to increase Fire DMG taken by enemies by 10% for 2 turn(s). Only 1 dimension created by allies can exist at the same time.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1003_technique.png"
                 },
                 "ability_1": {
@@ -17857,7 +18499,7 @@
             "traces": {
                 "technique": {
                     "name": "Gravitational Imprisonment",
-                    "desc": "After using Welt's Technique, create a dimension that lasts for 15 second(s). Enemies in this dimension have their Movement SPD reduced by 50%. After entering battle with enemies in the dimension, there is a 100% base chance to Imprison the enemies for 1 turn.\nImprisoned enemies have their actions delayed by 20% and SPD reduced by 10%. Only 1 dimension created by allies can exist at the same time.",
+                    "desc": "After using Welt's Technique, create a special dimension that lasts for 15 second(s). Enemies in this special dimension have their Movement SPD reduced by 50%. After entering battle with enemies in the special dimension, there is a 100% base chance to Imprison the enemies for 1 turn.\nImprisoned enemies have their actions delayed by 20% and SPD reduced by 10%. Only 1 dimension created by allies can exist at the same time.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1004_technique.png"
                 },
                 "ability_1": {
@@ -35944,7 +36586,7 @@
             "traces": {
                 "technique": {
                     "name": "Shine of Truth",
-                    "desc": "After using this Technique, creates a dimension around Jingliu that lasts for 20 seconds, and all enemies in this dimension will become Frozen. After entering combat with enemies in the dimension, Jingliu immediately regenerates 15 Energy and obtains 1 stack(s) of Syzygy, with a 100% base chance of Freezing enemy targets for 1 turn(s). While Frozen, enemy targets cannot take action, and receive Ice Additional DMG equal to 80% of Jingliu's ATK at the start of every turn. Only 1 dimension created by allies can exist at the same time.",
+                    "desc": "After using this Technique, creates a special dimension around Jingliu that lasts for 20 seconds, and all enemies in this special dimension will become Frozen. After entering combat with enemies in the special dimension, Jingliu immediately regenerates 15 Energy and obtains 1 stack(s) of Syzygy, with a 100% base chance of Freezing enemy targets for 1 turn(s). While Frozen, enemy targets cannot take action, and receive Ice Additional DMG equal to 80% of Jingliu's ATK at the start of every turn. Only 1 dimension created by allies can exist at the same time.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1212_technique.png"
                 },
                 "ability_1": {
@@ -38362,7 +39004,7 @@
                 "talent": {
                     "name": "Possession: Ethereal Metaflow",
                     "max_level": 15,
-                    "desc": "After using her Skill, Huohuo gains Divine Provision, lasting for 2 turn(s). This duration decreases by 1 turn at the start of each Huohuo's turn. If Huohuo has Divine Provision when an ally's turn starts or when an ally uses their Ultimate, restores HP for that ally by an amount equal to {0}% of Huohuo's Max HP plus {1}. At the same time, every ally with 50% HP or lower receives healing once.\nWhen Divine Provision is triggered to heal an ally, dispel 1 debuff(s) from that ally. This effect can be triggered up to 6 time(s). Using the skill again resets the effect's trigger count.",
+                    "desc": "After using her Skill, Huohuo gains Divine Provision, lasting for 2 turn(s). This duration reduces by 1 turn at the start of Huohuo's every turn. If Huohuo has Divine Provision when an ally's turn starts or when an ally uses their Ultimate, restores HP for that ally by an amount equal to {0}% of Huohuo's Max HP plus {1}. At the same time, every ally with 50% HP or lower receives healing once.\nWhen Divine Provision is triggered to heal an ally, dispel 1 debuff(s) from that ally. This effect can be triggered up to 6 time(s). Using the skill again resets the effect's trigger count.",
                     "params": [
                         [
                             "3.0",
@@ -38783,12 +39425,12 @@
             "eidolons": [
                 {
                     "name": "Salty Dog",
-                    "desc": "When Gallagher enters the battle, regenerates 20 Energy and increases Effect RES by 50%.",
+                    "desc": "When entering the battle, Gallagher regenerates 20 Energy and increases Effect RES by 50%.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1301_rank1.png"
                 },
                 {
                     "name": "Lion's Tail",
-                    "desc": "When using the Skill, removes 1 debuff(s) from a target ally. At the same time, increases their Effect RES by 30%, lasting for 2 turn(s).",
+                    "desc": "When using the Skill, removes 1 debuff(s) from the target ally. At the same time, increases their Effect RES by 30%, lasting for 2 turn(s).",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1301_rank2.png"
                 },
                 {
@@ -38912,7 +39554,7 @@
                 "ult": {
                     "name": "Champagne Etiquette",
                     "max_level": 15,
-                    "desc": "Inflicts Besotted on all enemies, lasting for 2 turn(s). At the same time, deals Fire DMG equal to {0}% of Gallagher's ATK to all enemies, and enhances this unit's next Basic ATK to Nectar Blitz.",
+                    "desc": "Inflicts Besotted on all enemies, lasting for 2 turn(s). At the same time, deals Fire DMG equal to {0}% of Gallagher's ATK to all enemies, and enhances his next Basic ATK to Nectar Blitz.",
                     "params": [
                         [
                             "75"
@@ -38965,7 +39607,7 @@
                 "talent": {
                     "name": "Tipsy Tussle",
                     "max_level": 15,
-                    "desc": "The Besotted state increases the Break DMG that targets receive by {0}%. Every time a Besotted target is attacked by an ally, the attacker's HP gets restored by {1}.",
+                    "desc": "The Besotted state makes targets receive {0}% more Break DMG. Every time a Besotted target gets attacked by an ally, the attacking ally's HP is restored by {1}.",
                     "params": [
                         [
                             "6.0",
@@ -40050,7 +40692,7 @@
                 "skill": {
                     "name": "String Sings Slow Swirls",
                     "max_level": 15,
-                    "desc": "After using her Skill, Ruan Mei gains Overtone, lasting for 3 turn(s). This duration decreases by 1 at the start of Ruan Mei's turn. When Ruan Mei has Overtone, all allies' DMG increases by {0}% and Weakness Break Efficiency increases by 50%.",
+                    "desc": "After using her Skill, Ruan Mei gains Overtone, lasting for 3 turn(s). This duration reduces by 1 at the start of Ruan Mei's every turn. When Ruan Mei has Overtone, all allies' DMG increases by {0}% and Weakness Break Efficiency increases by 50%.",
                     "params": [
                         [
                             "16.0"
@@ -40597,7 +41239,7 @@
                 },
                 {
                     "name": "Bounded Rationality",
-                    "desc": "When using Basic ATK, reduces the target's All-Type RES by 12% for 3 turn(s).",
+                    "desc": "When using the Basic ATK, reduces the target's All-Type RES by 12% for 3 turn(s).",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1304_rank2.png"
                 },
                 {
@@ -40625,7 +41267,7 @@
                 },
                 {
                     "name": "Stag Hunt Game",
-                    "desc": "For every ally with a Shield, the DMG dealt by Aventurine increases by 50%, up to a maximum of 150%.",
+                    "desc": "For every ally that holds a Shield, the DMG dealt by Aventurine increases by 50%, up to a maximum of 150%.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1304_rank6.png"
                 }
             ],
@@ -40668,7 +41310,7 @@
                 "skill": {
                     "name": "Cornerstone Deluxe",
                     "max_level": 15,
-                    "desc": "Provides all allies with a Fortified Wager shield that can block DMG equal to {0}% of Aventurine's DEF plus {1}, lasting for 3 turn(s). When repeatedly gaining Fortified Wager, the Shield effect can stack, up to 200% of the Shield provided by the current Skill.",
+                    "desc": "Provides all allies with a Fortified Wager shield that can block DMG equal to {0}% of Aventurine's DEF plus {1}, lasting for 3 turn(s). When Fortified Wager is gained repeatedly, the Shield effect can stack, up to 200% of the current Shield effect provided by the Skill.",
                     "params": [
                         [
                             "16.0",
@@ -40736,7 +41378,7 @@
                 "ult": {
                     "name": "Roulette Shark",
                     "max_level": 15,
-                    "desc": "Randomly gains 1 to 7 points of Blind Bet. Then inflicts Unnerved on a single target enemy, lasting for 3 turn(s). And deals Imaginary DMG equal to {0}% of Aventurine's DEF to the single target enemy. When an ally hits an Unnerved enemy target, the CRIT DMG dealt increases by {1}%.",
+                    "desc": "Randomly gains 1 to 7 points of Blind Bet. Then, inflicts Unnerved on a single target enemy for 3 turn(s) and deals Imaginary DMG equal to {0}% of Aventurine's DEF to the single target enemy. When an ally hits an Unnerved enemy target, the CRIT DMG dealt increases by {1}%.",
                     "params": [
                         [
                             "162",
@@ -40804,7 +41446,7 @@
                 "talent": {
                     "name": "Shot Loaded Right",
                     "max_level": 15,
-                    "desc": "The Effect RES increases by {1}% for a single ally with Fortified Wager. And when this allied character gets attacked, Aventurine gains 1 point of Blind Bet. When Aventurine has Fortified Wager, he can resist Crowd Control debuffs. This effect can trigger again after 2 turn(s). Aventurine additionally gains 1 point(s) of Blind Bet after getting attacked. Upon reaching 7 points of Blind Bet, Aventurine consumes the 7 points to launch a 7-hit follow-up attack, with each hit dealing Imaginary DMG equal to {0}% of Aventurine's DEF to a single random enemy. Blind Bet is capped at 10 points.",
+                    "desc": "For any single ally with Fortified Wager, their Effect RES increases by {1}%, and when they get attacked, Aventurine gains 1 point of Blind Bet. When Aventurine has Fortified Wager, he can resist Crowd Control debuffs. This effect can trigger again after 2 turn(s). Aventurine additionally gains 1 point(s) of Blind Bet after getting attacked. Upon reaching 7 points of Blind Bet, Aventurine consumes the 7 points to launch a 7-hit follow-up attack, with each hit dealing Imaginary DMG equal to {0}% of Aventurine's DEF to a single random enemy. Blind Bet is capped at 10 points.",
                     "params": [
                         [
                             "12",
@@ -41461,7 +42103,7 @@
             "traces": {
                 "technique": {
                     "name": "Mold of Idolatry",
-                    "desc": "After using Technique, creates a dimension that Taunts nearby enemies, lasting for 10 second(s). After entering battle with enemies in this dimension, there is a 100% base chance to reduce each single enemy target's SPD by 15% for 2 turn(s). Only 1 dimension created by allies can exist at the same time.",
+                    "desc": "After using Technique, creates a special dimension that Taunts nearby enemies, lasting for 10 second(s). After entering battle with enemies in this special dimension, there is a 100% base chance to reduce each single enemy target's SPD by 15% for 2 turn(s). Only 1 dimension created by allies can exist at the same time.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1305_technique.png"
                 },
                 "ability_1": {
@@ -43097,7 +43739,7 @@
             "eidolons": [
                 {
                     "name": "Silenced Sky Spake Sooth",
-                    "desc": "CRIT Rate increases by 18% when dealing DMG to debuffed enemies.",
+                    "desc": "When dealing DMG to debuffed enemies, increases the CRIT Rate by 18%.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1308_rank1.png"
                 },
                 {
@@ -43116,7 +43758,7 @@
                 },
                 {
                     "name": "Shrined Fire for Mirrored Soul",
-                    "desc": "When enemy targets enter combat, afflict them with the Ultimate DMG Vulnerable Vulnerability state, increasing the amount of Ultimate DMG they take by 8%.",
+                    "desc": "When enemy targets enter combat, inflicts them with the Ultimate DMG Vulnerability, increasing the amount of Ultimate DMG they take by 8%.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1308_rank4.png"
                 },
                 {
@@ -43130,7 +43772,7 @@
                 },
                 {
                     "name": "Apocalypse, the Emancipator",
-                    "desc": "Increases the All-Type RES PEN for the Ultimate DMG dealt by Acheron by 20%. The DMG dealt by Basic ATK and Skill will also be considered as Ultimate DMG and can reduce enemy toughness regardless of Weakness Types. When Weakness is broken, triggers the Lightning Weakness Break effect.",
+                    "desc": "Increases the All-Type RES PEN for the Ultimate DMG dealt by Acheron by 20%. The DMG dealt by Basic ATK and Skill will also be considered as Ultimate DMG and can reduce enemy toughness regardless of Weakness Types. When breaking Weaknesses, triggers the Lightning Weakness Break effect.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1308_rank6.png"
                 }
             ],
@@ -43369,7 +44011,7 @@
                 "talent": {
                     "name": "Atop Rainleaf Hangs Oneness",
                     "max_level": 15,
-                    "desc": "When Slashed Dream reaches 9 point(s), the Ultimate can be activated. During the Ultimate, reduces enemies' Toughness regardless of Weakness Types and reduces all enemies' All-Type RES by {0}%, lasting until the end of the Ultimate.\nWhen any unit inflicts debuffs on an enemy target while using their ability, Acheron gains 1 point of Slashed Dream and inflicts 1 stack of Crimson Knot on the target. If debuffs are inflicted on multiple targets, then the 1 stack of Crimson Knot will be inflicted on the enemy target with the most Crimson Knot stacks. This effect can only trigger once per every ability usage.\nAfter an enemy target exits the field or gets defeated by any unit while Acheron is on the field, their Crimson Knot stacks will be transferred to the enemy target with the most Crimson Knot stacks on the whole field.",
+                    "desc": "When Slashed Dream reaches 9 point(s), the Ultimate can be activated. During the Ultimate, reduces enemies' Toughness regardless of Weakness Types and reduces all enemies' All-Type RES by {0}%, lasting until the end of the Ultimate.\nWhen any unit inflicts debuffs on an enemy target while using their ability, Acheron gains 1 point of Slashed Dream and inflicts 1 stack of Crimson Knot on a target. If debuffs are inflicted on multiple targets, then the 1 stack of Crimson Knot will be inflicted on the enemy target with the most Crimson Knot stacks. This effect can only trigger once for every ability use.\nAfter an enemy target exits the field or gets defeated by any unit while Acheron is on the field, their Crimson Knot stacks will be transferred to the enemy target with the most Crimson Knot stacks on the whole field.",
                     "params": [
                         [
                             "10"
@@ -43423,12 +44065,12 @@
             "traces": {
                 "technique": {
                     "name": "Quadrivalent Ascendance",
-                    "desc": "Immediately attacks the enemy. At the start of each wave, gains Quadrivalent Ascendance, dealing Lightning DMG equal to 200% of Acheron's ATK to all enemies and reducing Toughness of all enemies irrespective of Weakness Types. When Weakness is broken, triggers the Lightning Weakness Break effect.\nQuadrivalent Ascendance: After using the Ultimate, Acheron gains 1 point(s) of Slashed Dream and inflicts 1 stack(s) of Crimson Knot on a single random enemy.\nIf attacking a normal enemy, immediately defeats them without entering combat. When not hitting enemies, no Technique Points are consumed.",
+                    "desc": "Immediately attacks the enemy. At the start of each wave, gains Quadrivalent Ascendance, dealing Lightning DMG equal to 200% of Acheron's ATK to all enemies and reducing Toughness of all enemies irrespective of Weakness Types. When breaking Weaknesses, triggers the Lightning Weakness Break effect.\nQuadrivalent Ascendance: After using the Ultimate, Acheron gains 1 point(s) of Slashed Dream and inflicts 1 stack(s) of Crimson Knot on a single random enemy.\nIf attacking a normal enemy, immediately defeats them without entering combat. When not hitting enemies, no Technique Points are consumed.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1308_technique.png"
                 },
                 "ability_1": {
                     "name": "Red Oni",
-                    "desc": "When battle starts, immediately gains 5 point(s) of Slashed Dream and applies 5 stack(s) of Crimson Knot to a random enemy. When Slashed Dream reaches its upper limit, for every point of Slashed Dream that exceeds the limit, gains 1 stack of Quadrivalent Ascendance. Increases the maximum stackable count for Quadrivalent Ascendance to 3.",
+                    "desc": "When battle starts, immediately gains 5 point(s) of Slashed Dream and applies 5 stack(s) of Crimson Knot to a random enemy. When Slashed Dream reaches its upper limit, for every point of Slashed Dream that exceeds the limit, gains 1 stack of Quadrivalent Ascendance. Enables Quadrivalent Ascendance to stack up to 3 time(s).",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1308_skilltree1.png"
                 },
                 "ability_2": {
@@ -43555,6 +44197,624 @@
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1308.png",
             "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1308.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Acheron.png"
+        },
+        "Robin": {
+            "rarity": 5,
+            "path": "Harmony",
+            "element": "Physical",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 174.24,
+                        "step": 8.712
+                    },
+                    "atk": {
+                        "base": 87.12,
+                        "step": 4.356
+                    },
+                    "def": {
+                        "base": 66,
+                        "step": 3.3
+                    },
+                    "spd": {
+                        "base": 102,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 243.936,
+                        "step": 8.712
+                    },
+                    "atk": {
+                        "base": 121.968,
+                        "step": 4.356
+                    },
+                    "def": {
+                        "base": 92.4,
+                        "step": 3.3
+                    },
+                    "spd": {
+                        "base": 102,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 313.632,
+                        "step": 8.712
+                    },
+                    "atk": {
+                        "base": 156.816,
+                        "step": 4.356
+                    },
+                    "def": {
+                        "base": 118.8,
+                        "step": 3.3
+                    },
+                    "spd": {
+                        "base": 102,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 383.328,
+                        "step": 8.712
+                    },
+                    "atk": {
+                        "base": 191.664,
+                        "step": 4.356
+                    },
+                    "def": {
+                        "base": 145.2,
+                        "step": 3.3
+                    },
+                    "spd": {
+                        "base": 102,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 453.024,
+                        "step": 8.712
+                    },
+                    "atk": {
+                        "base": 226.512,
+                        "step": 4.356
+                    },
+                    "def": {
+                        "base": 171.6,
+                        "step": 3.3
+                    },
+                    "spd": {
+                        "base": 102,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 522.72,
+                        "step": 8.712
+                    },
+                    "atk": {
+                        "base": 261.36,
+                        "step": 4.356
+                    },
+                    "def": {
+                        "base": 198,
+                        "step": 3.3
+                    },
+                    "spd": {
+                        "base": 102,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 592.416,
+                        "step": 8.712
+                    },
+                    "atk": {
+                        "base": 296.208,
+                        "step": 4.356
+                    },
+                    "def": {
+                        "base": 224.4,
+                        "step": 3.3
+                    },
+                    "spd": {
+                        "base": 102,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                }
+            ],
+            "eidolons": [
+                {
+                    "name": "Land of Smiles",
+                    "desc": "While the Concerto state is active, all allies' All-Type RES PEN increases by 24%.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1309_rank1.png"
+                },
+                {
+                    "name": "Afternoon Tea For Two",
+                    "desc": "While the Concerto state is active, all allies' SPD increases by 16%. The Talent's Energy Regeneration effect additionally increases by 1.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1309_rank2.png"
+                },
+                {
+                    "name": "Inverted Tuning",
+                    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nUltimate Lv. +2, up to a maximum of Lv. 15.",
+                    "level_up_skills": {
+                        "skill": 2,
+                        "ult": 2
+                    },
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1309_skill.png"
+                },
+                {
+                    "name": "Raindrop Key",
+                    "desc": "When using the Ultimate, dispels Crowd Control debuffs from all allies. While Robin is in the Concerto state, increases the Effect RES of all allies by 50%.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1309_rank4.png"
+                },
+                {
+                    "name": "Lonestar's Lament",
+                    "desc": "Basic ATK Lv. +1, up to a maximum of Lv. 10.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+                    "level_up_skills": {
+                        "basic": 1,
+                        "talent": 2
+                    },
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1309_ultimate.png"
+                },
+                {
+                    "name": "Moonless Midnight",
+                    "desc": "While the Concerto state is active, the CRIT DMG for the Additional Physical DMG caused by the Ultimate increases by 450%. The effect of Moonless Midnight can trigger up to 8 time(s). And the trigger count resets each time the Ultimate is used.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1309_rank6.png"
+                }
+            ],
+            "skills": {
+                "basic": {
+                    "name": "Wingflip White Noise",
+                    "max_level": 9,
+                    "desc": "Deals Physical DMG equal to {0}% of Robin's ATK to a single target enemy.",
+                    "params": [
+                        [
+                            "50"
+                        ],
+                        [
+                            "60"
+                        ],
+                        [
+                            "70"
+                        ],
+                        [
+                            "80"
+                        ],
+                        [
+                            "90"
+                        ],
+                        [
+                            "100"
+                        ],
+                        [
+                            "110"
+                        ],
+                        [
+                            "120"
+                        ],
+                        [
+                            "130"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1309_basic_atk.png"
+                },
+                "skill": {
+                    "name": "Pinion's Aria",
+                    "max_level": 15,
+                    "desc": "Increase DMG dealt by all allies by {0}%, lasting for 3 turn(s). This duration reduces by 1 at the start of Robin's every turn.",
+                    "params": [
+                        [
+                            "25"
+                        ],
+                        [
+                            "27"
+                        ],
+                        [
+                            "30"
+                        ],
+                        [
+                            "32"
+                        ],
+                        [
+                            "35"
+                        ],
+                        [
+                            "37"
+                        ],
+                        [
+                            "40"
+                        ],
+                        [
+                            "43"
+                        ],
+                        [
+                            "46"
+                        ],
+                        [
+                            "50"
+                        ],
+                        [
+                            "52"
+                        ],
+                        [
+                            "55"
+                        ],
+                        [
+                            "57"
+                        ],
+                        [
+                            "60"
+                        ],
+                        [
+                            "62"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1309_skill.png"
+                },
+                "ult": {
+                    "name": "Vox Harmonique, Opus Cosmique",
+                    "max_level": 15,
+                    "desc": "Robin enters the Concerto state and makes all other allies immediately take action.\nWhile in the Concerto state, increases all allies' ATK by {0}% of Robin's ATK plus {1}. Moreover, after every attack by allies, Robin deals Additional Physical DMG equal to {2}% of her ATK for 1 time, with a fixed CRIT Rate for this damage set at 100% and fixed CRIT DMG set at 150%.\nWhile in the Concerto state, Robin is immune to Crowd Control debuffs and cannot enter her turn or take action until the Concerto state ends.\nA Concerto countdown appears on the Action Order bar. When the countdown's turn begins, Robin exits the Concerto state and immediately takes action. The countdown has its own fixed SPD of 90.",
+                    "params": [
+                        [
+                            "15.2",
+                            "50",
+                            "72"
+                        ],
+                        [
+                            "16.0",
+                            "65",
+                            "76"
+                        ],
+                        [
+                            "16.7",
+                            "80",
+                            "81"
+                        ],
+                        [
+                            "17.5",
+                            "95",
+                            "86"
+                        ],
+                        [
+                            "18.2",
+                            "110",
+                            "91"
+                        ],
+                        [
+                            "19.0",
+                            "125",
+                            "96"
+                        ],
+                        [
+                            "20.0",
+                            "143.75",
+                            "102"
+                        ],
+                        [
+                            "20.9",
+                            "162.5",
+                            "108"
+                        ],
+                        [
+                            "21.9",
+                            "181.25",
+                            "113"
+                        ],
+                        [
+                            "22.8",
+                            "200",
+                            "120"
+                        ],
+                        [
+                            "23.6",
+                            "215",
+                            "124"
+                        ],
+                        [
+                            "24.3",
+                            "230",
+                            "129"
+                        ],
+                        [
+                            "25.1",
+                            "245",
+                            "134"
+                        ],
+                        [
+                            "25.8",
+                            "260",
+                            "139"
+                        ],
+                        [
+                            "26.6",
+                            "275",
+                            "144"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1309_ultimate.png"
+                },
+                "talent": {
+                    "name": "Tonal Resonance",
+                    "max_level": 15,
+                    "desc": "Increase all allies' CRIT DMG by {0}%. Moreover, after allies attack enemy targets, Robin additionally regenerates 2 Energy for herself.",
+                    "params": [
+                        [
+                            "5.0"
+                        ],
+                        [
+                            "6.5"
+                        ],
+                        [
+                            "8.0"
+                        ],
+                        [
+                            "9.5"
+                        ],
+                        [
+                            "11.0"
+                        ],
+                        [
+                            "12.5"
+                        ],
+                        [
+                            "14.4"
+                        ],
+                        [
+                            "16.2"
+                        ],
+                        [
+                            "18.1"
+                        ],
+                        [
+                            "20.0"
+                        ],
+                        [
+                            "21.5"
+                        ],
+                        [
+                            "23.0"
+                        ],
+                        [
+                            "24.5"
+                        ],
+                        [
+                            "26.0"
+                        ],
+                        [
+                            "27.5"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1309_talent.png"
+                }
+            },
+            "traces": {
+                "technique": {
+                    "name": "Overture of Inebriation",
+                    "desc": "After using Technique, creates a special dimension around the character that lasts for 15 seconds. Enemies within this dimension will not attack Robin and will follow Robin while the dimension is active. After entering battle while the dimension is active, Robin regenerates 5 Energy at the start of each wave. Only 1 dimension created by allies can exist at the same time.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1309_technique.png"
+                },
+                "ability_1": {
+                    "name": "Coloratura Cadenza",
+                    "desc": "When the battle begins, this character's action is Advanced Forward by 25%.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1309_skilltree1.png"
+                },
+                "ability_2": {
+                    "name": "Impromptu Flourish",
+                    "desc": "While the Concerto state is active, the CRIT DMG dealt when all allies launch follow-up attacks increases by 25%.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1309_skilltree2.png"
+                },
+                "ability_3": {
+                    "name": "Sequential Passage",
+                    "desc": "When using Skill, additionally regenerates 5 Energy.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1309_skilltree3.png"
+                },
+                "stat_1": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.04
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
+                },
+                "stat_2": {
+                    "name": "HP Boost",
+                    "desc": "HP increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "hp_",
+                            "value": 0.04
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconMaxHP.png"
+                },
+                "stat_3": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.04
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
+                },
+                "stat_4": {
+                    "name": "SPD Boost",
+                    "desc": "SPD increases by 2",
+                    "modifiers": [
+                        {
+                            "type": "spd",
+                            "value": 2
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconSpeed.png"
+                },
+                "stat_5": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.06
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
+                },
+                "stat_6": {
+                    "name": "HP Boost",
+                    "desc": "HP increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "hp_",
+                            "value": 0.06
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconMaxHP.png"
+                },
+                "stat_7": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.06
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
+                },
+                "stat_8": {
+                    "name": "SPD Boost",
+                    "desc": "SPD increases by 3",
+                    "modifiers": [
+                        {
+                            "type": "spd",
+                            "value": 3
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconSpeed.png"
+                },
+                "stat_9": {
+                    "name": "HP Boost",
+                    "desc": "HP increases by 8.0%",
+                    "modifiers": [
+                        {
+                            "type": "hp_",
+                            "value": 0.08
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconMaxHP.png"
+                },
+                "stat_10": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 8.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.08
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
+                }
+            },
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1309.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1309.png",
+            "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Robin.png"
         },
         "Misha": {
             "rarity": 4,
@@ -44056,7 +45316,7 @@
             "traces": {
                 "technique": {
                     "name": "Wait, You Are So Beautiful!",
-                    "desc": "After using the Technique, creates a dimension that lasts for 15 seconds. Enemies caught in the dimension are inflicted with Dream Prison and stop all their actions. Upon entering battle against enemies afflicted with Dream Prison, increases the Hits Per Action for Misha's next Ultimate by 2 hit(s). Only 1 dimension created by allies can exist at the same time.",
+                    "desc": "After using the Technique, creates a special dimension that lasts for 15 seconds. Enemies caught in the special dimension are inflicted with Dream Prison and stop all their actions. Upon entering battle against enemies afflicted with Dream Prison, increases the Hits Per Action for Misha's next Ultimate by 2 hit(s). Only 1 dimension created by allies can exist at the same time.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1312_technique.png"
                 },
                 "ability_1": {
@@ -44188,6 +45448,639 @@
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1312.png",
             "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1312.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Misha.png"
+        },
+        "Boothill": {
+            "rarity": 5,
+            "path": "The Hunt",
+            "element": "Physical",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 163.68,
+                        "step": 8.184
+                    },
+                    "atk": {
+                        "base": 84.48,
+                        "step": 4.224
+                    },
+                    "def": {
+                        "base": 59.4,
+                        "step": 2.97
+                    },
+                    "spd": {
+                        "base": 107,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 229.152,
+                        "step": 8.184
+                    },
+                    "atk": {
+                        "base": 118.272,
+                        "step": 4.224
+                    },
+                    "def": {
+                        "base": 83.16,
+                        "step": 2.97
+                    },
+                    "spd": {
+                        "base": 107,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 294.624,
+                        "step": 8.184
+                    },
+                    "atk": {
+                        "base": 152.064,
+                        "step": 4.224
+                    },
+                    "def": {
+                        "base": 106.92,
+                        "step": 2.97
+                    },
+                    "spd": {
+                        "base": 107,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 360.096,
+                        "step": 8.184
+                    },
+                    "atk": {
+                        "base": 185.856,
+                        "step": 4.224
+                    },
+                    "def": {
+                        "base": 130.68,
+                        "step": 2.97
+                    },
+                    "spd": {
+                        "base": 107,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 425.568,
+                        "step": 8.184
+                    },
+                    "atk": {
+                        "base": 219.648,
+                        "step": 4.224
+                    },
+                    "def": {
+                        "base": 154.44,
+                        "step": 2.97
+                    },
+                    "spd": {
+                        "base": 107,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 491.04,
+                        "step": 8.184
+                    },
+                    "atk": {
+                        "base": 253.44,
+                        "step": 4.224
+                    },
+                    "def": {
+                        "base": 178.2,
+                        "step": 2.97
+                    },
+                    "spd": {
+                        "base": 107,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 556.512,
+                        "step": 8.184
+                    },
+                    "atk": {
+                        "base": 287.232,
+                        "step": 4.224
+                    },
+                    "def": {
+                        "base": 201.96,
+                        "step": 2.97
+                    },
+                    "spd": {
+                        "base": 107,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                }
+            ],
+            "eidolons": [
+                {
+                    "name": "Dusty Trail's Lone Star",
+                    "desc": "When the battle starts, obtains 1 stack of Pocket Trickshot. When Boothill deals DMG, ignores 16% of the enemy target's DEF.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1315_rank1.png"
+                },
+                {
+                    "name": "Milestonemonger",
+                    "desc": "When in Standoff and gaining Pocket Trickshot, recovers 1 Skill Point(s) and increases Break Effect by 30%, lasting for 2 turn(s). Can also trigger this effect when gaining Pocket Trickshot stacks that exceed the max limit. But cannot trigger repeatedly within one turn.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1315_rank2.png"
+                },
+                {
+                    "name": "Marble Orchard's Guard",
+                    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+                    "level_up_skills": {
+                        "ult": 2,
+                        "basic": 1
+                    },
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1315_skill.png"
+                },
+                {
+                    "name": "Cold Cuts Chef",
+                    "desc": "When the enemy target in the Standoff is attacked by Boothill, the DMG they receive additionally increases by 12%. When Boothill is attacked by the enemy target in the Standoff, the effect of him receiving increased DMG is offset by 12%.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1315_rank4.png"
+                },
+                {
+                    "name": "Stump Speech",
+                    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+                    "level_up_skills": {
+                        "skill": 2,
+                        "talent": 2
+                    },
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1315_ultimate.png"
+                },
+                {
+                    "name": "Crowbar Hotel's Raccoon",
+                    "desc": "When triggering the Talent's Break DMG, additionally deals Break DMG to the target equal to 40% of the original DMG multiplier and additionally deals Break DMG to adjacent targets equal to 70% of the original DMG multiplier.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1315_rank6.png"
+                }
+            ],
+            "skills": {
+                "basic": {
+                    "name": "Skullcrush Spurs",
+                    "max_level": 9,
+                    "desc": "Deals Physical DMG equal to {0}% of Boothill's ATK to a single target enemy.",
+                    "params": [
+                        [
+                            "50"
+                        ],
+                        [
+                            "60"
+                        ],
+                        [
+                            "70"
+                        ],
+                        [
+                            "80"
+                        ],
+                        [
+                            "90"
+                        ],
+                        [
+                            "100"
+                        ],
+                        [
+                            "110"
+                        ],
+                        [
+                            "120"
+                        ],
+                        [
+                            "130"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1315_basic_atk.png"
+                },
+                "skill": {
+                    "name": "Sizzlin' Tango",
+                    "max_level": 15,
+                    "desc": "Forces Boothill and a single target enemy into the Standoff state. Boothill's Basic ATK gets Enhanced, and he cannot use his Skill, lasting for 2 turn(s). This duration reduces by 1 at the start of Boothill's every turn.\nThe enemy target in the Standoff becomes Taunted. When this enemy target/Boothill gets attacked by the other party in the Standoff, the DMG they receive increases by {0}%/15%.\nAfter this target is defeated or becomes Weakness Broken, Boothill gains 1 stack of Pocket Trickshot, then dispels the Standoff.\nThis Skill cannot regenerate Energy. After using this Skill, the current turn does not end.",
+                    "params": [
+                        [
+                            "15"
+                        ],
+                        [
+                            "16"
+                        ],
+                        [
+                            "18"
+                        ],
+                        [
+                            "19"
+                        ],
+                        [
+                            "21"
+                        ],
+                        [
+                            "22"
+                        ],
+                        [
+                            "24"
+                        ],
+                        [
+                            "26"
+                        ],
+                        [
+                            "28"
+                        ],
+                        [
+                            "30"
+                        ],
+                        [
+                            "31"
+                        ],
+                        [
+                            "33"
+                        ],
+                        [
+                            "34"
+                        ],
+                        [
+                            "36"
+                        ],
+                        [
+                            "37"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1315_skill.png"
+                },
+                "ult": {
+                    "name": "Dust Devil's Sunset Rodeo",
+                    "max_level": 15,
+                    "desc": "Applies Physical Weakness to a single target enemy, lasting for 2 turn(s).\nDeals Physical DMG equal to {0}% of Boothill's ATK to the target and delays their action by {1}%.",
+                    "params": [
+                        [
+                            "240",
+                            "30"
+                        ],
+                        [
+                            "256",
+                            "31"
+                        ],
+                        [
+                            "272",
+                            "32"
+                        ],
+                        [
+                            "288",
+                            "33"
+                        ],
+                        [
+                            "304",
+                            "34"
+                        ],
+                        [
+                            "320",
+                            "35"
+                        ],
+                        [
+                            "340",
+                            "36"
+                        ],
+                        [
+                            "360",
+                            "37"
+                        ],
+                        [
+                            "380",
+                            "38"
+                        ],
+                        [
+                            "400",
+                            "40"
+                        ],
+                        [
+                            "416",
+                            "41"
+                        ],
+                        [
+                            "432",
+                            "42"
+                        ],
+                        [
+                            "448",
+                            "43"
+                        ],
+                        [
+                            "463",
+                            "44"
+                        ],
+                        [
+                            "480",
+                            "45"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1315_ultimate.png"
+                },
+                "talent": {
+                    "name": "Five Peas in a Pod",
+                    "max_level": 15,
+                    "desc": "Each stack of Pocket Trickshot increases the Enhanced Basic Attack's Toughness Reduction by 50%, stacking up to 3 time(s).\nIf the target is Weakness Broken while the Enhanced Basic ATK is being used, based on the number of Pocket Trickshot stacks, deals Break DMG to this target equal to {0}%/{1}%/{2}% of Boothill's Physical Break DMG. The max Toughness taken into account for this DMG cannot exceed 16 times the base Toughness Reduction of the Basic Attack \"Skullcrush Spurs.\"\nAfter winning the battle, Boothill can retain Pocket Trickshot for the next battle.",
+                    "params": [
+                        [
+                            "35",
+                            "60",
+                            "85"
+                        ],
+                        [
+                            "38",
+                            "66",
+                            "93"
+                        ],
+                        [
+                            "42",
+                            "72",
+                            "102"
+                        ],
+                        [
+                            "45",
+                            "78",
+                            "110"
+                        ],
+                        [
+                            "49",
+                            "84",
+                            "119"
+                        ],
+                        [
+                            "52",
+                            "90",
+                            "127"
+                        ],
+                        [
+                            "56",
+                            "97",
+                            "138"
+                        ],
+                        [
+                            "61",
+                            "105",
+                            "148"
+                        ],
+                        [
+                            "65",
+                            "112",
+                            "159"
+                        ],
+                        [
+                            "70",
+                            "120",
+                            "170"
+                        ],
+                        [
+                            "73",
+                            "126",
+                            "178"
+                        ],
+                        [
+                            "77",
+                            "132",
+                            "187"
+                        ],
+                        [
+                            "80",
+                            "138",
+                            "195"
+                        ],
+                        [
+                            "84",
+                            "144",
+                            "204"
+                        ],
+                        [
+                            "87",
+                            "150",
+                            "212"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1315_talent.png"
+                }
+            },
+            "traces": {
+                "technique": {
+                    "name": "3-9\u00d7 Smile",
+                    "desc": "After the Technique is used, when casting the Skill for the first time in the next battle, applies the same Physical Weakness to the target as the one induced by the Ultimate, lasting for 2 turn(s).",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1315_technique.png"
+                },
+                "ability_1": {
+                    "name": "Ghost Load",
+                    "desc": "Increase this character's CRIT Rate/CRIT DMG, by an amount equal to 10%/50% of Break Effect, up to a max increase of 30%/150%.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1315_skilltree1.png"
+                },
+                "ability_2": {
+                    "name": "Above Snakes",
+                    "desc": "While Boothill is in the Standoff, reduces the DMG he receives from targets that are not in the Standoff by 30%.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1315_skilltree2.png"
+                },
+                "ability_3": {
+                    "name": "Point Blank",
+                    "desc": "When in Standoff and gaining Pocket Trickshot, regenerates 10 Energy. Can also trigger this effect when gaining Pocket Trickshot stacks that exceed the max limit.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1315_skilltree3.png"
+                },
+                "stat_1": {
+                    "name": "Break Enhance",
+                    "desc": "Break Effect increases by 5.3%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.053
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                },
+                "stat_2": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.04
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
+                },
+                "stat_3": {
+                    "name": "Break Enhance",
+                    "desc": "Break Effect increases by 5.3%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.053
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                },
+                "stat_4": {
+                    "name": "HP Boost",
+                    "desc": "HP increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "hp_",
+                            "value": 0.04
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconMaxHP.png"
+                },
+                "stat_5": {
+                    "name": "Break Enhance",
+                    "desc": "Break Effect increases by 8.0%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.08
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                },
+                "stat_6": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.06
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
+                },
+                "stat_7": {
+                    "name": "Break Enhance",
+                    "desc": "Break Effect increases by 8.0%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.08
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                },
+                "stat_8": {
+                    "name": "HP Boost",
+                    "desc": "HP increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "hp_",
+                            "value": 0.06
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconMaxHP.png"
+                },
+                "stat_9": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 8.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.08
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
+                },
+                "stat_10": {
+                    "name": "Break Enhance",
+                    "desc": "Break Effect increases by 10.7%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.107
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                }
+            },
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1315.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1315.png",
+            "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Boothill.png"
         },
         "TrailblazerDestruction#M": {
             "rarity": 5,
@@ -46660,6 +48553,1182 @@
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8004.png",
             "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/8004.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/TrailblazerPreservation%23F.png"
+        },
+        "TrailblazerHarmony#M": {
+            "rarity": 5,
+            "path": "Harmony",
+            "element": "Imaginary",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 147.84,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 60.72,
+                        "step": 3.036
+                    },
+                    "def": {
+                        "base": 92.4,
+                        "step": 4.62
+                    },
+                    "spd": {
+                        "base": 105,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 206.976,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 85.008,
+                        "step": 3.036
+                    },
+                    "def": {
+                        "base": 129.36,
+                        "step": 4.62
+                    },
+                    "spd": {
+                        "base": 105,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 266.112,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 109.296,
+                        "step": 3.036
+                    },
+                    "def": {
+                        "base": 166.32,
+                        "step": 4.62
+                    },
+                    "spd": {
+                        "base": 105,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 325.248,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 133.584,
+                        "step": 3.036
+                    },
+                    "def": {
+                        "base": 203.28,
+                        "step": 4.62
+                    },
+                    "spd": {
+                        "base": 105,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 384.384,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 157.872,
+                        "step": 3.036
+                    },
+                    "def": {
+                        "base": 240.24,
+                        "step": 4.62
+                    },
+                    "spd": {
+                        "base": 105,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 443.52,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 182.16,
+                        "step": 3.036
+                    },
+                    "def": {
+                        "base": 277.2,
+                        "step": 4.62
+                    },
+                    "spd": {
+                        "base": 105,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 502.656,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 206.448,
+                        "step": 3.036
+                    },
+                    "def": {
+                        "base": 314.16,
+                        "step": 4.62
+                    },
+                    "spd": {
+                        "base": 105,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                }
+            ],
+            "eidolons": [
+                {
+                    "name": "Best Seat in the House",
+                    "desc": "After using Skill for the first time, immediately recovers 1 Skill Point(s).",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_rank1.png"
+                },
+                {
+                    "name": "Jailbreaking Rainbowwalk",
+                    "desc": "When the battle starts, the Trailblazer's Energy Regeneration Rate increases by 25%, lasting for 3 turn(s).",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_rank2.png"
+                },
+                {
+                    "name": "Sanatorium for Rest Notes",
+                    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+                    "level_up_skills": {
+                        "skill": 2,
+                        "talent": 2
+                    },
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_skill.png"
+                },
+                {
+                    "name": "Dove in Tophat",
+                    "desc": "While the Trailblazer is on the field, increases the Break Effect of all teammates (excluding the Trailblazer), by an amount equal to 15% of the Trailblazer's Break Effect.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_rank4.png"
+                },
+                {
+                    "name": "Poem Favors Rhythms of Old",
+                    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+                    "level_up_skills": {
+                        "ult": 2,
+                        "basic": 1
+                    },
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_ultimate.png"
+                },
+                {
+                    "name": "Tomorrow, Rest in Spotlight",
+                    "desc": "The number of additional DMG applications by the Skill increases by 2.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_rank6.png"
+                }
+            ],
+            "skills": {
+                "basic": {
+                    "name": "Swing Dance Etiquette",
+                    "max_level": 9,
+                    "desc": "Deals Imaginary DMG equal to {0}% of the Trailblazer's ATK to a single target enemy.",
+                    "params": [
+                        [
+                            "50"
+                        ],
+                        [
+                            "60"
+                        ],
+                        [
+                            "70"
+                        ],
+                        [
+                            "80"
+                        ],
+                        [
+                            "90"
+                        ],
+                        [
+                            "100"
+                        ],
+                        [
+                            "110"
+                        ],
+                        [
+                            "120"
+                        ],
+                        [
+                            "130"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_basic_atk.png"
+                },
+                "skill": {
+                    "name": "Halftime to Make It Rain",
+                    "max_level": 15,
+                    "desc": "Deals Imaginary DMG equal to {0}% of the Trailblazer's ATK to a single target enemy and additionally deals DMG for 4 times, with each time dealing Imaginary DMG equal to {0}% of the Trailblazer's ATK to a random enemy.",
+                    "params": [
+                        [
+                            "25"
+                        ],
+                        [
+                            "27"
+                        ],
+                        [
+                            "30"
+                        ],
+                        [
+                            "32"
+                        ],
+                        [
+                            "35"
+                        ],
+                        [
+                            "37"
+                        ],
+                        [
+                            "40"
+                        ],
+                        [
+                            "43"
+                        ],
+                        [
+                            "46"
+                        ],
+                        [
+                            "50"
+                        ],
+                        [
+                            "52"
+                        ],
+                        [
+                            "55"
+                        ],
+                        [
+                            "57"
+                        ],
+                        [
+                            "60"
+                        ],
+                        [
+                            "62"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_skill.png"
+                },
+                "ult": {
+                    "name": "All-Out Footlight Parade",
+                    "max_level": 15,
+                    "desc": "Grants all allies the Backup Dancer effect, lasting for 3 turn(s). This duration reduces by 1 at the start of Trailblazer's every turn. Allies with the Backup Dancer effect have their Break Effect increased by {0}%. And when they attack enemy targets that are in the Weakness Broken state, the Toughness Reduction of the attack will be converted into 1 instance of Super Break DMG.",
+                    "params": [
+                        [
+                            "15"
+                        ],
+                        [
+                            "16"
+                        ],
+                        [
+                            "18"
+                        ],
+                        [
+                            "19"
+                        ],
+                        [
+                            "21"
+                        ],
+                        [
+                            "22"
+                        ],
+                        [
+                            "24"
+                        ],
+                        [
+                            "26"
+                        ],
+                        [
+                            "28"
+                        ],
+                        [
+                            "30"
+                        ],
+                        [
+                            "31"
+                        ],
+                        [
+                            "33"
+                        ],
+                        [
+                            "34"
+                        ],
+                        [
+                            "36"
+                        ],
+                        [
+                            "37"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_ultimate.png"
+                },
+                "talent": {
+                    "name": "Full-on Aerial Dance",
+                    "max_level": 15,
+                    "desc": "The Trailblazer immediately regenerates {0} Energy when an enemy target's Weakness is Broken.",
+                    "params": [
+                        [
+                            "5.0"
+                        ],
+                        [
+                            "5.5"
+                        ],
+                        [
+                            "6.0"
+                        ],
+                        [
+                            "6.5"
+                        ],
+                        [
+                            "7.0"
+                        ],
+                        [
+                            "7.5"
+                        ],
+                        [
+                            "8.1"
+                        ],
+                        [
+                            "8.8"
+                        ],
+                        [
+                            "9.4"
+                        ],
+                        [
+                            "10.0"
+                        ],
+                        [
+                            "10.5"
+                        ],
+                        [
+                            "11.0"
+                        ],
+                        [
+                            "11.5"
+                        ],
+                        [
+                            "12.0"
+                        ],
+                        [
+                            "12.5"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_talent.png"
+                }
+            },
+            "traces": {
+                "technique": {
+                    "name": "Now! I'm the Band!",
+                    "desc": "After the Technique is used, at the start of the next battle, all allies' Break Effect increases by 30%, lasting for 2 turn(s).",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_technique.png"
+                },
+                "ability_1": {
+                    "name": "Dance With the One",
+                    "desc": "When the number of enemy targets on the field is 5 (or more)/4/3/2/1, the Super Break DMG triggered by the Backup Dancer effect increases by 20%/30%/40%/50%/60%.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_skilltree1.png"
+                },
+                "ability_2": {
+                    "name": "Shuffle Along",
+                    "desc": "When using Skill, additionally increases the Toughness Reduction of the first instance of DMG by 100%.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_skilltree2.png"
+                },
+                "ability_3": {
+                    "name": "Hat of the Theater",
+                    "desc": "Additionally delays the enemy target's action by 30% when allies Break enemy Weaknesses.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_skilltree3.png"
+                },
+                "stat_1": {
+                    "name": "Break Enhance",
+                    "desc": "Break Effect increases by 5.3%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.053
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                },
+                "stat_2": {
+                    "name": "DMG Boost: Imaginary",
+                    "desc": "Imaginary DMG increases by 3.2%",
+                    "modifiers": [
+                        {
+                            "type": "imaginary",
+                            "value": 0.032
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconImaginaryAddedRatio.png"
+                },
+                "stat_3": {
+                    "name": "Break Enhance",
+                    "desc": "Break Effect increases by 5.3%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.053
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                },
+                "stat_4": {
+                    "name": "Effect RES Boost",
+                    "desc": "Effect RES resistance increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "effect_res",
+                            "value": 0.04
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
+                },
+                "stat_5": {
+                    "name": "Break Enhance",
+                    "desc": "Break Effect increases by 8.0%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.08
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                },
+                "stat_6": {
+                    "name": "DMG Boost: Imaginary",
+                    "desc": "Imaginary DMG increases by 4.8%",
+                    "modifiers": [
+                        {
+                            "type": "imaginary",
+                            "value": 0.048
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconImaginaryAddedRatio.png"
+                },
+                "stat_7": {
+                    "name": "Break Enhance",
+                    "desc": "Break Effect increases by 8.0%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.08
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                },
+                "stat_8": {
+                    "name": "Effect RES Boost",
+                    "desc": "Effect RES resistance increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "effect_res",
+                            "value": 0.06
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
+                },
+                "stat_9": {
+                    "name": "DMG Boost: Imaginary",
+                    "desc": "Imaginary DMG increases by 6.4%",
+                    "modifiers": [
+                        {
+                            "type": "imaginary",
+                            "value": 0.064
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconImaginaryAddedRatio.png"
+                },
+                "stat_10": {
+                    "name": "Break Enhance",
+                    "desc": "Break Effect increases by 10.7%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.107
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                }
+            },
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8005.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/8005.png",
+            "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/TrailblazerHarmony%23M.png"
+        },
+        "TrailblazerHarmony#F": {
+            "rarity": 5,
+            "path": "Harmony",
+            "element": "Imaginary",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 147.84,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 60.72,
+                        "step": 3.036
+                    },
+                    "def": {
+                        "base": 92.4,
+                        "step": 4.62
+                    },
+                    "spd": {
+                        "base": 105,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 206.976,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 85.008,
+                        "step": 3.036
+                    },
+                    "def": {
+                        "base": 129.36,
+                        "step": 4.62
+                    },
+                    "spd": {
+                        "base": 105,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 266.112,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 109.296,
+                        "step": 3.036
+                    },
+                    "def": {
+                        "base": 166.32,
+                        "step": 4.62
+                    },
+                    "spd": {
+                        "base": 105,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 325.248,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 133.584,
+                        "step": 3.036
+                    },
+                    "def": {
+                        "base": 203.28,
+                        "step": 4.62
+                    },
+                    "spd": {
+                        "base": 105,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 384.384,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 157.872,
+                        "step": 3.036
+                    },
+                    "def": {
+                        "base": 240.24,
+                        "step": 4.62
+                    },
+                    "spd": {
+                        "base": 105,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 443.52,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 182.16,
+                        "step": 3.036
+                    },
+                    "def": {
+                        "base": 277.2,
+                        "step": 4.62
+                    },
+                    "spd": {
+                        "base": 105,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 502.656,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 206.448,
+                        "step": 3.036
+                    },
+                    "def": {
+                        "base": 314.16,
+                        "step": 4.62
+                    },
+                    "spd": {
+                        "base": 105,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 100,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                }
+            ],
+            "eidolons": [
+                {
+                    "name": "Best Seat in the House",
+                    "desc": "After using Skill for the first time, immediately recovers 1 Skill Point(s).",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_rank1.png"
+                },
+                {
+                    "name": "Jailbreaking Rainbowwalk",
+                    "desc": "When the battle starts, the Trailblazer's Energy Regeneration Rate increases by 25%, lasting for 3 turn(s).",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_rank2.png"
+                },
+                {
+                    "name": "Sanatorium for Rest Notes",
+                    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+                    "level_up_skills": {
+                        "skill": 2,
+                        "talent": 2
+                    },
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8006_skill.png"
+                },
+                {
+                    "name": "Dove in Tophat",
+                    "desc": "While the Trailblazer is on the field, increases the Break Effect of all teammates (excluding the Trailblazer), by an amount equal to 15% of the Trailblazer's Break Effect.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_rank4.png"
+                },
+                {
+                    "name": "Poem Favors Rhythms of Old",
+                    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+                    "level_up_skills": {
+                        "ult": 2,
+                        "basic": 1
+                    },
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8006_ultimate.png"
+                },
+                {
+                    "name": "Tomorrow, Rest in Spotlight",
+                    "desc": "The number of additional DMG applications by the Skill increases by 2.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_rank6.png"
+                }
+            ],
+            "skills": {
+                "basic": {
+                    "name": "Swing Dance Etiquette",
+                    "max_level": 9,
+                    "desc": "Deals Imaginary DMG equal to {0}% of the Trailblazer's ATK to a single enemy.",
+                    "params": [
+                        [
+                            "50"
+                        ],
+                        [
+                            "60"
+                        ],
+                        [
+                            "70"
+                        ],
+                        [
+                            "80"
+                        ],
+                        [
+                            "90"
+                        ],
+                        [
+                            "100"
+                        ],
+                        [
+                            "110"
+                        ],
+                        [
+                            "120"
+                        ],
+                        [
+                            "130"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8006_basic_atk.png"
+                },
+                "skill": {
+                    "name": "Halftime to Make It Rain",
+                    "max_level": 15,
+                    "desc": "Deals Imaginary DMG equal to {0}% of the Trailblazer's ATK to a single target enemy and additionally deals DMG for 4 times, with each time dealing Imaginary DMG equal to {0}% of the Trailblazer's ATK to a random enemy.",
+                    "params": [
+                        [
+                            "25"
+                        ],
+                        [
+                            "27"
+                        ],
+                        [
+                            "30"
+                        ],
+                        [
+                            "32"
+                        ],
+                        [
+                            "35"
+                        ],
+                        [
+                            "37"
+                        ],
+                        [
+                            "40"
+                        ],
+                        [
+                            "43"
+                        ],
+                        [
+                            "46"
+                        ],
+                        [
+                            "50"
+                        ],
+                        [
+                            "52"
+                        ],
+                        [
+                            "55"
+                        ],
+                        [
+                            "57"
+                        ],
+                        [
+                            "60"
+                        ],
+                        [
+                            "62"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8006_skill.png"
+                },
+                "ult": {
+                    "name": "All-Out Footlight Parade",
+                    "max_level": 15,
+                    "desc": "Grants all allies the Backup Dancer effect, lasting for 3 turn(s). This duration reduces by 1 at the start of Trailblazer's every turn. Allies with the Backup Dancer effect have their Break Effect increased by {0}%. And when they attack enemy targets that are in the Weakness Broken state, the Toughness Reduction of the attack will be converted into 1 instance of Super Break DMG.",
+                    "params": [
+                        [
+                            "15"
+                        ],
+                        [
+                            "16"
+                        ],
+                        [
+                            "18"
+                        ],
+                        [
+                            "19"
+                        ],
+                        [
+                            "21"
+                        ],
+                        [
+                            "22"
+                        ],
+                        [
+                            "24"
+                        ],
+                        [
+                            "26"
+                        ],
+                        [
+                            "28"
+                        ],
+                        [
+                            "30"
+                        ],
+                        [
+                            "31"
+                        ],
+                        [
+                            "33"
+                        ],
+                        [
+                            "34"
+                        ],
+                        [
+                            "36"
+                        ],
+                        [
+                            "37"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8006_ultimate.png"
+                },
+                "talent": {
+                    "name": "Full-on Aerial Dance",
+                    "max_level": 15,
+                    "desc": "The Trailblazer immediately regenerates {0} Energy when an enemy target's Weakness is Broken.",
+                    "params": [
+                        [
+                            "5.0"
+                        ],
+                        [
+                            "5.5"
+                        ],
+                        [
+                            "6.0"
+                        ],
+                        [
+                            "6.5"
+                        ],
+                        [
+                            "7.0"
+                        ],
+                        [
+                            "7.5"
+                        ],
+                        [
+                            "8.1"
+                        ],
+                        [
+                            "8.8"
+                        ],
+                        [
+                            "9.4"
+                        ],
+                        [
+                            "10.0"
+                        ],
+                        [
+                            "10.5"
+                        ],
+                        [
+                            "11.0"
+                        ],
+                        [
+                            "11.5"
+                        ],
+                        [
+                            "12.0"
+                        ],
+                        [
+                            "12.5"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8006_talent.png"
+                }
+            },
+            "traces": {
+                "technique": {
+                    "name": "Now! I'm the Band!",
+                    "desc": "After the Technique is used, at the start of the next battle, all allies' Break Effect increases by 30%, lasting for 2 turn(s).",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8006_technique.png"
+                },
+                "ability_1": {
+                    "name": "Dance With the One",
+                    "desc": "When the number of enemy targets on the field is 5 (or more)/4/3/2/1, the Super Break DMG triggered by the Backup Dancer effect increases by 20%/30%/40%/50%/60%.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8006_skilltree1.png"
+                },
+                "ability_2": {
+                    "name": "Shuffle Along",
+                    "desc": "When using Skill, additionally increases the Toughness Reduction of the first instance of DMG by 100%.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8006_skilltree2.png"
+                },
+                "ability_3": {
+                    "name": "Hat of the Theater",
+                    "desc": "Additionally delays the enemy target's action by 30% when allies Break enemy Weaknesses.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8006_skilltree3.png"
+                },
+                "stat_1": {
+                    "name": "Break Enhance",
+                    "desc": "Break Effect increases by 5.3%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.053
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                },
+                "stat_2": {
+                    "name": "DMG Boost: Imaginary",
+                    "desc": "Imaginary DMG increases by 3.2%",
+                    "modifiers": [
+                        {
+                            "type": "imaginary",
+                            "value": 0.032
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconImaginaryAddedRatio.png"
+                },
+                "stat_3": {
+                    "name": "Break Enhance",
+                    "desc": "Break Effect increases by 5.3%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.053
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                },
+                "stat_4": {
+                    "name": "Effect RES Boost",
+                    "desc": "Effect RES resistance increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "effect_res",
+                            "value": 0.04
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
+                },
+                "stat_5": {
+                    "name": "Break Enhance",
+                    "desc": "Break Effect increases by 8.0%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.08
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                },
+                "stat_6": {
+                    "name": "DMG Boost: Imaginary",
+                    "desc": "Imaginary DMG increases by 4.8%",
+                    "modifiers": [
+                        {
+                            "type": "imaginary",
+                            "value": 0.048
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconImaginaryAddedRatio.png"
+                },
+                "stat_7": {
+                    "name": "Break Enhance",
+                    "desc": "Break Effect increases by 8.0%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.08
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                },
+                "stat_8": {
+                    "name": "Effect RES Boost",
+                    "desc": "Effect RES resistance increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "effect_res",
+                            "value": 0.06
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
+                },
+                "stat_9": {
+                    "name": "DMG Boost: Imaginary",
+                    "desc": "Imaginary DMG increases by 6.4%",
+                    "modifiers": [
+                        {
+                            "type": "imaginary",
+                            "value": 0.064
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconImaginaryAddedRatio.png"
+                },
+                "stat_10": {
+                    "name": "Break Enhance",
+                    "desc": "Break Effect increases by 10.7%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.107
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                }
+            },
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8005.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/8005.png",
+            "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/TrailblazerHarmony%23F.png"
         }
     }
 }

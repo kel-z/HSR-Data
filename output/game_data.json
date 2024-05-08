@@ -1,5 +1,5 @@
 {
-    "version": "2.1",
+    "version": "2.2",
     "light_cones": {
         "Arrows": {
             "rarity": 3
@@ -288,6 +288,18 @@
         },
         "Concert for Two": {
             "rarity": 4
+        },
+        "Sailing Towards a Second Life": {
+            "rarity": 5
+        },
+        "Boundless Choreo": {
+            "rarity": 4
+        },
+        "For Tomorrow's Journey": {
+            "rarity": 4
+        },
+        "Flowing Nightglow": {
+            "rarity": 5
         }
     },
     "relics": {
@@ -1143,7 +1155,27 @@
                 "talent": 2
             }
         },
+        "Robin": {
+            "e3": {
+                "skill": 2,
+                "ult": 2
+            },
+            "e5": {
+                "basic": 1,
+                "talent": 2
+            }
+        },
         "Misha": {
+            "e3": {
+                "ult": 2,
+                "basic": 1
+            },
+            "e5": {
+                "skill": 2,
+                "talent": 2
+            }
+        },
+        "Boothill": {
             "e3": {
                 "ult": 2,
                 "basic": 1
@@ -1164,6 +1196,16 @@
             }
         },
         "TrailblazerPreservation": {
+            "e3": {
+                "skill": 2,
+                "talent": 2
+            },
+            "e5": {
+                "ult": 2,
+                "basic": 1
+            }
+        },
+        "TrailblazerHarmony": {
             "e3": {
                 "skill": 2,
                 "talent": 2
