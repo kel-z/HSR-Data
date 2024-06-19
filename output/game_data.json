@@ -1,5 +1,5 @@
 {
-    "version": "2.2",
+    "version": "2.3",
     "light_cones": {
         "Arrows": {
             "rarity": 3
@@ -277,10 +277,16 @@
         "Shared Feeling": {
             "rarity": 4
         },
+        "Eternal Calculus": {
+            "rarity": 5
+        },
         "Hey, Over Here": {
             "rarity": 4
         },
         "Along the Passing Shore": {
+            "rarity": 5
+        },
+        "Whereabouts Should Dreams Rest": {
             "rarity": 5
         },
         "Indelible Promise": {
@@ -292,7 +298,13 @@
         "Sailing Towards a Second Life": {
             "rarity": 5
         },
+        "Yet Hope Is Priceless": {
+            "rarity": 5
+        },
         "Boundless Choreo": {
+            "rarity": 4
+        },
+        "After the Charmony Fall": {
             "rarity": 4
         },
         "For Tomorrow's Journey": {
@@ -701,6 +713,54 @@
         },
         "Izumo's Blades of Origin and End": {
             "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Link Rope"
+        },
+        "Iron Cavalry's Homing Helm": {
+            "set": "Iron Cavalry Against the Scourge",
+            "slot": "Head"
+        },
+        "Iron Cavalry's Crushing Wristguard": {
+            "set": "Iron Cavalry Against the Scourge",
+            "slot": "Hands"
+        },
+        "Iron Cavalry's Silvery Armor": {
+            "set": "Iron Cavalry Against the Scourge",
+            "slot": "Body"
+        },
+        "Iron Cavalry's Skywalk Greaves": {
+            "set": "Iron Cavalry Against the Scourge",
+            "slot": "Feet"
+        },
+        "Valorous Mask of Northern Skies": {
+            "set": "The Wind-Soaring Valorous",
+            "slot": "Head"
+        },
+        "Valorous Bracelet of Grappling Hooks": {
+            "set": "The Wind-Soaring Valorous",
+            "slot": "Hands"
+        },
+        "Valorous Plate of Soaring Flight": {
+            "set": "The Wind-Soaring Valorous",
+            "slot": "Body"
+        },
+        "Valorous Greaves of Pursuing Hunt": {
+            "set": "The Wind-Soaring Valorous",
+            "slot": "Feet"
+        },
+        "Duran's Tent of Golden Sky": {
+            "set": "Duran, Dynasty of Running Wolves",
+            "slot": "Planar Sphere"
+        },
+        "Duran's Mechabeast Bridle": {
+            "set": "Duran, Dynasty of Running Wolves",
+            "slot": "Link Rope"
+        },
+        "Forge's Lotus Lantern Wick": {
+            "set": "Forge of the Kalpagni Lantern",
+            "slot": "Planar Sphere"
+        },
+        "Forge's Heavenly Flamewheel Silk": {
+            "set": "Forge of the Kalpagni Lantern",
             "slot": "Link Rope"
         }
     },
@@ -1165,6 +1225,16 @@
                 "talent": 2
             }
         },
+        "Firefly": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
         "Misha": {
             "e3": {
                 "ult": 2,
@@ -1173,6 +1243,16 @@
             "e5": {
                 "skill": 2,
                 "talent": 2
+            }
+        },
+        "Jade": {
+            "e3": {
+                "skill": 2,
+                "talent": 2
+            },
+            "e5": {
+                "ult": 2,
+                "basic": 1
             }
         },
         "Boothill": {

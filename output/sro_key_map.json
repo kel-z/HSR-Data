@@ -14,6 +14,7 @@
         "Dan Heng": "DanHeng",
         "Dan Heng \u2022 Imbibitor Lunae": "DanHengImbibitorLunae",
         "Dr. Ratio": "DrRatio",
+        "Firefly": "Firefly",
         "Fu Xuan": "FuXuan",
         "Gallagher": "Gallagher",
         "Gepard": "Gepard",
@@ -23,6 +24,7 @@
         "Himeko": "Himeko",
         "Hook": "Hook",
         "Huohuo": "Huohuo",
+        "Jade": "Jade",
         "Jing Yuan": "JingYuan",
         "Jingliu": "Jingliu",
         "Kafka": "Kafka",
@@ -58,14 +60,17 @@
         "Broken Keel": "BrokenKeel",
         "Celestial Differentiator": "CelestialDifferentiator",
         "Champion of Streetwise Boxing": "ChampionOfStreetwiseBoxing",
+        "Duran, Dynasty of Running Wolves": "DuranDynastyOfRunningWolves",
         "Eagle of Twilight Line": "EagleOfTwilightLine",
         "Firesmith of Lava-Forging": "FiresmithOfLavaForging",
         "Firmament Frontline: Glamoth": "FirmamentFrontlineGlamoth",
         "Fleet of the Ageless": "FleetOfTheAgeless",
+        "Forge of the Kalpagni Lantern": "ForgeOfTheKalpagniLantern",
         "Genius of Brilliant Stars": "GeniusOfBrilliantStars",
         "Guard of Wuthering Snow": "GuardOfWutheringSnow",
         "Hunter of Glacial Forest": "HunterOfGlacialForest",
         "Inert Salsotto": "InertSalsotto",
+        "Iron Cavalry Against the Scourge": "IronCavalryAgainstTheScourge",
         "Izumo Gensei and Takama Divine Realm": "IzumoGenseiAndTakamaDivineRealm",
         "Knight of Purity Palace": "KnightOfPurityPalace",
         "Longevous Disciple": "LongevousDisciple",
@@ -82,6 +87,7 @@
         "Sprightly Vonwacq": "SprightlyVonwacq",
         "Talia: Kingdom of Banditry": "TaliaKingdomOfBanditry",
         "The Ashblazing Grand Duke": "TheAshblazingGrandDuke",
+        "The Wind-Soaring Valorous": "TheWindSoaringValorous",
         "Thief of Shooting Meteor": "ThiefOfShootingMeteor",
         "Wastelander of Banditry Desert": "WastelanderOfBanditryDesert",
         "Watchmaker, Master of Dream Machinations": "WatchmakerMasterOfDreamMachinations"
@@ -89,6 +95,7 @@
     "light_cones": {
         "A Secret Vow": "ASecretVow",
         "Adversarial": "Adversarial",
+        "After the Charmony Fall": "AfterTheCharmonyFall",
         "Along the Passing Shore": "AlongThePassingShore",
         "Amber": "Amber",
         "An Instant Before A Gaze": "AnInstantBeforeAGaze",
@@ -114,6 +121,7 @@
         "Dreamville Adventure": "DreamvilleAdventure",
         "Earthly Escapade": "EarthlyEscapade",
         "Echoes of the Coffin": "EchoesOfTheCoffin",
+        "Eternal Calculus": "EternalCalculus",
         "Eyes of the Prey": "EyesOfThePrey",
         "Fermata": "Fermata",
         "Final Victor": "FinalVictor",
@@ -185,7 +193,9 @@
         "We Are Wildfire": "WeAreWildfire",
         "We Will Meet Again": "WeWillMeetAgain",
         "What Is Real?": "WhatIsReal",
+        "Whereabouts Should Dreams Rest": "WhereaboutsShouldDreamsRest",
         "Woof! Walk Time!": "WoofWalkTime",
-        "Worrisome, Blissful": "WorrisomeBlissful"
+        "Worrisome, Blissful": "WorrisomeBlissful",
+        "Yet Hope Is Priceless": "YetHopeIsPriceless"
     }
 }

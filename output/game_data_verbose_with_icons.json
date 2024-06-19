@@ -1,5 +1,5 @@
 {
-    "version": "2.2.0",
+    "version": "2.3.0",
     "light_cones": {
         "Arrows": {
             "rarity": 3,
@@ -815,7 +815,7 @@
         "Data Bank": {
             "rarity": 3,
             "path": "Erudition",
-            "desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.\n\"Human extinction is inevitable, but the library will live on: lonely, immobile, and hidden from the public. Its vast collection is useless, yet pure from corruption.\"",
+            "desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.\n\"Human extinction is inevitable, but the library will live on: Lonely, immobile, and hidden from the public. Its vast collection is useless, yet pure from corruption.\"",
             "ascension": [
                 {
                     "hp": {
@@ -8908,7 +8908,7 @@
         "It's Showtime": {
             "rarity": 4,
             "path": "Nihility",
-            "desc": "\u2014Who witnessed his death?\n\u2014Me! I spied it with my little eyes!\n\u2014Who took his blood?\n\u2014Me! I used my little saucer!\n\u2014Who dug his grave?\n\u2014Me! Using my chisel and shovel!\nThe wise uses all techniques in their arsenal, the sovereign soothes their heart with power, the hero views themselves to be righteous, and the Fool laughs ceaselessly\u2014\n\"Now, let us welcome Ms. Sparkle to bring us the performance of the year \u2014 Penacony's Night of Fright!\"",
+            "desc": "\u2014Who witnessed his death?\n\u2014Me! I spied it with my little eyes!\n\u2014Who took his blood?\n\u2014Me! I seized it with my little saucer!\n\u2014Who dug his grave?\n\u2014Me! I did it with my chisel and shovel!\nThe sage schemes exhaustedly, the king lusts insatiably, the hero prides falsely \u2014 only the Fool laughs perpetually\n\"Now, let us welcome Ms. Sparkle to bring us the performance of the year \u2014 Penacony's Night of Fright!\"",
             "ascension": [
                 {
                     "hp": {
@@ -9537,6 +9537,172 @@
             "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21044.png",
             "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21044.png"
         },
+        "After the Charmony Fall": {
+            "rarity": 4,
+            "path": "Erudition",
+            "desc": "The eternal dream he longed for vanished in an instant. As he plummeted towards the earth, he felt no sadness, only a desire to close his eyes.\nThe old path treaded upon has now crumbled, yet the journey ahead remains shrouded in mist.\n\"After the awakening, the world continues its cycle of suffering, with no escape, the same as always...\"\nHe carries the past, turns his back on his homeland, and continues towards a paradise that does not yet exist.\nSo, why do people slumber? And why do they wake?\n\u2014 As planets streak past outside the window, this answer now demands a new meaning to be given.\n\"Maybe... just maybe I still can...\"",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 38.4,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 21.6,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 18,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 84.48,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 47.52,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 39.6,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 145.92,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 82.08,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 68.4,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 207.36,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 116.64,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 97.2,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 268.8,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 151.2,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 126,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 330.24,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 185.76,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 154.8,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 391.68,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 220.32,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 183.6,
+                        "step": 2.7
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Quiescence",
+                "desc": "Increases the wearer's Break Effect by {0}%. After the wearer uses Ultimate, increases SPD by {1}%, lasting for 2 turn(s).",
+                "params": [
+                    [
+                        "28",
+                        "8"
+                    ],
+                    [
+                        "35",
+                        "10"
+                    ],
+                    [
+                        "42",
+                        "12"
+                    ],
+                    [
+                        "49",
+                        "14"
+                    ],
+                    [
+                        "56",
+                        "16"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.28
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.35
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.42
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.49
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.56
+                        }
+                    ]
+                ]
+            },
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/21045.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/21045.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21045.png"
+        },
         "Before the Tutorial Mission Starts": {
             "rarity": 4,
             "path": "Nihility",
@@ -9872,7 +10038,7 @@
         "For Tomorrow's Journey": {
             "rarity": 4,
             "path": "Harmony",
-            "desc": "The hands of the compass keep turning until they point to the moment of dreams.\nThe Asdana system, overflowing with memoria, glows with a soft light outside the train's windows. The frontier prison within is currently engulfed in the fires of war.\n\"Hey guys, what do you suppose the world within the dream would look like?? I must meticulously map it out!\"\nThe girl, packing away her surveying tools, gazes at the new world within reach, filled with anticipation.\n\"That place is a mess. Don't you run off once we get there. I won't have you two getting kidnapped again...\"\nThe man in cowboy attire grumbles as he cleans his weapon, then walks over to the sofa with a drink, shaking his head in resignation.\n\"The Land of the Dreams promises infinite possibilities. We'll surely make our mark... Hey, conductor, if we fall in love with that place and never return, would you miss us?\"\nThe Nameless dressed like a gentleman winks at Pom-Pom, smiling.\n\"'You can't joke at the conductor's expense like this!' Is that what you want to say, conductor?\" The girl's mischievous grin spreads across her face.\n\"You guys are! So! Mean!\"\nBubbles drift up and down in the glass as the Express fills up with joyful laughter.\n...\nThe youthful silhouettes of these Nameless get gradually swallowed by memoria.\n\"Have a... safe... trip...please...\"\nWhen the conductor turns their head, the Express is already empty.\nThe conductor stand frozen, this scene hauntingly familiar, as if lived through countless times before.",
+            "desc": "The hands of the compass keep turning until they point to the moment of dreams.\nThe Asdana system, overflowing with memoria, glows with a soft light outside the train's windows. The frontier prison within is currently engulfed in the fires of war.\n\"Hey guys, what do you suppose the world within the dream would look like?? I must meticulously map it out!\"\nThe girl, packing away her surveying tools, gazes at the new world within reach, filled with anticipation.\n\"That place is a mess. Don't you run off once we get there. I won't have you two getting kidnapped again...\"\nThe man in cowboy attire grumbles as he cleans his weapon, then walks over to the sofa with a drink, shaking his head in resignation.\n\"The Land of the Dreams promises infinite possibilities. We'll surely make our mark... Hey, conductor, if we fall in love with that place and never return, would you miss us?\"\nThe Nameless dressed like a gentleman winks at Pom-Pom, smiling.\n\"'You can't joke at the conductor's expense like this!' Is that what you want to say, conductor?\" The girl's mischievous grin spreads across her face.\n\"You guys are! So! Mean!\"\nBubbles drift up and down in the glass as the Express fills up with joyful laughter.\n...\nThe youthful silhouettes of these Nameless get gradually swallowed by memoria.\n\"Have a... safe... trip...please...\"\nWhen the conductor turns their head, the Express is already empty.\nThe conductor stands frozen, this scene hauntingly familiar, as if lived through countless times before.",
             "ascension": [
                 {
                     "hp": {
@@ -14321,6 +14487,172 @@
             "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23024.png",
             "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23024.png"
         },
+        "Whereabouts Should Dreams Rest": {
+            "rarity": 5,
+            "path": "Destruction",
+            "desc": "This is the edge of the Asdana system. The ocean of memoria roars with mountainous waves and she, like a singular tiny spark, may be doused at any moment in the storm.\n\"For one who cannot dream to enter the Synesthesia Dreamscape, they would have to pay a price comparable to death.\"\nShe can still hear her companions' concerned voices next to her ears. She takes a deep breath and dives into the Memory Zone.\nAs the vessel silently sinks into the depth of the Memory Zone, small pinpricks of firefly lights dissipate from the cracks and are then immediately swallowed up by the endless darkness.\n\"Wherefore do you hurtle unto death?\"\nIn the ocean of memoria that grows deeper and deeper, the weak light emitted by the Memory Zone creatures are like faraway eyes that nonchalantly glance at her.\nDreams remained too distant for her. She gazes emptily out at the boundless darkness, her body and soul having reached the breakdown threshold long ago under the heavy pressure of memoria. Though she realizes her consciousness is gradually fading, only those remaining memories are playing over and over in her brain \u2014\nThe Swarm that covered the sky tore through the frontline defenses as she flew towards the Swarm while enveloped in fire. The charred ash of the Swarm faded like snow, under which lies the pitch-black carcasses of the knights.\nShe didn't even have the time to take a bouquet and offer her final acknowledgement to knights, who were dying one after another. Their lives bloomed in the blink of an eye and went out equally fleetingly. Like a string of genetic code, they never possessed names and only had numbers allotted instead.\n\"Wherefore do you live?\"\nIn the deathly silence, like flames dissolving in the sea, she is reduced to a singular spot of fire and unendingly progresses towards the light...\nShe opens her eyes after what seems to be forever. She sees the \"future\" looking like a pearl, radiating with a soft and vague light. Tears stream down her face \u2014\n\"I do it to find... my own 'dream'...\"",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 52.8,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 21.6,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 24,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 116.16,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 47.52,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 52.8,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 200.64,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 82.08,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 91.2,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 285.12,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 116.64,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 129.6,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 369.6,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 151.2,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 168,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 454.08,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 185.76,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 206.4,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 538.56,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 220.32,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 244.8,
+                        "step": 3.6
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Metamorphosis",
+                "desc": "Increases the wearer's Break Effect by {0}%. When the wearer deals Break DMG to an enemy target, inflicts Routed on the enemy, lasting for 2 turn(s). Targets afflicted with Routed receive {1}% increased Break DMG from the wearer, and their SPD is lowered by 20%. Effects of the similar type cannot be stacked.",
+                "params": [
+                    [
+                        "60",
+                        "24.0"
+                    ],
+                    [
+                        "70",
+                        "28.0"
+                    ],
+                    [
+                        "80",
+                        "32.0"
+                    ],
+                    [
+                        "90",
+                        "36.0"
+                    ],
+                    [
+                        "100",
+                        "40.0"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.6
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.7
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.8
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.9
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 1
+                        }
+                    ]
+                ]
+            },
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23025.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23025.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23025.png"
+        },
         "Flowing Nightglow": {
             "rarity": 5,
             "path": "Harmony",
@@ -14630,6 +14962,177 @@
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23027.png",
             "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23027.png",
             "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23027.png"
+        },
+        "Yet Hope Is Priceless": {
+            "rarity": 5,
+            "path": "Erudition",
+            "desc": "\"Lady Bonajade, if it weren't for your continuous supply of goods and donations, the orphanage would probably...\"\nShe gently stroked the children's heads, cutting off the director's words.\n\"As long as I'm here, there's no need to worry about the days ahead... And there's no need to say these things to the children, it only adds to their worries.\"\nThe children looked up, chattering with her about recent happenings, their worries, and their dreams.\n\"Lady Bonajade, when are you gonna come visit us again?\"\n\"Don't work too hard, and make sure you get lotsa sleep...\"\n\"Lady Bonajade, when I grow up, I want to be someone like you!\"\nShe looked at the children's clear eyes and paused for a moment.\n\"Someone like me...\"\nThe child handed her an apple, \"Yes! Someone who brings light and hope to others!\"\nPoverty, demerits, sorrow, suffering... She walked among the galaxies, taking others' pledges and giving equivalent returns.\nLife exists for desire, runs on it, and dies from it \u2014 this is an irrefutable law, as well as an inevitability of life itself.\nA philanthropist with a hidden agenda, a villainous merchant who mortgages souls... She was labeled by the world in many such ways, yet only she understood the true morals behind these actions.",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 43.2,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 26.4,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 24,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 95.04,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 58.08,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 52.8,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 164.16,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 100.32,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 91.2,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 233.28,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 142.56,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 129.6,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 302.4,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 184.8,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 168,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 371.52,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 227.04,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 206.4,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 440.64,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 269.28,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 244.8,
+                        "step": 3.6
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Promise",
+                "desc": "Increases the wearer's CRIT Rate by {0}%. While the wearer is in battle, for every 20% CRIT DMG that exceeds 120%, the DMG dealt by follow-up attack increases by {1}%. This effect can stack up to 4 time(s). When the battle starts or after the wearer uses their Basic ATK, enables Ultimate or the DMG dealt by follow-up attack to ignore {2}% of the target's DEF, lasting for 2 turn(s).",
+                "params": [
+                    [
+                        "16",
+                        "12",
+                        "20"
+                    ],
+                    [
+                        "19",
+                        "14",
+                        "24"
+                    ],
+                    [
+                        "22",
+                        "16",
+                        "28"
+                    ],
+                    [
+                        "25",
+                        "18",
+                        "32"
+                    ],
+                    [
+                        "28",
+                        "20",
+                        "36"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.16
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.19
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.22
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.25
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.28
+                        }
+                    ]
+                ]
+            },
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23028.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23028.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23028.png"
         },
         "On the Fall of an Aeon": {
             "rarity": 5,
@@ -15277,6 +15780,177 @@
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/24003.png",
             "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/24003.png",
             "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/24003.png"
+        },
+        "Eternal Calculus": {
+            "rarity": 5,
+            "path": "Erudition",
+            "desc": "Eternally suspended in the void,\nStreams of shimmering data flood into THEIR mind.\nTurning all things past and future into symbols,\nTHEY deduce the end from the beginning.\nKnowledge, answers, truths...\nIn the mist of information, a brilliant light arises,\nAnd everything becomes clear to THEM.",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 48,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 24,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 18,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 105.6,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 52.8,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 39.6,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 182.4,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 91.2,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 68.4,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 259.2,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 129.6,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 97.2,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 336,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 168,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 126,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 412.8,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 206.4,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 154.8,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 489.6,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 244.8,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 183.6,
+                        "step": 2.7
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Boundless Thought",
+                "desc": "Increases the wearer's ATK by {0}%. After using an attack, for each enemy target hit, additionally increases ATK by {1}%. This effect can stack 5 times and last until the next attack. If there are 3 or more enemy targets hit, this unit's SPD increases by {2}%, lasting for 1 turn(s).",
+                "params": [
+                    [
+                        "8",
+                        "4",
+                        "8"
+                    ],
+                    [
+                        "9",
+                        "5",
+                        "10"
+                    ],
+                    [
+                        "10",
+                        "6",
+                        "12"
+                    ],
+                    [
+                        "11",
+                        "7",
+                        "14"
+                    ],
+                    [
+                        "12",
+                        "8",
+                        "16"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "atk_",
+                            "value": 0.08
+                        }
+                    ],
+                    [
+                        {
+                            "type": "atk_",
+                            "value": 0.09
+                        }
+                    ],
+                    [
+                        {
+                            "type": "atk_",
+                            "value": 0.1
+                        }
+                    ],
+                    [
+                        {
+                            "type": "atk_",
+                            "value": 0.11
+                        }
+                    ],
+                    [
+                        {
+                            "type": "atk_",
+                            "value": 0.12
+                        }
+                    ]
+                ]
+            },
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/24004.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/24004.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/24004.png"
         }
     },
     "relic_sets": {
@@ -15333,7 +16007,7 @@
                 }
             },
             "desc": [
-                "ATK increases by 12%.",
+                "Increases ATK by 12%.",
                 "The wearer's SPD increases by 6% and Basic ATK DMG increases by 10%."
             ],
             "modifiers": [
@@ -15787,7 +16461,7 @@
                 }
             },
             "desc": [
-                "ATK increases by 12%.",
+                "Increases ATK by 12%.",
                 "For every DoT the target enemy is afflicted with, the wearer will ignore 6% of its DEF when dealing DMG to it. This effect is valid for a max of 3 DoTs."
             ],
             "modifiers": [
@@ -15864,6 +16538,77 @@
                     }
                 ],
                 []
+            ]
+        },
+        "Iron Cavalry Against the Scourge": {
+            "pieces": {
+                "Head": {
+                    "name": "Iron Cavalry's Homing Helm",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/119_0.png"
+                },
+                "Hands": {
+                    "name": "Iron Cavalry's Crushing Wristguard",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/119_1.png"
+                },
+                "Body": {
+                    "name": "Iron Cavalry's Silvery Armor",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/119_2.png"
+                },
+                "Feet": {
+                    "name": "Iron Cavalry's Skywalk Greaves",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/119_3.png"
+                }
+            },
+            "desc": [
+                "Increases Break Effect by 16%.",
+                "If the wearer's Break Effect is 150% or higher, the Break DMG dealt to the enemy target ignores 10% of their DEF. If the wearer's Break Effect is 250% or higher, the Super Break DMG dealt to the enemy target additionally ignores 15% of their DEF."
+            ],
+            "modifiers": [
+                [
+                    {
+                        "type": "break",
+                        "value": 0.16
+                    }
+                ],
+                []
+            ]
+        },
+        "The Wind-Soaring Valorous": {
+            "pieces": {
+                "Head": {
+                    "name": "Valorous Mask of Northern Skies",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/120_0.png"
+                },
+                "Hands": {
+                    "name": "Valorous Bracelet of Grappling Hooks",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/120_1.png"
+                },
+                "Body": {
+                    "name": "Valorous Plate of Soaring Flight",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/120_2.png"
+                },
+                "Feet": {
+                    "name": "Valorous Greaves of Pursuing Hunt",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/120_3.png"
+                }
+            },
+            "desc": [
+                "Increases ATK by 12%.",
+                "Increases the wearer's CRIT Rate by 6%. When the wearer uses a follow-up attack, increases the DMG dealt by Ultimate by 36%, lasting for 1 turn(s)."
+            ],
+            "modifiers": [
+                [
+                    {
+                        "type": "atk_",
+                        "value": 0.12
+                    }
+                ],
+                [
+                    {
+                        "type": "crit_rate",
+                        "value": 0.06
+                    }
+                ]
             ]
         },
         "Space Sealing Station": {
@@ -16184,6 +16929,44 @@
                     {
                         "type": "atk_",
                         "value": 0.12
+                    }
+                ]
+            ]
+        },
+        "Duran, Dynasty of Running Wolves": {
+            "pieces": {
+                "Planar Sphere": {
+                    "name": "Duran's Tent of Golden Sky",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/315_0.png"
+                },
+                "Link Rope": {
+                    "name": "Duran's Mechabeast Bridle",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/315_1.png"
+                }
+            },
+            "desc": [
+                "When allies use follow-up attacks, the wearer gains 1 stack of Merit, stacking up to 5 times. Each stack of Merit increases the DMG dealt by the wearer's follow-up attacks by 5%. When there are 5 stacks, additionally increases the wearer's CRIT DMG by 25%."
+            ]
+        },
+        "Forge of the Kalpagni Lantern": {
+            "pieces": {
+                "Planar Sphere": {
+                    "name": "Forge's Lotus Lantern Wick",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/316_0.png"
+                },
+                "Link Rope": {
+                    "name": "Forge's Heavenly Flamewheel Silk",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/316_1.png"
+                }
+            },
+            "desc": [
+                "Increases the wearer's SPD by 6%. When the wearer hits an enemy target that has Fire Weakness, the wearer's Break Effect increases by 40%, lasting for 1 turn(s)."
+            ],
+            "modifiers": [
+                [
+                    {
+                        "type": "spd_",
+                        "value": 0.06
                     }
                 ]
             ]
@@ -19741,7 +20524,7 @@
                 "talent": {
                     "name": "Awaiting System Response...",
                     "max_level": 15,
-                    "desc": "Silver Wolf can create three types of Bugs: reduce ATK by {0}%, reduce DEF by {1}%, and reduce SPD by {2}%.\nEvery time Silver Wolf attacks, she has a {3}% base chance to implant a random Bug that lasts for 3 turn(s) in an enemy target.",
+                    "desc": "Silver Wolf can create three types of Bugs: Reduce ATK by {0}%, reduce DEF by {1}%, and reduce SPD by {2}%.\nEvery time Silver Wolf attacks, she has a {3}% base chance to implant a random Bug that lasts for 3 turn(s) in an enemy target.",
                     "params": [
                         [
                             "5.0",
@@ -24075,7 +24858,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1104_skilltree2.png"
                 },
                 "ability_3": {
-                    "name": "Fighting Spirit",
+                    "name": "Grit",
                     "desc": "Gepard's ATK increases by 35% of his current DEF. This effect will refresh at the start of each turn.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1104_skilltree3.png"
                 },
@@ -29065,7 +29848,7 @@
             "traces": {
                 "technique": {
                     "name": "Explicit Subsidy",
-                    "desc": "Summons Numby when Topaz enters the overworld. Numby will automatically search for Basic Treasures and Trotters within a set radius.\nUsing her Technique will regenerate 60 Energy for Topaz after Numby's first attack in the next battle.\nIf Topaz is still in the team after using her Technique and defeating overworld enemies, a small bonus amount of credits will be added to the earned credits. A maximum of 10000 bonus credits can be received per calendar day.\nAfter using her Technique and defeating enemies in Simulated Universe, additionally receive a small amount of Cosmic Fragments with a small chance to obtain 1 random Curio.",
+                    "desc": "Summons Numby when Topaz enters the overworld. Numby will automatically search for Basic Treasures and Trotters within a set radius.\nUsing her Technique will regenerate 60 Energy for Topaz after Numby's first attack in the next battle.\nIf Topaz is still in the team after using her Technique and defeating overworld enemies, a small bonus amount of credits will be added to the earned credits. A maximum of 10000 bonus credits can be received per calendar day.\nAfter using her Technique and defeating enemies in Simulated Universe or Divergent Universe, additionally receive a small amount of Cosmic Fragments with a small chance to obtain 1 random Curio.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1112_technique.png"
                 },
                 "ability_1": {
@@ -29436,7 +30219,7 @@
                 },
                 {
                     "name": "Right on the Tiles",
-                    "desc": "After this character's Skill is used, there is a 24% fixed chance to gain Autarky, which lasts until the end of the current turn. \\nWith Autarky, using Basic ATK or Enhanced Basic ATK immediately launches 1 follow-up attack on the same target, dealing Quantum DMG equal to 100% of the previous Basic ATK (or Enhanced Basic ATK)'s DMG.",
+                    "desc": "After this character's Skill is used, there is a 24% fixed chance to gain Self-Sufficer, which lasts until the end of the current turn. \\nWith Self-Sufficer, using Basic ATK or Enhanced Basic ATK immediately launches 1 follow-up attack on the same target, dealing Quantum DMG equal to 100% of the previous Basic ATK (or Enhanced Basic ATK)'s DMG.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1201_rank4.png"
                 },
                 {
@@ -33337,7 +34120,7 @@
                 "talent": {
                     "name": "Seven Layers, One Arrow",
                     "max_level": 15,
-                    "desc": "Basic ATK additionally deals Imaginary DMG equal to {0}% of Yukong's ATK, and increases the Toughness-Reducing DMG of this attack by 100%. This effect can be triggered again after 1 turn(s).",
+                    "desc": "Basic ATK additionally deals Imaginary DMG equal to {0}% of Yukong's ATK, and increases the Toughness Reduction of this attack by 100%. This effect can be triggered again after 1 turn(s).",
                     "params": [
                         [
                             "40"
@@ -33390,7 +34173,7 @@
             },
             "traces": {
                 "technique": {
-                    "name": "Chasing the Wind",
+                    "name": "Windchaser",
                     "desc": "After using her Technique, Yukong enters Sprint mode for 20 seconds. In Sprint mode, her Movement SPD increases by 35%, and Yukong gains 2 stack(s) of \"Roaring Bowstrings\" when she enters battle by attacking enemies.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1207_technique.png"
                 },
@@ -35335,7 +36118,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconFireAddedRatio.png"
                 },
                 "stat_2": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 5.3%",
                     "modifiers": [
                         {
@@ -35379,7 +36162,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconFireAddedRatio.png"
                 },
                 "stat_6": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 8.0%",
                     "modifiers": [
                         {
@@ -35412,7 +36195,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusProbability.png"
                 },
                 "stat_9": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 10.7%",
                     "modifiers": [
                         {
@@ -37826,7 +38609,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1214_skilltree3.png"
                 },
                 "stat_1": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 5.3%",
                     "modifiers": [
                         {
@@ -37848,7 +38631,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconMaxHP.png"
                 },
                 "stat_3": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 5.3%",
                     "modifiers": [
                         {
@@ -37870,7 +38653,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconQuantumAddedRatio.png"
                 },
                 "stat_5": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 8.0%",
                     "modifiers": [
                         {
@@ -37892,7 +38675,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconMaxHP.png"
                 },
                 "stat_7": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 8.0%",
                     "modifiers": [
                         {
@@ -37925,7 +38708,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconMaxHP.png"
                 },
                 "stat_10": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 10.7%",
                     "modifiers": [
                         {
@@ -39706,7 +40489,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
                 },
                 "stat_2": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 5.3%",
                     "modifiers": [
                         {
@@ -39750,7 +40533,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
                 },
                 "stat_6": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 8.0%",
                     "modifiers": [
                         {
@@ -40882,7 +41665,7 @@
             "traces": {
                 "technique": {
                     "name": "Silken Serenade",
-                    "desc": "After using the Technique, gains Silken Serenade. At the start of the next battle, automatically triggers the Skill for 1 time(s) without consuming Skill Points.\nIn Simulated Universe, when Ruan Mei has Silken Serenade, the team actively attacking enemies will always be regarded as attacking their Weakness to enter battle, and this attack can reduce all enemies' Toughness regardless of Weakness types. When breaking Weakness, triggers Weakness Break Effect corresponding to the attacker's Type. For every Blessing in possession (up to a maximum of 20 Blessings), additionally increases the Toughness-Reducing DMG of this attack by 100%. After breaking an enemy target's Weakness, additionally deals to the enemy target Break DMG equal to 100% of Ruan Mei's Ice Break DMG.",
+                    "desc": "After using the Technique, gains Silken Serenade. At the start of the next battle, automatically triggers the Skill for 1 time(s) without consuming Skill Points.\nIn Simulated Universe or Divergent Universe, when Ruan Mei has Silken Serenade, the team actively attacking enemies will always be regarded as attacking their Weakness to enter battle, and this attack can reduce all enemies' Toughness regardless of Weakness types. When breaking Weakness, triggers Weakness Break Effect corresponding to the attacker's Type. For every Blessing in possession (up to a maximum of 20 Blessings), additionally increases the Toughness Reduction of this attack by 100%. After breaking an enemy target's Weakness, additionally deals to the enemy target Break DMG equal to 100% of Ruan Mei's Ice Break DMG.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1303_technique.png"
                 },
                 "ability_1": {
@@ -40901,7 +41684,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1303_skilltree3.png"
                 },
                 "stat_1": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 5.3%",
                     "modifiers": [
                         {
@@ -40923,7 +41706,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconDefence.png"
                 },
                 "stat_3": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 5.3%",
                     "modifiers": [
                         {
@@ -40945,7 +41728,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconSpeed.png"
                 },
                 "stat_5": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 8.0%",
                     "modifiers": [
                         {
@@ -40967,7 +41750,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconDefence.png"
                 },
                 "stat_7": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 8.0%",
                     "modifiers": [
                         {
@@ -41000,7 +41783,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconDefence.png"
                 },
                 "stat_10": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 10.7%",
                     "modifiers": [
                         {
@@ -41530,7 +42313,7 @@
                 },
                 "ability_3": {
                     "name": "Bingo!",
-                    "desc": "After an ally with Fortified Wager launches a follow-up attack, Aventurine accumulates 1 Blind Bet point. This effect can trigger up to 3 time(s). And its trigger count resets at the start of Aventurine's turn. After Aventurine launches his Talent's follow-up attack, provides all allies with a Fortified Wager that can block DMG equal to 7% of Aventurine's DEF plus 96, and additionally grants a Fortified Wager that can block DMG equal to 7% of Aventurine's DEF plus 96 to the ally with the lowest Shield effect, lasting for 3 turns.",
+                    "desc": "After an ally with Fortified Wager launches a follow-up attack, Aventurine accumulates 1 Blind Bet point. This effect can trigger up to 3 time(s). Its trigger count resets at the start of Aventurine's turn. After Aventurine launches his Talent's follow-up attack, provides all allies with a Fortified Wager that can block DMG equal to 7% of Aventurine's DEF plus 96, and additionally grants a Fortified Wager that can block DMG equal to 7% of Aventurine's DEF plus 96 to the ally with the lowest Shield effect, lasting for 3 turns.",
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1304_skilltree3.png"
                 },
                 "stat_1": {
@@ -44816,6 +45599,639 @@
             "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1309.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Robin.png"
         },
+        "Firefly": {
+            "rarity": 5,
+            "path": "Destruction",
+            "element": "Fire",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 110.88,
+                        "step": 5.544
+                    },
+                    "atk": {
+                        "base": 71.28,
+                        "step": 3.564
+                    },
+                    "def": {
+                        "base": 105.6,
+                        "step": 5.28
+                    },
+                    "spd": {
+                        "base": 104,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 125,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 155.232,
+                        "step": 5.544
+                    },
+                    "atk": {
+                        "base": 99.792,
+                        "step": 3.564
+                    },
+                    "def": {
+                        "base": 147.84,
+                        "step": 5.28
+                    },
+                    "spd": {
+                        "base": 104,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 125,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 199.584,
+                        "step": 5.544
+                    },
+                    "atk": {
+                        "base": 128.304,
+                        "step": 3.564
+                    },
+                    "def": {
+                        "base": 190.08,
+                        "step": 5.28
+                    },
+                    "spd": {
+                        "base": 104,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 125,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 243.936,
+                        "step": 5.544
+                    },
+                    "atk": {
+                        "base": 156.816,
+                        "step": 3.564
+                    },
+                    "def": {
+                        "base": 232.32,
+                        "step": 5.28
+                    },
+                    "spd": {
+                        "base": 104,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 125,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 288.288,
+                        "step": 5.544
+                    },
+                    "atk": {
+                        "base": 185.328,
+                        "step": 3.564
+                    },
+                    "def": {
+                        "base": 274.56,
+                        "step": 5.28
+                    },
+                    "spd": {
+                        "base": 104,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 125,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 332.64,
+                        "step": 5.544
+                    },
+                    "atk": {
+                        "base": 213.84,
+                        "step": 3.564
+                    },
+                    "def": {
+                        "base": 316.8,
+                        "step": 5.28
+                    },
+                    "spd": {
+                        "base": 104,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 125,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 376.992,
+                        "step": 5.544
+                    },
+                    "atk": {
+                        "base": 242.352,
+                        "step": 3.564
+                    },
+                    "def": {
+                        "base": 359.04,
+                        "step": 5.28
+                    },
+                    "spd": {
+                        "base": 104,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 125,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                }
+            ],
+            "eidolons": [
+                {
+                    "name": "In Reddened Chrysalis, I Once Rest",
+                    "desc": "When using the Enhanced Skill, ignores 15% of the target's DEF. The Enhanced Skill does not consume Skill Points.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1310_rank1.png"
+                },
+                {
+                    "name": "From Shattered Sky, I Free Fall",
+                    "desc": "While in Complete Combustion, using the Enhanced Basic ATK or the Enhanced Skill to defeat an enemy target or to break their Weakness allows SAM to immediately gain 1 extra turn. This effect can trigger again after 1 turn(s).",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1310_rank2.png"
+                },
+                {
+                    "name": "Amidst Silenced Stars, I Deep Sleep",
+                    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+                    "level_up_skills": {
+                        "skill": 2,
+                        "basic": 1
+                    },
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1310_skill.png"
+                },
+                {
+                    "name": "Upon Lighted Fyrefly, I Soon Gaze",
+                    "desc": "While in Complete Combustion, increases SAM's Effect RES by 50%.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1310_rank4.png"
+                },
+                {
+                    "name": "From Undreamt Night, I Thence Shine",
+                    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+                    "level_up_skills": {
+                        "ult": 2,
+                        "talent": 2
+                    },
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1310_ultimate.png"
+                },
+                {
+                    "name": "In Finalized Morrow, I Full Bloom",
+                    "desc": "While in Complete Combustion, increases SAM's Fire RES PEN by 20%. When using the Enhanced Basic ATK or Enhanced Skill, increases the Weakness Break efficiency by 50%.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1310_rank6.png"
+                }
+            ],
+            "skills": {
+                "basic": {
+                    "name": "Order: Flare Propulsion",
+                    "max_level": 9,
+                    "desc": "Deals Fire DMG equal to {0}% of SAM's ATK to a single target enemy.",
+                    "params": [
+                        [
+                            "50"
+                        ],
+                        [
+                            "60"
+                        ],
+                        [
+                            "70"
+                        ],
+                        [
+                            "80"
+                        ],
+                        [
+                            "90"
+                        ],
+                        [
+                            "100"
+                        ],
+                        [
+                            "110"
+                        ],
+                        [
+                            "120"
+                        ],
+                        [
+                            "130"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1310_basic_atk.png"
+                },
+                "skill": {
+                    "name": "Order: Aerial Bombardment",
+                    "max_level": 15,
+                    "desc": "Consumes HP equal to 40% of this unit's Max HP and regenerates a fixed amount of Energy equal to {1}% of this unit's Max Energy. Deals Fire DMG equal to {0}% of SAM's ATK to a single target enemy. If the current HP is not sufficient, reduces SAM's HP to 1 when using this Skill. Advances this unit's next Action by 25%.",
+                    "params": [
+                        [
+                            "100",
+                            "50"
+                        ],
+                        [
+                            "110",
+                            "51"
+                        ],
+                        [
+                            "120",
+                            "52"
+                        ],
+                        [
+                            "130",
+                            "53"
+                        ],
+                        [
+                            "140",
+                            "54"
+                        ],
+                        [
+                            "150",
+                            "55"
+                        ],
+                        [
+                            "162",
+                            "56"
+                        ],
+                        [
+                            "175",
+                            "57"
+                        ],
+                        [
+                            "187",
+                            "58"
+                        ],
+                        [
+                            "200",
+                            "60"
+                        ],
+                        [
+                            "210",
+                            "61"
+                        ],
+                        [
+                            "220",
+                            "62"
+                        ],
+                        [
+                            "229",
+                            "63"
+                        ],
+                        [
+                            "240",
+                            "64"
+                        ],
+                        [
+                            "250",
+                            "65"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1310_skill.png"
+                },
+                "ult": {
+                    "name": "Fyrefly Type-IV: Complete Combustion",
+                    "max_level": 15,
+                    "desc": "Enters the Complete Combustion state, advances this unit's Action by 100%, and gains Enhanced Basic ATK and Enhanced Skill. While in Complete Combustion, increases SPD by {1}, and when using the Enhanced Basic ATK or Enhanced Skill, increases this unit's Weakness Break efficiency by 50% and the Break DMG dealt by SAM to the enemy targets by {0}%, lasting until this current attack ends.\nA countdown timer for the Complete Combustion state appears on the Action Order. When the countdown timer's turn starts, SAM exits the Complete Combustion state. The countdown timer has a fixed SPD of 70.\nSAM cannot use Ultimate while in Complete Combustion.",
+                    "params": [
+                        [
+                            "10.0",
+                            "30"
+                        ],
+                        [
+                            "11.0",
+                            "33"
+                        ],
+                        [
+                            "12.0",
+                            "36"
+                        ],
+                        [
+                            "13.0",
+                            "39"
+                        ],
+                        [
+                            "14.0",
+                            "42"
+                        ],
+                        [
+                            "15.0",
+                            "45"
+                        ],
+                        [
+                            "16.2",
+                            "48.75"
+                        ],
+                        [
+                            "17.5",
+                            "52.5"
+                        ],
+                        [
+                            "18.8",
+                            "56.25"
+                        ],
+                        [
+                            "20.0",
+                            "60"
+                        ],
+                        [
+                            "21.0",
+                            "63"
+                        ],
+                        [
+                            "22.0",
+                            "66"
+                        ],
+                        [
+                            "23.0",
+                            "69"
+                        ],
+                        [
+                            "24.0",
+                            "72"
+                        ],
+                        [
+                            "25.0",
+                            "75"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1310_ultimate.png"
+                },
+                "talent": {
+                    "name": "Chrysalid Pyronexus",
+                    "max_level": 15,
+                    "desc": "The lower the HP, the less DMG received. When HP is 20% or lower, the DMG Reduction reaches its maximum effect, reducing up to {0}%. During the Complete Combustion, the DMG Reduction remains at its maximum effect, and the Effect RES increases by {1}%.\nIf Energy is lower than 50% when the battle starts, regenerates Energy to 50%. Once Energy is regenerated to its maximum, dispels all debuffs on this unit.",
+                    "params": [
+                        [
+                            "20",
+                            "10"
+                        ],
+                        [
+                            "22",
+                            "12"
+                        ],
+                        [
+                            "24",
+                            "14"
+                        ],
+                        [
+                            "26",
+                            "16"
+                        ],
+                        [
+                            "28",
+                            "18"
+                        ],
+                        [
+                            "30",
+                            "20"
+                        ],
+                        [
+                            "32",
+                            "22"
+                        ],
+                        [
+                            "35",
+                            "25"
+                        ],
+                        [
+                            "37",
+                            "27"
+                        ],
+                        [
+                            "40",
+                            "30"
+                        ],
+                        [
+                            "42",
+                            "32"
+                        ],
+                        [
+                            "44",
+                            "34"
+                        ],
+                        [
+                            "46",
+                            "36"
+                        ],
+                        [
+                            "48",
+                            "38"
+                        ],
+                        [
+                            "50",
+                            "40"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1310_talent.png"
+                }
+            },
+            "traces": {
+                "technique": {
+                    "name": "\u0394 Order: Meteoric Incineration",
+                    "desc": "Leaps into the air and moves about freely for 5 seconds, which can be ended early by launching a plunging attack. When the duration ends, plunges and immediately attacks all enemies within a set area. At the start of each wave, applies a Fire Weakness to all enemies, lasting for 2 turn(s). Then, deals Fire DMG equal to 200% of SAM's ATK to all enemies.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1310_technique.png"
+                },
+                "ability_1": {
+                    "name": "Module \u03b1: Antilag Outburst",
+                    "desc": "During the Complete Combustion, attacking enemies that have no Fire Weakness can also reduce their Toughness, with the effect being equivalent to 55% of the original Toughness Reduction from abilities.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1310_skilltree1.png"
+                },
+                "ability_2": {
+                    "name": "Module \u03b2: Autoreactive Armor",
+                    "desc": "When SAM is in Complete Combustion with a Break Effect that is equal to or greater than 200%/360%, attacking a Weakness-Broken enemy target will convert the Toughness Reduction of this attack into 1 instance of 35%/50% Super Break DMG.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1310_skilltree2.png"
+                },
+                "ability_3": {
+                    "name": "Module \u03b3: Core Overload",
+                    "desc": "For every 10 point(s) of SAM's ATK that exceeds 1800, increases this unit's Break Effect by 0.0%.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1310_skilltree3.png"
+                },
+                "stat_1": {
+                    "name": "Break Boost",
+                    "desc": "Break Effect increases by 5.3%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.053
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                },
+                "stat_2": {
+                    "name": "Effect RES Boost",
+                    "desc": "Effect RES resistance increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "effect_res",
+                            "value": 0.04
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
+                },
+                "stat_3": {
+                    "name": "Break Boost",
+                    "desc": "Break Effect increases by 5.3%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.053
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                },
+                "stat_4": {
+                    "name": "SPD Boost",
+                    "desc": "SPD increases by 2",
+                    "modifiers": [
+                        {
+                            "type": "spd",
+                            "value": 2
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconSpeed.png"
+                },
+                "stat_5": {
+                    "name": "Break Boost",
+                    "desc": "Break Effect increases by 8.0%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.08
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                },
+                "stat_6": {
+                    "name": "Effect RES Boost",
+                    "desc": "Effect RES resistance increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "effect_res",
+                            "value": 0.06
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
+                },
+                "stat_7": {
+                    "name": "Break Boost",
+                    "desc": "Break Effect increases by 8.0%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.08
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                },
+                "stat_8": {
+                    "name": "SPD Boost",
+                    "desc": "SPD increases by 3",
+                    "modifiers": [
+                        {
+                            "type": "spd",
+                            "value": 3
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconSpeed.png"
+                },
+                "stat_9": {
+                    "name": "Effect RES Boost",
+                    "desc": "Effect RES resistance increases by 8.0%",
+                    "modifiers": [
+                        {
+                            "type": "effect_res",
+                            "value": 0.08
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
+                },
+                "stat_10": {
+                    "name": "Break Boost",
+                    "desc": "Break Effect increases by 10.7%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.107
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
+                }
+            },
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1310.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1310.png",
+            "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Firefly.png"
+        },
         "Misha": {
             "rarity": 4,
             "path": "Destruction",
@@ -45449,6 +46865,633 @@
             "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1312.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Misha.png"
         },
+        "Jade": {
+            "rarity": 5,
+            "path": "Erudition",
+            "element": "Quantum",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 147.84,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 89.76,
+                        "step": 4.488
+                    },
+                    "def": {
+                        "base": 69.3,
+                        "step": 3.465
+                    },
+                    "spd": {
+                        "base": 103,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 206.976,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 125.664,
+                        "step": 4.488
+                    },
+                    "def": {
+                        "base": 97.02,
+                        "step": 3.465
+                    },
+                    "spd": {
+                        "base": 103,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 266.112,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 161.568,
+                        "step": 4.488
+                    },
+                    "def": {
+                        "base": 124.74,
+                        "step": 3.465
+                    },
+                    "spd": {
+                        "base": 103,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 325.248,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 197.472,
+                        "step": 4.488
+                    },
+                    "def": {
+                        "base": 152.46,
+                        "step": 3.465
+                    },
+                    "spd": {
+                        "base": 103,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 384.384,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 233.376,
+                        "step": 4.488
+                    },
+                    "def": {
+                        "base": 180.18,
+                        "step": 3.465
+                    },
+                    "spd": {
+                        "base": 103,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 443.52,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 269.28,
+                        "step": 4.488
+                    },
+                    "def": {
+                        "base": 207.9,
+                        "step": 3.465
+                    },
+                    "spd": {
+                        "base": 103,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 502.656,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 305.184,
+                        "step": 4.488
+                    },
+                    "def": {
+                        "base": 235.62,
+                        "step": 3.465
+                    },
+                    "spd": {
+                        "base": 103,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                }
+            ],
+            "eidolons": [
+                {
+                    "name": "Altruism? Nevertheless Tradable",
+                    "desc": "The follow-up attack DMG from Jade's Talent increases by 32%. After the Debt Collector character attacks and the number of the enemy target(s) hit is either 2 or 1, Jade additionally gains 1 or 2 point(s) of Charge respectively.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1314_rank1.png"
+                },
+                {
+                    "name": "Morality? Herein Authenticated",
+                    "desc": "When there are 15 stacks of Pawned Asset, Jade's CRIT Rate increases by 18%.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1314_rank2.png"
+                },
+                {
+                    "name": "Honesty? Soon Mortgaged",
+                    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+                    "level_up_skills": {
+                        "skill": 2,
+                        "talent": 2
+                    },
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1314_skill.png"
+                },
+                {
+                    "name": "Sincerity? Put Option Only",
+                    "desc": "When using Ultimate, enables the DMG dealt by Jade to ignore 12% of enemy targets' DEF, lasting for 3 turn(s).",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1314_rank4.png"
+                },
+                {
+                    "name": "Hope? Hitherto Forfeited",
+                    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+                    "level_up_skills": {
+                        "ult": 2,
+                        "basic": 1
+                    },
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1314_ultimate.png"
+                },
+                {
+                    "name": "Equity? Pending Sponsorship",
+                    "desc": "When the Debt Collector character exists on the field, Jade's Quantum RES PEN increases by 20%, and Jade gains the Debt Collector state.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1314_rank6.png"
+                }
+            ],
+            "skills": {
+                "basic": {
+                    "name": "Lash of Riches",
+                    "max_level": 9,
+                    "desc": "Deals Quantum DMG equal to {0}% of Jade's ATK to a single target enemy, and Quantum DMG equal to {1}% of Jade's ATK to adjacent enemies.",
+                    "params": [
+                        [
+                            "45",
+                            "15"
+                        ],
+                        [
+                            "54",
+                            "18"
+                        ],
+                        [
+                            "63",
+                            "21"
+                        ],
+                        [
+                            "72",
+                            "24"
+                        ],
+                        [
+                            "81",
+                            "27"
+                        ],
+                        [
+                            "90",
+                            "30"
+                        ],
+                        [
+                            "99",
+                            "33"
+                        ],
+                        [
+                            "108",
+                            "36"
+                        ],
+                        [
+                            "117",
+                            "39"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1314_basic_atk.png"
+                },
+                "skill": {
+                    "name": "Acquisition Surety",
+                    "max_level": 15,
+                    "desc": "Makes a single target ally become the Debt Collector and increases their SPD by 30, lasting for 3 turn(s).\nAfter the Debt Collector attacks, deals 1 instance of Additional Quantum DMG equal to {0}% of Jade's ATK to each enemy target hit, and consumes the Debt Collector's HP by an amount equal to 2% of their Max HP. If the current HP is insufficient, reduces HP to 1.\nIf Jade becomes the Debt Collector, she cannot gain the SPD boost effect, and her attacks do not consume HP.\nWhen the Debt Collector exists on the field, Jade cannot use her Skill. At the start of Jade's every turn, the Debt Collector's duration reduces by 1 turn.",
+                    "params": [
+                        [
+                            "15"
+                        ],
+                        [
+                            "16"
+                        ],
+                        [
+                            "17"
+                        ],
+                        [
+                            "18"
+                        ],
+                        [
+                            "19"
+                        ],
+                        [
+                            "20"
+                        ],
+                        [
+                            "21"
+                        ],
+                        [
+                            "22"
+                        ],
+                        [
+                            "23"
+                        ],
+                        [
+                            "25"
+                        ],
+                        [
+                            "26"
+                        ],
+                        [
+                            "27"
+                        ],
+                        [
+                            "28"
+                        ],
+                        [
+                            "28"
+                        ],
+                        [
+                            "30"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1314_skill.png"
+                },
+                "ult": {
+                    "name": "Vow of the Deep",
+                    "max_level": 15,
+                    "desc": "Deals Quantum DMG equal to {1}% of Jade's ATK to all enemies. At the same time, Jade enhances her Talent's follow-up attack, increasing its DMG multiplier by {0}%. This enhancement can trigger 2 time(s).",
+                    "params": [
+                        [
+                            "40",
+                            "120"
+                        ],
+                        [
+                            "44",
+                            "132"
+                        ],
+                        [
+                            "48",
+                            "144"
+                        ],
+                        [
+                            "52",
+                            "156"
+                        ],
+                        [
+                            "56",
+                            "168"
+                        ],
+                        [
+                            "60",
+                            "180"
+                        ],
+                        [
+                            "65",
+                            "195"
+                        ],
+                        [
+                            "70",
+                            "210"
+                        ],
+                        [
+                            "75",
+                            "225"
+                        ],
+                        [
+                            "80",
+                            "240"
+                        ],
+                        [
+                            "84",
+                            "252"
+                        ],
+                        [
+                            "88",
+                            "264"
+                        ],
+                        [
+                            "92",
+                            "276"
+                        ],
+                        [
+                            "96",
+                            "288"
+                        ],
+                        [
+                            "100",
+                            "300"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1314_ultimate.png"
+                },
+                "talent": {
+                    "name": "Fang of Flare Flaying",
+                    "max_level": 15,
+                    "desc": "After Jade or the Debt Collector unit attacks, gains 1 point of Charge for each enemy target hit. Upon reaching 8 points of Charge, consumes the 8 points to launch 1 instance of follow-up attack, dealing Quantum DMG equal to {1}% of Jade's ATK to all enemies. This follow-up attack does not generate Charge.\nWhen launching her Talent's follow-up attack, Jade immediately gains 5 stack(s) of Pawned Asset, with each stack increasing CRIT DMG by {0}%, stacking up to 50 times.",
+                    "params": [
+                        [
+                            "1.2",
+                            "60"
+                        ],
+                        [
+                            "1.3",
+                            "66"
+                        ],
+                        [
+                            "1.4",
+                            "72"
+                        ],
+                        [
+                            "1.6",
+                            "78"
+                        ],
+                        [
+                            "1.7",
+                            "84"
+                        ],
+                        [
+                            "1.8",
+                            "90"
+                        ],
+                        [
+                            "1.9",
+                            "97"
+                        ],
+                        [
+                            "2.1",
+                            "105"
+                        ],
+                        [
+                            "2.2",
+                            "112"
+                        ],
+                        [
+                            "2.4",
+                            "120"
+                        ],
+                        [
+                            "2.5",
+                            "126"
+                        ],
+                        [
+                            "2.6",
+                            "132"
+                        ],
+                        [
+                            "2.8",
+                            "138"
+                        ],
+                        [
+                            "2.9",
+                            "144"
+                        ],
+                        [
+                            "3.0",
+                            "150"
+                        ]
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1314_talent.png"
+                }
+            },
+            "traces": {
+                "technique": {
+                    "name": "Visionary Predation",
+                    "desc": "After using the Technique, inflicts enemies within a set area with Blind Fealty for 10 second(s). Enemies inflicted with Blind Fealty will not initiate attacks on allies. When entering battle via actively attacking enemies inflicted with Blind Fealty, all enemies with Blind Fealty will enter combat simultaneously. After entering battle, deals Quantum DMG equal to 50% of Jade's ATK to all enemies, and immediately gains 15 stack(s) of Pawned Asset.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1314_technique.png"
+                },
+                "ability_1": {
+                    "name": "Reverse Repo",
+                    "desc": "When an enemy target enters combat, Jade gains 1 stack(s) of Pawned Asset. When the Debt Collector character's turn starts, additionally gains 3 stack(s) of Pawned Asset.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1314_skilltree1.png"
+                },
+                "ability_2": {
+                    "name": "Collateral Ticket",
+                    "desc": "When the battle starts, Jade's action is advanced forward by 50%.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1314_skilltree2.png"
+                },
+                "ability_3": {
+                    "name": "Asset Forfeiture",
+                    "desc": "Each Pawned Asset stack from the Talent additionally increases Jade's ATK by 0.0%.",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1314_skilltree3.png"
+                },
+                "stat_1": {
+                    "name": "DMG Boost: Quantum",
+                    "desc": "Quantum DMG increases by 3.2%",
+                    "modifiers": [
+                        {
+                            "type": "quantum",
+                            "value": 0.032
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconQuantumAddedRatio.png"
+                },
+                "stat_2": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.04
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
+                },
+                "stat_3": {
+                    "name": "DMG Boost: Quantum",
+                    "desc": "Quantum DMG increases by 3.2%",
+                    "modifiers": [
+                        {
+                            "type": "quantum",
+                            "value": 0.032
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconQuantumAddedRatio.png"
+                },
+                "stat_4": {
+                    "name": "Effect RES Boost",
+                    "desc": "Effect RES resistance increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "effect_res",
+                            "value": 0.04
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
+                },
+                "stat_5": {
+                    "name": "DMG Boost: Quantum",
+                    "desc": "Quantum DMG increases by 4.8%",
+                    "modifiers": [
+                        {
+                            "type": "quantum",
+                            "value": 0.048
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconQuantumAddedRatio.png"
+                },
+                "stat_6": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.06
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
+                },
+                "stat_7": {
+                    "name": "DMG Boost: Quantum",
+                    "desc": "Quantum DMG increases by 4.8%",
+                    "modifiers": [
+                        {
+                            "type": "quantum",
+                            "value": 0.048
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconQuantumAddedRatio.png"
+                },
+                "stat_8": {
+                    "name": "Effect RES Boost",
+                    "desc": "Effect RES resistance increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "effect_res",
+                            "value": 0.06
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
+                },
+                "stat_9": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 8.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.08
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
+                },
+                "stat_10": {
+                    "name": "DMG Boost: Quantum",
+                    "desc": "Quantum DMG increases by 6.4%",
+                    "modifiers": [
+                        {
+                            "type": "quantum",
+                            "value": 0.064
+                        }
+                    ],
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconQuantumAddedRatio.png"
+                }
+            },
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1314.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1314.png",
+            "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/Jade.png"
+        },
         "Boothill": {
             "rarity": 5,
             "path": "The Hunt",
@@ -45968,7 +48011,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1315_skilltree3.png"
                 },
                 "stat_1": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 5.3%",
                     "modifiers": [
                         {
@@ -45990,7 +48033,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
                 },
                 "stat_3": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 5.3%",
                     "modifiers": [
                         {
@@ -46012,7 +48055,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconMaxHP.png"
                 },
                 "stat_5": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 8.0%",
                     "modifiers": [
                         {
@@ -46034,7 +48077,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
                 },
                 "stat_7": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 8.0%",
                     "modifiers": [
                         {
@@ -46067,7 +48110,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconAttack.png"
                 },
                 "stat_10": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 10.7%",
                     "modifiers": [
                         {
@@ -49028,7 +51071,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_skilltree3.png"
                 },
                 "stat_1": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 5.3%",
                     "modifiers": [
                         {
@@ -49050,7 +51093,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconImaginaryAddedRatio.png"
                 },
                 "stat_3": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 5.3%",
                     "modifiers": [
                         {
@@ -49072,7 +51115,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
                 },
                 "stat_5": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 8.0%",
                     "modifiers": [
                         {
@@ -49094,7 +51137,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconImaginaryAddedRatio.png"
                 },
                 "stat_7": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 8.0%",
                     "modifiers": [
                         {
@@ -49127,7 +51170,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconImaginaryAddedRatio.png"
                 },
                 "stat_10": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 10.7%",
                     "modifiers": [
                         {
@@ -49362,12 +51405,12 @@
                 {
                     "name": "Best Seat in the House",
                     "desc": "After using Skill for the first time, immediately recovers 1 Skill Point(s).",
-                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_rank1.png"
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8006_rank1.png"
                 },
                 {
                     "name": "Jailbreaking Rainbowwalk",
                     "desc": "When the battle starts, the Trailblazer's Energy Regeneration Rate increases by 25%, lasting for 3 turn(s).",
-                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_rank2.png"
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8006_rank2.png"
                 },
                 {
                     "name": "Sanatorium for Rest Notes",
@@ -49381,7 +51424,7 @@
                 {
                     "name": "Dove in Tophat",
                     "desc": "While the Trailblazer is on the field, increases the Break Effect of all teammates (excluding the Trailblazer), by an amount equal to 15% of the Trailblazer's Break Effect.",
-                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_rank4.png"
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8006_rank4.png"
                 },
                 {
                     "name": "Poem Favors Rhythms of Old",
@@ -49395,7 +51438,7 @@
                 {
                     "name": "Tomorrow, Rest in Spotlight",
                     "desc": "The number of additional DMG applications by the Skill increases by 2.",
-                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8005_rank6.png"
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8006_rank6.png"
                 }
             ],
             "skills": {
@@ -49616,7 +51659,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/8006_skilltree3.png"
                 },
                 "stat_1": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 5.3%",
                     "modifiers": [
                         {
@@ -49638,7 +51681,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconImaginaryAddedRatio.png"
                 },
                 "stat_3": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 5.3%",
                     "modifiers": [
                         {
@@ -49660,7 +51703,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
                 },
                 "stat_5": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 8.0%",
                     "modifiers": [
                         {
@@ -49682,7 +51725,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconImaginaryAddedRatio.png"
                 },
                 "stat_7": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 8.0%",
                     "modifiers": [
                         {
@@ -49715,7 +51758,7 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconImaginaryAddedRatio.png"
                 },
                 "stat_10": {
-                    "name": "Break Enhance",
+                    "name": "Break Boost",
                     "desc": "Break Effect increases by 10.7%",
                     "modifiers": [
                         {
@@ -49726,8 +51769,8 @@
                     "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconBreakUp.png"
                 }
             },
-            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8005.png",
-            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/8005.png",
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8006.png",
+            "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/8006.png",
             "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/data/mini_icons/TrailblazerHarmony%23F.png"
         }
     }
