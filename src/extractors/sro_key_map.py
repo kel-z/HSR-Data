@@ -7,6 +7,7 @@ OUTPUT_PATH = "output"
 TRAILBLAZER_MAPPINGS = {
     "TrailblazerDestruction": "TrailblazerPhysical",
     "TrailblazerPreservation": "TrailblazerFire",
+    "TrailblazerHarmony": "TrailblazerImaginary",
 }
 
 
