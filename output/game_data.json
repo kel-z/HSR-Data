@@ -774,7 +774,7 @@
         }
     },
     "characters": {
-        "March 7th": {
+        "March 7thPreservation": {
             "e3": {
                 "ult": 2,
                 "basic": 1
@@ -1161,6 +1161,16 @@
             },
             "e5": {
                 "skill": 2,
+                "talent": 2
+            }
+        },
+        "March 7thHunt": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
                 "talent": 2
             }
         },
