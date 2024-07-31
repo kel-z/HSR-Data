@@ -5,7 +5,7 @@ from utils.helpers import get_path_from_avatar_base_type, get_slot_from_relic_ty
 
 
 # game version that the output is up to date with
-HSR_VERSION = "2.3"
+HSR_VERSION = "2.4"
 
 # file paths as of https://github.com/Dimbreath/StarRailData/tree/6acdba3 (Oct 8, 2023)
 STAR_RAIL_DATA_PATH = "src/data/repos/StarRailData"
@@ -54,6 +54,9 @@ def get_game_data(include_icons: bool) -> dict:
                 for gender in ["#F", "#M"]:
                     if name + gender not in res["mini_icons"]:
                         print(f"WARN: Missing icon for character {name + gender}")
+            elif name.startswith("March7th"):
+                if name + "#March7th" not in res["mini_icons"]:
+                    print(f"WARN: Missing icon for character {name + '#March7th'}")
             elif name not in res["mini_icons"]:
                 print(f"WARN: Missing icon for character {name}")
 
@@ -70,14 +73,13 @@ def get_light_cones(text_map_en: dict) -> dict:
         light_cones = json.load(f)
 
     res = {}
-    for lc_id in light_cones:
+    for lc in light_cones:
         try:
-            lc = light_cones[lc_id]
             name = text_map_en[str(lc["EquipmentName"]["Hash"])]
 
             res[name] = {"rarity": int(lc["Rarity"][-1])}
         except KeyError as e:
-            print(f"Failed to parse light cone {lc_id}: {e}")
+            print(f"Failed to parse light cone {lc}: {e}")
             continue
 
     return res
@@ -95,20 +97,25 @@ def get_relics(text_map_en: dict) -> dict:
         relic_sets = json.load(f)
 
     res = {}
-    for rset_id in relic_pieces:
+    for relic in relic_pieces:
         try:
-            set_name = text_map_en[str(relic_sets[rset_id]["SetName"]["Hash"])]
-            relics = relic_pieces[rset_id]
-            for rid in relics:
-                relic = relics[rid]
-                name = text_map_en[_get_stable_hash(relic["RelicName"])]
-                res[name] = {
-                    "set": set_name,
-                    "slot": get_slot_from_relic_type(relic["Type"]),
-                }
+            set_name = text_map_en[
+                str(
+                    next(
+                        rset["SetName"]
+                        for rset in relic_sets
+                        if rset["SetID"] == relic["SetID"]
+                    )["Hash"]
+                )
+            ]
+            name = text_map_en[_get_stable_hash(relic["RelicName"])]
+            res[name] = {
+                "set": set_name,
+                "slot": get_slot_from_relic_type(relic["Type"]),
+            }
 
         except KeyError as e:
-            print(f"Failed to parse relic set {rset_id}: {e}")
+            print(f"Failed to parse relic set {relic}: {e}")
             continue
 
     return res
@@ -128,27 +135,41 @@ def get_characters(text_map_en: dict) -> dict:
         skills = json.load(f)
 
     res = {}
-    for cid in characters:
+    for character in characters:
         try:
-            character = characters[cid]
             name = text_map_en[str(character["AvatarName"]["Hash"])]
             if name == "{NICKNAME}":
-                name = "Trailblazer" + get_path_from_avatar_base_type(
-                    character["AvatarBaseType"]
+                name = (
+                    "Trailblazer"
+                    + get_path_from_avatar_base_type(
+                        character["AvatarBaseType"]
+                    ).split()[-1]
                 )
-            # else:
-            #     name = " ".join([word for word in name.split() if word.isalnum()])
-
-            e3_id = str(character["RankIDList"][2])
-            e5_id = str(character["RankIDList"][4])
+            elif name == "March 7th":
+                name = (
+                    "March 7th"
+                    + get_path_from_avatar_base_type(
+                        character["AvatarBaseType"]
+                    ).split()[-1]
+                )
+            e3 = next(
+                eidolon
+                for eidolon in eidolons
+                if eidolon["RankID"] == character["RankIDList"][2]
+            )
+            e5 = next(
+                eidolon
+                for eidolon in eidolons
+                if eidolon["RankID"] == character["RankIDList"][4]
+            )
 
             res[name] = {
-                "e3": _parse_skill_levels(skills, eidolons[e3_id]["SkillAddLevelList"]),
-                "e5": _parse_skill_levels(skills, eidolons[e5_id]["SkillAddLevelList"]),
+                "e3": _parse_skill_levels(skills, e3["SkillAddLevelList"]),
+                "e5": _parse_skill_levels(skills, e5["SkillAddLevelList"]),
             }
 
         except KeyError as e:
-            print(f"Failed to parse character {cid}: {e}")
+            print(f"Failed to parse character {character}: {e}")
             continue
 
     return res
@@ -201,10 +222,10 @@ def _parse_skill_levels(skills: dict, skill_add_level_dict: dict) -> dict:
     :return: A dictionary mapping skill keys to skill levels.
     """
     res = {}
-
     for sid in skill_add_level_dict:
         key = ""
-        match skills[sid]["1"]["SkillTriggerKey"]:
+        skill = next(s for s in skills if s["SkillID"] == int(sid))
+        match skill["SkillTriggerKey"]:
             case "Skill01":
                 key = "basic"
             case "Skill02":
