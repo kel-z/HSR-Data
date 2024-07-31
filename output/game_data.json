@@ -1,5 +1,5 @@
 {
-    "version": "2.3",
+    "version": "2.4",
     "light_cones": {
         "Arrows": {
             "rarity": 3
@@ -307,10 +307,19 @@
         "After the Charmony Fall": {
             "rarity": 4
         },
+        "Poised to Bloom": {
+            "rarity": 4
+        },
         "For Tomorrow's Journey": {
             "rarity": 4
         },
         "Flowing Nightglow": {
+            "rarity": 5
+        },
+        "Dance at Sunset": {
+            "rarity": 5
+        },
+        "Those Many Springs": {
             "rarity": 5
         }
     },
@@ -1133,6 +1142,26 @@
             "e5": {
                 "skill": 2,
                 "basic": 1
+            }
+        },
+        "Jiaoqiu": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
+        "Yunli": {
+            "e3": {
+                "ult": 2,
+                "basic": 1
+            },
+            "e5": {
+                "skill": 2,
+                "talent": 2
             }
         },
         "Gallagher": {

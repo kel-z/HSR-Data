@@ -25,6 +25,7 @@
         "Hook": "Hook",
         "Huohuo": "Huohuo",
         "Jade": "Jade",
+        "Jiaoqiu": "Jiaoqiu",
         "Jing Yuan": "JingYuan",
         "Jingliu": "Jingliu",
         "Kafka": "Kafka",
@@ -52,7 +53,8 @@
         "Welt": "Welt",
         "Xueyi": "Xueyi",
         "Yanqing": "Yanqing",
-        "Yukong": "Yukong"
+        "Yukong": "Yukong",
+        "Yunli": "Yunli"
     },
     "relic_sets": {
         "Band of Sizzling Thunder": "BandOfSizzlingThunder",
@@ -112,6 +114,7 @@
         "Concert for Two": "ConcertForTwo",
         "Cornucopia": "Cornucopia",
         "Cruising in the Stellar Sea": "CruisingInTheStellarSea",
+        "Dance at Sunset": "DanceAtSunset",
         "Dance! Dance! Dance!": "DanceDanceDance",
         "Darting Arrow": "DartingArrow",
         "Data Bank": "DataBank",
@@ -161,6 +164,7 @@
         "Perfect Timing": "PerfectTiming",
         "Pioneering": "Pioneering",
         "Planetary Rendezvous": "PlanetaryRendezvous",
+        "Poised to Bloom": "PoisedToBloom",
         "Post-Op Conversation": "PostOpConversation",
         "Quid Pro Quo": "QuidProQuo",
         "Reforged Remembrance": "ReforgedRemembrance",
@@ -184,6 +188,7 @@
         "The Seriousness of Breakfast": "TheSeriousnessOfBreakfast",
         "The Unreachable Side": "TheUnreachableSide",
         "This Is Me!": "ThisIsMe",
+        "Those Many Springs": "ThoseManySprings",
         "Time Waits for No One": "TimeWaitsForNoOne",
         "Today Is Another Peaceful Day": "TodayIsAnotherPeacefulDay",
         "Trend of the Universal Market": "TrendOfTheUniversalMarket",
