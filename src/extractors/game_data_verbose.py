@@ -174,9 +174,11 @@ def get_characters(include_icons: bool) -> dict:
         characters[name] = {
             "rarity": character["rarity"],
             "path": path,
-            "element": "Lightning"
-            if character["element"] == "Thunder"
-            else character["element"],
+            "element": (
+                "Lightning"
+                if character["element"] == "Thunder"
+                else character["element"]
+            ),
             "ascension": ascension,
             "eidolons": eidolons,
             "skills": skills,
@@ -205,8 +207,10 @@ def _format_name(character: dict) -> str:
     name = character["name"]
     path = get_path_from_avatar_base_type(character["path"])
     if name == "{NICKNAME}":
-        name = "Trailblazer" + path
+        name = "Trailblazer" + path.split()[-1]
         name += "#F" if "girl" in character["tag"] else "#M"
+    elif name == "March 7th":
+        name = "March 7th" + path.split()[-1]
     return name
 
 

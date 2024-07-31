@@ -54,9 +54,6 @@ def get_game_data(include_icons: bool) -> dict:
                 for gender in ["#F", "#M"]:
                     if name + gender not in res["mini_icons"]:
                         print(f"WARN: Missing icon for character {name + gender}")
-            elif name.startswith("March7th"):
-                if name + "#March7th" not in res["mini_icons"]:
-                    print(f"WARN: Missing icon for character {name + '#March7th'}")
             elif name not in res["mini_icons"]:
                 print(f"WARN: Missing icon for character {name}")
 

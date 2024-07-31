@@ -17043,10 +17043,10 @@
         }
     },
     "characters": {
-        "March 7th": {
+        "March 7thPreservation": {
             "rarity": 4,
-            "path": "The Hunt",
-            "element": "Imaginary",
+            "path": "Preservation",
+            "element": "Ice",
             "ascension": [
                 {
                     "hp": {
@@ -17054,19 +17054,19 @@
                         "step": 7.2
                     },
                     "atk": {
-                        "base": 76.8,
-                        "step": 3.84
+                        "base": 69.6,
+                        "step": 3.48
                     },
                     "def": {
-                        "base": 60,
-                        "step": 3
+                        "base": 78,
+                        "step": 3.9
                     },
                     "spd": {
-                        "base": 102,
+                        "base": 101,
                         "step": 0
                     },
                     "taunt": {
-                        "base": 75,
+                        "base": 150,
                         "step": 0
                     },
                     "crit_rate": {
@@ -17084,19 +17084,19 @@
                         "step": 7.2
                     },
                     "atk": {
-                        "base": 107.52,
-                        "step": 3.84
+                        "base": 97.44,
+                        "step": 3.48
                     },
                     "def": {
-                        "base": 84,
-                        "step": 3
+                        "base": 109.2,
+                        "step": 3.9
                     },
                     "spd": {
-                        "base": 102,
+                        "base": 101,
                         "step": 0
                     },
                     "taunt": {
-                        "base": 75,
+                        "base": 150,
                         "step": 0
                     },
                     "crit_rate": {
@@ -17114,19 +17114,19 @@
                         "step": 7.2
                     },
                     "atk": {
-                        "base": 138.24,
-                        "step": 3.84
+                        "base": 125.28,
+                        "step": 3.48
                     },
                     "def": {
-                        "base": 108,
-                        "step": 3
+                        "base": 140.4,
+                        "step": 3.9
                     },
                     "spd": {
-                        "base": 102,
+                        "base": 101,
                         "step": 0
                     },
                     "taunt": {
-                        "base": 75,
+                        "base": 150,
                         "step": 0
                     },
                     "crit_rate": {
@@ -17144,19 +17144,19 @@
                         "step": 7.2
                     },
                     "atk": {
-                        "base": 168.96,
-                        "step": 3.84
+                        "base": 153.12,
+                        "step": 3.48
                     },
                     "def": {
-                        "base": 132,
-                        "step": 3
+                        "base": 171.6,
+                        "step": 3.9
                     },
                     "spd": {
-                        "base": 102,
+                        "base": 101,
                         "step": 0
                     },
                     "taunt": {
-                        "base": 75,
+                        "base": 150,
                         "step": 0
                     },
                     "crit_rate": {
@@ -17174,19 +17174,19 @@
                         "step": 7.2
                     },
                     "atk": {
-                        "base": 199.68,
-                        "step": 3.84
+                        "base": 180.96,
+                        "step": 3.48
                     },
                     "def": {
-                        "base": 156,
-                        "step": 3
+                        "base": 202.8,
+                        "step": 3.9
                     },
                     "spd": {
-                        "base": 102,
+                        "base": 101,
                         "step": 0
                     },
                     "taunt": {
-                        "base": 75,
+                        "base": 150,
                         "step": 0
                     },
                     "crit_rate": {
@@ -17204,19 +17204,19 @@
                         "step": 7.2
                     },
                     "atk": {
-                        "base": 230.4,
-                        "step": 3.84
+                        "base": 208.8,
+                        "step": 3.48
                     },
                     "def": {
-                        "base": 180,
-                        "step": 3
+                        "base": 234,
+                        "step": 3.9
                     },
                     "spd": {
-                        "base": 102,
+                        "base": 101,
                         "step": 0
                     },
                     "taunt": {
-                        "base": 75,
+                        "base": 150,
                         "step": 0
                     },
                     "crit_rate": {
@@ -17234,19 +17234,19 @@
                         "step": 7.2
                     },
                     "atk": {
-                        "base": 261.12,
-                        "step": 3.84
+                        "base": 236.64,
+                        "step": 3.48
                     },
                     "def": {
-                        "base": 204,
-                        "step": 3
+                        "base": 265.2,
+                        "step": 3.9
                     },
                     "spd": {
-                        "base": 102,
+                        "base": 101,
                         "step": 0
                     },
                     "taunt": {
-                        "base": 75,
+                        "base": 150,
                         "step": 0
                     },
                     "crit_rate": {
@@ -17261,43 +17261,43 @@
             ],
             "eidolons": [
                 {
-                    "name": "My Sword Stirs Starlight",
-                    "desc": "When Shifu is on the field, increases March 7th's SPD by 10%."
+                    "name": "Memory of You",
+                    "desc": "Every time March 7th's Ultimate Freezes a target, she regenerates 6 Energy."
                 },
                 {
-                    "name": "Blade Dances on Waves' Fight",
-                    "desc": "After Shifu uses Basic ATK or Skill to attack an enemy target, March 7th immediately launches a follow-up attack and deals Imaginary DMG equal to 60% of March 7th's ATK to the primary target of this attack. Additionally, triggers the corresponding effect based on Shifu's Path and then gains 1 point(s) of Charge. If there is no primary target available to attack, then attacks a single random enemy instead. This effect can only trigger once per turn."
+                    "name": "Memory of It",
+                    "desc": "Upon entering battle, grants a Shield equal to 24% of March 7th's DEF plus 320 to the ally with the lowest HP percentage, lasting for 3 turn(s)."
                 },
                 {
-                    "name": "Sharp Wit in Martial Might",
-                    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+                    "name": "Memory of Everything",
+                    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
                     "level_up_skills": {
-                        "skill": 2,
+                        "ult": 2,
                         "basic": 1
                     }
                 },
                 {
-                    "name": "Being Fabulous Never Frights",
-                    "desc": "At the start of the turn, regenerates 5 Energy."
+                    "name": "Never Forfeit Again",
+                    "desc": "The Talent's Counter effect can be triggered 1 more time in each turn. The DMG dealt by Counter increases by an amount that is equal to 30% of March 7th's DEF."
                 },
                 {
-                    "name": "Sword Delights, Sugar Blights",
-                    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+                    "name": "Never Forget Again",
+                    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
                     "level_up_skills": {
-                        "ult": 2,
+                        "skill": 2,
                         "talent": 2
                     }
                 },
                 {
-                    "name": "Me, the Best Girl in Sight",
-                    "desc": "After using Ultimate, increases the CRIT DMG dealt by the next Enhanced Basic ATK by 50%."
+                    "name": "Just Like This, Always...",
+                    "desc": "Allies under the protection of the Shield granted by the Skill restore HP equal to 4% of their Max HP plus 106 at the beginning of each turn."
                 }
             ],
             "skills": {
                 "basic": {
-                    "name": "My Sword Zaps Demons",
+                    "name": "Frigid Cold Arrow",
                     "max_level": 9,
-                    "desc": "Deals Imaginary DMG equal to {0}% of March 7th's ATK to a single enemy and gains 1 point(s) of Charge.",
+                    "desc": "Deals Ice DMG equal to {0}% of March 7th's ATK to a single enemy.",
                     "params": [
                         [
                             "50"
@@ -17329,143 +17329,149 @@
                     ]
                 },
                 "skill": {
-                    "name": "Master, It's Tea Time!",
+                    "name": "The Power of Cuteness",
                     "max_level": 15,
-                    "desc": "Designates a single ally (excluding this unit) as Shifu and increases Shifu's SPD by {0}%. Only the most recent target of March 7th's Skill is considered as Shifu.\nWhen using Basic ATK or dealing 1 hit of Enhanced Basic ATK's DMG, triggers the corresponding effect based on the specific Path of Shifu:\nErudition, Destruction, The Hunt: Deals Additional DMG (DMG Type based on Shifu's Combat Type) equal to {1}% of March 7th's ATK.\nHarmony, Nihility, Preservation, Abundance: Increases the Toughness Reduction of this instance of DMG by 100%.",
+                    "desc": "Provides a single ally with a Shield that can absorb DMG equal to {0}% of March 7th's DEF plus {1} for 3 turn(s).\nIf the ally's current HP percentage is 30% or higher, greatly increases the chance of enemies attacking that ally.",
                     "params": [
                         [
-                            "6.0",
-                            "10"
+                            "38",
+                            "190"
                         ],
                         [
-                            "6.4",
-                            "11"
+                            "40",
+                            "304"
                         ],
                         [
-                            "6.8",
-                            "12"
+                            "42",
+                            "389.5"
                         ],
                         [
-                            "7.2",
-                            "13"
+                            "45",
+                            "475"
                         ],
                         [
-                            "7.6",
-                            "14"
+                            "47",
+                            "532"
                         ],
                         [
-                            "8.0",
-                            "15"
+                            "49",
+                            "589"
                         ],
                         [
-                            "8.5",
-                            "16"
+                            "51",
+                            "631.75"
                         ],
                         [
-                            "9.0",
-                            "17"
+                            "53",
+                            "674.5"
                         ],
                         [
-                            "9.5",
-                            "18"
+                            "55",
+                            "717.25"
                         ],
                         [
-                            "10.0",
-                            "20"
+                            "56",
+                            "760"
                         ],
                         [
-                            "10.4",
-                            "21"
+                            "58",
+                            "802.75"
                         ],
                         [
-                            "10.8",
-                            "22"
+                            "60",
+                            "845.5"
                         ],
                         [
-                            "11.2",
-                            "23"
+                            "62",
+                            "888.25"
                         ],
                         [
-                            "11.6",
-                            "24"
+                            "64",
+                            "931"
                         ],
                         [
-                            "12.0",
-                            "25"
+                            "66",
+                            "973.75"
                         ]
                     ]
                 },
                 "ult": {
-                    "name": "March 7th, the Apex Heroine",
+                    "name": "Glacial Cascade",
                     "max_level": 15,
-                    "desc": "Deals Imaginary DMG equal to {0}% of March 7th's ATK to a single target enemy.\nIncreases the initial Hits Per Action of the next Enhanced Basic ATK by 2 hits and increase the fixed chance of additionally dealing DMG by 20%.",
+                    "desc": "Deals Ice DMG equal to {0}% of March 7th's ATK to all enemies. Hit enemies have a 50% base chance to be Frozen for 1 turn(s).\nWhile Frozen, enemies cannot take action and will receive Additional Ice DMG equal to {1}% of March 7th's ATK at the beginning of each turn.",
                     "params": [
                         [
-                            "144"
+                            "90",
+                            "30"
                         ],
                         [
-                            "153"
+                            "96",
+                            "33"
                         ],
                         [
-                            "163"
+                            "102",
+                            "36"
                         ],
                         [
-                            "172"
+                            "108",
+                            "39"
                         ],
                         [
-                            "182"
+                            "113",
+                            "42"
                         ],
                         [
-                            "192"
+                            "120",
+                            "45"
                         ],
                         [
-                            "204"
+                            "127",
+                            "48"
                         ],
                         [
-                            "216"
+                            "135",
+                            "52"
                         ],
                         [
-                            "227"
+                            "142",
+                            "56"
                         ],
                         [
-                            "240"
+                            "150",
+                            "60"
                         ],
                         [
-                            "249"
+                            "156",
+                            "63"
                         ],
                         [
-                            "259"
+                            "162",
+                            "66"
                         ],
                         [
-                            "268"
+                            "168",
+                            "69"
                         ],
                         [
-                            "278"
+                            "174",
+                            "72"
                         ],
                         [
-                            "288"
+                            "180",
+                            "75"
                         ]
                     ]
                 },
                 "talent": {
-                    "name": "Master, I've Ascended!",
+                    "name": "Girl Power",
                     "max_level": 15,
-                    "desc": "After Shifu uses an attack or Ultimate, March 7th gains up to 1 point of Charge each time.\nUpon reaching 7 or more points of Charge, March 7th immediately takes action and increases the DMG she deals by {0}%. Her Basic ATK gets Enhanced, and her Skill cannot be used. After using Enhanced Basic ATK, consumes 7 point(s) of Charge. Charge is capped at 10 points.",
+                    "desc": "After a Shielded ally is attacked by an enemy, March 7th immediately Counters, dealing Ice DMG equal to {0}% of her ATK. This effect can be triggered 2 time(s) each turn.",
                     "params": [
                         [
-                            "40"
+                            "50"
                         ],
                         [
-                            "44"
-                        ],
-                        [
-                            "48"
-                        ],
-                        [
-                            "52"
-                        ],
-                        [
-                            "56"
+                            "55"
                         ],
                         [
                             "60"
@@ -17480,74 +17486,63 @@
                             "75"
                         ],
                         [
-                            "80"
+                            "81"
                         ],
                         [
-                            "84"
+                            "87"
                         ],
                         [
-                            "88"
-                        ],
-                        [
-                            "92"
-                        ],
-                        [
-                            "96"
+                            "93"
                         ],
                         [
                             "100"
+                        ],
+                        [
+                            "105"
+                        ],
+                        [
+                            "110"
+                        ],
+                        [
+                            "114"
+                        ],
+                        [
+                            "120"
+                        ],
+                        [
+                            "125"
                         ]
                     ]
                 }
             },
             "traces": {
                 "technique": {
-                    "name": "Feast in One Go",
-                    "desc": "If March 7th is on the team, she gains 1 point of Charge at the start of the next battle whenever an ally uses Technique, up to a max of 3 point(s).\nAfter using Technique, March 7th regenerates 30 Energy when the next battle starts."
+                    "name": "Freezing Beauty",
+                    "desc": "Immediately attacks the enemy. After entering battle, there is a 100% base chance to Freeze a random enemy for 1 turn(s).\nWhile Frozen, the enemy cannot take action and will take Additional Ice DMG equal to 50% of March 7th's ATK at the beginning of each turn."
                 },
                 "ability_1": {
-                    "name": "Swan Soar",
-                    "desc": "When the battle starts, March 7th's action is Advanced Forward by 25%."
+                    "name": "Purify",
+                    "desc": "When using the Skill, removes 1 debuff from a target ally."
                 },
                 "ability_2": {
-                    "name": "Filigree",
-                    "desc": "March 7th can reduce the Toughness of enemies whose Weakness Type is the same as Shifu's Combat Type. When Breaking Weakness, triggers the Imaginary Weakness Break effect."
+                    "name": "Reinforce",
+                    "desc": "The duration of the Shield generated from Skill is extended for 1 turn(s)."
                 },
                 "ability_3": {
-                    "name": "Tide Tamer",
-                    "desc": "After using Enhanced Basic ATK, increases Shifu's CRIT DMG by 60% and Break Effect by 36%, lasting for 2 turn(s)."
+                    "name": "Ice Spell",
+                    "desc": "Increases the Ultimate's base chance to Freeze enemies by 15%."
                 },
                 "stat_1": {
-                    "name": "ATK Boost",
-                    "desc": "ATK increases by 4.0%",
+                    "name": "DMG Boost: Ice",
+                    "desc": "Ice DMG increases by 3.2%",
                     "modifiers": [
                         {
-                            "type": "atk_",
-                            "value": 0.04
+                            "type": "ice",
+                            "value": 0.032
                         }
                     ]
                 },
                 "stat_2": {
-                    "name": "CRIT DMG Boost",
-                    "desc": "CRIT DMG increases by 5.3%",
-                    "modifiers": [
-                        {
-                            "type": "crit_dmg",
-                            "value": 0.053
-                        }
-                    ]
-                },
-                "stat_3": {
-                    "name": "ATK Boost",
-                    "desc": "ATK increases by 4.0%",
-                    "modifiers": [
-                        {
-                            "type": "atk_",
-                            "value": 0.04
-                        }
-                    ]
-                },
-                "stat_4": {
                     "name": "DEF Boost",
                     "desc": "DEF increases by 5.0%",
                     "modifiers": [
@@ -17557,37 +17552,47 @@
                         }
                     ]
                 },
-                "stat_5": {
-                    "name": "ATK Boost",
-                    "desc": "ATK increases by 6.0%",
+                "stat_3": {
+                    "name": "DMG Boost: Ice",
+                    "desc": "Ice DMG increases by 3.2%",
                     "modifiers": [
                         {
-                            "type": "atk_",
-                            "value": 0.06
+                            "type": "ice",
+                            "value": 0.032
+                        }
+                    ]
+                },
+                "stat_4": {
+                    "name": "Effect RES Boost",
+                    "desc": "Effect RES resistance increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "effect_res",
+                            "value": 0.04
+                        }
+                    ]
+                },
+                "stat_5": {
+                    "name": "DMG Boost: Ice",
+                    "desc": "Ice DMG increases by 4.8%",
+                    "modifiers": [
+                        {
+                            "type": "ice",
+                            "value": 0.048
                         }
                     ]
                 },
                 "stat_6": {
-                    "name": "CRIT DMG Boost",
-                    "desc": "CRIT DMG increases by 8.0%",
+                    "name": "Effect RES Boost",
+                    "desc": "Effect RES resistance increases by 6.0%",
                     "modifiers": [
                         {
-                            "type": "crit_dmg",
-                            "value": 0.08
-                        }
-                    ]
-                },
-                "stat_7": {
-                    "name": "ATK Boost",
-                    "desc": "ATK increases by 6.0%",
-                    "modifiers": [
-                        {
-                            "type": "atk_",
+                            "type": "effect_res",
                             "value": 0.06
                         }
                     ]
                 },
-                "stat_8": {
+                "stat_7": {
                     "name": "DEF Boost",
                     "desc": "DEF increases by 7.5%",
                     "modifiers": [
@@ -17597,23 +17602,33 @@
                         }
                     ]
                 },
-                "stat_9": {
-                    "name": "CRIT DMG Boost",
-                    "desc": "CRIT DMG increases by 10.7%",
+                "stat_8": {
+                    "name": "DMG Boost: Ice",
+                    "desc": "Ice DMG increases by 4.8%",
                     "modifiers": [
                         {
-                            "type": "crit_dmg",
-                            "value": 0.107
+                            "type": "ice",
+                            "value": 0.048
+                        }
+                    ]
+                },
+                "stat_9": {
+                    "name": "DMG Boost: Ice",
+                    "desc": "Ice DMG increases by 6.4%",
+                    "modifiers": [
+                        {
+                            "type": "ice",
+                            "value": 0.064
                         }
                     ]
                 },
                 "stat_10": {
-                    "name": "ATK Boost",
-                    "desc": "ATK increases by 8.0%",
+                    "name": "DEF Boost",
+                    "desc": "DEF increases by 10.0%",
                     "modifiers": [
                         {
-                            "type": "atk_",
-                            "value": 0.08
+                            "type": "def_",
+                            "value": 0.1
                         }
                     ]
                 }
@@ -40332,6 +40347,582 @@
                         {
                             "type": "hp_",
                             "value": 0.08
+                        }
+                    ]
+                },
+                "stat_10": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 8.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.08
+                        }
+                    ]
+                }
+            }
+        },
+        "March 7thHunt": {
+            "rarity": 4,
+            "path": "The Hunt",
+            "element": "Imaginary",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 144,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 76.8,
+                        "step": 3.84
+                    },
+                    "def": {
+                        "base": 60,
+                        "step": 3
+                    },
+                    "spd": {
+                        "base": 102,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 201.6,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 107.52,
+                        "step": 3.84
+                    },
+                    "def": {
+                        "base": 84,
+                        "step": 3
+                    },
+                    "spd": {
+                        "base": 102,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 259.2,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 138.24,
+                        "step": 3.84
+                    },
+                    "def": {
+                        "base": 108,
+                        "step": 3
+                    },
+                    "spd": {
+                        "base": 102,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 316.8,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 168.96,
+                        "step": 3.84
+                    },
+                    "def": {
+                        "base": 132,
+                        "step": 3
+                    },
+                    "spd": {
+                        "base": 102,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 374.4,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 199.68,
+                        "step": 3.84
+                    },
+                    "def": {
+                        "base": 156,
+                        "step": 3
+                    },
+                    "spd": {
+                        "base": 102,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 432,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 230.4,
+                        "step": 3.84
+                    },
+                    "def": {
+                        "base": 180,
+                        "step": 3
+                    },
+                    "spd": {
+                        "base": 102,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 489.6,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 261.12,
+                        "step": 3.84
+                    },
+                    "def": {
+                        "base": 204,
+                        "step": 3
+                    },
+                    "spd": {
+                        "base": 102,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                }
+            ],
+            "eidolons": [
+                {
+                    "name": "My Sword Stirs Starlight",
+                    "desc": "When Shifu is on the field, increases March 7th's SPD by 10%."
+                },
+                {
+                    "name": "Blade Dances on Waves' Fight",
+                    "desc": "After Shifu uses Basic ATK or Skill to attack an enemy target, March 7th immediately launches a follow-up attack and deals Imaginary DMG equal to 60% of March 7th's ATK to the primary target of this attack. Additionally, triggers the corresponding effect based on Shifu's Path and then gains 1 point(s) of Charge. If there is no primary target available to attack, then attacks a single random enemy instead. This effect can only trigger once per turn."
+                },
+                {
+                    "name": "Sharp Wit in Martial Might",
+                    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+                    "level_up_skills": {
+                        "skill": 2,
+                        "basic": 1
+                    }
+                },
+                {
+                    "name": "Being Fabulous Never Frights",
+                    "desc": "At the start of the turn, regenerates 5 Energy."
+                },
+                {
+                    "name": "Sword Delights, Sugar Blights",
+                    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+                    "level_up_skills": {
+                        "ult": 2,
+                        "talent": 2
+                    }
+                },
+                {
+                    "name": "Me, the Best Girl in Sight",
+                    "desc": "After using Ultimate, increases the CRIT DMG dealt by the next Enhanced Basic ATK by 50%."
+                }
+            ],
+            "skills": {
+                "basic": {
+                    "name": "My Sword Zaps Demons",
+                    "max_level": 9,
+                    "desc": "Deals Imaginary DMG equal to {0}% of March 7th's ATK to a single enemy and gains 1 point(s) of Charge.",
+                    "params": [
+                        [
+                            "50"
+                        ],
+                        [
+                            "60"
+                        ],
+                        [
+                            "70"
+                        ],
+                        [
+                            "80"
+                        ],
+                        [
+                            "90"
+                        ],
+                        [
+                            "100"
+                        ],
+                        [
+                            "110"
+                        ],
+                        [
+                            "120"
+                        ],
+                        [
+                            "130"
+                        ]
+                    ]
+                },
+                "skill": {
+                    "name": "Master, It's Tea Time!",
+                    "max_level": 15,
+                    "desc": "Designates a single ally (excluding this unit) as Shifu and increases Shifu's SPD by {0}%. Only the most recent target of March 7th's Skill is considered as Shifu.\nWhen using Basic ATK or dealing 1 hit of Enhanced Basic ATK's DMG, triggers the corresponding effect based on the specific Path of Shifu:\nErudition, Destruction, The Hunt: Deals Additional DMG (DMG Type based on Shifu's Combat Type) equal to {1}% of March 7th's ATK.\nHarmony, Nihility, Preservation, Abundance: Increases the Toughness Reduction of this instance of DMG by 100%.",
+                    "params": [
+                        [
+                            "6.0",
+                            "10"
+                        ],
+                        [
+                            "6.4",
+                            "11"
+                        ],
+                        [
+                            "6.8",
+                            "12"
+                        ],
+                        [
+                            "7.2",
+                            "13"
+                        ],
+                        [
+                            "7.6",
+                            "14"
+                        ],
+                        [
+                            "8.0",
+                            "15"
+                        ],
+                        [
+                            "8.5",
+                            "16"
+                        ],
+                        [
+                            "9.0",
+                            "17"
+                        ],
+                        [
+                            "9.5",
+                            "18"
+                        ],
+                        [
+                            "10.0",
+                            "20"
+                        ],
+                        [
+                            "10.4",
+                            "21"
+                        ],
+                        [
+                            "10.8",
+                            "22"
+                        ],
+                        [
+                            "11.2",
+                            "23"
+                        ],
+                        [
+                            "11.6",
+                            "24"
+                        ],
+                        [
+                            "12.0",
+                            "25"
+                        ]
+                    ]
+                },
+                "ult": {
+                    "name": "March 7th, the Apex Heroine",
+                    "max_level": 15,
+                    "desc": "Deals Imaginary DMG equal to {0}% of March 7th's ATK to a single target enemy.\nIncreases the initial Hits Per Action of the next Enhanced Basic ATK by 2 hits and increase the fixed chance of additionally dealing DMG by 20%.",
+                    "params": [
+                        [
+                            "144"
+                        ],
+                        [
+                            "153"
+                        ],
+                        [
+                            "163"
+                        ],
+                        [
+                            "172"
+                        ],
+                        [
+                            "182"
+                        ],
+                        [
+                            "192"
+                        ],
+                        [
+                            "204"
+                        ],
+                        [
+                            "216"
+                        ],
+                        [
+                            "227"
+                        ],
+                        [
+                            "240"
+                        ],
+                        [
+                            "249"
+                        ],
+                        [
+                            "259"
+                        ],
+                        [
+                            "268"
+                        ],
+                        [
+                            "278"
+                        ],
+                        [
+                            "288"
+                        ]
+                    ]
+                },
+                "talent": {
+                    "name": "Master, I've Ascended!",
+                    "max_level": 15,
+                    "desc": "After Shifu uses an attack or Ultimate, March 7th gains up to 1 point of Charge each time.\nUpon reaching 7 or more points of Charge, March 7th immediately takes action and increases the DMG she deals by {0}%. Her Basic ATK gets Enhanced, and her Skill cannot be used. After using Enhanced Basic ATK, consumes 7 point(s) of Charge. Charge is capped at 10 points.",
+                    "params": [
+                        [
+                            "40"
+                        ],
+                        [
+                            "44"
+                        ],
+                        [
+                            "48"
+                        ],
+                        [
+                            "52"
+                        ],
+                        [
+                            "56"
+                        ],
+                        [
+                            "60"
+                        ],
+                        [
+                            "65"
+                        ],
+                        [
+                            "70"
+                        ],
+                        [
+                            "75"
+                        ],
+                        [
+                            "80"
+                        ],
+                        [
+                            "84"
+                        ],
+                        [
+                            "88"
+                        ],
+                        [
+                            "92"
+                        ],
+                        [
+                            "96"
+                        ],
+                        [
+                            "100"
+                        ]
+                    ]
+                }
+            },
+            "traces": {
+                "technique": {
+                    "name": "Feast in One Go",
+                    "desc": "If March 7th is on the team, she gains 1 point of Charge at the start of the next battle whenever an ally uses Technique, up to a max of 3 point(s).\nAfter using Technique, March 7th regenerates 30 Energy when the next battle starts."
+                },
+                "ability_1": {
+                    "name": "Swan Soar",
+                    "desc": "When the battle starts, March 7th's action is Advanced Forward by 25%."
+                },
+                "ability_2": {
+                    "name": "Filigree",
+                    "desc": "March 7th can reduce the Toughness of enemies whose Weakness Type is the same as Shifu's Combat Type. When Breaking Weakness, triggers the Imaginary Weakness Break effect."
+                },
+                "ability_3": {
+                    "name": "Tide Tamer",
+                    "desc": "After using Enhanced Basic ATK, increases Shifu's CRIT DMG by 60% and Break Effect by 36%, lasting for 2 turn(s)."
+                },
+                "stat_1": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.04
+                        }
+                    ]
+                },
+                "stat_2": {
+                    "name": "CRIT DMG Boost",
+                    "desc": "CRIT DMG increases by 5.3%",
+                    "modifiers": [
+                        {
+                            "type": "crit_dmg",
+                            "value": 0.053
+                        }
+                    ]
+                },
+                "stat_3": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.04
+                        }
+                    ]
+                },
+                "stat_4": {
+                    "name": "DEF Boost",
+                    "desc": "DEF increases by 5.0%",
+                    "modifiers": [
+                        {
+                            "type": "def_",
+                            "value": 0.05
+                        }
+                    ]
+                },
+                "stat_5": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.06
+                        }
+                    ]
+                },
+                "stat_6": {
+                    "name": "CRIT DMG Boost",
+                    "desc": "CRIT DMG increases by 8.0%",
+                    "modifiers": [
+                        {
+                            "type": "crit_dmg",
+                            "value": 0.08
+                        }
+                    ]
+                },
+                "stat_7": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.06
+                        }
+                    ]
+                },
+                "stat_8": {
+                    "name": "DEF Boost",
+                    "desc": "DEF increases by 7.5%",
+                    "modifiers": [
+                        {
+                            "type": "def_",
+                            "value": 0.075
+                        }
+                    ]
+                },
+                "stat_9": {
+                    "name": "CRIT DMG Boost",
+                    "desc": "CRIT DMG increases by 10.7%",
+                    "modifiers": [
+                        {
+                            "type": "crit_dmg",
+                            "value": 0.107
                         }
                     ]
                 },
