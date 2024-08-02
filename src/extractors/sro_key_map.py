@@ -4,10 +4,12 @@ import json
 # output folder
 OUTPUT_PATH = "output"
 
-TRAILBLAZER_MAPPINGS = {
+ALT_PATHS_MAPPINGS = {
     "TrailblazerDestruction": "TrailblazerPhysical",
     "TrailblazerPreservation": "TrailblazerFire",
     "TrailblazerHarmony": "TrailblazerImaginary",
+    "March 7thPreservation": "March7thIce",
+    "March 7thHunt": "March7thImaginary",
 }
 
 
@@ -26,8 +28,8 @@ def get_sro_mappings(game_data: dict, swap: bool = False):
     for name in sorted(game_data["characters"].keys()):
         key = name
         value = (
-            TRAILBLAZER_MAPPINGS[name]
-            if name in TRAILBLAZER_MAPPINGS
+            ALT_PATHS_MAPPINGS[name]
+            if name in ALT_PATHS_MAPPINGS
             else "".join(
                 [
                     "".join([c for c in word.capitalize() if c.isalnum()])
