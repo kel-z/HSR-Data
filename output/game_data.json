@@ -2,773 +2,992 @@
     "version": "2.4",
     "light_cones": {
         "Arrows": {
+            "id": 20000,
             "rarity": 3
         },
         "Cornucopia": {
+            "id": 20001,
             "rarity": 3
         },
         "Collapsing Sky": {
+            "id": 20002,
             "rarity": 3
         },
         "Amber": {
+            "id": 20003,
             "rarity": 3
         },
         "Void": {
+            "id": 20004,
             "rarity": 3
         },
         "Chorus": {
+            "id": 20005,
             "rarity": 3
         },
         "Data Bank": {
+            "id": 20006,
             "rarity": 3
         },
         "Darting Arrow": {
+            "id": 20007,
             "rarity": 3
         },
         "Fine Fruit": {
+            "id": 20008,
             "rarity": 3
         },
         "Shattered Home": {
+            "id": 20009,
             "rarity": 3
         },
         "Defense": {
+            "id": 20010,
             "rarity": 3
         },
         "Loop": {
+            "id": 20011,
             "rarity": 3
         },
         "Meshing Cogs": {
+            "id": 20012,
             "rarity": 3
         },
         "Passkey": {
+            "id": 20013,
             "rarity": 3
         },
         "Adversarial": {
+            "id": 20014,
             "rarity": 3
         },
         "Multiplication": {
+            "id": 20015,
             "rarity": 3
         },
         "Mutual Demise": {
+            "id": 20016,
             "rarity": 3
         },
         "Pioneering": {
+            "id": 20017,
             "rarity": 3
         },
         "Hidden Shadow": {
+            "id": 20018,
             "rarity": 3
         },
         "Mediation": {
+            "id": 20019,
             "rarity": 3
         },
         "Sagacity": {
+            "id": 20020,
             "rarity": 3
         },
         "Post-Op Conversation": {
+            "id": 21000,
             "rarity": 4
         },
         "Good Night and Sleep Well": {
+            "id": 21001,
             "rarity": 4
         },
         "Day One of My New Life": {
+            "id": 21002,
             "rarity": 4
         },
         "Only Silence Remains": {
+            "id": 21003,
             "rarity": 4
         },
         "Memories of the Past": {
+            "id": 21004,
             "rarity": 4
         },
         "The Moles Welcome You": {
+            "id": 21005,
             "rarity": 4
         },
         "The Birth of the Self": {
+            "id": 21006,
             "rarity": 4
         },
         "Eyes of the Prey": {
+            "id": 21008,
             "rarity": 4
         },
         "Landau's Choice": {
+            "id": 21009,
             "rarity": 4
         },
         "Swordplay": {
+            "id": 21010,
             "rarity": 4
         },
         "Planetary Rendezvous": {
+            "id": 21011,
             "rarity": 4
         },
         "A Secret Vow": {
+            "id": 21012,
             "rarity": 4
         },
         "Make the World Clamor": {
+            "id": 21013,
             "rarity": 4
         },
         "Perfect Timing": {
+            "id": 21014,
             "rarity": 4
         },
         "Resolution Shines As Pearls of Sweat": {
+            "id": 21015,
             "rarity": 4
         },
         "Trend of the Universal Market": {
+            "id": 21016,
             "rarity": 4
         },
         "Subscribe for More!": {
+            "id": 21017,
             "rarity": 4
         },
         "Dance! Dance! Dance!": {
+            "id": 21018,
             "rarity": 4
         },
         "Under the Blue Sky": {
+            "id": 21019,
             "rarity": 4
         },
         "Geniuses' Repose": {
+            "id": 21020,
             "rarity": 4
         },
         "Quid Pro Quo": {
+            "id": 21021,
             "rarity": 4
         },
         "Fermata": {
+            "id": 21022,
             "rarity": 4
         },
         "We Are Wildfire": {
+            "id": 21023,
             "rarity": 4
         },
         "River Flows in Spring": {
+            "id": 21024,
             "rarity": 4
         },
         "Woof! Walk Time!": {
+            "id": 21026,
             "rarity": 4
         },
         "The Seriousness of Breakfast": {
+            "id": 21027,
             "rarity": 4
         },
         "Warmth Shortens Cold Nights": {
+            "id": 21028,
             "rarity": 4
         },
         "We Will Meet Again": {
+            "id": 21029,
             "rarity": 4
         },
         "This Is Me!": {
+            "id": 21030,
             "rarity": 4
         },
         "Return to Darkness": {
+            "id": 21031,
             "rarity": 4
         },
         "Carve the Moon, Weave the Clouds": {
+            "id": 21032,
             "rarity": 4
         },
         "Nowhere to Run": {
+            "id": 21033,
             "rarity": 4
         },
         "Today Is Another Peaceful Day": {
+            "id": 21034,
             "rarity": 4
         },
         "Before the Tutorial Mission Starts": {
+            "id": 22000,
             "rarity": 4
         },
         "Night on the Milky Way": {
+            "id": 23000,
             "rarity": 5
         },
         "In the Night": {
+            "id": 23001,
             "rarity": 5
         },
         "Something Irreplaceable": {
+            "id": 23002,
             "rarity": 5
         },
         "But the Battle Isn't Over": {
+            "id": 23003,
             "rarity": 5
         },
         "In the Name of the World": {
+            "id": 23004,
             "rarity": 5
         },
         "Moment of Victory": {
+            "id": 23005,
             "rarity": 5
         },
         "Patience Is All You Need": {
+            "id": 23006,
             "rarity": 5
         },
         "Incessant Rain": {
+            "id": 23007,
             "rarity": 5
         },
         "Echoes of the Coffin": {
+            "id": 23008,
             "rarity": 5
         },
         "The Unreachable Side": {
+            "id": 23009,
             "rarity": 5
         },
         "Before Dawn": {
+            "id": 23010,
             "rarity": 5
         },
         "She Already Shut Her Eyes": {
+            "id": 23011,
             "rarity": 5
         },
         "Sleep Like the Dead": {
+            "id": 23012,
             "rarity": 5
         },
         "Time Waits for No One": {
+            "id": 23013,
             "rarity": 5
         },
         "I Shall Be My Own Sword": {
+            "id": 23014,
             "rarity": 5
         },
         "Brighter Than the Sun": {
+            "id": 23015,
             "rarity": 5
         },
         "Worrisome, Blissful": {
+            "id": 23016,
             "rarity": 5
         },
         "On the Fall of an Aeon": {
+            "id": 24000,
             "rarity": 5
         },
         "Cruising in the Stellar Sea": {
+            "id": 24001,
             "rarity": 5
         },
         "Texture of Memories": {
+            "id": 24002,
             "rarity": 5
         },
         "Past and Future": {
+            "id": 21025,
             "rarity": 4
         },
         "Night of Fright": {
+            "id": 23017,
             "rarity": 5
         },
         "An Instant Before A Gaze": {
+            "id": 23018,
             "rarity": 5
         },
         "Past Self in Mirror": {
+            "id": 23019,
             "rarity": 5
         },
         "Earthly Escapade": {
+            "id": 23021,
             "rarity": 5
         },
         "Inherently Unjust Destiny": {
+            "id": 23023,
             "rarity": 5
         },
         "Baptism of Pure Thought": {
+            "id": 23020,
             "rarity": 5
         },
         "Solitary Healing": {
+            "id": 24003,
             "rarity": 5
         },
         "What Is Real?": {
+            "id": 21035,
             "rarity": 4
         },
         "Dreamville Adventure": {
+            "id": 21036,
             "rarity": 4
         },
         "Final Victor": {
+            "id": 21037,
             "rarity": 4
         },
         "Flames Afar": {
+            "id": 21038,
             "rarity": 4
         },
         "Destiny's Threads Forewoven": {
+            "id": 21039,
             "rarity": 4
         },
         "The Day The Cosmos Fell": {
+            "id": 21040,
             "rarity": 4
         },
         "It's Showtime": {
+            "id": 21041,
             "rarity": 4
         },
         "Reforged Remembrance": {
+            "id": 23022,
             "rarity": 5
         },
         "Shared Feeling": {
+            "id": 21007,
             "rarity": 4
         },
         "Eternal Calculus": {
+            "id": 24004,
             "rarity": 5
         },
         "Hey, Over Here": {
+            "id": 22001,
             "rarity": 4
         },
         "Along the Passing Shore": {
+            "id": 23024,
             "rarity": 5
         },
         "Whereabouts Should Dreams Rest": {
+            "id": 23025,
             "rarity": 5
         },
         "Indelible Promise": {
+            "id": 21042,
             "rarity": 4
         },
         "Concert for Two": {
+            "id": 21043,
             "rarity": 4
         },
         "Sailing Towards a Second Life": {
+            "id": 23027,
             "rarity": 5
         },
         "Yet Hope Is Priceless": {
+            "id": 23028,
             "rarity": 5
         },
         "Boundless Choreo": {
+            "id": 21044,
             "rarity": 4
         },
         "After the Charmony Fall": {
+            "id": 21045,
             "rarity": 4
         },
         "Poised to Bloom": {
+            "id": 21046,
             "rarity": 4
         },
         "For Tomorrow's Journey": {
+            "id": 22002,
             "rarity": 4
         },
         "Flowing Nightglow": {
+            "id": 23026,
             "rarity": 5
         },
         "Dance at Sunset": {
+            "id": 23030,
             "rarity": 5
         },
         "Those Many Springs": {
+            "id": 23029,
             "rarity": 5
         }
     },
     "relics": {
         "Passerby's Rejuvenated Wooden Hairstick": {
+            "set_id": 101,
             "set": "Passerby of Wandering Cloud",
             "slot": "Head"
         },
         "Passerby's Roaming Dragon Bracer": {
+            "set_id": 101,
             "set": "Passerby of Wandering Cloud",
             "slot": "Hands"
         },
         "Passerby's Ragged Embroided Coat": {
+            "set_id": 101,
             "set": "Passerby of Wandering Cloud",
             "slot": "Body"
         },
         "Passerby's Stygian Hiking Boots": {
+            "set_id": 101,
             "set": "Passerby of Wandering Cloud",
             "slot": "Feet"
         },
         "Musketeer's Wild Wheat Felt Hat": {
+            "set_id": 102,
             "set": "Musketeer of Wild Wheat",
             "slot": "Head"
         },
         "Musketeer's Coarse Leather Gloves": {
+            "set_id": 102,
             "set": "Musketeer of Wild Wheat",
             "slot": "Hands"
         },
         "Musketeer's Wind-Hunting Shawl": {
+            "set_id": 102,
             "set": "Musketeer of Wild Wheat",
             "slot": "Body"
         },
         "Musketeer's Rivets Riding Boots": {
+            "set_id": 102,
             "set": "Musketeer of Wild Wheat",
             "slot": "Feet"
         },
         "Knight's Forgiving Casque": {
+            "set_id": 103,
             "set": "Knight of Purity Palace",
             "slot": "Head"
         },
         "Knight's Silent Oath Ring": {
+            "set_id": 103,
             "set": "Knight of Purity Palace",
             "slot": "Hands"
         },
         "Knight's Solemn Breastplate": {
+            "set_id": 103,
             "set": "Knight of Purity Palace",
             "slot": "Body"
         },
         "Knight's Iron Boots of Order": {
+            "set_id": 103,
             "set": "Knight of Purity Palace",
             "slot": "Feet"
         },
         "Hunter's Artaius Hood": {
+            "set_id": 104,
             "set": "Hunter of Glacial Forest",
             "slot": "Head"
         },
         "Hunter's Lizard Gloves": {
+            "set_id": 104,
             "set": "Hunter of Glacial Forest",
             "slot": "Hands"
         },
         "Hunter's Ice Dragon Cloak": {
+            "set_id": 104,
             "set": "Hunter of Glacial Forest",
             "slot": "Body"
         },
         "Hunter's Soft Elkskin Boots": {
+            "set_id": 104,
             "set": "Hunter of Glacial Forest",
             "slot": "Feet"
         },
         "Champion's Headgear": {
+            "set_id": 105,
             "set": "Champion of Streetwise Boxing",
             "slot": "Head"
         },
         "Champion's Heavy Gloves": {
+            "set_id": 105,
             "set": "Champion of Streetwise Boxing",
             "slot": "Hands"
         },
         "Champion's Chest Guard": {
+            "set_id": 105,
             "set": "Champion of Streetwise Boxing",
             "slot": "Body"
         },
         "Champion's Fleetfoot Boots": {
+            "set_id": 105,
             "set": "Champion of Streetwise Boxing",
             "slot": "Feet"
         },
         "Guard's Cast Iron Helmet": {
+            "set_id": 106,
             "set": "Guard of Wuthering Snow",
             "slot": "Head"
         },
         "Guard's Shining Gauntlets": {
+            "set_id": 106,
             "set": "Guard of Wuthering Snow",
             "slot": "Hands"
         },
         "Guard's Uniform of Old": {
+            "set_id": 106,
             "set": "Guard of Wuthering Snow",
             "slot": "Body"
         },
         "Guard's Silver Greaves": {
+            "set_id": 106,
             "set": "Guard of Wuthering Snow",
             "slot": "Feet"
         },
         "Firesmith's Obsidian Goggles": {
+            "set_id": 107,
             "set": "Firesmith of Lava-Forging",
             "slot": "Head"
         },
         "Firesmith's Ring of Flame-Mastery": {
+            "set_id": 107,
             "set": "Firesmith of Lava-Forging",
             "slot": "Hands"
         },
         "Firesmith's Fireproof Apron": {
+            "set_id": 107,
             "set": "Firesmith of Lava-Forging",
             "slot": "Body"
         },
         "Firesmith's Alloy Leg": {
+            "set_id": 107,
             "set": "Firesmith of Lava-Forging",
             "slot": "Feet"
         },
         "Genius's Ultraremote Sensing Visor": {
+            "set_id": 108,
             "set": "Genius of Brilliant Stars",
             "slot": "Head"
         },
         "Genius's Frequency Catcher": {
+            "set_id": 108,
             "set": "Genius of Brilliant Stars",
             "slot": "Hands"
         },
         "Genius's Metafield Suit": {
+            "set_id": 108,
             "set": "Genius of Brilliant Stars",
             "slot": "Body"
         },
         "Genius's Gravity Walker": {
+            "set_id": 108,
             "set": "Genius of Brilliant Stars",
             "slot": "Feet"
         },
         "Band's Polarized Sunglasses": {
+            "set_id": 109,
             "set": "Band of Sizzling Thunder",
             "slot": "Head"
         },
         "Band's Touring Bracelet": {
+            "set_id": 109,
             "set": "Band of Sizzling Thunder",
             "slot": "Hands"
         },
         "Band's Leather Jacket With Studs": {
+            "set_id": 109,
             "set": "Band of Sizzling Thunder",
             "slot": "Body"
         },
         "Band's Ankle Boots With Rivets": {
+            "set_id": 109,
             "set": "Band of Sizzling Thunder",
             "slot": "Feet"
         },
         "Eagle's Beaked Helmet": {
+            "set_id": 110,
             "set": "Eagle of Twilight Line",
             "slot": "Head"
         },
         "Eagle's Soaring Ring": {
+            "set_id": 110,
             "set": "Eagle of Twilight Line",
             "slot": "Hands"
         },
         "Eagle's Winged Suit Harness": {
+            "set_id": 110,
             "set": "Eagle of Twilight Line",
             "slot": "Body"
         },
         "Eagle's Quilted Puttees": {
+            "set_id": 110,
             "set": "Eagle of Twilight Line",
             "slot": "Feet"
         },
         "Thief's Myriad-Faced Mask": {
+            "set_id": 111,
             "set": "Thief of Shooting Meteor",
             "slot": "Head"
         },
         "Thief's Gloves With Prints": {
+            "set_id": 111,
             "set": "Thief of Shooting Meteor",
             "slot": "Hands"
         },
         "Thief's Steel Grappling Hook": {
+            "set_id": 111,
             "set": "Thief of Shooting Meteor",
             "slot": "Body"
         },
         "Thief's Meteor Boots": {
+            "set_id": 111,
             "set": "Thief of Shooting Meteor",
             "slot": "Feet"
         },
         "Wastelander's Breathing Mask": {
+            "set_id": 112,
             "set": "Wastelander of Banditry Desert",
             "slot": "Head"
         },
         "Wastelander's Desert Terminal": {
+            "set_id": 112,
             "set": "Wastelander of Banditry Desert",
             "slot": "Hands"
         },
         "Wastelander's Friar Robe": {
+            "set_id": 112,
             "set": "Wastelander of Banditry Desert",
             "slot": "Body"
         },
         "Wastelander's Powered Greaves": {
+            "set_id": 112,
             "set": "Wastelander of Banditry Desert",
             "slot": "Feet"
         },
         "Herta's Space Station": {
+            "set_id": 301,
             "set": "Space Sealing Station",
             "slot": "Planar Sphere"
         },
         "Herta's Wandering Trek": {
+            "set_id": 301,
             "set": "Space Sealing Station",
             "slot": "Link Rope"
         },
         "The Xianzhou Luofu's Celestial Ark": {
+            "set_id": 302,
             "set": "Fleet of the Ageless",
             "slot": "Planar Sphere"
         },
         "The Xianzhou Luofu's Ambrosial Arbor Vines": {
+            "set_id": 302,
             "set": "Fleet of the Ageless",
             "slot": "Link Rope"
         },
         "The IPC's Mega HQ": {
+            "set_id": 303,
             "set": "Pan-Cosmic Commercial Enterprise",
             "slot": "Planar Sphere"
         },
         "The IPC's Trade Route": {
+            "set_id": 303,
             "set": "Pan-Cosmic Commercial Enterprise",
             "slot": "Link Rope"
         },
         "Belobog's Fortress of Preservation": {
+            "set_id": 304,
             "set": "Belobog of the Architects",
             "slot": "Planar Sphere"
         },
         "Belobog's Iron Defense": {
+            "set_id": 304,
             "set": "Belobog of the Architects",
             "slot": "Link Rope"
         },
         "Planet Screwllum's Mechanical Sun": {
+            "set_id": 305,
             "set": "Celestial Differentiator",
             "slot": "Planar Sphere"
         },
         "Planet Screwllum's Ring System": {
+            "set_id": 305,
             "set": "Celestial Differentiator",
             "slot": "Link Rope"
         },
         "Salsotto's Moving City": {
+            "set_id": 306,
             "set": "Inert Salsotto",
             "slot": "Planar Sphere"
         },
         "Salsotto's Terminator Line": {
+            "set_id": 306,
             "set": "Inert Salsotto",
             "slot": "Link Rope"
         },
         "Talia's Nailscrap Town": {
+            "set_id": 307,
             "set": "Talia: Kingdom of Banditry",
             "slot": "Planar Sphere"
         },
         "Talia's Exposed Electric Wire": {
+            "set_id": 307,
             "set": "Talia: Kingdom of Banditry",
             "slot": "Link Rope"
         },
         "Vonwacq's Island of Birth": {
+            "set_id": 308,
             "set": "Sprightly Vonwacq",
             "slot": "Planar Sphere"
         },
         "Vonwacq's Islandic Coast": {
+            "set_id": 308,
             "set": "Sprightly Vonwacq",
             "slot": "Link Rope"
         },
         "Taikiyan Laser Stadium": {
+            "set_id": 309,
             "set": "Rutilant Arena",
             "slot": "Planar Sphere"
         },
         "Taikiyan's Arclight Race Track": {
+            "set_id": 309,
             "set": "Rutilant Arena",
             "slot": "Link Rope"
         },
         "Insumousu's Whalefall Ship": {
+            "set_id": 310,
             "set": "Broken Keel",
             "slot": "Planar Sphere"
         },
         "Insumousu's Frayed Hawser": {
+            "set_id": 310,
             "set": "Broken Keel",
             "slot": "Link Rope"
         },
         "Disciple's Prosthetic Eye": {
+            "set_id": 113,
             "set": "Longevous Disciple",
             "slot": "Head"
         },
         "Disciple's Ingenium Hand": {
+            "set_id": 113,
             "set": "Longevous Disciple",
             "slot": "Hands"
         },
         "Disciple's Dewy Feather Garb": {
+            "set_id": 113,
             "set": "Longevous Disciple",
             "slot": "Body"
         },
         "Disciple's Celestial Silk Sandals": {
+            "set_id": 113,
             "set": "Longevous Disciple",
             "slot": "Feet"
         },
         "Messenger's Holovisor": {
+            "set_id": 114,
             "set": "Messenger Traversing Hackerspace",
             "slot": "Head"
         },
         "Messenger's Transformative Arm": {
+            "set_id": 114,
             "set": "Messenger Traversing Hackerspace",
             "slot": "Hands"
         },
         "Messenger's Secret Satchel": {
+            "set_id": 114,
             "set": "Messenger Traversing Hackerspace",
             "slot": "Body"
         },
         "Messenger's Par-kool Sneakers": {
+            "set_id": 114,
             "set": "Messenger Traversing Hackerspace",
             "slot": "Feet"
         },
         "Grand Duke's Crown of Netherflame": {
+            "set_id": 115,
             "set": "The Ashblazing Grand Duke",
             "slot": "Head"
         },
         "Grand Duke's Gloves of Fieryfur": {
+            "set_id": 115,
             "set": "The Ashblazing Grand Duke",
             "slot": "Hands"
         },
         "Grand Duke's Robe of Grace": {
+            "set_id": 115,
             "set": "The Ashblazing Grand Duke",
             "slot": "Body"
         },
         "Grand Duke's Ceremonial Boots": {
+            "set_id": 115,
             "set": "The Ashblazing Grand Duke",
             "slot": "Feet"
         },
         "Prisoner's Sealed Muzzle": {
+            "set_id": 116,
             "set": "Prisoner in Deep Confinement",
             "slot": "Head"
         },
         "Prisoner's Leadstone Shackles": {
+            "set_id": 116,
             "set": "Prisoner in Deep Confinement",
             "slot": "Hands"
         },
         "Prisoner's Repressive Straitjacket": {
+            "set_id": 116,
             "set": "Prisoner in Deep Confinement",
             "slot": "Body"
         },
         "Prisoner's Restrictive Fetters": {
+            "set_id": 116,
             "set": "Prisoner in Deep Confinement",
             "slot": "Feet"
         },
         "Glamoth's Iron Cavalry Regiment": {
+            "set_id": 311,
             "set": "Firmament Frontline: Glamoth",
             "slot": "Planar Sphere"
         },
         "Glamoth's Silent Tombstone": {
+            "set_id": 311,
             "set": "Firmament Frontline: Glamoth",
             "slot": "Link Rope"
         },
         "Penacony's Grand Hotel": {
+            "set_id": 312,
             "set": "Penacony, Land of the Dreams",
             "slot": "Planar Sphere"
         },
         "Penacony's Dream-Seeking Tracks": {
+            "set_id": 312,
             "set": "Penacony, Land of the Dreams",
             "slot": "Link Rope"
         },
         "Pioneer's Heatproof Shell": {
+            "set_id": 117,
             "set": "Pioneer Diver of Dead Waters",
             "slot": "Head"
         },
         "Pioneer's Lacuna Compass": {
+            "set_id": 117,
             "set": "Pioneer Diver of Dead Waters",
             "slot": "Hands"
         },
         "Pioneer's Sealed Lead Apron": {
+            "set_id": 117,
             "set": "Pioneer Diver of Dead Waters",
             "slot": "Body"
         },
         "Pioneer's Starfaring Anchor": {
+            "set_id": 117,
             "set": "Pioneer Diver of Dead Waters",
             "slot": "Feet"
         },
         "Watchmaker's Telescoping Lens": {
+            "set_id": 118,
             "set": "Watchmaker, Master of Dream Machinations",
             "slot": "Head"
         },
         "Watchmaker's Fortuitous Wristwatch": {
+            "set_id": 118,
             "set": "Watchmaker, Master of Dream Machinations",
             "slot": "Hands"
         },
         "Watchmaker's Illusory Formal Suit": {
+            "set_id": 118,
             "set": "Watchmaker, Master of Dream Machinations",
             "slot": "Body"
         },
         "Watchmaker's Dream-Concealing Dress Shoes": {
+            "set_id": 118,
             "set": "Watchmaker, Master of Dream Machinations",
             "slot": "Feet"
         },
         "Sigonia's Gaiathra Berth": {
+            "set_id": 313,
             "set": "Sigonia, the Unclaimed Desolation",
             "slot": "Planar Sphere"
         },
         "Sigonia's Knot of Cyclicality": {
+            "set_id": 313,
             "set": "Sigonia, the Unclaimed Desolation",
             "slot": "Link Rope"
         },
         "Izumo's Magatsu no Morokami": {
+            "set_id": 314,
             "set": "Izumo Gensei and Takama Divine Realm",
             "slot": "Planar Sphere"
         },
         "Izumo's Blades of Origin and End": {
+            "set_id": 314,
             "set": "Izumo Gensei and Takama Divine Realm",
             "slot": "Link Rope"
         },
         "Iron Cavalry's Homing Helm": {
+            "set_id": 119,
             "set": "Iron Cavalry Against the Scourge",
             "slot": "Head"
         },
         "Iron Cavalry's Crushing Wristguard": {
+            "set_id": 119,
             "set": "Iron Cavalry Against the Scourge",
             "slot": "Hands"
         },
         "Iron Cavalry's Silvery Armor": {
+            "set_id": 119,
             "set": "Iron Cavalry Against the Scourge",
             "slot": "Body"
         },
         "Iron Cavalry's Skywalk Greaves": {
+            "set_id": 119,
             "set": "Iron Cavalry Against the Scourge",
             "slot": "Feet"
         },
         "Valorous Mask of Northern Skies": {
+            "set_id": 120,
             "set": "The Wind-Soaring Valorous",
             "slot": "Head"
         },
         "Valorous Bracelet of Grappling Hooks": {
+            "set_id": 120,
             "set": "The Wind-Soaring Valorous",
             "slot": "Hands"
         },
         "Valorous Plate of Soaring Flight": {
+            "set_id": 120,
             "set": "The Wind-Soaring Valorous",
             "slot": "Body"
         },
         "Valorous Greaves of Pursuing Hunt": {
+            "set_id": 120,
             "set": "The Wind-Soaring Valorous",
             "slot": "Feet"
         },
         "Duran's Tent of Golden Sky": {
+            "set_id": 315,
             "set": "Duran, Dynasty of Running Wolves",
             "slot": "Planar Sphere"
         },
         "Duran's Mechabeast Bridle": {
+            "set_id": 315,
             "set": "Duran, Dynasty of Running Wolves",
             "slot": "Link Rope"
         },
         "Forge's Lotus Lantern Wick": {
+            "set_id": 316,
             "set": "Forge of the Kalpagni Lantern",
             "slot": "Planar Sphere"
         },
         "Forge's Heavenly Flamewheel Silk": {
+            "set_id": 316,
             "set": "Forge of the Kalpagni Lantern",
             "slot": "Link Rope"
         }

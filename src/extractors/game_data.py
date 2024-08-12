@@ -70,7 +70,7 @@ def get_light_cones(text_map_en: dict) -> dict:
         try:
             name = text_map_en[str(lc["EquipmentName"]["Hash"])]
 
-            res[name] = {"rarity": int(lc["Rarity"][-1])}
+            res[name] = {"id": lc["EquipmentID"], "rarity": int(lc["Rarity"][-1])}
         except KeyError as e:
             print(f"Failed to parse light cone {lc}: {e}")
             continue
@@ -103,6 +103,7 @@ def get_relics(text_map_en: dict) -> dict:
             ]
             name = text_map_en[_get_stable_hash(relic["RelicName"])]
             res[name] = {
+                "set_id": relic["SetID"],
                 "set": set_name,
                 "slot": get_slot_from_relic_type(relic["Type"]),
             }
