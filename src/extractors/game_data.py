@@ -131,8 +131,10 @@ def get_characters(text_map_en: dict) -> dict:
     for character in characters:
         try:
             name = text_map_en[str(character["AvatarName"]["Hash"])]
+            char_id = character["AvatarID"]
             if name == "{NICKNAME}":
-                name = "Trailblazer"
+                name = "Stelle" if char_id % 2 == 0 else "Caelus"
+
             e3 = next(
                 eidolon
                 for eidolon in eidolons
@@ -145,7 +147,7 @@ def get_characters(text_map_en: dict) -> dict:
             )
 
             res[name][get_path_from_avatar_base_type(character["AvatarBaseType"])] = {
-                "id": character["AvatarID"],
+                "id": char_id,
                 "e3": _parse_skill_levels(skills, e3["SkillAddLevelList"]),
                 "e5": _parse_skill_levels(skills, e5["SkillAddLevelList"]),
             }

@@ -1461,7 +1461,42 @@
                 }
             }
         },
-        "Trailblazer": {
+        "Caelus": {
+            "Destruction": {
+                "id": 8001,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1
+                }
+            },
+            "Preservation": {
+                "id": 8003,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1
+                }
+            },
+            "Harmony": {
+                "id": 8005,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1
+                }
+            }
+        },
+        "Stelle": {
             "Destruction": {
                 "id": 8002,
                 "e3": {

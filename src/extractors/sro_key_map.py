@@ -6,10 +6,15 @@ OUTPUT_PATH = "output"
 
 # needs to be updated manually
 ALT_PATHS = {
-    "Trailblazer": {
-        "Destruction": "TrailblazerPhysical",
-        "Preservation": "TrailblazerFire",
-        "Harmony": "TrailblazerImaginary",
+    "Stelle": {
+        "Destruction": "TrailblazerPhysicalF",
+        "Preservation": "TrailblazerFireF",
+        "Harmony": "TrailblazerImaginaryF",
+    },
+    "Caelus": {
+        "Destruction": "TrailblazerPhysicalM",
+        "Preservation": "TrailblazerFireM",
+        "Harmony": "TrailblazerImaginaryM",
     },
     "March 7th": {
         "Preservation": "March7thIce",
