@@ -1,3 +1,4 @@
+from collections import defaultdict
 import json
 import os
 import base64
@@ -47,15 +48,10 @@ def get_game_data(include_icons: bool) -> dict:
         res["mini_icons"] = get_mini_icons()
 
         # check that all characters have a mini icon
-        for name in characters:
-            name = name.replace(" ", "")
-            name = "".join([c for c in name if c.isalnum()])
-            if name.startswith("Trailblazer"):
-                for gender in ["#F", "#M"]:
-                    if name + gender not in res["mini_icons"]:
-                        print(f"WARN: Missing icon for character {name + gender}")
-            elif name not in res["mini_icons"]:
-                print(f"WARN: Missing icon for character {name}")
+        for k, v in characters.items():
+            for variant in v.values():
+                if str(variant["id"]) not in res["mini_icons"]:
+                    print(f"WARN: Missing icon for character {k}")
 
     return res
 
@@ -131,24 +127,12 @@ def get_characters(text_map_en: dict) -> dict:
     with open(SKILLS, "r", encoding="utf-8") as f:
         skills = json.load(f)
 
-    res = {}
+    res = defaultdict(dict)
     for character in characters:
         try:
             name = text_map_en[str(character["AvatarName"]["Hash"])]
             if name == "{NICKNAME}":
-                name = (
-                    "Trailblazer"
-                    + get_path_from_avatar_base_type(
-                        character["AvatarBaseType"]
-                    ).split()[-1]
-                )
-            elif name == "March 7th":
-                name = (
-                    "March 7th"
-                    + get_path_from_avatar_base_type(
-                        character["AvatarBaseType"]
-                    ).split()[-1]
-                )
+                name = "Trailblazer"
             e3 = next(
                 eidolon
                 for eidolon in eidolons
@@ -160,7 +144,8 @@ def get_characters(text_map_en: dict) -> dict:
                 if eidolon["RankID"] == character["RankIDList"][4]
             )
 
-            res[name] = {
+            res[name][get_path_from_avatar_base_type(character["AvatarBaseType"])] = {
+                "id": character["AvatarID"],
                 "e3": _parse_skill_levels(skills, e3["SkillAddLevelList"]),
                 "e5": _parse_skill_levels(skills, e5["SkillAddLevelList"]),
             }

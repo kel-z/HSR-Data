@@ -774,564 +774,726 @@
         }
     },
     "characters": {
-        "March 7thPreservation": {
-            "e3": {
-                "ult": 2,
-                "basic": 1
+        "March 7th": {
+            "Preservation": {
+                "id": 1001,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
+                }
             },
-            "e5": {
-                "skill": 2,
-                "talent": 2
+            "The Hunt": {
+                "id": 1224,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Dan Heng": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "The Hunt": {
+                "id": 1002,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Himeko": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Erudition": {
+                "id": 1003,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Welt": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Nihility": {
+                "id": 1004,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Kafka": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Nihility": {
+                "id": 1005,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Silver Wolf": {
-            "e3": {
-                "skill": 2,
-                "talent": 2
-            },
-            "e5": {
-                "ult": 2,
-                "basic": 1
+            "Nihility": {
+                "id": 1006,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1
+                }
             }
         },
         "Arlan": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Destruction": {
+                "id": 1008,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Asta": {
-            "e3": {
-                "skill": 2,
-                "talent": 2
-            },
-            "e5": {
-                "ult": 2,
-                "basic": 1
+            "Harmony": {
+                "id": 1009,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1
+                }
             }
         },
         "Herta": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Erudition": {
+                "id": 1013,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Bronya": {
-            "e3": {
-                "ult": 2,
-                "talent": 2
-            },
-            "e5": {
-                "skill": 2,
-                "basic": 1
+            "Harmony": {
+                "id": 1101,
+                "e3": {
+                    "ult": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "skill": 2,
+                    "basic": 1
+                }
             }
         },
         "Seele": {
-            "e3": {
-                "skill": 2,
-                "talent": 2
-            },
-            "e5": {
-                "ult": 2,
-                "basic": 1
+            "The Hunt": {
+                "id": 1102,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1
+                }
             }
         },
         "Serval": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Erudition": {
+                "id": 1103,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Gepard": {
-            "e3": {
-                "ult": 2,
-                "talent": 2
-            },
-            "e5": {
-                "skill": 2,
-                "basic": 1
+            "Preservation": {
+                "id": 1104,
+                "e3": {
+                    "ult": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "skill": 2,
+                    "basic": 1
+                }
             }
         },
         "Natasha": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Abundance": {
+                "id": 1105,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Pela": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Nihility": {
+                "id": 1106,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Clara": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Destruction": {
+                "id": 1107,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Sampo": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Nihility": {
+                "id": 1108,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Hook": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Destruction": {
+                "id": 1109,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Lynx": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Abundance": {
+                "id": 1110,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Luka": {
-            "e3": {
-                "skill": 2,
-                "talent": 2
-            },
-            "e5": {
-                "ult": 2,
-                "basic": 1
+            "Nihility": {
+                "id": 1111,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1
+                }
             }
         },
         "Topaz & Numby": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "The Hunt": {
+                "id": 1112,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Qingque": {
-            "e3": {
-                "ult": 2,
-                "talent": 2
-            },
-            "e5": {
-                "skill": 2,
-                "basic": 1
+            "Erudition": {
+                "id": 1201,
+                "e3": {
+                    "ult": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "skill": 2,
+                    "basic": 1
+                }
             }
         },
         "Tingyun": {
-            "e3": {
-                "ult": 2,
-                "basic": 1
-            },
-            "e5": {
-                "skill": 2,
-                "talent": 2
+            "Harmony": {
+                "id": 1202,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
+                }
             }
         },
         "Luocha": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Abundance": {
+                "id": 1203,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Jing Yuan": {
-            "e3": {
-                "ult": 2,
-                "basic": 1
-            },
-            "e5": {
-                "skill": 2,
-                "talent": 2
+            "Erudition": {
+                "id": 1204,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
+                }
             }
         },
         "Blade": {
-            "e3": {
-                "ult": 2,
-                "talent": 2
-            },
-            "e5": {
-                "skill": 2,
-                "basic": 1
+            "Destruction": {
+                "id": 1205,
+                "e3": {
+                    "ult": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "skill": 2,
+                    "basic": 1
+                }
             }
         },
         "Sushang": {
-            "e3": {
-                "ult": 2,
-                "talent": 2
-            },
-            "e5": {
-                "skill": 2,
-                "basic": 1
+            "The Hunt": {
+                "id": 1206,
+                "e3": {
+                    "ult": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "skill": 2,
+                    "basic": 1
+                }
             }
         },
         "Yukong": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Harmony": {
+                "id": 1207,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Fu Xuan": {
-            "e3": {
-                "skill": 2,
-                "talent": 2
-            },
-            "e5": {
-                "ult": 2,
-                "basic": 1
+            "Preservation": {
+                "id": 1208,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1
+                }
             }
         },
         "Yanqing": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "The Hunt": {
+                "id": 1209,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Guinaifen": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Nihility": {
+                "id": 1210,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Bailu": {
-            "e3": {
-                "skill": 2,
-                "talent": 2
-            },
-            "e5": {
-                "ult": 2,
-                "basic": 1
+            "Abundance": {
+                "id": 1211,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1
+                }
             }
         },
         "Jingliu": {
-            "e3": {
-                "ult": 2,
-                "talent": 2
-            },
-            "e5": {
-                "skill": 2,
-                "basic": 1
+            "Destruction": {
+                "id": 1212,
+                "e3": {
+                    "ult": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "skill": 2,
+                    "basic": 1
+                }
             }
         },
         "Dan Heng \u2022 Imbibitor Lunae": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Destruction": {
+                "id": 1213,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Xueyi": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Destruction": {
+                "id": 1214,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Hanya": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Harmony": {
+                "id": 1215,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Huohuo": {
-            "e3": {
-                "ult": 2,
-                "talent": 2
-            },
-            "e5": {
-                "skill": 2,
-                "basic": 1
+            "Abundance": {
+                "id": 1217,
+                "e3": {
+                    "ult": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "skill": 2,
+                    "basic": 1
+                }
             }
         },
         "Jiaoqiu": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Nihility": {
+                "id": 1218,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Yunli": {
-            "e3": {
-                "ult": 2,
-                "basic": 1
-            },
-            "e5": {
-                "skill": 2,
-                "talent": 2
-            }
-        },
-        "March 7thHunt": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Destruction": {
+                "id": 1221,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
+                }
             }
         },
         "Gallagher": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Abundance": {
+                "id": 1301,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Argenti": {
-            "e3": {
-                "skill": 2,
-                "talent": 2
-            },
-            "e5": {
-                "ult": 2,
-                "basic": 1
+            "Erudition": {
+                "id": 1302,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1
+                }
             }
         },
         "Ruan Mei": {
-            "e3": {
-                "ult": 2,
-                "talent": 2
-            },
-            "e5": {
-                "skill": 2,
-                "basic": 1
+            "Harmony": {
+                "id": 1303,
+                "e3": {
+                    "ult": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "skill": 2,
+                    "basic": 1
+                }
             }
         },
         "Aventurine": {
-            "e3": {
-                "ult": 2,
-                "basic": 1
-            },
-            "e5": {
-                "skill": 2,
-                "talent": 2
+            "Preservation": {
+                "id": 1304,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
+                }
             }
         },
         "Dr. Ratio": {
-            "e3": {
-                "ult": 2,
-                "basic": 1
-            },
-            "e5": {
-                "skill": 2,
-                "talent": 2
+            "The Hunt": {
+                "id": 1305,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
+                }
             }
         },
         "Sparkle": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Harmony": {
+                "id": 1306,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Black Swan": {
-            "e3": {
-                "skill": 2,
-                "talent": 2
-            },
-            "e5": {
-                "ult": 2,
-                "basic": 1
+            "Nihility": {
+                "id": 1307,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1
+                }
             }
         },
         "Acheron": {
-            "e3": {
-                "ult": 2,
-                "basic": 1
-            },
-            "e5": {
-                "skill": 2,
-                "talent": 2
+            "Nihility": {
+                "id": 1308,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
+                }
             }
         },
         "Robin": {
-            "e3": {
-                "skill": 2,
-                "ult": 2
-            },
-            "e5": {
-                "basic": 1,
-                "talent": 2
+            "Harmony": {
+                "id": 1309,
+                "e3": {
+                    "skill": 2,
+                    "ult": 2
+                },
+                "e5": {
+                    "basic": 1,
+                    "talent": 2
+                }
             }
         },
         "Firefly": {
-            "e3": {
-                "skill": 2,
-                "basic": 1
-            },
-            "e5": {
-                "ult": 2,
-                "talent": 2
+            "Destruction": {
+                "id": 1310,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
             }
         },
         "Misha": {
-            "e3": {
-                "ult": 2,
-                "basic": 1
-            },
-            "e5": {
-                "skill": 2,
-                "talent": 2
+            "Destruction": {
+                "id": 1312,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
+                }
             }
         },
         "Jade": {
-            "e3": {
-                "skill": 2,
-                "talent": 2
-            },
-            "e5": {
-                "ult": 2,
-                "basic": 1
+            "Erudition": {
+                "id": 1314,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1
+                }
             }
         },
         "Boothill": {
-            "e3": {
-                "ult": 2,
-                "basic": 1
-            },
-            "e5": {
-                "skill": 2,
-                "talent": 2
+            "The Hunt": {
+                "id": 1315,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
+                }
             }
         },
-        "TrailblazerDestruction": {
-            "e3": {
-                "skill": 2,
-                "talent": 2
+        "Trailblazer": {
+            "Destruction": {
+                "id": 8002,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1
+                }
             },
-            "e5": {
-                "ult": 2,
-                "basic": 1
-            }
-        },
-        "TrailblazerPreservation": {
-            "e3": {
-                "skill": 2,
-                "talent": 2
+            "Preservation": {
+                "id": 8004,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1
+                }
             },
-            "e5": {
-                "ult": 2,
-                "basic": 1
-            }
-        },
-        "TrailblazerHarmony": {
-            "e3": {
-                "skill": 2,
-                "talent": 2
-            },
-            "e5": {
-                "ult": 2,
-                "basic": 1
+            "Harmony": {
+                "id": 8006,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1
+                }
             }
         }
     }

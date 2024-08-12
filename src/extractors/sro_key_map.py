@@ -4,12 +4,17 @@ import json
 # output folder
 OUTPUT_PATH = "output"
 
-ALT_PATHS_MAPPINGS = {
-    "TrailblazerDestruction": "TrailblazerPhysical",
-    "TrailblazerPreservation": "TrailblazerFire",
-    "TrailblazerHarmony": "TrailblazerImaginary",
-    "March 7thPreservation": "March7thIce",
-    "March 7thHunt": "March7thImaginary",
+# needs to be updated manually
+ALT_PATHS = {
+    "Trailblazer": {
+        "Destruction": "TrailblazerPhysical",
+        "Preservation": "TrailblazerFire",
+        "Harmony": "TrailblazerImaginary",
+    },
+    "March 7th": {
+        "Preservation": "March7thIce",
+        "The Hunt": "March7thImaginary",
+    },
 }
 
 
@@ -25,18 +30,30 @@ def get_sro_mappings(game_data: dict, swap: bool = False):
         "relic_sets": {},
         "light_cones": {},
     }
-    for name in sorted(game_data["characters"].keys()):
-        key = name
-        value = (
-            ALT_PATHS_MAPPINGS[name]
-            if name in ALT_PATHS_MAPPINGS
-            else "".join(
-                [
-                    "".join([c for c in word.capitalize() if c.isalnum()])
-                    for word in name.replace("-", " ").split()
-                ]
-            )
+
+    for name, paths in sorted(game_data["characters"].items()):
+        if len(paths) > 1:
+            for path in paths:
+                key = paths[path]["id"]
+                try:
+                    value = ALT_PATHS[name][path]
+                    if swap:
+                        sro_key_map["characters"][value] = key
+                    else:
+                        sro_key_map["characters"][key] = value
+                except KeyError:
+                    print(f"WARN: Missing SRO key definition for {path} / {name}")
+
+            continue
+
+        value = "".join(
+            [
+                "".join([c for c in word.capitalize() if c.isalnum()])
+                for word in name.replace("-", " ").split()
+            ]
         )
+
+        key = paths[list(paths.keys())[0]]["id"]
         if swap:
             sro_key_map["characters"][value] = key
         else:
