@@ -155,7 +155,7 @@ def get_characters(include_icons: bool) -> dict:
     with open(CHARACTER_PROMOTIONS, "r", encoding="utf-8") as f:
         CHARACTER_PROMOTIONS_JSON = json.load(f)
 
-    characters = {}
+    characters = defaultdict(dict)
     for key in CHARACTER_JSON:
         character = CHARACTER_JSON[key]
         name = _format_name(character)
@@ -171,9 +171,8 @@ def get_characters(include_icons: bool) -> dict:
         _add_ability_traces(traces, character, include_icons)
         _add_passive_traces(traces, character, include_icons)
 
-        characters[name] = {
+        result = {
             "rarity": character["rarity"],
-            "path": path,
             "element": (
                 "Lightning"
                 if character["element"] == "Thunder"
@@ -186,14 +185,16 @@ def get_characters(include_icons: bool) -> dict:
         }
 
         if include_icons:
-            characters[name]["icon"] = IMG_BASE_URL + character["preview"]
-            characters[name]["splash"] = IMG_BASE_URL + character["portrait"]
-            characters[name]["mini_icon"] = (
-                "https://raw.githubusercontent.com/kel-z/HSR-Data/main/src/"
+            result["icon"] = IMG_BASE_URL + character["preview"]
+            result["splash"] = IMG_BASE_URL + character["portrait"]
+            result["mini_icon"] = (
+                "https://raw.githubusercontent.com/kel-z/HSR-Data/v4/src/"
                 + urllib.parse.quote(
                     f"data/mini_icons/{''.join([c for c in name if c.isalnum() or c == '#'])}.png"
                 )
             )
+
+        characters[name][path] = result
 
     return characters
 
@@ -205,12 +206,8 @@ def _format_name(character: dict) -> str:
     :return: The formatted character name.
     """
     name = character["name"]
-    path = get_path_from_avatar_base_type(character["path"])
     if name == "{NICKNAME}":
-        name = "Trailblazer" + path.split()[-1]
-        name += "#F" if "girl" in character["tag"] else "#M"
-    elif name == "March 7th":
-        name = "March 7th" + path.split()[-1]
+        name = "Stelle" if "girl" in character["tag"] else "Caelus"
     return name
 
 
