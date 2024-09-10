@@ -1,5 +1,5 @@
 {
-    "version": "2.4",
+    "version": "2.5",
     "light_cones": {
         "Arrows": {
             "rarity": 3
@@ -310,6 +310,9 @@
         "Poised to Bloom": {
             "rarity": 4
         },
+        "Shadowed by Night": {
+            "rarity": 4
+        },
         "For Tomorrow's Journey": {
             "rarity": 4
         },
@@ -320,6 +323,12 @@
             "rarity": 5
         },
         "Those Many Springs": {
+            "rarity": 5
+        },
+        "I Venture Forth to Hunt": {
+            "rarity": 5
+        },
+        "Scent Alone Stays True": {
             "rarity": 5
         }
     },
@@ -771,16 +780,32 @@
         "Forge's Heavenly Flamewheel Silk": {
             "set": "Forge of the Kalpagni Lantern",
             "slot": "Link Rope"
+        },
+        "Lushaka's Waterscape": {
+            "set": "Lushaka, the Sunken Seas",
+            "slot": "Planar Sphere"
+        },
+        "Lushaka's Twinlanes": {
+            "set": "Lushaka, the Sunken Seas",
+            "slot": "Link Rope"
+        },
+        "BananAmusement Park's BananAxis Plaza": {
+            "set": "The Wondrous BananAmusement Park",
+            "slot": "Planar Sphere"
+        },
+        "BananAmusement Park's Memetic Cables": {
+            "set": "The Wondrous BananAmusement Park",
+            "slot": "Link Rope"
         }
     },
     "characters": {
         "March 7th": {
             "e3": {
-                "ult": 2,
+                "skill": 2,
                 "basic": 1
             },
             "e5": {
-                "skill": 2,
+                "ult": 2,
                 "talent": 2
             }
         },
@@ -1154,6 +1179,16 @@
                 "talent": 2
             }
         },
+        "Feixiao": {
+            "e3": {
+                "ult": 2,
+                "basic": 1
+            },
+            "e5": {
+                "skill": 2,
+                "talent": 2
+            }
+        },
         "Yunli": {
             "e3": {
                 "ult": 2,
@@ -1162,6 +1197,26 @@
             "e5": {
                 "skill": 2,
                 "talent": 2
+            }
+        },
+        "Lingsha": {
+            "e3": {
+                "ult": 2,
+                "talent": 2
+            },
+            "e5": {
+                "skill": 2,
+                "basic": 1
+            }
+        },
+        "Moze": {
+            "e3": {
+                "ult": 2,
+                "talent": 2
+            },
+            "e5": {
+                "skill": 2,
+                "basic": 1
             }
         },
         "Gallagher": {
