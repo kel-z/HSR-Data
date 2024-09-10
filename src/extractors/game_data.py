@@ -6,8 +6,8 @@ from utils.helpers import get_path_from_avatar_base_type, get_slot_from_relic_ty
 
 
 # game version that the output is up to date with
-HSR_VERSION = "2.4"
-
+HSR_VERSION = "2.5"
+5
 # file paths as of https://github.com/Dimbreath/StarRailData/tree/6acdba3 (Oct 8, 2023)
 STAR_RAIL_DATA_PATH = "src/data/repos/StarRailData"
 TEXT_MAP_EN = STAR_RAIL_DATA_PATH + "/TextMap/TextMapEN.json"

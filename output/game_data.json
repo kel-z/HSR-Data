@@ -1,5 +1,5 @@
 {
-    "version": "2.4",
+    "version": "2.5",
     "light_cones": {
         "Arrows": {
             "id": 20000,
@@ -413,6 +413,10 @@
             "id": 21046,
             "rarity": 4
         },
+        "Shadowed by Night": {
+            "id": 21047,
+            "rarity": 4
+        },
         "For Tomorrow's Journey": {
             "id": 22002,
             "rarity": 4
@@ -427,6 +431,14 @@
         },
         "Those Many Springs": {
             "id": 23029,
+            "rarity": 5
+        },
+        "I Venture Forth to Hunt": {
+            "id": 23031,
+            "rarity": 5
+        },
+        "Scent Alone Stays True": {
+            "id": 23032,
             "rarity": 5
         }
     },
@@ -990,6 +1002,26 @@
             "set_id": 316,
             "set": "Forge of the Kalpagni Lantern",
             "slot": "Link Rope"
+        },
+        "Lushaka's Waterscape": {
+            "set_id": 317,
+            "set": "Lushaka, the Sunken Seas",
+            "slot": "Planar Sphere"
+        },
+        "Lushaka's Twinlanes": {
+            "set_id": 317,
+            "set": "Lushaka, the Sunken Seas",
+            "slot": "Link Rope"
+        },
+        "BananAmusement Park's BananAxis Plaza": {
+            "set_id": 318,
+            "set": "The Wondrous BananAmusement Park",
+            "slot": "Planar Sphere"
+        },
+        "BananAmusement Park's Memetic Cables": {
+            "set_id": 318,
+            "set": "The Wondrous BananAmusement Park",
+            "slot": "Link Rope"
         }
     },
     "characters": {
@@ -1498,6 +1530,19 @@
                 }
             }
         },
+        "Feixiao": {
+            "The Hunt": {
+                "id": 1220,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
+                }
+            }
+        },
         "Yunli": {
             "Destruction": {
                 "id": 1221,
@@ -1508,6 +1553,32 @@
                 "e5": {
                     "skill": 2,
                     "talent": 2
+                }
+            }
+        },
+        "Lingsha": {
+            "Abundance": {
+                "id": 1222,
+                "e3": {
+                    "ult": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "skill": 2,
+                    "basic": 1
+                }
+            }
+        },
+        "Moze": {
+            "The Hunt": {
+                "id": 1223,
+                "e3": {
+                    "ult": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "skill": 2,
+                    "basic": 1
                 }
             }
         },
