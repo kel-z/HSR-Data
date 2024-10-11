@@ -21,7 +21,7 @@ print(data)
 
 ## Submodules
 
-This repo uses [Dimbreath/StarRailData](https://github.com/Dimbreath/StarRailData) and [Mar-7th/StarRailRes](https://github.com/Mar-7th/StarRailRes) as submodules which contain the latest game resources. The main script in this repo refers and parses the necessary files from these submodules.
+This repo uses [Mar-7th/StarRailRes](https://github.com/Mar-7th/StarRailRes) as a submodule which contain the latest game resources. The main script in this repo refers and parses the necessary files from these submodules.
 
 ## Description
 
