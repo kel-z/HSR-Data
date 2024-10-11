@@ -85,6 +85,9 @@
         "The Birth of the Self": {
             "rarity": 4
         },
+        "Shared Feeling": {
+            "rarity": 4
+        },
         "Eyes of the Prey": {
             "rarity": 4
         },
@@ -136,6 +139,9 @@
         "River Flows in Spring": {
             "rarity": 4
         },
+        "Past and Future": {
+            "rarity": 4
+        },
         "Woof! Walk Time!": {
             "rarity": 4
         },
@@ -163,7 +169,52 @@
         "Today Is Another Peaceful Day": {
             "rarity": 4
         },
+        "What Is Real?": {
+            "rarity": 4
+        },
+        "Dreamville Adventure": {
+            "rarity": 4
+        },
+        "Final Victor": {
+            "rarity": 4
+        },
+        "Flames Afar": {
+            "rarity": 4
+        },
+        "Destiny's Threads Forewoven": {
+            "rarity": 4
+        },
+        "The Day The Cosmos Fell": {
+            "rarity": 4
+        },
+        "It's Showtime": {
+            "rarity": 4
+        },
+        "Indelible Promise": {
+            "rarity": 4
+        },
+        "Concert for Two": {
+            "rarity": 4
+        },
+        "Boundless Choreo": {
+            "rarity": 4
+        },
+        "After the Charmony Fall": {
+            "rarity": 4
+        },
+        "Poised to Bloom": {
+            "rarity": 4
+        },
+        "Shadowed by Night": {
+            "rarity": 4
+        },
         "Before the Tutorial Mission Starts": {
+            "rarity": 4
+        },
+        "Hey, Over Here": {
+            "rarity": 4
+        },
+        "For Tomorrow's Journey": {
             "rarity": 4
         },
         "Night on the Milky Way": {
@@ -217,18 +268,6 @@
         "Worrisome, Blissful": {
             "rarity": 5
         },
-        "On the Fall of an Aeon": {
-            "rarity": 5
-        },
-        "Cruising in the Stellar Sea": {
-            "rarity": 5
-        },
-        "Texture of Memories": {
-            "rarity": 5
-        },
-        "Past and Future": {
-            "rarity": 4
-        },
         "Night of Fright": {
             "rarity": 5
         },
@@ -238,50 +277,17 @@
         "Past Self in Mirror": {
             "rarity": 5
         },
-        "Earthly Escapade": {
-            "rarity": 5
-        },
-        "Inherently Unjust Destiny": {
-            "rarity": 5
-        },
         "Baptism of Pure Thought": {
             "rarity": 5
         },
-        "Solitary Healing": {
+        "Earthly Escapade": {
             "rarity": 5
-        },
-        "What Is Real?": {
-            "rarity": 4
-        },
-        "Dreamville Adventure": {
-            "rarity": 4
-        },
-        "Final Victor": {
-            "rarity": 4
-        },
-        "Flames Afar": {
-            "rarity": 4
-        },
-        "Destiny's Threads Forewoven": {
-            "rarity": 4
-        },
-        "The Day The Cosmos Fell": {
-            "rarity": 4
-        },
-        "It's Showtime": {
-            "rarity": 4
         },
         "Reforged Remembrance": {
             "rarity": 5
         },
-        "Shared Feeling": {
-            "rarity": 4
-        },
-        "Eternal Calculus": {
+        "Inherently Unjust Destiny": {
             "rarity": 5
-        },
-        "Hey, Over Here": {
-            "rarity": 4
         },
         "Along the Passing Shore": {
             "rarity": 5
@@ -289,11 +295,8 @@
         "Whereabouts Should Dreams Rest": {
             "rarity": 5
         },
-        "Indelible Promise": {
-            "rarity": 4
-        },
-        "Concert for Two": {
-            "rarity": 4
+        "Flowing Nightglow": {
+            "rarity": 5
         },
         "Sailing Towards a Second Life": {
             "rarity": 5
@@ -301,34 +304,31 @@
         "Yet Hope Is Priceless": {
             "rarity": 5
         },
-        "Boundless Choreo": {
-            "rarity": 4
-        },
-        "After the Charmony Fall": {
-            "rarity": 4
-        },
-        "Poised to Bloom": {
-            "rarity": 4
-        },
-        "Shadowed by Night": {
-            "rarity": 4
-        },
-        "For Tomorrow's Journey": {
-            "rarity": 4
-        },
-        "Flowing Nightglow": {
+        "Those Many Springs": {
             "rarity": 5
         },
         "Dance at Sunset": {
-            "rarity": 5
-        },
-        "Those Many Springs": {
             "rarity": 5
         },
         "I Venture Forth to Hunt": {
             "rarity": 5
         },
         "Scent Alone Stays True": {
+            "rarity": 5
+        },
+        "On the Fall of an Aeon": {
+            "rarity": 5
+        },
+        "Cruising in the Stellar Sea": {
+            "rarity": 5
+        },
+        "Texture of Memories": {
+            "rarity": 5
+        },
+        "Solitary Healing": {
+            "rarity": 5
+        },
+        "Eternal Calculus": {
             "rarity": 5
         }
     },
@@ -525,6 +525,134 @@
             "set": "Wastelander of Banditry Desert",
             "slot": "Feet"
         },
+        "Disciple's Prosthetic Eye": {
+            "set": "Longevous Disciple",
+            "slot": "Head"
+        },
+        "Disciple's Ingenium Hand": {
+            "set": "Longevous Disciple",
+            "slot": "Hands"
+        },
+        "Disciple's Dewy Feather Garb": {
+            "set": "Longevous Disciple",
+            "slot": "Body"
+        },
+        "Disciple's Celestial Silk Sandals": {
+            "set": "Longevous Disciple",
+            "slot": "Feet"
+        },
+        "Messenger's Holovisor": {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Head"
+        },
+        "Messenger's Transformative Arm": {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Hands"
+        },
+        "Messenger's Secret Satchel": {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Body"
+        },
+        "Messenger's Par-kool Sneakers": {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Feet"
+        },
+        "Grand Duke's Crown of Netherflame": {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Head"
+        },
+        "Grand Duke's Gloves of Fieryfur": {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Hands"
+        },
+        "Grand Duke's Robe of Grace": {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Body"
+        },
+        "Grand Duke's Ceremonial Boots": {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Feet"
+        },
+        "Prisoner's Sealed Muzzle": {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Head"
+        },
+        "Prisoner's Leadstone Shackles": {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Hands"
+        },
+        "Prisoner's Repressive Straitjacket": {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Body"
+        },
+        "Prisoner's Restrictive Fetters": {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Feet"
+        },
+        "Pioneer's Heatproof Shell": {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Head"
+        },
+        "Pioneer's Lacuna Compass": {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands"
+        },
+        "Pioneer's Sealed Lead Apron": {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body"
+        },
+        "Pioneer's Starfaring Anchor": {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Feet"
+        },
+        "Watchmaker's Telescoping Lens": {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Head"
+        },
+        "Watchmaker's Fortuitous Wristwatch": {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Hands"
+        },
+        "Watchmaker's Illusory Formal Suit": {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Body"
+        },
+        "Watchmaker's Dream-Concealing Dress Shoes": {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Feet"
+        },
+        "Iron Cavalry's Homing Helm": {
+            "set": "Iron Cavalry Against the Scourge",
+            "slot": "Head"
+        },
+        "Iron Cavalry's Crushing Wristguard": {
+            "set": "Iron Cavalry Against the Scourge",
+            "slot": "Hands"
+        },
+        "Iron Cavalry's Silvery Armor": {
+            "set": "Iron Cavalry Against the Scourge",
+            "slot": "Body"
+        },
+        "Iron Cavalry's Skywalk Greaves": {
+            "set": "Iron Cavalry Against the Scourge",
+            "slot": "Feet"
+        },
+        "Valorous Mask of Northern Skies": {
+            "set": "The Wind-Soaring Valorous",
+            "slot": "Head"
+        },
+        "Valorous Bracelet of Grappling Hooks": {
+            "set": "The Wind-Soaring Valorous",
+            "slot": "Hands"
+        },
+        "Valorous Plate of Soaring Flight": {
+            "set": "The Wind-Soaring Valorous",
+            "slot": "Body"
+        },
+        "Valorous Greaves of Pursuing Hunt": {
+            "set": "The Wind-Soaring Valorous",
+            "slot": "Feet"
+        },
         "Herta's Space Station": {
             "set": "Space Sealing Station",
             "slot": "Planar Sphere"
@@ -605,70 +733,6 @@
             "set": "Broken Keel",
             "slot": "Link Rope"
         },
-        "Disciple's Prosthetic Eye": {
-            "set": "Longevous Disciple",
-            "slot": "Head"
-        },
-        "Disciple's Ingenium Hand": {
-            "set": "Longevous Disciple",
-            "slot": "Hands"
-        },
-        "Disciple's Dewy Feather Garb": {
-            "set": "Longevous Disciple",
-            "slot": "Body"
-        },
-        "Disciple's Celestial Silk Sandals": {
-            "set": "Longevous Disciple",
-            "slot": "Feet"
-        },
-        "Messenger's Holovisor": {
-            "set": "Messenger Traversing Hackerspace",
-            "slot": "Head"
-        },
-        "Messenger's Transformative Arm": {
-            "set": "Messenger Traversing Hackerspace",
-            "slot": "Hands"
-        },
-        "Messenger's Secret Satchel": {
-            "set": "Messenger Traversing Hackerspace",
-            "slot": "Body"
-        },
-        "Messenger's Par-kool Sneakers": {
-            "set": "Messenger Traversing Hackerspace",
-            "slot": "Feet"
-        },
-        "Grand Duke's Crown of Netherflame": {
-            "set": "The Ashblazing Grand Duke",
-            "slot": "Head"
-        },
-        "Grand Duke's Gloves of Fieryfur": {
-            "set": "The Ashblazing Grand Duke",
-            "slot": "Hands"
-        },
-        "Grand Duke's Robe of Grace": {
-            "set": "The Ashblazing Grand Duke",
-            "slot": "Body"
-        },
-        "Grand Duke's Ceremonial Boots": {
-            "set": "The Ashblazing Grand Duke",
-            "slot": "Feet"
-        },
-        "Prisoner's Sealed Muzzle": {
-            "set": "Prisoner in Deep Confinement",
-            "slot": "Head"
-        },
-        "Prisoner's Leadstone Shackles": {
-            "set": "Prisoner in Deep Confinement",
-            "slot": "Hands"
-        },
-        "Prisoner's Repressive Straitjacket": {
-            "set": "Prisoner in Deep Confinement",
-            "slot": "Body"
-        },
-        "Prisoner's Restrictive Fetters": {
-            "set": "Prisoner in Deep Confinement",
-            "slot": "Feet"
-        },
         "Glamoth's Iron Cavalry Regiment": {
             "set": "Firmament Frontline: Glamoth",
             "slot": "Planar Sphere"
@@ -685,38 +749,6 @@
             "set": "Penacony, Land of the Dreams",
             "slot": "Link Rope"
         },
-        "Pioneer's Heatproof Shell": {
-            "set": "Pioneer Diver of Dead Waters",
-            "slot": "Head"
-        },
-        "Pioneer's Lacuna Compass": {
-            "set": "Pioneer Diver of Dead Waters",
-            "slot": "Hands"
-        },
-        "Pioneer's Sealed Lead Apron": {
-            "set": "Pioneer Diver of Dead Waters",
-            "slot": "Body"
-        },
-        "Pioneer's Starfaring Anchor": {
-            "set": "Pioneer Diver of Dead Waters",
-            "slot": "Feet"
-        },
-        "Watchmaker's Telescoping Lens": {
-            "set": "Watchmaker, Master of Dream Machinations",
-            "slot": "Head"
-        },
-        "Watchmaker's Fortuitous Wristwatch": {
-            "set": "Watchmaker, Master of Dream Machinations",
-            "slot": "Hands"
-        },
-        "Watchmaker's Illusory Formal Suit": {
-            "set": "Watchmaker, Master of Dream Machinations",
-            "slot": "Body"
-        },
-        "Watchmaker's Dream-Concealing Dress Shoes": {
-            "set": "Watchmaker, Master of Dream Machinations",
-            "slot": "Feet"
-        },
         "Sigonia's Gaiathra Berth": {
             "set": "Sigonia, the Unclaimed Desolation",
             "slot": "Planar Sphere"
@@ -732,38 +764,6 @@
         "Izumo's Blades of Origin and End": {
             "set": "Izumo Gensei and Takama Divine Realm",
             "slot": "Link Rope"
-        },
-        "Iron Cavalry's Homing Helm": {
-            "set": "Iron Cavalry Against the Scourge",
-            "slot": "Head"
-        },
-        "Iron Cavalry's Crushing Wristguard": {
-            "set": "Iron Cavalry Against the Scourge",
-            "slot": "Hands"
-        },
-        "Iron Cavalry's Silvery Armor": {
-            "set": "Iron Cavalry Against the Scourge",
-            "slot": "Body"
-        },
-        "Iron Cavalry's Skywalk Greaves": {
-            "set": "Iron Cavalry Against the Scourge",
-            "slot": "Feet"
-        },
-        "Valorous Mask of Northern Skies": {
-            "set": "The Wind-Soaring Valorous",
-            "slot": "Head"
-        },
-        "Valorous Bracelet of Grappling Hooks": {
-            "set": "The Wind-Soaring Valorous",
-            "slot": "Hands"
-        },
-        "Valorous Plate of Soaring Flight": {
-            "set": "The Wind-Soaring Valorous",
-            "slot": "Body"
-        },
-        "Valorous Greaves of Pursuing Hunt": {
-            "set": "The Wind-Soaring Valorous",
-            "slot": "Feet"
         },
         "Duran's Tent of Golden Sky": {
             "set": "Duran, Dynasty of Running Wolves",

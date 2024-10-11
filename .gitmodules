@@ -1,6 +1,3 @@
-[submodule "src/data/repos/StarRailData"]
-	path = src/data/repos/StarRailData
-	url = https://github.com/Dimbreath/StarRailData.git
 [submodule "src/data/repos/StarRailRes"]
 	path = src/data/repos/StarRailRes
 	url = https://github.com/Mar-7th/StarRailRes
