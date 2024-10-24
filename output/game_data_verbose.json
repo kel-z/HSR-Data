@@ -1,5 +1,5 @@
 {
-    "version": "2.5.0",
+    "version": "2.6.0",
     "light_cones": {
         "Arrows": {
             "rarity": 3,
@@ -9828,6 +9828,169 @@
                 ]
             }
         },
+        "Dream's Montage": {
+            "rarity": 4,
+            "path": "Abundance",
+            "desc": "\"The City of Dreams, the Breeding Ground of Sin, or the Promised Land...\"\nExtracting the memories of many, he scrutinizes the spectacular moments, disrupting, reorganizing, and splicing them together.\n\"Most people's memories are but a collection of trivial and monotonous fragments, where only a handful of precious moments stand out, while the existences of the rest are utterly unnecessary.\"\nFrame by frame, the images flow through his grasp, gradually woven into a tapestry of brilliance.\n\"We don't transport memories. We only create the past.\"",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 43.2,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 19.2,
+                        "step": 2.88
+                    },
+                    "def": {
+                        "base": 18,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 95.04,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 42.24,
+                        "step": 2.88
+                    },
+                    "def": {
+                        "base": 39.6,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 164.16,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 72.96,
+                        "step": 2.88
+                    },
+                    "def": {
+                        "base": 68.4,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 233.28,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 103.68,
+                        "step": 2.88
+                    },
+                    "def": {
+                        "base": 97.2,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 302.4,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 134.4,
+                        "step": 2.88
+                    },
+                    "def": {
+                        "base": 126,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 371.52,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 165.12,
+                        "step": 2.88
+                    },
+                    "def": {
+                        "base": 154.8,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 440.64,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 195.84,
+                        "step": 2.88
+                    },
+                    "def": {
+                        "base": 183.6,
+                        "step": 2.7
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Academy-Style Edit",
+                "desc": "Increases the wearer's SPD by {0}%. After attacking enemy targets that are Weakness Broken, regenerates {1} Energy. This effect can trigger up to 2 time(s) per turn.",
+                "params": [
+                    [
+                        "8",
+                        "3.0"
+                    ],
+                    [
+                        "9",
+                        "3.5"
+                    ],
+                    [
+                        "10",
+                        "4.0"
+                    ],
+                    [
+                        "11",
+                        "4.5"
+                    ],
+                    [
+                        "12",
+                        "5.0"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.08
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.09
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.1
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.11
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.12
+                        }
+                    ]
+                ]
+            }
+        },
         "Before the Tutorial Mission Starts": {
             "rarity": 4,
             "path": "Nihility",
@@ -10312,6 +10475,169 @@
                         {
                             "type": "atk_",
                             "value": 0.32
+                        }
+                    ]
+                ]
+            }
+        },
+        "Ninja Record: Sound Hunt": {
+            "rarity": 4,
+            "path": "Destruction",
+            "desc": "In the realm of Cosmic Ninjutsu, ever-changing grace,\nHear the echoes of my hunting chase!\nFeel the beat, my rhythm's call,\nGuitar strums, the atmospheres enthrall.\nBass notes with a tender hue,\nElectro-acoustic kindles anew.\nSweat's testament, truth untold,\nEvery twist and turn, melodies unfold.\nMy sound ascends, reaching high,\nThrough bruises and battles, I never shy.\nThe Dazzling! The Dazzling! A chant so bold.\nThe Dazzling! The Dazzling! In tales untold,\nThe Dazzling! The Dazzling! An epic foretold!\nYo. Yo. In this wild world. Let the hearts go ablaze.\nSing out loud, chant your soul, and let's embrace the utter craze!",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 48,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 21.6,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 12,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 105.6,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 47.52,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 26.4,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 182.4,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 82.08,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 45.6,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 259.2,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 116.64,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 64.8,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 336,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 151.2,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 84,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 412.8,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 185.76,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 103.2,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 489.6,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 220.32,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 122.4,
+                        "step": 1.8
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Curtains Up!",
+                "desc": "Increases the wearer's Max HP by {0}%. When losing or restoring this unit's HP, increases CRIT DMG by {1}%, lasting for 2 turn(s). This effect can only trigger once per turn.",
+                "params": [
+                    [
+                        "12",
+                        "18"
+                    ],
+                    [
+                        "15",
+                        "22"
+                    ],
+                    [
+                        "18",
+                        "27"
+                    ],
+                    [
+                        "21",
+                        "31"
+                    ],
+                    [
+                        "24",
+                        "36"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "hp_",
+                            "value": 0.12
+                        }
+                    ],
+                    [
+                        {
+                            "type": "hp_",
+                            "value": 0.15
+                        }
+                    ],
+                    [
+                        {
+                            "type": "hp_",
+                            "value": 0.18
+                        }
+                    ],
+                    [
+                        {
+                            "type": "hp_",
+                            "value": 0.21
+                        }
+                    ],
+                    [
+                        {
+                            "type": "hp_",
+                            "value": 0.24
                         }
                     ]
                 ]
@@ -12781,7 +13107,7 @@
             ],
             "ability": {
                 "name": "With This Evening Jade",
-                "desc": "Increases the wearer's CRIT DMG by {0}%. When an ally (excluding the wearer) gets attacked or loses HP, the wearer gains 1 stack of Eclipse, up to a max of 3 stack(s). Each stack of Eclipse increases the DMG of the wearer's next attack by {1}%. When 3 stack(s) are reached, additionally enables that attack to ignore {2}% of the enemy's DEF. This effect will be removed after the wearer uses an attack.",
+                "desc": "Increases the wearer's CRIT DMG by {0}%. When a teammate gets attacked or loses HP, the wearer gains 1 stack of Eclipse, up to a max of 3 stack(s). Each stack of Eclipse increases the DMG of the wearer's next attack by {1}%. When 3 stack(s) are reached, additionally enables that attack to ignore {2}% of the enemy's DEF. This effect will be removed after the wearer uses an attack.",
                 "params": [
                     [
                         "20",
@@ -13957,7 +14283,7 @@
             ],
             "ability": {
                 "name": "Capriciousness",
-                "desc": "Increases the wearer's CRIT DMG by {0}%. At the start of the battle, the wearer gains Mask, lasting for 3 turn(s). While the wearer has Mask, the wearer's allies have their CRIT Rate increased by {2}% and their CRIT DMG increased by {1}%. For every 1 Skill Point the wearer recovers (including Skill Points that exceed the limit), they gain 1 stack of Radiant Flame. And when the wearer has 4 stacks of Radiant Flame, all the stacks are removed, and they gain Mask, lasting for 4 turn(s).",
+                "desc": "Increases the wearer's CRIT DMG by {0}%. At the start of the battle, the wearer gains Mask, lasting for 3 turn(s). While the wearer has Mask, the wearer's teammates have their CRIT Rate increased by {2}% and their CRIT DMG increased by {1}%. For every 1 Skill Point the wearer recovers (including Skill Points that exceed the limit), they gain 1 stack of Radiant Flame. And when the wearer has 4 stacks of Radiant Flame, all the stacks are removed, and they gain Mask, lasting for 4 turn(s).",
                 "params": [
                     [
                         "32",
@@ -15825,6 +16151,174 @@
                 ]
             }
         },
+        "Ninjutsu Inscription: Dazzling Evilbreaker": {
+            "rarity": 5,
+            "path": "Erudition",
+            "desc": "Somewhere in the Ninja Realm, a shroud of dreary gray veils the city.\n\"Hiyaaa!\"\nA young lady darts through the monsters, her vibrant silhouette cutting through the darkness like a stroke of paint against a moonless earth.\nIn the midst of smoke, the Evil Ninjas wince in both agony and disbelief.\n\"Who...are you...?\"\n\"I'm Ninja Rappa! A beacon of determination, eradicating evil and upholding justice.\"\nThe Evil Ninjas exchange hesitant glances, eyes wide as they attempt to flee.\n\"Are you prepared to recite your final rhymes?\"\nHer shuriken dances through the air, a flurry of light and steel, overwhelming her adversaries with its blinding swiftness.\n\"Secret Technique: Dazzling Obliteration!\"\nThe explosion behind her shatters the night, unveiling the city's wounds.\nWith a breath drawn deep, she launches herself into the neon-lit distance, where the vibrant lights scream like a heavy metal chorus.\n\"Such loathsome evil spirits. The Dazzling Ninja's ultimate hunt shall continue...\"",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 43.2,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 26.4,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 24,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 95.04,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 58.08,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 52.8,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 164.16,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 100.32,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 91.2,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 233.28,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 142.56,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 129.6,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 302.4,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 184.8,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 168,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 371.52,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 227.04,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 206.4,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 440.64,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 269.28,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 244.8,
+                        "step": 3.6
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Exorcism",
+                "desc": "Increases the wearer's Break Effect by {0}%. When entering battle, immediately regenerates {1} Energy. After the wearer uses Ultimate, obtains \"Raiton.\" After using 2 Basic ATKs, advances the wearer's action by {2}% and removes \"Raiton.\" After the wearer uses Ultimate, resets \"Raiton.\"",
+                "params": [
+                    [
+                        "60",
+                        "30.0",
+                        "50"
+                    ],
+                    [
+                        "70",
+                        "32.5",
+                        "55"
+                    ],
+                    [
+                        "80",
+                        "35.0",
+                        "60"
+                    ],
+                    [
+                        "90",
+                        "37.5",
+                        "65"
+                    ],
+                    [
+                        "100",
+                        "40.0",
+                        "70"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.6
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.7
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.8
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.9
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 1
+                        }
+                    ]
+                ]
+            }
+        },
         "On the Fall of an Aeon": {
             "rarity": 5,
             "path": "Destruction",
@@ -17207,6 +17701,64 @@
                 ]
             ]
         },
+        "Sacerdos' Relived Ordeal": {
+            "pieces": {
+                "Head": {
+                    "name": "Sacerdos' Melodic Earrings"
+                },
+                "Hands": {
+                    "name": "Sacerdos' Welcoming Gloves"
+                },
+                "Body": {
+                    "name": "Sacerdos' Ceremonial Garb"
+                },
+                "Feet": {
+                    "name": "Sacerdos' Arduous Boots"
+                }
+            },
+            "desc": [
+                "Increases SPD by 6%.",
+                "When using Skill or Ultimate on one ally target, increases the ability target's CRIT DMG by 18%, lasting for 2 turn(s). This effect can stack up to 2 time(s)."
+            ],
+            "modifiers": [
+                [
+                    {
+                        "type": "spd_",
+                        "value": 0.06
+                    }
+                ],
+                []
+            ]
+        },
+        "Scholar Lost in Erudition": {
+            "pieces": {
+                "Head": {
+                    "name": "Scholar's Silver-Rimmed Monocle"
+                },
+                "Hands": {
+                    "name": "Scholar's Auxiliary Knuckle"
+                },
+                "Body": {
+                    "name": "Scholar's Tweed Jacket"
+                },
+                "Feet": {
+                    "name": "Scholar's Felt Snowboots"
+                }
+            },
+            "desc": [
+                "Increases CRIT Rate by 8%.",
+                "Increases DMG dealt by Skill and Ultimate by 20%. After using Ultimate, additionally increases the DMG dealt by the next Skill by 25%."
+            ],
+            "modifiers": [
+                [
+                    {
+                        "type": "crit_rate",
+                        "value": 0.08
+                    }
+                ],
+                []
+            ]
+        },
         "Space Sealing Station": {
             "pieces": {
                 "Planar Sphere": {
@@ -17490,7 +18042,7 @@
                 }
             },
             "desc": [
-                "Increases the wearer's ATK by 12%. When entering battle, if at least one other ally follows the same Path as the wearer, then the wearer's CRIT Rate increases by 12%."
+                "Increases the wearer's ATK by 12%. When entering battle, if at least one teammate follows the same Path as the wearer, then the wearer's CRIT Rate increases by 12%."
             ],
             "modifiers": [
                 [
@@ -18039,7 +18591,7 @@
             "traces": {
                 "technique": {
                     "name": "Feast in One Go",
-                    "desc": "If March 7th is on the team, she gains 1 point of Charge at the start of the next battle whenever an ally uses Technique, up to a max of 3 point(s).\nAfter using Technique, March 7th regenerates 30 Energy when the next battle starts."
+                    "desc": "If March 7th is on the team, she gains 1 point of Charge at the start of the next battle whenever a teammate uses Technique, up to a max of 3 point(s).\nAfter using Technique, March 7th regenerates 30 Energy when the next battle starts."
                 },
                 "ability_1": {
                     "name": "Swan Soar",
@@ -19729,7 +20281,7 @@
                 "talent": {
                     "name": "Time Distortion",
                     "max_level": 15,
-                    "desc": "When hitting an enemy that is already Slowed, Welt deals Additional Imaginary DMG equal to {0}% of his ATK to the enemy.",
+                    "desc": "When hitting an enemy that is already Slowed, Welt deals Imaginary Additional DMG equal to {0}% of his ATK to the enemy.",
                     "params": [
                         [
                             "30"
@@ -20350,7 +20902,7 @@
                 "talent": {
                     "name": "Gentle but Cruel",
                     "max_level": 15,
-                    "desc": "After an ally of Kafka's uses Basic ATK on an enemy target, Kafka immediately launches 1 follow-up attack and deals Lightning DMG equal to {0}% of her ATK to that target, with a 100% base chance to inflict Shock equivalent to that applied by her Ultimate to the attacked enemy target, lasting for 2 turns. This effect can only be triggered 1 time per turn.",
+                    "desc": "After Kafka's teammate uses Basic ATK on an enemy target, Kafka immediately launches Follow-up ATK and deals Lightning DMG equal to {0}% of her ATK to that target, with a 100% base chance to inflict Shock equivalent to that applied by her Ultimate to the attacked enemy target, lasting for 2 turns. This effect can only be triggered 1 time per turn.",
                     "params": [
                         [
                             "42"
@@ -20754,7 +21306,7 @@
                 },
                 {
                     "name": "Bounce Attack",
-                    "desc": "After using her Ultimate to attack enemies, deals Additional Quantum DMG equal to 20% of Silver Wolf's ATK for every debuff currently on the enemy target. This effect can be triggered for a maximum of 5 time(s) during each use of her Ultimate."
+                    "desc": "After using her Ultimate to attack enemies, deals Quantum Additional DMG equal to 20% of Silver Wolf's ATK for every debuff currently on the enemy target. This effect can be triggered for a maximum of 5 time(s) during each use of her Ultimate."
                 },
                 {
                     "name": "Brute Force Attack",
@@ -22541,7 +23093,7 @@
             "eidolons": [
                 {
                     "name": "Kick You When You're Down",
-                    "desc": "If the enemy's HP percentage is at 50% or less, Herta's Basic ATK deals Additional Ice DMG equal to 40% of Herta's ATK."
+                    "desc": "If the enemy's HP percentage is at 50% or less, Herta's Basic ATK deals Ice Additional DMG equal to 40% of Herta's ATK."
                 },
                 {
                     "name": "Keep the Ball Rolling",
@@ -23721,7 +24273,7 @@
                 },
                 {
                     "name": "Shattering Shambles",
-                    "desc": "After Seele uses her Ultimate, inflict the target enemy with Butterfly Flurry for 1 turn(s). Enemies suffering from Butterfly Flurry will take Additional Quantum DMG equal to 15% of Seele's Ultimate DMG every time they are attacked. If the target enemy is defeated by the Butterfly Flurry DMG triggered by other allies' attacks, Seele's Talent will not be triggered.\\nWhen Seele is knocked down, the Butterfly Flurry inflicted on the enemies will be removed."
+                    "desc": "After Seele uses her Ultimate, inflict the target enemy with Butterfly Flurry for 1 turn(s). Enemies suffering from Butterfly Flurry will take Quantum Additional DMG equal to 15% of Seele's Ultimate DMG every time they are attacked. If the target enemy is defeated by the Butterfly Flurry DMG triggered by other allies' attacks, Seele's Talent will not be triggered.\\nWhen Seele is knocked down, the Butterfly Flurry inflicted on the enemies will be removed."
                 }
             ],
             "skills": {
@@ -24457,7 +25009,7 @@
                 "talent": {
                     "name": "Galvanic Chords",
                     "max_level": 15,
-                    "desc": "After Serval attacks, deals Additional Lightning DMG equal to {0}% of Serval's ATK to all Shocked enemies.",
+                    "desc": "After Serval attacks, deals Lightning Additional DMG equal to {0}% of Serval's ATK to all Shocked enemies.",
                     "params": [
                         [
                             "36"
@@ -24914,7 +25466,7 @@
                 "skill": {
                     "name": "Daunting Smite",
                     "max_level": 15,
-                    "desc": "Deals Ice DMG equal to {0}% of Gepard's ATK to a single enemy, with a 65% base chance to Freeze the enemy for 1 turn(s).\nWhile Frozen, the enemy cannot take action and will take Additional Ice DMG equal to {1}% of Gepard's ATK at the beginning of each turn.",
+                    "desc": "Deals Ice DMG equal to {0}% of Gepard's ATK to a single enemy, with a 65% base chance to Freeze the enemy for 1 turn(s).\nWhile Frozen, the enemy cannot take action and will take Ice Additional DMG equal to {1}% of Gepard's ATK at the beginning of each turn.",
                     "params": [
                         [
                             "100",
@@ -26085,7 +26637,7 @@
                 },
                 {
                     "name": "Feeble Pursuit",
-                    "desc": "When Pela attacks a debuffed enemy, she deals Additional Ice DMG equal to 40% of Pela's ATK to the enemy."
+                    "desc": "When Pela attacks a debuffed enemy, she deals Ice Additional DMG equal to 40% of Pela's ATK to the enemy."
                 }
             ],
             "skills": {
@@ -27988,7 +28540,7 @@
                 "talent": {
                     "name": "Ha! Oil to the Flames!",
                     "max_level": 15,
-                    "desc": "When attacking a target afflicted with Burn, deals Additional Fire DMG equal to {0}% of Hook's ATK and regenerates 5 extra Energy.",
+                    "desc": "When attacking a target afflicted with Burn, deals Fire Additional DMG equal to {0}% of Hook's ATK and regenerates 5 extra Energy.",
                     "params": [
                         [
                             "50"
@@ -30854,7 +31406,7 @@
                 "skill": {
                     "name": "Soothing Melody",
                     "max_level": 15,
-                    "desc": "Grants a single ally with Benediction to increase their ATK by {1}%, up to {2}% of Tingyun's current ATK.\nWhen the ally with Benediction attacks, they will deal Additional Lightning DMG equal to {0}% of that ally's ATK for 1 time.\nBenediction lasts for 3 turn(s) and is only effective on the most recent receiver of Tingyun's Skill.",
+                    "desc": "Grants a single ally with Benediction to increase their ATK by {1}%, up to {2}% of Tingyun's current ATK.\nWhen the ally with Benediction attacks, they will deal Lightning Additional DMG equal to {0}% of that ally's ATK for 1 time.\nBenediction lasts for 3 turn(s) and is only effective on the most recent receiver of Tingyun's Skill.",
                     "params": [
                         [
                             "20",
@@ -30988,7 +31540,7 @@
                 "talent": {
                     "name": "Violet Sparknado",
                     "max_level": 15,
-                    "desc": "When an enemy is attacked by Tingyun, the ally with Benediction immediately deals Additional Lightning DMG equal to {0}% of that ally's ATK to the same enemy.",
+                    "desc": "When an enemy is attacked by Tingyun, the ally with Benediction immediately deals Lightning Additional DMG equal to {0}% of that ally's ATK to the same enemy.",
                     "params": [
                         [
                             "30"
@@ -33248,7 +33800,7 @@
                 "skill": {
                     "name": "Cloudfencer Art: Mountainfall",
                     "max_level": 15,
-                    "desc": "Deals Physical DMG equal to {0}% of Sushang's ATK to a single enemy. In addition, there is a 33% chance to trigger Sword Stance on the final hit, dealing Additional Physical DMG equal to {1}% of Sushang's ATK to the enemy.\nIf the enemy is inflicted with Weakness Break, Sword Stance is guaranteed to trigger.",
+                    "desc": "Deals Physical DMG equal to {0}% of Sushang's ATK to a single enemy. In addition, there is a 33% chance to trigger Sword Stance on the final hit, dealing Physical Additional DMG equal to {1}% of Sushang's ATK to the enemy.\nIf the enemy is inflicted with Weakness Break, Sword Stance is guaranteed to trigger.",
                     "params": [
                         [
                             "105",
@@ -34430,7 +34982,7 @@
                 "skill": {
                     "name": "Known by Stars, Shown by Hearts",
                     "max_level": 15,
-                    "desc": "Activates Matrix of Prescience, via which other team members will Distribute 65% of the DMG they receive (before this DMG is mitigated by any Shields) to Fu Xuan for 3 turn(s).\nWhile affected by Matrix of Prescience, all team members gain the Knowledge effect, which increases their respective Max HP by {0}% of Fu Xuan's Max HP, and increases CRIT Rate by {1}%.\nWhen Fu Xuan is knocked down, the Matrix of Prescience will be dispelled.",
+                    "desc": "Activates Matrix of Prescience, via which Fu Xuan's teammates will Distribute 65% of the DMG they receive (before this DMG is mitigated by any Shields) to Fu Xuan for 3 turn(s).\nWhile affected by Matrix of Prescience, all ally targets gain the Knowledge effect, which increases their respective Max HP by {0}% of Fu Xuan's Max HP, and increases CRIT Rate by {1}%.\nWhen Fu Xuan is knocked down, the Matrix of Prescience will be dispelled.",
                     "params": [
                         [
                             "3.0",
@@ -34952,7 +35504,7 @@
             "eidolons": [
                 {
                     "name": "Svelte Saber",
-                    "desc": "When Yanqing attacks a Frozen enemy, he deals Additional Ice DMG equal to 60% of his ATK."
+                    "desc": "When Yanqing attacks a Frozen enemy, he deals Ice Additional DMG equal to 60% of his ATK."
                 },
                 {
                     "name": "Supine Serenade",
@@ -35140,7 +35692,7 @@
                 "talent": {
                     "name": "One With the Sword",
                     "max_level": 15,
-                    "desc": "When Soulsteel Sync is active, Yanqing is less likely to be attacked by enemies. Yanqing's CRIT Rate increases by {0}% and his CRIT DMG increases by {1}%. After Yanqing attacks an enemy, there is a {2}% fixed chance to perform a follow-up attack, dealing Ice DMG equal to {3}% of Yanqing's ATK to the enemy, which has a 65% base chance to Freeze the enemy for 1 turn.\nThe Frozen target cannot take action and receives Additional Ice DMG equal to {4}% of Yanqing's ATK at the beginning of each turn.\nWhen Yanqing receives DMG, the Soulsteel Sync effect will disappear.",
+                    "desc": "When Soulsteel Sync is active, Yanqing is less likely to be attacked by enemies. Yanqing's CRIT Rate increases by {0}% and his CRIT DMG increases by {1}%. After Yanqing attacks an enemy, there is a {2}% fixed chance to launch Follow-up ATK, dealing Ice DMG equal to {3}% of Yanqing's ATK to the enemy, which has a 65% base chance to Freeze the enemy for 1 turn.\nThe Frozen target cannot take action and receives Ice Additional DMG equal to {4}% of Yanqing's ATK at the beginning of each turn.\nWhen Yanqing receives DMG, the Soulsteel Sync effect will disappear.",
                     "params": [
                         [
                             "15.0",
@@ -35257,7 +35809,7 @@
                 },
                 "ability_1": {
                     "name": "Icing on the Kick",
-                    "desc": "When Yanqing attacks, deals Additional Ice DMG equal to 30% of Yanqing's ATK to enemies with Ice Weakness."
+                    "desc": "When Yanqing attacks, deals Ice Additional DMG equal to 30% of Yanqing's ATK to enemies with Ice Weakness."
                 },
                 "ability_2": {
                     "name": "Frost Favors the Brave",
@@ -36397,7 +36949,7 @@
                 "talent": {
                     "name": "Gourdful of Elixir",
                     "max_level": 15,
-                    "desc": "After an ally with Invigoration is hit, restores the ally's HP for {0}% of Bailu's Max HP plus {1}. This effect can trigger 2 time(s).\nWhen an ally receives a killing blow, they will not be knocked down. Bailu immediately heals the ally for {2}% of Bailu's Max HP plus {3} HP. This effect can be triggered 1 time per battle.",
+                    "desc": "After an ally target with Invigoration is hit, restores the ally's HP for {0}% of Bailu's Max HP plus {1}. This effect can trigger 2 time(s).\nWhen Bailu's teammate receives a killing blow, they will not be knocked down. Bailu immediately heals the ally for {2}% of Bailu's Max HP plus {3} HP. This effect can be triggered 1 time per battle.",
                     "params": [
                         [
                             "3.6",
@@ -36846,7 +37398,7 @@
                 },
                 {
                     "name": "Lunarlance Shines Skyward Dome",
-                    "desc": "During the Spectral Transmigration state, the ATK gained from consuming allies' HP is additionally increased by 90% of the total HP consumed from the entire team. The cap for ATK gained this way also increases by 30%."
+                    "desc": "During the Spectral Transmigration state, the ATK gained from consuming teammates' HP is additionally increased by 90% of the total HP consumed from the entire team. The cap for ATK gained this way also increases by 30%."
                 },
                 {
                     "name": "Night Shades Astral Radiance",
@@ -37018,7 +37570,7 @@
                 "talent": {
                     "name": "Crescent Transmigration",
                     "max_level": 15,
-                    "desc": "When Jingliu has 2 stack(s) of Syzygy, she enters the Spectral Transmigration state with her Action Advanced by 100% and her CRIT Rate increases by {1}%. Then, Jingliu's Skill \"Transcendent Flash\" is enhanced to \"Moon On Glacial River,\" and only this enhanced Skill is available for use in battle. When Jingliu uses an attack in the Spectral Transmigration state, she consumes HP from all other allies equal to 4% of their respective Max HP (this cannot reduce allies' HP to lower than 1). Jingliu's ATK increases by 540% of the total HP consumed from all allies in this attack, capped at {0}% of her base ATK, lasting until the current attack ends. Jingliu cannot enter the Spectral Transmigration state again until the current Spectral Transmigration state ends. Syzygy can stack up to 3 times. When Syzygy stacks become 0, Jingliu will exit the Spectral Transmigration state.",
+                    "desc": "When Jingliu has 2 stack(s) of Syzygy, she enters the Spectral Transmigration state with her action advanced by 100% and her CRIT Rate increases by {1}%. Then, Jingliu's Skill \"Transcendent Flash\" is enhanced to \"Moon On Glacial River,\" and only this enhanced Skill is available for use in battle. When Jingliu uses an attack in the Spectral Transmigration state, she consumes HP from her teammates equal to 4% of their respective Max HP (this cannot reduce teammates' HP to lower than 1). Jingliu's ATK increases by 540% of the total HP consumed from all allies in this attack, capped at {0}% of her base ATK, lasting until the current attack ends. Jingliu cannot enter the Spectral Transmigration state again until the current Spectral Transmigration state ends. Syzygy can stack up to 3 times. When Syzygy stacks become 0, Jingliu will exit the Spectral Transmigration state.",
                     "params": [
                         [
                             "90",
@@ -38200,7 +38752,7 @@
                 "talent": {
                     "name": "Karmic Perpetuation",
                     "max_level": 15,
-                    "desc": "When Xueyi reduces enemy Toughness with attacks, Karma will be stacked. The more Toughness is reduced, the more stacks of Karma are added, up to 8 stacks.\nWhen Xueyi's allies reduce enemy Toughness with attacks, Xueyi gains 1 stack(s) of Karma.\nWhen Karma reaches the max number of stacks, consumes all current Karma stacks and immediately launches a follow-up attack against an enemy target, dealing DMG for 3 times, with each time dealing Quantum DMG equal to {0}% of Xueyi's ATK to a single random enemy. This follow-up attack will not add Karma stacks.",
+                    "desc": "When Xueyi reduces enemy Toughness with attacks, Karma will be stacked. The more Toughness is reduced, the more stacks of Karma are added, up to 8 stacks.\nWhen Xueyi's teammates reduce enemy Toughness with attacks, Xueyi gains 1 stack(s) of Karma.\nWhen Karma reaches the max number of stacks, consumes all current Karma stacks and immediately launches Follow-up ATK against an enemy target, dealing DMG for 3 times, with each time dealing Quantum DMG equal to {0}% of Xueyi's ATK to a single random enemy. This Follow-up ATK will not add Karma stacks.",
                     "params": [
                         [
                             "45"
@@ -39330,7 +39882,7 @@
                 "ult": {
                     "name": "Tail: Spiritual Domination",
                     "max_level": 15,
-                    "desc": "Regenerates Energy for all allies (excluding this character) by an amount equal to {0}% of their respective Max Energy. At the same time, increases their ATK by {1}% for 2 turn(s).",
+                    "desc": "Regenerates Energy for all teammates (i.e., excluding this unit) by an amount equal to {0}% of their respective Max Energy. At the same time, increases their ATK by {1}% for 2 turn(s).",
                     "params": [
                         [
                             "15.0",
@@ -40452,7 +41004,7 @@
                 },
                 {
                     "name": "Stormward I Hear",
-                    "desc": "The follow-up attack from Talent has its Toughness Reduction increased by 100%, and when it launches, increases this unit's SPD by 8%, lasting for 2 turn(s)."
+                    "desc": "The Toughness Reduction from the Talent's Follow-up ATK increases by 100% and, when launched, increases this unit's SPD by 8%, lasting for 2 turn(s)."
                 },
                 {
                     "name": "Heavenward I Leap",
@@ -40505,7 +41057,7 @@
                 "skill": {
                     "name": "Waraxe",
                     "max_level": 15,
-                    "desc": "Deals Wind DMG equal to {0}% of Feixiao's ATK to a target enemy. Then, immediately launches 1 instance of Talent's follow-up attack against the target.",
+                    "desc": "Deals Wind DMG equal to {0}% of Feixiao's ATK to a single target enemy. Then, immediately launches 1 extra instance of Talent's follow-up attack against the target.",
                     "params": [
                         [
                             "100"
@@ -40624,7 +41176,7 @@
                 "talent": {
                     "name": "Thunderhunt",
                     "max_level": 15,
-                    "desc": "Can activate Ultimate when \"Flying Aureus\" reaches 6 points, accumulating up to 12 points. Feixiao gains 1 point of \"Flying Aureus\" for every 2 attacks by ally targets. Feixiao's Ultimate attacks do not count towards this number.\nAfter Feixiao's teammates attack an enemy target, Feixiao immediately launches follow-up attack against the primary target, dealing Wind DMG equal to {0}% of Feixiao's ATK. If there is no primary target available to attack, Feixiao attacks a single random enemy instead. This effect can only trigger once per turn and the trigger count resets at the start of Feixiao's turn. When using this attack, increases DMG dealt by this unit by {1}%, lasting for 2 turn(s).",
+                    "desc": "Can activate Ultimate when \"Flying Aureus\" reaches 6 points, accumulating up to 12 points. Feixiao gains 1 point of \"Flying Aureus\" for every 2 attacks by ally targets. Feixiao's Ultimate attacks do not count towards this number.\nAfter Feixiao's teammates attack an Enemy target, Feixiao immediately launches follow-up attack against the primary target, dealing Wind DMG equal to {0}% of Feixiao's ATK. If there is no primary target available to attack, Feixiao attacks a single random enemy instead. This effect can only trigger once per turn and the trigger count resets at the start of Feixiao's turn. When using this attack, increases DMG dealt by this unit by {1}%, lasting for 2 turn(s).",
                     "params": [
                         [
                             "55",
@@ -41709,7 +42261,7 @@
                 },
                 {
                     "name": "Redolence from Canopied Banquet",
-                    "desc": "When Fuyuan takes action, restores HP equal to 40% of Lingsha's ATK for the ally whose current HP is the lowest."
+                    "desc": "When Fuyuan takes action, restores HP equal to 40% of Lingsha's ATK for the ally target whose current HP is the lowest."
                 },
                 {
                     "name": "Poise Atop Twists and Turns",
@@ -41721,7 +42273,7 @@
                 },
                 {
                     "name": "Arcadia Under Deep Seclusion",
-                    "desc": "While Fuyuan is on the field, reduces all enemies' All-Type RES by 20%. When Fuyuan attacks, additionally deals 4 instance(s) of DMG, with each instance dealing both Fire DMG equal to 50% of Lingsha's ATK and a Toughness Reduction of 5 to a single random enemy. This prioritizes targets with both Toughness greater than 0 and Fire Weakness."
+                    "desc": "While \"Fuyuan\" is on the field, reduces all enemies' All-Type RES by 20%. When \"Fuyuan\" attacks, additionally deals 4 instance(s) of DMG, with each instance dealing Fire DMG equal to 50% of Lingsha's ATK and 5 Toughness Reduction to one random enemy. This prioritizes targets with both Toughness greater than 0 and Fire Weakness."
                 }
             ],
             "skills": {
@@ -43203,7 +43755,7 @@
                 },
                 "ability_3": {
                     "name": "Bottoms Up",
-                    "desc": "When Gallagher uses Nectar Blitz to attack Besotted enemies, the HP Restore effect of his Talent will also apply to other allies for this time."
+                    "desc": "When Gallagher uses Nectar Blitz to attack Besotted enemies, the HP Restore effect of his Talent will also apply to teammates for this time."
                 },
                 "stat_1": {
                     "name": "Effect RES Boost",
@@ -44275,7 +44827,7 @@
                 "talent": {
                     "name": "Somatotypical Helix",
                     "max_level": 15,
-                    "desc": "Increases SPD by {0}% for the team (excluding this character). When allies Break an enemy target's Weakness, Ruan Mei deals to this enemy target Break DMG equal to {1}% of her Ice Break DMG.",
+                    "desc": "Increases SPD by {0}% for all teammates (i.e., excluding this unit). When allies Break an enemy target's Weakness, Ruan Mei deals to this enemy target Break DMG equal to {1}% of her Ice Break DMG.",
                     "params": [
                         [
                             "8.0",
@@ -44678,7 +45230,7 @@
             "eidolons": [
                 {
                     "name": "Prisoner's Dilemma",
-                    "desc": "Increases CRIT DMG by 20% for allies with Fortified Wager. After using the Ultimate, provides all allies with a Fortified Wager shield, whose Shield effect is equal to 100% of the one provided by the Skill, lasting for 3 turn(s)."
+                    "desc": "Increases CRIT DMG by 20% for ally targets with Fortified Wager. After using the Ultimate, provides all allies with a Fortified Wager shield, whose Shield Effect is equal to 100% of the one provided by the Skill, lasting for 3 turn(s)."
                 },
                 {
                     "name": "Bounded Rationality",
@@ -44706,7 +45258,7 @@
                 },
                 {
                     "name": "Stag Hunt Game",
-                    "desc": "For every ally that holds a Shield, the DMG dealt by Aventurine increases by 50%, up to a maximum of 150%."
+                    "desc": "For every teammate that holds a Shield, the DMG dealt by Aventurine increases by 50%, up to a maximum of 150%."
                 }
             ],
             "skills": {
@@ -44747,7 +45299,7 @@
                 "skill": {
                     "name": "Cornerstone Deluxe",
                     "max_level": 15,
-                    "desc": "Provides all allies with a Fortified Wager shield that can block DMG equal to {0}% of Aventurine's DEF plus {1}, lasting for 3 turn(s). When Fortified Wager is gained repeatedly, the Shield effect can stack, up to 200% of the current Shield effect provided by the Skill.",
+                    "desc": "Provides all allies with a Fortified Wager shield that can block DMG equal to {0}% of Aventurine's DEF plus {1}, lasting for 3 turn(s). When Fortified Wager is gained repeatedly, the Shield Effect can stack, up to 200% of the current Shield Effect provided by the Skill.",
                     "params": [
                         [
                             "16.0",
@@ -44957,11 +45509,11 @@
                 },
                 "ability_2": {
                     "name": "Hot Hand",
-                    "desc": "When battle starts, grants all allies a Fortified Wager shield, whose Shield effect is equal to 100% of the one provided by the Skill, lasting for 3 turn(s)."
+                    "desc": "When battle starts, grants all allies a Fortified Wager shield, whose Shield Effect is equal to 100% of the one provided by the Skill, lasting for 3 turn(s)."
                 },
                 "ability_3": {
                     "name": "Bingo!",
-                    "desc": "After an ally with Fortified Wager launches a follow-up attack, Aventurine accumulates 1 Blind Bet point. This effect can trigger up to 3 time(s). Its trigger count resets at the start of Aventurine's turn. After Aventurine launches his Talent's follow-up attack, provides all allies with a Fortified Wager that can block DMG equal to 7% of Aventurine's DEF plus 96, and additionally grants a Fortified Wager that can block DMG equal to 7% of Aventurine's DEF plus 96 to the ally with the lowest Shield effect, lasting for 3 turns."
+                    "desc": "After a teammate with Fortified Wager launches Follow-up ATK, Aventurine accumulates 1 Blind Bet point. This effect can trigger up to 3 time(s). Its trigger count resets at the start of Aventurine's turn. After Aventurine launches his Talent's Follow-up ATK, provides all ally targets with a Fortified Wager that can block DMG equal to 7% of Aventurine's DEF plus 96, and additionally grants a Fortified Wager that can block DMG equal to 7% of Aventurine's DEF plus 96 to the ally with the lowest Shield Effect, lasting for 3 turns."
                 },
                 "stat_1": {
                     "name": "DEF Boost",
@@ -45405,7 +45957,7 @@
                 "ult": {
                     "name": "Syllogistic Paradox",
                     "max_level": 15,
-                    "desc": "Deals Imaginary DMG equal to {0}% of Dr. Ratio's ATK to a single target enemy and applies Wiseman's Folly. When Dr. Ratio's allies attack a target afflicted with Wiseman's Folly, Dr. Ratio launches his Talent's follow-up attack for 1 time against this target.\nWiseman's Folly can be triggered for up to 2 times and only affects the most recent target of Dr. Ratio's Ultimate. This trigger count resets after Dr. Ratio's Ultimate is used.",
+                    "desc": "Deals Imaginary DMG equal to {0}% of Dr. Ratio's ATK to a single target enemy and applies Wiseman's Folly. When Dr. Ratio's teammates attack a target afflicted with Wiseman's Folly, Dr. Ratio launches 1 instance of his Talent's Follow-up ATK against this target.\nWiseman's Folly can be triggered for up to 2 times and only affects the most recent target of Dr. Ratio's Ultimate. This trigger count resets after Dr. Ratio's Ultimate is used.",
                     "params": [
                         [
                             "144"
@@ -45873,7 +46425,7 @@
                 },
                 {
                     "name": "Narrative Polysemy",
-                    "desc": "The CRIT DMG Boost effect provided by the Skill additionally increases by an amount equal to 30% of Sparkle's CRIT DMG. When Sparkle uses Skill, her Skill's CRIT DMG Boost effect will apply to all allies with Cipher. When Sparkle uses her Ultimate, any single ally who benefits from her Skill's CRIT DMG Boost will spread that effect to allies with Cipher."
+                    "desc": "The CRIT DMG Boost effect provided by the Skill additionally increases by an amount equal to 30% of Sparkle's CRIT DMG. When Sparkle uses Skill, her Skill's CRIT DMG Boost effect will apply to all teammates with Cipher. When Sparkle uses her Ultimate, any single ally who benefits from her Skill's CRIT DMG Boost will spread that effect to teammates with Cipher."
                 }
             ],
             "skills": {
@@ -46449,7 +47001,7 @@
                 },
                 {
                     "name": "Pantheon Merciful, Masses Pitiful",
-                    "desc": "When an enemy target gets attacked by Black Swan's allies, Black Swan has a 65% base chance of inflicting 1 stack of Arcana on the target.\\nEvery time Black Swan inflicts Arcana on an enemy target, there is a 50% fixed chance to additionally increase the number of Arcana stacked this time by 1."
+                    "desc": "When an enemy target gets attacked by Black Swan's teammates, Black Swan has a 65% base chance of inflicting 1 stack of Arcana on the target.\\nEvery time Black Swan inflicts Arcana on an enemy target, there is a 50% fixed chance to additionally increase the number of Arcana stacked this time by 1."
                 }
             ],
             "skills": {
@@ -47754,7 +48306,7 @@
                 },
                 {
                     "name": "Moonless Midnight",
-                    "desc": "While the Concerto state is active, the CRIT DMG for the Additional Physical DMG caused by the Ultimate increases by 450%. The effect of Moonless Midnight can trigger up to 8 time(s). And the trigger count resets each time the Ultimate is used."
+                    "desc": "While the Concerto state is active, the CRIT DMG for the Physical Additional DMG caused by the Ultimate increases by 450%. The effect of Moonless Midnight can trigger up to 8 time(s). And the trigger count resets each time the Ultimate is used."
                 }
             ],
             "skills": {
@@ -47847,7 +48399,7 @@
                 "ult": {
                     "name": "Vox Harmonique, Opus Cosmique",
                     "max_level": 15,
-                    "desc": "Robin enters the Concerto state and makes all other allies immediately take action.\nWhile in the Concerto state, increases all allies' ATK by {0}% of Robin's ATK plus {1}. Moreover, after every attack by allies, Robin deals Additional Physical DMG equal to {2}% of her ATK for 1 time, with a fixed CRIT Rate for this damage set at 100% and fixed CRIT DMG set at 150%.\nWhile in the Concerto state, Robin is immune to Crowd Control debuffs and cannot enter her turn or take action until the Concerto state ends.\nA Concerto countdown appears on the Action Order bar. When the countdown's turn begins, Robin exits the Concerto state and immediately takes action. The countdown has its own fixed SPD of 90.",
+                    "desc": "Robin enters the Concerto state and makes all teammates (i.e., excluding this unit) immediately take action.\nWhile in the Concerto state, increases all allies' ATK by {0}% of Robin's ATK plus {1}. Moreover, after every attack by ally targets, Robin deals Physical Additional DMG equal to {2}% of her ATK for 1 time, with a fixed CRIT Rate for this damage set at 100% and fixed CRIT DMG set at 150%.\nWhile in the Concerto state, Robin is immune to Crowd Control debuffs and cannot enter her turn or take action until the Concerto state ends.\nA Concerto countdown appears on the Action Order bar. When the countdown's turn begins, Robin exits the Concerto state and immediately takes action. The countdown has its own fixed SPD of 90.",
                     "params": [
                         [
                             "15.2",
@@ -49059,7 +49611,7 @@
                 "ult": {
                     "name": "G\u2014Gonna Be Late!",
                     "max_level": 15,
-                    "desc": "Has 3 Hits Per Action by default. First, uses 1 hit to deal Ice DMG equal to {0}% of Misha's ATK to a single target enemy. Then, the rest of the hits each deals Ice DMG equal to {0}% of Misha's ATK to a single random enemy. Just before each hit lands, there is a {1}% base chance to Freeze the target, lasting for 1 turn.\nWhile Frozen, enemy targets cannot take any actions, and at the start of their turn, they receive Additional Ice DMG equal to {2}% of Misha's ATK.\nThis Ultimate can possess up to 10 Hits Per Action. After the Ultimate is used, its Hits Per Action will be reset to the default level.",
+                    "desc": "Has 3 Hits Per Action by default. First, uses 1 hit to deal Ice DMG equal to {0}% of Misha's ATK to a single target enemy. Then, the rest of the hits each deals Ice DMG equal to {0}% of Misha's ATK to a single random enemy. Just before each hit lands, there is a {1}% base chance to Freeze the target, lasting for 1 turn.\nWhile Frozen, enemy targets cannot take any actions, and at the start of their turn, they receive Ice Additional DMG equal to {2}% of Misha's ATK.\nThis Ultimate can possess up to 10 Hits Per Action. After the Ultimate is used, its Hits Per Action will be reset to the default level.",
                     "params": [
                         [
                             "36",
@@ -49607,7 +50159,7 @@
                 "skill": {
                     "name": "Acquisition Surety",
                     "max_level": 15,
-                    "desc": "Makes a single target ally become the Debt Collector and increases their SPD by 30, lasting for 3 turn(s).\nAfter the Debt Collector attacks, deals 1 instance of Additional Quantum DMG equal to {0}% of Jade's ATK to each enemy target hit, and consumes the Debt Collector's HP by an amount equal to 2% of their Max HP. If the current HP is insufficient, reduces HP to 1.\nIf Jade becomes the Debt Collector, she cannot gain the SPD boost effect, and her attacks do not consume HP.\nWhen the Debt Collector exists on the field, Jade cannot use her Skill. At the start of Jade's every turn, the Debt Collector's duration decreases by 1 turn.",
+                    "desc": "Makes a single target ally become the Debt Collector and increases their SPD by 30, lasting for 3 turn(s).\nAfter the Debt Collector attacks, deals 1 instance of Quantum Additional DMG equal to {0}% of Jade's ATK to each enemy target hit, and consumes the Debt Collector's HP by an amount equal to 2% of their Max HP. If the current HP is insufficient, reduces HP to 1.\nIf Jade becomes the Debt Collector, she cannot gain the SPD boost effect, and her attacks do not consume HP.\nWhen the Debt Collector exists on the field, Jade cannot use her Skill. At the start of Jade's every turn, the Debt Collector's duration decreases by 1 turn.",
                     "params": [
                         [
                             "15"
@@ -50511,6 +51063,582 @@
                         {
                             "type": "break",
                             "value": 0.107
+                        }
+                    ]
+                }
+            }
+        },
+        "Rappa": {
+            "rarity": 5,
+            "path": "Erudition",
+            "element": "Imaginary",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 147.84,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 97.68,
+                        "step": 4.884
+                    },
+                    "def": {
+                        "base": 62.7,
+                        "step": 3.135
+                    },
+                    "spd": {
+                        "base": 96,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 206.976,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 136.752,
+                        "step": 4.884
+                    },
+                    "def": {
+                        "base": 87.78,
+                        "step": 3.135
+                    },
+                    "spd": {
+                        "base": 96,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 266.112,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 175.824,
+                        "step": 4.884
+                    },
+                    "def": {
+                        "base": 112.86,
+                        "step": 3.135
+                    },
+                    "spd": {
+                        "base": 96,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 325.248,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 214.896,
+                        "step": 4.884
+                    },
+                    "def": {
+                        "base": 137.94,
+                        "step": 3.135
+                    },
+                    "spd": {
+                        "base": 96,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 384.384,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 253.968,
+                        "step": 4.884
+                    },
+                    "def": {
+                        "base": 163.02,
+                        "step": 3.135
+                    },
+                    "spd": {
+                        "base": 96,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 443.52,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 293.04,
+                        "step": 4.884
+                    },
+                    "def": {
+                        "base": 188.1,
+                        "step": 3.135
+                    },
+                    "spd": {
+                        "base": 96,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 502.656,
+                        "step": 7.392
+                    },
+                    "atk": {
+                        "base": 332.112,
+                        "step": 4.884
+                    },
+                    "def": {
+                        "base": 213.18,
+                        "step": 3.135
+                    },
+                    "spd": {
+                        "base": 96,
+                        "step": 0
+                    },
+                    "taunt": {
+                        "base": 75,
+                        "step": 0
+                    },
+                    "crit_rate": {
+                        "base": 0.05,
+                        "step": 0
+                    },
+                    "crit_dmg": {
+                        "base": 0.5,
+                        "step": 0
+                    }
+                }
+            ],
+            "eidolons": [
+                {
+                    "name": "Returned Is the Revenant With No Ferry Toll",
+                    "desc": "During the \"Sealform\" state entered by using Ultimate, DMG dealt by Rappa ignores 15% of the targets' DEF. After exiting the \"Sealform\" state, regenerates 20 Energy."
+                },
+                {
+                    "name": "Free Is the Mind Enlightened by Haikus",
+                    "desc": "The Enhanced Basic ATK's first 2 hits have their Toughness Reduction against the one designated enemy increased by 50%."
+                },
+                {
+                    "name": "Many Are the Shrines That Repel No Hell",
+                    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+                    "level_up_skills": {
+                        "skill": 2,
+                        "talent": 2
+                    }
+                },
+                {
+                    "name": "Lost Is the Nind\u014d Devoured by Time",
+                    "desc": "While in the \"Sealform\" state, increases all allies' SPD by 12%."
+                },
+                {
+                    "name": "Steady Is The Ranger With Unerring Arrows",
+                    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+                    "level_up_skills": {
+                        "ult": 2,
+                        "basic": 1
+                    }
+                },
+                {
+                    "name": "Righteous Is the Wrath That Spares No Evil",
+                    "desc": "When battle starts, Rappa gains 5 point(s) of her Talent's Charge, whose upper limit is 5 point(s). After launching the third hit of \"Ningu: Demonbane Petalblade,\" gains 5 point(s) of Charge."
+                }
+            ],
+            "skills": {
+                "basic": {
+                    "name": "Ninjutsu: Rise Above Tumbles",
+                    "max_level": 9,
+                    "desc": "Deals Imaginary DMG equal to {0}% of Rappa's ATK to one designated enemy.",
+                    "params": [
+                        [
+                            "50"
+                        ],
+                        [
+                            "60"
+                        ],
+                        [
+                            "70"
+                        ],
+                        [
+                            "80"
+                        ],
+                        [
+                            "90"
+                        ],
+                        [
+                            "100"
+                        ],
+                        [
+                            "110"
+                        ],
+                        [
+                            "120"
+                        ],
+                        [
+                            "130"
+                        ]
+                    ]
+                },
+                "skill": {
+                    "name": "Ninja Strike: Rooted Resolute",
+                    "max_level": 15,
+                    "desc": "Deals Imaginary DMG equal to {0}% of Rappa's ATK to all enemies.",
+                    "params": [
+                        [
+                            "60"
+                        ],
+                        [
+                            "66"
+                        ],
+                        [
+                            "72"
+                        ],
+                        [
+                            "78"
+                        ],
+                        [
+                            "84"
+                        ],
+                        [
+                            "90"
+                        ],
+                        [
+                            "97"
+                        ],
+                        [
+                            "105"
+                        ],
+                        [
+                            "112"
+                        ],
+                        [
+                            "120"
+                        ],
+                        [
+                            "126"
+                        ],
+                        [
+                            "132"
+                        ],
+                        [
+                            "138"
+                        ],
+                        [
+                            "144"
+                        ],
+                        [
+                            "150"
+                        ]
+                    ]
+                },
+                "ult": {
+                    "name": "Nind\u014d Supreme: Aishiteru",
+                    "max_level": 15,
+                    "desc": "Enters the \"Sealform\" state, immediately gains 1 extra turn, obtains 3 points of \"Chroma Ink,\" and increases Weakness Break Efficiency by 50% and Break Effect by {0}%.\nWhile in the \"Sealform\" state, Basic ATK is enhanced, and Skill and Ultimate cannot be used. After using Enhanced Basic ATK, consumes 1 point of \"Chroma Ink.\" When \"Chroma Ink\" is depleted, exits the \"Sealform\" state.",
+                    "params": [
+                        [
+                            "10"
+                        ],
+                        [
+                            "12"
+                        ],
+                        [
+                            "14"
+                        ],
+                        [
+                            "16"
+                        ],
+                        [
+                            "18"
+                        ],
+                        [
+                            "20"
+                        ],
+                        [
+                            "22"
+                        ],
+                        [
+                            "25"
+                        ],
+                        [
+                            "27"
+                        ],
+                        [
+                            "30"
+                        ],
+                        [
+                            "32"
+                        ],
+                        [
+                            "34"
+                        ],
+                        [
+                            "36"
+                        ],
+                        [
+                            "38"
+                        ],
+                        [
+                            "40"
+                        ]
+                    ]
+                },
+                "talent": {
+                    "name": "Ninja Tech: Endurance Gauge",
+                    "max_level": 15,
+                    "desc": "Each time the enemy target is Weakness Broken, Rappa gains 1 point of Charge, up to a max of 10 points of Charge. When Rappa next launches the third hit of \"Ningu: Demonbane Petalblade,\" additionally deals Break DMG equal to {0}% of Rappa's Imaginary Break DMG to all enemies. This DMG can ignore Weakness Type to reduce 2 Toughness, consuming all Charge. Each point of Charge increases the Break DMG multiplier by {1}% and increases the Toughness Reduction that can ignore Weakness Type by 1.\nWhen Breaking Weakness, triggers the Imaginary Weakness Break effect.",
+                    "params": [
+                        [
+                            "30",
+                            "25"
+                        ],
+                        [
+                            "33",
+                            "27"
+                        ],
+                        [
+                            "36",
+                            "30"
+                        ],
+                        [
+                            "39",
+                            "32"
+                        ],
+                        [
+                            "42",
+                            "35"
+                        ],
+                        [
+                            "45",
+                            "37"
+                        ],
+                        [
+                            "48",
+                            "40"
+                        ],
+                        [
+                            "52",
+                            "43"
+                        ],
+                        [
+                            "56",
+                            "46"
+                        ],
+                        [
+                            "60",
+                            "50"
+                        ],
+                        [
+                            "63",
+                            "52"
+                        ],
+                        [
+                            "66",
+                            "55"
+                        ],
+                        [
+                            "69",
+                            "57"
+                        ],
+                        [
+                            "72",
+                            "60"
+                        ],
+                        [
+                            "75",
+                            "62"
+                        ]
+                    ]
+                }
+            },
+            "traces": {
+                "technique": {
+                    "name": "Ninja Dash: By Leaps and Bounds",
+                    "desc": "After using Technique, enters the \"Graffiti\" state for 20 seconds. While in the \"Graffiti\" state, moves forward rapidly for a set distance and attacks any enemies touched. During the rapid movement, can block all enemies' attacks. Using an attack in the \"Graffiti\" state can end the state's duration early. After entering combat via attacking enemies, deals 30 Toughness Reduction regardless of Weakness Type and Break DMG equal to 200% of Rappa's Imaginary Break DMG to each enemy target, and deals Break DMG equal to 180% of Rappa's Imaginary Break DMG to adjacent targets. At the same time, this unit regenerates 10 Energy."
+                },
+                "ability_1": {
+                    "name": "Ninjutsu Inscription: Sky High",
+                    "desc": "When the Weakness of an elite-level or higher enemy is broken, Rappa additionally gains 1 point(s) of Charge and regenerates 10 Energy."
+                },
+                "ability_2": {
+                    "name": "Ninjutsu Inscription: Sea Echo",
+                    "desc": "While in the \"Sealform\" state, after Rappa uses Enhanced Basic ATK to deal DMG to a Weakness Broken enemy target, converts the Toughness Reduction from this instance of DMG to 1 instance of 60% Super Break DMG."
+                },
+                "ability_3": {
+                    "name": "Ninjutsu Inscription: Withered Leaf",
+                    "desc": "When an enemy target becomes Weakness Broken, increases the Break DMG taken by 2%. If Rappa's current ATK is higher than 2400, for every 100 excess ATK, additionally increases this value by 1%, up to a max additional increase of 8%. This effect lasts for 2 turn(s)."
+                },
+                "stat_1": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.04
+                        }
+                    ]
+                },
+                "stat_2": {
+                    "name": "SPD Boost",
+                    "desc": "SPD increases by 2",
+                    "modifiers": [
+                        {
+                            "type": "spd",
+                            "value": 2
+                        }
+                    ]
+                },
+                "stat_3": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 4.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.04
+                        }
+                    ]
+                },
+                "stat_4": {
+                    "name": "Break Boost",
+                    "desc": "Break Effect increases by 5.3%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.053
+                        }
+                    ]
+                },
+                "stat_5": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.06
+                        }
+                    ]
+                },
+                "stat_6": {
+                    "name": "SPD Boost",
+                    "desc": "SPD increases by 3",
+                    "modifiers": [
+                        {
+                            "type": "spd",
+                            "value": 3
+                        }
+                    ]
+                },
+                "stat_7": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 6.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.06
+                        }
+                    ]
+                },
+                "stat_8": {
+                    "name": "Break Boost",
+                    "desc": "Break Effect increases by 8.0%",
+                    "modifiers": [
+                        {
+                            "type": "break",
+                            "value": 0.08
+                        }
+                    ]
+                },
+                "stat_9": {
+                    "name": "SPD Boost",
+                    "desc": "SPD increases by 4",
+                    "modifiers": [
+                        {
+                            "type": "spd",
+                            "value": 4
+                        }
+                    ]
+                },
+                "stat_10": {
+                    "name": "ATK Boost",
+                    "desc": "ATK increases by 8.0%",
+                    "modifiers": [
+                        {
+                            "type": "atk_",
+                            "value": 0.08
                         }
                     ]
                 }

@@ -208,6 +208,9 @@
         "Shadowed by Night": {
             "rarity": 4
         },
+        "Dream's Montage": {
+            "rarity": 4
+        },
         "Before the Tutorial Mission Starts": {
             "rarity": 4
         },
@@ -215,6 +218,9 @@
             "rarity": 4
         },
         "For Tomorrow's Journey": {
+            "rarity": 4
+        },
+        "Ninja Record: Sound Hunt": {
             "rarity": 4
         },
         "Night on the Milky Way": {
@@ -314,6 +320,9 @@
             "rarity": 5
         },
         "Scent Alone Stays True": {
+            "rarity": 5
+        },
+        "Ninjutsu Inscription: Dazzling Evilbreaker": {
             "rarity": 5
         },
         "On the Fall of an Aeon": {
@@ -651,6 +660,38 @@
         },
         "Valorous Greaves of Pursuing Hunt": {
             "set": "The Wind-Soaring Valorous",
+            "slot": "Feet"
+        },
+        "Sacerdos' Melodic Earrings": {
+            "set": "Sacerdos' Relived Ordeal",
+            "slot": "Head"
+        },
+        "Sacerdos' Welcoming Gloves": {
+            "set": "Sacerdos' Relived Ordeal",
+            "slot": "Hands"
+        },
+        "Sacerdos' Ceremonial Garb": {
+            "set": "Sacerdos' Relived Ordeal",
+            "slot": "Body"
+        },
+        "Sacerdos' Arduous Boots": {
+            "set": "Sacerdos' Relived Ordeal",
+            "slot": "Feet"
+        },
+        "Scholar's Silver-Rimmed Monocle": {
+            "set": "Scholar Lost in Erudition",
+            "slot": "Head"
+        },
+        "Scholar's Auxiliary Knuckle": {
+            "set": "Scholar Lost in Erudition",
+            "slot": "Hands"
+        },
+        "Scholar's Tweed Jacket": {
+            "set": "Scholar Lost in Erudition",
+            "slot": "Body"
+        },
+        "Scholar's Felt Snowboots": {
+            "set": "Scholar Lost in Erudition",
             "slot": "Feet"
         },
         "Herta's Space Station": {
@@ -1347,6 +1388,16 @@
             "e5": {
                 "skill": 2,
                 "talent": 2
+            }
+        },
+        "Rappa": {
+            "e3": {
+                "skill": 2,
+                "talent": 2
+            },
+            "e5": {
+                "ult": 2,
+                "basic": 1
             }
         },
         "TrailblazerDestruction": {
