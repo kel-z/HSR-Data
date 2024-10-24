@@ -277,6 +277,10 @@
             "id": 21047,
             "rarity": 4
         },
+        "Dream's Montage": {
+            "id": 21048,
+            "rarity": 4
+        },
         "Before the Tutorial Mission Starts": {
             "id": 22000,
             "rarity": 4
@@ -287,6 +291,10 @@
         },
         "For Tomorrow's Journey": {
             "id": 22002,
+            "rarity": 4
+        },
+        "Ninja Record: Sound Hunt": {
+            "id": 22003,
             "rarity": 4
         },
         "Night on the Milky Way": {
@@ -419,6 +427,10 @@
         },
         "Scent Alone Stays True": {
             "id": 23032,
+            "rarity": 5
+        },
+        "Ninjutsu Inscription: Dazzling Evilbreaker": {
+            "id": 23033,
             "rarity": 5
         },
         "On the Fall of an Aeon": {
@@ -841,6 +853,46 @@
         "Valorous Greaves of Pursuing Hunt": {
             "set_id": 120,
             "set": "The Wind-Soaring Valorous",
+            "slot": "Feet"
+        },
+        "Sacerdos' Melodic Earrings": {
+            "set_id": 121,
+            "set": "Sacerdos' Relived Ordeal",
+            "slot": "Head"
+        },
+        "Sacerdos' Welcoming Gloves": {
+            "set_id": 121,
+            "set": "Sacerdos' Relived Ordeal",
+            "slot": "Hands"
+        },
+        "Sacerdos' Ceremonial Garb": {
+            "set_id": 121,
+            "set": "Sacerdos' Relived Ordeal",
+            "slot": "Body"
+        },
+        "Sacerdos' Arduous Boots": {
+            "set_id": 121,
+            "set": "Sacerdos' Relived Ordeal",
+            "slot": "Feet"
+        },
+        "Scholar's Silver-Rimmed Monocle": {
+            "set_id": 122,
+            "set": "Scholar Lost in Erudition",
+            "slot": "Head"
+        },
+        "Scholar's Auxiliary Knuckle": {
+            "set_id": 122,
+            "set": "Scholar Lost in Erudition",
+            "slot": "Hands"
+        },
+        "Scholar's Tweed Jacket": {
+            "set_id": 122,
+            "set": "Scholar Lost in Erudition",
+            "slot": "Body"
+        },
+        "Scholar's Felt Snowboots": {
+            "set_id": 122,
+            "set": "Scholar Lost in Erudition",
             "slot": "Feet"
         },
         "Herta's Space Station": {
@@ -1748,6 +1800,19 @@
                 "e5": {
                     "skill": 2,
                     "talent": 2
+                }
+            }
+        },
+        "Rappa": {
+            "Erudition": {
+                "id": 1317,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1
                 }
             }
         },
