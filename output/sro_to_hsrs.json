@@ -20,6 +20,7 @@
         "Feixiao": 1220,
         "Firefly": 1310,
         "FuXuan": 1208,
+        "Fugue": 1225,
         "Gallagher": 1301,
         "Gepard": 1104,
         "Guinaifen": 1210,
@@ -55,6 +56,7 @@
         "TrailblazerPhysicalF": 8002,
         "TrailblazerFireF": 8004,
         "TrailblazerImaginaryF": 8006,
+        "Sunday": 1313,
         "Sushang": 1206,
         "Tingyun": 1202,
         "TopazNumby": 1112,
@@ -107,6 +109,7 @@
         "WatchmakerMasterOfDreamMachinations": "Watchmaker, Master of Dream Machinations"
     },
     "light_cones": {
+        "AGroundedAscent": "A Grounded Ascent",
         "ASecretVow": "A Secret Vow",
         "Adversarial": "Adversarial",
         "AfterTheCharmonyFall": "After the Charmony Fall",
@@ -158,6 +161,7 @@
         "InherentlyUnjustDestiny": "Inherently Unjust Destiny",
         "ItsShowtime": "It's Showtime",
         "LandausChoice": "Landau's Choice",
+        "LongRoadLeadsHome": "Long Road Leads Home",
         "Loop": "Loop",
         "MakeTheWorldClamor": "Make the World Clamor",
         "Mediation": "Mediation",
