@@ -1,5 +1,5 @@
 {
-    "version": "2.6",
+    "version": "2.7",
     "light_cones": {
         "Arrows": {
             "rarity": 3
@@ -323,6 +323,12 @@
             "rarity": 5
         },
         "Ninjutsu Inscription: Dazzling Evilbreaker": {
+            "rarity": 5
+        },
+        "A Grounded Ascent": {
+            "rarity": 5
+        },
+        "Long Road Leads Home": {
             "rarity": 5
         },
         "On the Fall of an Aeon": {
@@ -1260,6 +1266,16 @@
                 "basic": 1
             }
         },
+        "Fugue": {
+            "e3": {
+                "skill": 2,
+                "basic": 1
+            },
+            "e5": {
+                "ult": 2,
+                "talent": 2
+            }
+        },
         "Gallagher": {
             "e3": {
                 "skill": 2,
@@ -1361,6 +1377,16 @@
             }
         },
         "Misha": {
+            "e3": {
+                "ult": 2,
+                "basic": 1
+            },
+            "e5": {
+                "skill": 2,
+                "talent": 2
+            }
+        },
+        "Sunday": {
             "e3": {
                 "ult": 2,
                 "basic": 1
