@@ -1,5 +1,5 @@
 {
-    "version": "2.7",
+    "version": "3.0",
     "light_cones": {
         "Arrows": {
             "id": 20000,
@@ -83,6 +83,14 @@
         },
         "Sagacity": {
             "id": 20020,
+            "rarity": 3
+        },
+        "Shadowburn": {
+            "id": 20021,
+            "rarity": 3
+        },
+        "Reminiscence": {
+            "id": 20022,
             "rarity": 3
         },
         "Post-Op Conversation": {
@@ -281,6 +289,18 @@
             "id": 21048,
             "rarity": 4
         },
+        "Victory In a Blink": {
+            "id": 21050,
+            "rarity": 4
+        },
+        "Geniuses' Greetings": {
+            "id": 21051,
+            "rarity": 4
+        },
+        "Sweat Now, Cry Less": {
+            "id": 21052,
+            "rarity": 4
+        },
         "Before the Tutorial Mission Starts": {
             "id": 22000,
             "rarity": 4
@@ -439,6 +459,14 @@
         },
         "Long Road Leads Home": {
             "id": 23035,
+            "rarity": 5
+        },
+        "Time Woven Into Gold": {
+            "id": 23036,
+            "rarity": 5
+        },
+        "Into the Unreachable Veil": {
+            "id": 23037,
             "rarity": 5
         },
         "On the Fall of an Aeon": {
@@ -901,6 +929,46 @@
         "Scholar's Felt Snowboots": {
             "set_id": 122,
             "set": "Scholar Lost in Erudition",
+            "slot": "Feet"
+        },
+        "Hero's Wreath of Championship": {
+            "set_id": 123,
+            "set": "Hero of Triumphant Song",
+            "slot": "Head"
+        },
+        "Hero's Gilded Bracers": {
+            "set_id": 123,
+            "set": "Hero of Triumphant Song",
+            "slot": "Hands"
+        },
+        "Hero's Gallant Golden Armor": {
+            "set_id": 123,
+            "set": "Hero of Triumphant Song",
+            "slot": "Body"
+        },
+        "Hero's Firechasing Shinguard": {
+            "set_id": 123,
+            "set": "Hero of Triumphant Song",
+            "slot": "Feet"
+        },
+        "Poet's Dill Wreath": {
+            "set_id": 124,
+            "set": "Poet of Mourning Collapse",
+            "slot": "Head"
+        },
+        "Poet's Gilded Bracelet": {
+            "set_id": 124,
+            "set": "Poet of Mourning Collapse",
+            "slot": "Hands"
+        },
+        "Poet's Star-Studded Skirt": {
+            "set_id": 124,
+            "set": "Poet of Mourning Collapse",
+            "slot": "Body"
+        },
+        "Poet's Silver-Studded Shoes": {
+            "set_id": 124,
+            "set": "Poet of Mourning Collapse",
             "slot": "Feet"
         },
         "Herta's Space Station": {
@@ -1850,6 +1918,38 @@
                 }
             }
         },
+        "The Herta": {
+            "Erudition": {
+                "id": 1401,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1
+                }
+            }
+        },
+        "Aglaea": {
+            "Remembrance": {
+                "id": 1402,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1,
+                    "memosprite": {
+                        "talent": 1
+                    }
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2,
+                    "memosprite": {
+                        "skill": 1
+                    }
+                }
+            }
+        },
         "Caelus": {
             "Destruction": {
                 "id": 8001,
@@ -1882,6 +1982,23 @@
                 "e5": {
                     "ult": 2,
                     "basic": 1
+                }
+            },
+            "Remembrance": {
+                "id": 8007,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2,
+                    "memosprite": {
+                        "talent": 1
+                    }
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1,
+                    "memosprite": {
+                        "skill": 1
+                    }
                 }
             }
         },
@@ -1917,6 +2034,23 @@
                 "e5": {
                     "ult": 2,
                     "basic": 1
+                }
+            },
+            "Remembrance": {
+                "id": 8008,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2,
+                    "memosprite": {
+                        "talent": 1
+                    }
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1,
+                    "memosprite": {
+                        "skill": 1
+                    }
                 }
             }
         }

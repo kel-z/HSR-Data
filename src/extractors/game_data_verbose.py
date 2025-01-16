@@ -238,6 +238,7 @@ def _format_modifier(modifier: dict) -> dict:
         "HealRatioBase": "heal",
         "SPRatioBase": "energy",
         "AllDamageTypeAddedRatio": "all_dmg",
+        "BaseSpeed": "base_spd",
     }
     modifier["type"] = type_map[modifier["type"]]
     return modifier
@@ -341,7 +342,7 @@ def _add_passive_traces(traces: dict, character: dict, include_icons: bool) -> d
     with open(CHARACTER_SKILL_TREES, "r", encoding="utf-8") as f:
         CHARACTER_SKILL_TREES_JSON = json.load(f)
 
-    for i, skill_id in enumerate(character["skill_trees"][8:]):
+    for i, skill_id in enumerate(character["skill_trees"][8:18]):
         skill = CHARACTER_SKILL_TREES_JSON[skill_id]
         traces[f"stat_{i+1}"] = {
             "name": skill["name"],
@@ -373,6 +374,9 @@ def _get_eidolons(character: dict, include_icons: bool) -> dict:
         level_up_skills = {}
         if rank["level_up_skills"]:
             for skill_dict in rank["level_up_skills"]:
+                if skill_dict["id"] not in CHARACTER_SKILLS_JSON:
+                    print(f"game_data_verbose: WARN: Missing skill id {skill_dict['id']}")
+                    continue
                 skill_type = _get_skill_type_name(
                     CHARACTER_SKILLS_JSON[skill_dict["id"]]["type"]
                 )

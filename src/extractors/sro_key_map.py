@@ -10,11 +10,13 @@ ALT_PATHS = {
         "Destruction": "TrailblazerPhysicalF",
         "Preservation": "TrailblazerFireF",
         "Harmony": "TrailblazerImaginaryF",
+        "Remembrance": "TrailblazerIceF",
     },
     "Caelus": {
         "Destruction": "TrailblazerPhysicalM",
         "Preservation": "TrailblazerFireM",
         "Harmony": "TrailblazerImaginaryM",
+        "Remembrance": "TrailblazerIceM",
     },
     "March 7th": {
         "Preservation": "March7thIce",

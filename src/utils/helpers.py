@@ -44,5 +44,7 @@ def get_path_from_avatar_base_type(base_type: str) -> str:
             return "Preservation"
         case "Priest":
             return "Abundance"
+        case "Memory":
+            return "Remembrance"
         case _:
             raise ValueError(f"Invalid base type: {base_type}")
