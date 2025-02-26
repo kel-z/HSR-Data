@@ -469,6 +469,14 @@
             "id": 23037,
             "rarity": 5
         },
+        "If Time Were a Flower": {
+            "id": 23038,
+            "rarity": 5
+        },
+        "Flame of Blood, Blaze My Path": {
+            "id": 23039,
+            "rarity": 5
+        },
         "On the Fall of an Aeon": {
             "id": 24000,
             "rarity": 5
@@ -487,6 +495,10 @@
         },
         "Eternal Calculus": {
             "id": 24004,
+            "rarity": 5
+        },
+        "Memory's Curtain Never Falls": {
+            "id": 24005,
             "rarity": 5
         }
     },
@@ -1149,6 +1161,26 @@
         "BananAmusement Park's Memetic Cables": {
             "set_id": 318,
             "set": "The Wondrous BananAmusement Park",
+            "slot": "Link Rope"
+        },
+        "Aidonia's Deceased Gravestones": {
+            "set_id": 319,
+            "set": "Bone Collection's Serene Demesne",
+            "slot": "Planar Sphere"
+        },
+        "Aidonia's Deathward Bone Chains": {
+            "set_id": 319,
+            "set": "Bone Collection's Serene Demesne",
+            "slot": "Link Rope"
+        },
+        "Grove of Epiphany's Pondering Colossus": {
+            "set_id": 320,
+            "set": "Giant Tree of Rapt Brooding",
+            "slot": "Planar Sphere"
+        },
+        "Grove of Epiphany's Interwoven Veins": {
+            "set_id": 320,
+            "set": "Giant Tree of Rapt Brooding",
             "slot": "Link Rope"
         }
     },
@@ -1947,6 +1979,32 @@
                     "memosprite": {
                         "skill": 1
                     }
+                }
+            }
+        },
+        "Tribbie": {
+            "Harmony": {
+                "id": 1403,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
+                }
+            }
+        },
+        "Mydei": {
+            "Destruction": {
+                "id": 1404,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
                 }
             }
         },

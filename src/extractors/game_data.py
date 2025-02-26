@@ -6,7 +6,7 @@ from utils.helpers import get_path_from_avatar_base_type, get_slot_from_relic_ty
 
 
 # game version that the output is up to date with
-HSR_VERSION = "3.0"
+HSR_VERSION = "3.1"
 
 STAR_RAIL_DATA_PATH = "src/data/repos/StarRailRes"
 LIGHT_CONE = STAR_RAIL_DATA_PATH + "/index_min/en/light_cones.json"
@@ -49,64 +49,6 @@ def get_game_data(include_icons: bool) -> dict:
                 if str(variant["id"]) not in res["mini_icons"]:
                     print(f"WARN: Missing icon for character {k} ({variant["id"]})")
 
-    return add_hard_coded_data(res)
-
-def add_hard_coded_data(res: dict):
-    """Add Remembrance eidolon level up data
-
-    :param res: The output dictionary to add data to.
-    """
-    print("game_data: INFO: Adding hard-coded Remembrance eidolon data to output")
-
-    CHARACTER_DATA_TO_ADD = {
-        "Aglaea": {
-            "Remembrance": {
-                "e3": {
-                    "memosprite": {
-                        "talent": 1
-                    }
-                },
-                "e5": {
-                    "memosprite": {
-                        "skill": 1
-                    }
-                }
-            }
-        },
-        "Caelus": {
-            "Remembrance": {
-                "e3": {
-                    "memosprite": {
-                        "talent": 1
-                    }
-                },
-                "e5": {
-                    "memosprite": {
-                        "skill": 1
-                    }
-                }
-            }
-        },
-        "Stelle": {
-            "Remembrance": {
-                "e3": {
-                    "memosprite": {
-                        "talent": 1
-                    }
-                },
-                "e5": {
-                    "memosprite": {
-                        "skill": 1
-                    }
-                }
-            }
-        }
-    }
-
-    for character, paths in CHARACTER_DATA_TO_ADD.items():
-        for path, eidolon in paths.items():
-            for eidolon, skills in eidolon.items():
-                res["characters"][character][path][eidolon].update(skills)
     return res
 
 
@@ -230,8 +172,17 @@ def _parse_skill_levels(skills: dict, skill_add_level_dict: dict) -> dict:
                 key = "ult"
             case "Talent":
                 key = "talent"
+            case "MemospriteSkill":
+                key = "memosprite_skill"
+            case "MemospriteTalent":
+                key = "memosprite_talent"
             case _:
                 continue
-        res[key] = skill["num"]
+
+        if key.startswith("memosprite"):
+            memosprite_dict = res.setdefault("memosprite", {})
+            memosprite_dict[key.split("_")[1]] = skill["num"]
+        else:
+            res[key] = skill["num"]
 
     return res
