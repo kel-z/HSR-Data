@@ -1,5 +1,5 @@
 {
-    "version": "3.0",
+    "version": "3.2",
     "light_cones": {
         "Arrows": {
             "id": 20000,
@@ -317,6 +317,10 @@
             "id": 22003,
             "rarity": 4
         },
+        "The Great Cosmic Enterprise": {
+            "id": 22004,
+            "rarity": 4
+        },
         "Night on the Milky Way": {
             "id": 23000,
             "rarity": 5
@@ -475,6 +479,14 @@
         },
         "Flame of Blood, Blaze My Path": {
             "id": 23039,
+            "rarity": 5
+        },
+        "Make Farewells More Beautiful": {
+            "id": 23040,
+            "rarity": 5
+        },
+        "Life Should Be Cast to Flames": {
+            "id": 23041,
             "rarity": 5
         },
         "On the Fall of an Aeon": {
@@ -2005,6 +2017,39 @@
                 "e5": {
                     "ult": 2,
                     "talent": 2
+                }
+            }
+        },
+        "Anaxa": {
+            "Erudition": {
+                "id": 1405,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
+                }
+            }
+        },
+        "Castorice": {
+            "Remembrance": {
+                "id": 1407,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1,
+                    "memosprite": {
+                        "talent": 1,
+                        "skill": 1
+                    }
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2,
+                    "memosprite": {
+                        "skill": 1
+                    }
                 }
             }
         },
