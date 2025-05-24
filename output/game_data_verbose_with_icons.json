@@ -1,5 +1,5 @@
 {
-    "version": "3.2.0",
+    "version": "3.3.1",
     "light_cones": {
         "Arrows": {
             "rarity": 3,
@@ -18371,7 +18371,7 @@
         "Flame of Blood, Blaze My Path": {
             "rarity": 5,
             "path": "Destruction",
-            "desc": "Cold dew congealed on the blade, sliding down in crimson streaks.\nThe rust-tainted wilderness still flickered with embers of battle, flames leaping upon the ashes.\n\"Mydeimos, that was a godlike fight just now!\"\nA bare-chested warrior wiped his weapon clean, shouting in exhilaration.\n\"Mydei, one day, I'll be as invincible as you!\"\nA child gazed at him with reverence, clutching a broken sword in small hands.\n\"Crown Prince, our return to Castrum Kremnos is within sight.\"\nAn aged man smiled, raising his cup in a toast to him.\nHe nodded silently and walked to the edge of the camp.\nThe pain of rebirth still coursed across his skin. Tomorrow, he would lead the Kremnoan detachment forth once again, migrating to foreign lands.\nWhere this wandering would end, he did not know. The only certainty was this \u2014 he would bear the duty of a king until the blood and flames consumed him.\nAs night deepened, he drank the bloodwine alone. A passing bard plucked at his strings, a wandering melody drifting through the air\u2014\n\"Home is the land of dreams, not a place one can ever reach.\"",
+            "desc": "Cold dew congealed on the blade, sliding down in crimson streaks.\nThe rust-tainted wilderness still flickered with embers of battle, flames leaping upon the ashes.\n\"Mydeimos, that was a godlike fight just now!\"\nA bare-chested warrior wiped his weapon clean, shouting in exhilaration.\n\"Mydei, one day, I'll be as invincible as you!\"\nA child gazed at him with reverence, clutching a broken sword in small hands.\n\"Crown Prince, our return to Castrum Kremnos is within sight.\"\nAn aged man smiled, raising his cup in a toast to him.\nHe nodded silently and walked to the edge of the camp.\nThe pain of rebirth still coursed across his skin. Tomorrow, he would lead the Kremnoan Detachment forth once again, migrating to foreign lands.\nWhere this wandering would end, he did not know. The only certainty was this \u2014 he would bear the duty of a king until the blood and flames consumed him.\nAs night deepened, he drank the bloodwine alone. A passing bard plucked at his strings, a wandering melody drifting through the air\u2014\n\"Home is the land of dreams, not a place one can ever reach.\"",
             "ascension": [
                 {
                     "hp": {
@@ -18873,6 +18873,353 @@
             "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23041.png",
             "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23041.png",
             "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23041.png"
+        },
+        "Long May Rainbows Adorn the Sky": {
+            "rarity": 5,
+            "path": "Remembrance",
+            "desc": "\"Emotions are like clouds, and we are the sky that carries them. If the sky is overcast, then our emotions will fluctuate all over.\"\nThe physician listens with care to the visitor's sorrows, offering words of gentle solace.\n\"Please close your eyes and breathe slowly... Imagine yourself in a warm and soft place...\"\nAs if infused with magic, a seven-colored rainbow radiance spills from beneath the wings of the winged beast.\n\"A breeze would drift across the plains, carrying the fragrance of wildflowers. Moist clouds would pass by, laden with sunlight...\"\nThe visitor gradually sinks into a peaceful dream, responding only with the quiet rhythm of steady breaths.\nAfter seeing the last patient, the physician gently closes the door of the ward.\nIn the distance, the boundless evernight still surges, with many ruins standing like the scars of the earth.\n\"In the next life, may dawn shine upon all...\"\nBefore departing, she makes a wish to the sky \u2014\n\"May the rainbow-colored light remains in the sky forever.\"",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 52.8,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 21.6,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 24,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 116.16,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 47.52,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 52.8,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 200.64,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 82.08,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 91.2,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 285.12,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 116.64,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 129.6,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 369.6,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 151.2,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 168,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 454.08,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 185.76,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 206.4,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 538.56,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 220.32,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 244.8,
+                        "step": 3.6
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Tolerant",
+                "desc": "Increases the wearer's SPD by {0}%. When the wearer uses Basic ATK, Skill, or Ultimate, consumes all allies' HP equal to {1}% of their current HP and additionally deals 1 instance of Additional DMG of the wearer's memosprite Type equal to {3}% of the total consumed HP to the attacked target after the next attack launched by the wearer's memosprite. The total HP consumed is then reset. When the wearer's memosprite uses Memosprite Skill, increases the DMG taken by all enemies by {2}% for 2 turn(s). The same types of effects cannot stack.",
+                "params": [
+                    [
+                        "18",
+                        "1.0",
+                        "18.0",
+                        "250.0"
+                    ],
+                    [
+                        "21",
+                        "1.2",
+                        "22.5",
+                        "312.5"
+                    ],
+                    [
+                        "24",
+                        "1.5",
+                        "27.0",
+                        "375.0"
+                    ],
+                    [
+                        "27",
+                        "1.8",
+                        "31.5",
+                        "437.5"
+                    ],
+                    [
+                        "30",
+                        "2.0",
+                        "36.0",
+                        "500.0"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.18
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.21
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.24
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.27
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.3
+                        }
+                    ]
+                ]
+            },
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23042.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23042.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23042.png"
+        },
+        "Lies Dance on the Breeze": {
+            "rarity": 5,
+            "path": "Nihility",
+            "desc": "The cat-eared girl stretches her limbs atop the rooftop, slinking into the night.\nIn the treasure vault that had slumbered for a thousand years, she glides effortlessly, gathering precious treasures into her embrace before vanishing without a sound.\n\"Foolish fate could never catch me!\"\nThe wind through the ruins carries the scent of the wild, rustling her hood.\nResting her head against the cold stone, she swallows a bite of rough, dry rations, idly tossing a gold coin between her fingers.\nA faint sound from afar reaches her ears. In that holy city bathed in dawn's light, the bustling crowds still revel in warmth and celebration.\n\"How much longer... a year, or ten thousand?\"\nShe stretches with a lazy yawn, casting her restless thoughts aside.\n\"Hah, Cifera always has the last laugh!\"\nA golden streak of lightning cuts across the sky, and her proclamation lingers in the wind\u2014\nJust as it had a thousand years ago.",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 43.2,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 26.4,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 24,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 95.04,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 58.08,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 52.8,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 164.16,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 100.32,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 91.2,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 233.28,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 142.56,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 129.6,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 302.4,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 184.8,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 168,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 371.52,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 227.04,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 206.4,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 440.64,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 269.28,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 244.8,
+                        "step": 3.6
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Deceit",
+                "desc": "Increases the wearer's SPD by {0}%. After the wearer uses an attack, there is a 120% base chance to inflict the \"Bamboozle\" state on every enemy target. While under the \"Bamboozle\" state, enemy target's DEF decreases by {1}% for 2 turn(s). If the wearer's SPD is higher than or equal to 170, there is a 120% base chance to inflict the \"Theft\" state on every enemy target. While under the \"Theft\" state, enemy target's DEF decreases by {2}% for 2 turn(s). When \"Bamboozle\" or \"Theft\" is inflicted repeatedly, only the latest effect inflicted can be active.",
+                "params": [
+                    [
+                        "18",
+                        "16",
+                        "8"
+                    ],
+                    [
+                        "21",
+                        "18",
+                        "9"
+                    ],
+                    [
+                        "24",
+                        "20",
+                        "10"
+                    ],
+                    [
+                        "27",
+                        "22",
+                        "11"
+                    ],
+                    [
+                        "30",
+                        "24",
+                        "12"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.18
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.21
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.24
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.27
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.3
+                        }
+                    ]
+                ]
+            },
+            "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_preview/23043.png",
+            "image": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/light_cone_portrait/23043.png",
+            "mini_icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23043.png"
         },
         "On the Fall of an Aeon": {
             "rarity": 5,
@@ -20652,6 +20999,72 @@
                         "value": -0.08
                     }
                 ]
+            ]
+        },
+        "Warrior Goddess of Sun and Thunder": {
+            "pieces": {
+                "Head": {
+                    "name": "Warrior Goddess's Winged Helm",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/125_0.png"
+                },
+                "Hands": {
+                    "name": "Warrior Goddess's Cavalry Gauntlets",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/125_1.png"
+                },
+                "Body": {
+                    "name": "Warrior Goddess's Dawn Cape",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/125_2.png"
+                },
+                "Feet": {
+                    "name": "Warrior Goddess's Honor Spurs",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/125_3.png"
+                }
+            },
+            "desc": [
+                "Increases SPD by 6%.",
+                "When the wearer and their memosprite provide healing to ally targets aside from themselves, the wearer gains \"Gentle Rain,\" which can be triggered up to 1 time per turn, lasting for 2 turn(s). While the wearer has \"Gentle Rain,\" increases their SPD by 6% and all allies' CRIT DMG by 15%. This effect cannot be stacked."
+            ],
+            "modifiers": [
+                [
+                    {
+                        "type": "spd_",
+                        "value": 0.06
+                    }
+                ],
+                []
+            ]
+        },
+        "Wavestrider Captain": {
+            "pieces": {
+                "Head": {
+                    "name": "Captain's Navigator Hat",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/126_0.png"
+                },
+                "Hands": {
+                    "name": "Captain's Lightcatcher Astrolabe",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/126_1.png"
+                },
+                "Body": {
+                    "name": "Captain's Wind Mantle",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/126_2.png"
+                },
+                "Feet": {
+                    "name": "Captain's Tidal Boots",
+                    "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/relic/126_3.png"
+                }
+            },
+            "desc": [
+                "Increases CRIT DMG by 16%.",
+                "When the wearer becomes the target of another ally target's ability, gains 1 stack of \"Help,\" stacking up to 2 time(s). If there are 2 stack(s) of \"Help\" when the wearer uses their Ultimate, consumes all \"Help\" to increase the wearer's ATK by 48% for 1 turn(s)."
+            ],
+            "modifiers": [
+                [
+                    {
+                        "type": "crit_dmg",
+                        "value": 0.16
+                    }
+                ],
+                []
             ]
         },
         "Space Sealing Station": {
@@ -23194,7 +23607,7 @@
                     },
                     {
                         "name": "Trailblaze!",
-                        "desc": "Ultimate deals DMG 2 extra times, each of which deals Fire DMG equal to 40% of the original DMG to a random enemy.",
+                        "desc": "Ultimate deals 2 extra instances of Fire DMG equal to 40% of the original DMG to one random enemy.",
                         "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1003_rank6.png"
                     }
                 ],
@@ -37786,7 +38199,7 @@
                     },
                     "ability_1": {
                         "name": "Vita Infinita",
-                        "desc": "When Blade's current HP percentage is at 50% of Max HP or lower, Incoming Healing increases by 20%.",
+                        "desc": "When Blade's current HP percentage is at 50% of Max HP or lower, the HP restored when receiving healing increases by 20%.",
                         "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1205_skilltree1.png"
                     },
                     "ability_2": {
@@ -60605,7 +61018,7 @@
                     },
                     "ability_3": {
                         "name": "Bloodied Chiton",
-                        "desc": "When battle starts, if Mydei's Max HP exceeds 4000, for every 100 excess HP, Mydei's CRIT Rate increases by 0.0%, his Charge ratio from enemy targets' DMG increases by 0.0%, and his Incoming Healing increases by 0.01%. Up to 4000 excess HP can be taken into account for this effect.",
+                        "desc": "When battle starts, if Mydei's Max HP exceeds 4000, for every 100 excess HP, Mydei's CRIT Rate increases by 0.0%, his Charge ratio from enemy targets' DMG increases by 0.0%, and his HP restored when receiving healing increases by 0.01%. Up to 4000 excess HP can be taken into account for this effect.",
                         "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1404_skilltree3.png"
                     },
                     "stat_1": {
@@ -61316,6 +61729,628 @@
                 "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/v4/src/data/mini_icons/Anaxa.png"
             }
         },
+        "Cipher": {
+            "Nihility": {
+                "rarity": 5,
+                "element": "Quantum",
+                "ascension": [
+                    {
+                        "hp": {
+                            "base": 126.72,
+                            "step": 6.336
+                        },
+                        "atk": {
+                            "base": 87.12,
+                            "step": 4.356
+                        },
+                        "def": {
+                            "base": 69.3,
+                            "step": 3.465
+                        },
+                        "spd": {
+                            "base": 106,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 177.408,
+                            "step": 6.336
+                        },
+                        "atk": {
+                            "base": 121.968,
+                            "step": 4.356
+                        },
+                        "def": {
+                            "base": 97.02,
+                            "step": 3.465
+                        },
+                        "spd": {
+                            "base": 106,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 228.096,
+                            "step": 6.336
+                        },
+                        "atk": {
+                            "base": 156.816,
+                            "step": 4.356
+                        },
+                        "def": {
+                            "base": 124.74,
+                            "step": 3.465
+                        },
+                        "spd": {
+                            "base": 106,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 278.784,
+                            "step": 6.336
+                        },
+                        "atk": {
+                            "base": 191.664,
+                            "step": 4.356
+                        },
+                        "def": {
+                            "base": 152.46,
+                            "step": 3.465
+                        },
+                        "spd": {
+                            "base": 106,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 329.472,
+                            "step": 6.336
+                        },
+                        "atk": {
+                            "base": 226.512,
+                            "step": 4.356
+                        },
+                        "def": {
+                            "base": 180.18,
+                            "step": 3.465
+                        },
+                        "spd": {
+                            "base": 106,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 380.16,
+                            "step": 6.336
+                        },
+                        "atk": {
+                            "base": 261.36,
+                            "step": 4.356
+                        },
+                        "def": {
+                            "base": 207.9,
+                            "step": 3.465
+                        },
+                        "spd": {
+                            "base": 106,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 430.848,
+                            "step": 6.336
+                        },
+                        "atk": {
+                            "base": 296.208,
+                            "step": 4.356
+                        },
+                        "def": {
+                            "base": 235.62,
+                            "step": 3.465
+                        },
+                        "spd": {
+                            "base": 106,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    }
+                ],
+                "eidolons": [
+                    {
+                        "name": "Read the Room, Seek the Glee",
+                        "desc": "Cipher's recorded DMG is 150% of the original recorded DMG value. When using a Follow-up ATK caused by her Talent, increases Cipher's ATK by 80% for 2 turn(s).",
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1406_rank1.png"
+                    },
+                    {
+                        "name": "In the Fray, Nab On a Spree",
+                        "desc": "When Cipher hits an enemy target, there is a 120% base chance of causing them to receive 30% more DMG, lasting 2 turn(s).",
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1406_rank2.png"
+                    },
+                    {
+                        "name": "From Thin Air, Hard to Foresee",
+                        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+                        "level_up_skills": {
+                            "ult": 2,
+                            "basic": 1
+                        },
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1406_ultimate.png"
+                    },
+                    {
+                        "name": "The Jig Is Up, Quick to Flee",
+                        "desc": "After \"Patron\" is attacked by an ally target, Cipher deals Quantum Additional DMG equal to 50% of Cipher's ATK to it.",
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1406_rank4.png"
+                    },
+                    {
+                        "name": "Safe in Numbers, Light as a Bee",
+                        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.",
+                        "level_up_skills": {
+                            "skill": 2,
+                            "talent": 2
+                        },
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1406_skill.png"
+                    },
+                    {
+                        "name": "The Thief's Game, Unsung and Free",
+                        "desc": "Increases DMG dealt by Follow-up ATKs caused by Cipher's Talent by 350%. Records an additional 16% of non-Overflow DMG dealt by this ATK. After resetting the record upon using her Ultimate, returns 20% of the reset record.",
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1406_rank6.png"
+                    }
+                ],
+                "skills": {
+                    "basic": {
+                        "name": "Oops, a Missed Catch",
+                        "max_level": 10,
+                        "desc": "Deals Quantum DMG equal to {0}% of Cipher's ATK to one designated enemy.",
+                        "params": [
+                            [
+                                "50"
+                            ],
+                            [
+                                "60"
+                            ],
+                            [
+                                "70"
+                            ],
+                            [
+                                "80"
+                            ],
+                            [
+                                "90"
+                            ],
+                            [
+                                "100"
+                            ],
+                            [
+                                "110"
+                            ],
+                            [
+                                "120"
+                            ],
+                            [
+                                "130"
+                            ],
+                            [
+                                "140"
+                            ]
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1406_basic_atk.png"
+                    },
+                    "skill": {
+                        "name": "Hey, Jackpot for the Taking",
+                        "max_level": 15,
+                        "desc": "There is a 120% base chance to Weaken one designated enemy and adjacent targets, decreasing their DMG dealt by 10% and increasing Cipher's ATK by 30%, lasting for 2 turn(s). At the same time, deals Quantum DMG equal to {0}% of Cipher's ATK to one designated enemy, and Quantum DMG equal to {1}% of Cipher's ATK to its adjacent targets.",
+                        "params": [
+                            [
+                                "100",
+                                "50"
+                            ],
+                            [
+                                "110",
+                                "55"
+                            ],
+                            [
+                                "120",
+                                "60"
+                            ],
+                            [
+                                "130",
+                                "65"
+                            ],
+                            [
+                                "140",
+                                "70"
+                            ],
+                            [
+                                "150",
+                                "75"
+                            ],
+                            [
+                                "162",
+                                "81"
+                            ],
+                            [
+                                "175",
+                                "87"
+                            ],
+                            [
+                                "187",
+                                "93"
+                            ],
+                            [
+                                "200",
+                                "100"
+                            ],
+                            [
+                                "210",
+                                "105"
+                            ],
+                            [
+                                "220",
+                                "110"
+                            ],
+                            [
+                                "229",
+                                "114"
+                            ],
+                            [
+                                "240",
+                                "120"
+                            ],
+                            [
+                                "250",
+                                "125"
+                            ]
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1406_skill.png"
+                    },
+                    "ult": {
+                        "name": "Yours Truly, Kitty Phantom Thief!",
+                        "max_level": 15,
+                        "desc": "Deals Quantum DMG equal to {0}% of Cipher's ATK to one designated enemy. Then, deals True DMG equal to 25% of the currently recorded Talent value to one designated enemy, Quantum DMG equal to {1}% of Cipher's ATK to one designated enemy and its adjacent targets, and True DMG equal to 75% of the current Talent's recorded value. This True DMG is Distributed to all Skill targets.",
+                        "params": [
+                            [
+                                "60",
+                                "20"
+                            ],
+                            [
+                                "66",
+                                "22"
+                            ],
+                            [
+                                "72",
+                                "24"
+                            ],
+                            [
+                                "78",
+                                "26"
+                            ],
+                            [
+                                "84",
+                                "28"
+                            ],
+                            [
+                                "90",
+                                "30"
+                            ],
+                            [
+                                "97",
+                                "32"
+                            ],
+                            [
+                                "105",
+                                "35"
+                            ],
+                            [
+                                "112",
+                                "37"
+                            ],
+                            [
+                                "120",
+                                "40"
+                            ],
+                            [
+                                "126",
+                                "42"
+                            ],
+                            [
+                                "132",
+                                "44"
+                            ],
+                            [
+                                "138",
+                                "46"
+                            ],
+                            [
+                                "144",
+                                "48"
+                            ],
+                            [
+                                "150",
+                                "50"
+                            ]
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1406_ultimate.png"
+                    },
+                    "talent": {
+                        "name": "The Hospitable Dolosian",
+                        "max_level": 15,
+                        "desc": "When there are no enemy targets in \"Patron\" state on the battlefield, Cipher immediately causes one enemy target with the highest Max HP on the battlefield to become the \"Patron.\" When using Skill and Ultimate, the primary target becomes the \"Patron.\" The \"Patron\" state only takes effect on the latest target.\nAfter the \"Patron\" is attacked by other ally targets, Cipher immediately launches a Follow-up ATK against the \"Patron,\" dealing Quantum DMG equal to {0}% of Cipher's ATK. This effect can be triggered up to 1 time(s) each turn, and it resets at the start of Cipher's turn.\nCipher will record 12% of the non-True DMG ally targets dealt to \"Patron,\" but the Overflow DMG will not be recorded. The recorded value is cleared after using Ultimate.",
+                        "params": [
+                            [
+                                "75"
+                            ],
+                            [
+                                "82"
+                            ],
+                            [
+                                "90"
+                            ],
+                            [
+                                "97"
+                            ],
+                            [
+                                "105"
+                            ],
+                            [
+                                "112"
+                            ],
+                            [
+                                "121"
+                            ],
+                            [
+                                "131"
+                            ],
+                            [
+                                "140"
+                            ],
+                            [
+                                "150"
+                            ],
+                            [
+                                "157"
+                            ],
+                            [
+                                "165"
+                            ],
+                            [
+                                "172"
+                            ],
+                            [
+                                "180"
+                            ],
+                            [
+                                "187"
+                            ]
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1406_talent.png"
+                    }
+                },
+                "traces": {
+                    "technique": {
+                        "name": "Puss in Boots",
+                        "desc": "Obtains \"Zagreus's Blessing\" for 15 second(s). During this time, Cipher will be undetectable by enemies and her movement speed increases by 50%. When approaching an enemy in the overworld/Simulated Universe/Divergent Universe, there is a chance of immediately obtaining a random Consumable. You can obtain Consumables up to 50 time(s) in each Earth day.\nWhen entering battle with \"Zagreus's Blessing\" active, deals Quantum DMG equal to 100% of Cipher's ATK to all enemies. Increases the recorded DMG Cipher obtains from this instance of DMG by 200%.",
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1406_technique.png"
+                    },
+                    "ability_1": {
+                        "name": "Empyrean Strides",
+                        "desc": "When Cipher's SPD is greater or equal to 140/170, increases CRIT Rate by 25%/50%, and recorded value by 50%/100%.",
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1406_skilltree1.png"
+                    },
+                    "ability_2": {
+                        "name": "300 Rogues",
+                        "desc": "Cipher will record 8% of the non-True DMG ally targets dealt to the enemy targets aside from the \"Patron.\" Overflow DMG is not recorded.",
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1406_skilltree2.png"
+                    },
+                    "ability_3": {
+                        "name": "Sleight of Sky",
+                        "desc": "Increases the CRIT DMG dealt by the Talent's Follow-up ATK by 100%. When Cipher is on the battlefield, DMG received by all enemy targets increases by 40%.",
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1406_skilltree3.png"
+                    },
+                    "stat_1": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 2",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 2
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconSpeed.png"
+                    },
+                    "stat_2": {
+                        "name": "DMG Boost: Quantum",
+                        "desc": "Quantum DMG increases by 3.2%",
+                        "modifiers": [
+                            {
+                                "type": "quantum",
+                                "value": 0.032
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconQuantumAddedRatio.png"
+                    },
+                    "stat_3": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 2",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 2
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconSpeed.png"
+                    },
+                    "stat_4": {
+                        "name": "Effect Hit Rate Boost",
+                        "desc": "Effect Hit Rate increases by 4.0%",
+                        "modifiers": [
+                            {
+                                "type": "effect_hit",
+                                "value": 0.04
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusProbability.png"
+                    },
+                    "stat_5": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 3",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 3
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconSpeed.png"
+                    },
+                    "stat_6": {
+                        "name": "DMG Boost: Quantum",
+                        "desc": "Quantum DMG increases by 4.8%",
+                        "modifiers": [
+                            {
+                                "type": "quantum",
+                                "value": 0.048
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconQuantumAddedRatio.png"
+                    },
+                    "stat_7": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 3",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 3
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconSpeed.png"
+                    },
+                    "stat_8": {
+                        "name": "Effect Hit Rate Boost",
+                        "desc": "Effect Hit Rate increases by 6.0%",
+                        "modifiers": [
+                            {
+                                "type": "effect_hit",
+                                "value": 0.06
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusProbability.png"
+                    },
+                    "stat_9": {
+                        "name": "DMG Boost: Quantum",
+                        "desc": "Quantum DMG increases by 6.4%",
+                        "modifiers": [
+                            {
+                                "type": "quantum",
+                                "value": 0.064
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconQuantumAddedRatio.png"
+                    },
+                    "stat_10": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 4",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 4
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconSpeed.png"
+                    }
+                },
+                "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1406.png",
+                "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1406.png",
+                "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/v4/src/data/mini_icons/Cipher.png"
+            }
+        },
         "Castorice": {
             "Remembrance": {
                 "rarity": 5,
@@ -61540,7 +62575,7 @@
                     },
                     {
                         "name": "Crown on Wings of Bloom",
-                        "desc": "After summoning the memosprite Netherwing, Castorice gains 2 stack(s) of \"Ardent Will.\" \"Ardent Will\" can stack up to 2 time(s) and can be used to offset the HP cost of Netherwing's Memosprite Skill, \"Breath Scorches the Shadow\" and advance Castorice's action by 100%. When using the next Enhanced Skill, Castorice gains \"Newbud\" by an amount equal to30% of max \"Newbud.\"",
+                        "desc": "After summoning the memosprite Netherwing, Castorice gains 2 stack(s) of \"Ardent Will.\" \"Ardent Will\" can stack up to 2 time(s) and can be used to offset the HP cost of Netherwing's Memosprite Skill, \"Breath Scorches the Shadow\" and advance Castorice's action by 100%. When using the next Enhanced Skill, Castorice gains \"Newbud\" by an amount equal to 30% of max \"Newbud.\"",
                         "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1407_rank2.png"
                     },
                     {
@@ -61556,7 +62591,7 @@
                     },
                     {
                         "name": "Rest in Songs of Gloom",
-                        "desc": "While Castorice is on the field, all allies' Incoming Healing during HP restoration increases by 20%.",
+                        "desc": "While Castorice is on the field, all allies' HP restored when receiving healing increases by 20%.",
                         "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1407_rank4.png"
                     },
                     {
@@ -61738,7 +62773,7 @@
                     "talent": {
                         "name": "Desolation Across Palms",
                         "max_level": 15,
-                        "desc": "The maximum limit of \"Newbud\" is related to the levels of all characters on the battlefield. For every 1 point of HP lost by all allies, Castorice gains 1 point of \"Newbud.\" When \"Newbud\" reaches its maximum limit, can activate the Ultimate. When allies lose HP, Castorice's and Netherwing's DMG dealt increases by {0}%. This effect can stack up to 3 time(s), lasting for 3 turn(s).\nWhen Netherwing is on the field, \"Newbud\" cannot be gained through Talent, and HP lost by all allies (except Netherwing) will be converted to an equal amount of HP for Netherwing.",
+                        "desc": "The maximum limit of \"Newbud\" is related to the levels of all characters on the battlefield. For every 1 point of HP lost by all allies, Castorice gains 1 point of \"Newbud.\" When \"Newbud\" reaches its maximum limit, can activate the Ultimate. When allies lose HP, Castorice's and Netherwing's DMG dealt increases by {0}%. This effect can stack up to 3 time(s), lasting for 3 turn(s).\nWhen Netherwing is on the field, \"Newbud\" cannot be gained through Talent, and every 1 point of HP lost by all allies (except Netherwing) will be converted to an equal amount of HP for Netherwing.",
                         "params": [
                             [
                                 "10"
@@ -61797,7 +62832,7 @@
                     },
                     "ability_1": {
                         "name": "Contained Dark Tide",
-                        "desc": "After ally targets (excluding Netherwing) receive healing, converts 100% of the healed amount into \"Newbud.\" If Netherwing is on the field, this is converted to Netherwing's HP instead. Each ally target can accumulate a conversion amount up to 12% of the max \"Newbud\". After any unit takes action, all units reset their accumulated conversion amount.",
+                        "desc": "After ally targets (excluding Netherwing) receive healing, converts 100% of the healed amount into \"Newbud.\" If Netherwing is on the field, this is converted to Netherwing's HP instead. Each ally target can accumulate a conversion amount up to 12% of the max \"Newbud.\" After any unit takes action, all units reset their accumulated conversion amount.",
                         "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1407_skilltree1.png"
                     },
                     "ability_2": {
@@ -61924,6 +62959,720 @@
                 "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1407.png",
                 "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1407.png",
                 "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/v4/src/data/mini_icons/Castorice.png"
+            }
+        },
+        "Hyacine": {
+            "Remembrance": {
+                "rarity": 5,
+                "element": "Wind",
+                "ascension": [
+                    {
+                        "hp": {
+                            "base": 147.84,
+                            "step": 7.392
+                        },
+                        "atk": {
+                            "base": 52.8,
+                            "step": 2.64
+                        },
+                        "def": {
+                            "base": 85.8,
+                            "step": 4.29
+                        },
+                        "spd": {
+                            "base": 110,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 206.976,
+                            "step": 7.392
+                        },
+                        "atk": {
+                            "base": 73.92,
+                            "step": 2.64
+                        },
+                        "def": {
+                            "base": 120.12,
+                            "step": 4.29
+                        },
+                        "spd": {
+                            "base": 110,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 266.112,
+                            "step": 7.392
+                        },
+                        "atk": {
+                            "base": 95.04,
+                            "step": 2.64
+                        },
+                        "def": {
+                            "base": 154.44,
+                            "step": 4.29
+                        },
+                        "spd": {
+                            "base": 110,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 325.248,
+                            "step": 7.392
+                        },
+                        "atk": {
+                            "base": 116.16,
+                            "step": 2.64
+                        },
+                        "def": {
+                            "base": 188.76,
+                            "step": 4.29
+                        },
+                        "spd": {
+                            "base": 110,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 384.384,
+                            "step": 7.392
+                        },
+                        "atk": {
+                            "base": 137.28,
+                            "step": 2.64
+                        },
+                        "def": {
+                            "base": 223.08,
+                            "step": 4.29
+                        },
+                        "spd": {
+                            "base": 110,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 443.52,
+                            "step": 7.392
+                        },
+                        "atk": {
+                            "base": 158.4,
+                            "step": 2.64
+                        },
+                        "def": {
+                            "base": 257.4,
+                            "step": 4.29
+                        },
+                        "spd": {
+                            "base": 110,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 502.656,
+                            "step": 7.392
+                        },
+                        "atk": {
+                            "base": 179.52,
+                            "step": 2.64
+                        },
+                        "def": {
+                            "base": 291.72,
+                            "step": 4.29
+                        },
+                        "spd": {
+                            "base": 110,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    }
+                ],
+                "eidolons": [
+                    {
+                        "name": "Cradle the Candle of Night",
+                        "desc": "When Hyacine is in the \"After Rain\" state, additionally increases the Max HP of all ally targets by 50%, and immediately restores HP equal to 8% of Hyacine's Max HP after using an attack.",
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1409_rank1.png"
+                    },
+                    {
+                        "name": "Come Sit in My Courtyard",
+                        "desc": "When any ally target's HP decreases, this unit's SPD increases by 30% for 2 turn(s).",
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1409_rank2.png"
+                    },
+                    {
+                        "name": "Depart, Unto the Sun!",
+                        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.\nMemosprite Skill Lv. +1, up to a maximum of Lv. 10.",
+                        "level_up_skills": {
+                            "ult": 2,
+                            "basic": 1,
+                            "memosprite_skill": 1
+                        },
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1409_ultimate.png"
+                    },
+                    {
+                        "name": "Sunlit Amber, Yours to Keep",
+                        "desc": "The \"Tempestuous Halt\" Trace is enhanced. For every 1 of SPD exceeded, additionally increases Hyacine and Little Ica's CRIT DMG by 2%.",
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1409_rank4.png"
+                    },
+                    {
+                        "name": "Twilight Drapes the Tide",
+                        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.\nMemosprite Talent Lv. +1, up to a maximum of Lv. 10.",
+                        "level_up_skills": {
+                            "skill": 2,
+                            "talent": 2,
+                            "memosprite_talent": 1
+                        },
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1409_skill.png"
+                    },
+                    {
+                        "name": "O Sky, Heed My Plea",
+                        "desc": "Little Ica uses Memosprite Skill and changes the amount of Healing tally cleared to 12%. When Little Ica is on the field, increases all ally targets' All-Type RES PEN by 20%.",
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1409_rank6.png"
+                    }
+                ],
+                "skills": {
+                    "basic": {
+                        "name": "When Breeze Kisses Cirrus",
+                        "max_level": 10,
+                        "desc": "Deals Wind DMG equal to {0}% of Hyacine's Max HP to a designated enemy target.",
+                        "params": [
+                            [
+                                "25"
+                            ],
+                            [
+                                "30"
+                            ],
+                            [
+                                "35"
+                            ],
+                            [
+                                "40"
+                            ],
+                            [
+                                "45"
+                            ],
+                            [
+                                "50"
+                            ],
+                            [
+                                "55"
+                            ],
+                            [
+                                "60"
+                            ],
+                            [
+                                "65"
+                            ],
+                            [
+                                "70"
+                            ]
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1409_basic_atk.png"
+                    },
+                    "skill": {
+                        "name": "Love Over the Rainbow",
+                        "max_level": 15,
+                        "desc": "Summons memosprite Little Ica, restores HP equal to {0}% of Hyacine's Max HP plus {1} for all allies aside from Little Ica, and restores HP equal to {2}% of Hyacine's Max HP plus {3} for Little Ica.",
+                        "params": [
+                            [
+                                "4.0",
+                                "40",
+                                "5.0",
+                                "50"
+                            ],
+                            [
+                                "4.5",
+                                "64",
+                                "5.6",
+                                "80"
+                            ],
+                            [
+                                "5.0",
+                                "82",
+                                "6.2",
+                                "102.5"
+                            ],
+                            [
+                                "5.5",
+                                "100",
+                                "6.9",
+                                "125"
+                            ],
+                            [
+                                "6.0",
+                                "112",
+                                "7.5",
+                                "140"
+                            ],
+                            [
+                                "6.4",
+                                "124",
+                                "8.0",
+                                "155"
+                            ],
+                            [
+                                "6.8",
+                                "133",
+                                "8.5",
+                                "166.25"
+                            ],
+                            [
+                                "7.2",
+                                "142",
+                                "9.0",
+                                "177.5"
+                            ],
+                            [
+                                "7.6",
+                                "151",
+                                "9.5",
+                                "188.75"
+                            ],
+                            [
+                                "8.0",
+                                "160",
+                                "10.0",
+                                "200"
+                            ],
+                            [
+                                "8.4",
+                                "169",
+                                "10.5",
+                                "211.25"
+                            ],
+                            [
+                                "8.8",
+                                "178",
+                                "11.0",
+                                "222.5"
+                            ],
+                            [
+                                "9.2",
+                                "187",
+                                "11.5",
+                                "233.75"
+                            ],
+                            [
+                                "9.6",
+                                "196",
+                                "12.0",
+                                "245"
+                            ],
+                            [
+                                "10.0",
+                                "205",
+                                "12.5",
+                                "256.25"
+                            ]
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1409_skill.png"
+                    },
+                    "ult": {
+                        "name": "We Who Fly Into Twilight",
+                        "max_level": 15,
+                        "desc": "Summons memosprite Little Ica, restores HP equal to {0}% of Hyacine's Max HP plus {1} for all allies aside from Little Ica, and restores HP equal to {4}% of Hyacine's Max HP plus {5} for Little Ica. Hyacine enters the \"After Rain\" state for 3 turn(s) afterward. Reduces the state's duration by 1 turn each time Hyacine's turn begins. When in \"After Rain\" state, increases Max HP for all allies by {2}% plus {3}.",
+                        "params": [
+                            [
+                                "5.0",
+                                "50",
+                                "15.0",
+                                "150",
+                                "6.0",
+                                "60"
+                            ],
+                            [
+                                "5.6",
+                                "80",
+                                "16.5",
+                                "240",
+                                "6.8",
+                                "96"
+                            ],
+                            [
+                                "6.2",
+                                "102.5",
+                                "18.0",
+                                "307.5",
+                                "7.5",
+                                "123"
+                            ],
+                            [
+                                "6.9",
+                                "125",
+                                "19.5",
+                                "375",
+                                "8.2",
+                                "150"
+                            ],
+                            [
+                                "7.5",
+                                "140",
+                                "21.0",
+                                "420",
+                                "9.0",
+                                "168"
+                            ],
+                            [
+                                "8.0",
+                                "155",
+                                "22.5",
+                                "465",
+                                "9.6",
+                                "186"
+                            ],
+                            [
+                                "8.5",
+                                "166.25",
+                                "24.4",
+                                "498.75",
+                                "10.2",
+                                "199.5"
+                            ],
+                            [
+                                "9.0",
+                                "177.5",
+                                "26.2",
+                                "532.5",
+                                "10.8",
+                                "213"
+                            ],
+                            [
+                                "9.5",
+                                "188.75",
+                                "28.1",
+                                "566.25",
+                                "11.4",
+                                "226.5"
+                            ],
+                            [
+                                "10.0",
+                                "200",
+                                "30.0",
+                                "600",
+                                "12.0",
+                                "240"
+                            ],
+                            [
+                                "10.5",
+                                "211.25",
+                                "31.5",
+                                "633.75",
+                                "12.6",
+                                "253.5"
+                            ],
+                            [
+                                "11.0",
+                                "222.5",
+                                "33.0",
+                                "667.5",
+                                "13.2",
+                                "267"
+                            ],
+                            [
+                                "11.5",
+                                "233.75",
+                                "34.5",
+                                "701.25",
+                                "13.8",
+                                "280.5"
+                            ],
+                            [
+                                "12.0",
+                                "245",
+                                "36.0",
+                                "735",
+                                "14.4",
+                                "294"
+                            ],
+                            [
+                                "12.5",
+                                "256.25",
+                                "37.5",
+                                "768.75",
+                                "15.0",
+                                "307.5"
+                            ]
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1409_ultimate.png"
+                    },
+                    "talent": {
+                        "name": "First Light Heals the World",
+                        "max_level": 15,
+                        "desc": "The memosprite Little Ica initially has Max HP equal to 50% of Hyacine's Max HP. When Hyacine or Little Ica provides healing, increases Little Ica's DMG dealt by {0}% for 2 turn(s). Stacks up to 3 time(s).",
+                        "params": [
+                            [
+                                "40"
+                            ],
+                            [
+                                "44"
+                            ],
+                            [
+                                "48"
+                            ],
+                            [
+                                "52"
+                            ],
+                            [
+                                "56"
+                            ],
+                            [
+                                "60"
+                            ],
+                            [
+                                "65"
+                            ],
+                            [
+                                "70"
+                            ],
+                            [
+                                "75"
+                            ],
+                            [
+                                "80"
+                            ],
+                            [
+                                "84"
+                            ],
+                            [
+                                "88"
+                            ],
+                            [
+                                "92"
+                            ],
+                            [
+                                "96"
+                            ],
+                            [
+                                "100"
+                            ]
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1409_talent.png"
+                    }
+                },
+                "traces": {
+                    "technique": {
+                        "name": "Day So Right, Life So Fine!",
+                        "desc": "At the start of the next battle, restores HP equal to 30% of Hyacine's Max HP plus 600 for all allies and increases their Max HP by 20% for 2 turn(s).",
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1409_technique.png"
+                    },
+                    "ability_1": {
+                        "name": "Gloomy Grin",
+                        "desc": "Increases Hyacine and Little Ica's CRIT Rate by 100%. When providing healing to an ally target with less than or equal to 50% this unit's Max HP, increases Hyacine and Little Ica's Outgoing Healing by 25%.",
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1409_skilltree1.png"
+                    },
+                    "ability_2": {
+                        "name": "Stormy Caress",
+                        "desc": "Increases Hyacine's Effect RES by 50%. When using Skill and Ultimate, dispels 1 debuff(s) from all ally targets.",
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1409_skilltree2.png"
+                    },
+                    "ability_3": {
+                        "name": "Tempestuous Halt",
+                        "desc": "When Hyacine's SPD exceeds 200, increases her and Little Ica's Max HP by 20%. Then, for every 1 excess SPD, increases Hyacine's and Little Ica's Outgoing Healing by 1%. Up to a max of 200 excess SPD can be taken into account for this effect.",
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/skill/1409_skilltree3.png"
+                    },
+                    "stat_1": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 2",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 2
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconSpeed.png"
+                    },
+                    "stat_2": {
+                        "name": "Effect RES Boost",
+                        "desc": "Effect RES resistance increases by 4.0%",
+                        "modifiers": [
+                            {
+                                "type": "effect_res",
+                                "value": 0.04
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
+                    },
+                    "stat_3": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 2",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 2
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconSpeed.png"
+                    },
+                    "stat_4": {
+                        "name": "HP Boost",
+                        "desc": "HP increases by 4.0%",
+                        "modifiers": [
+                            {
+                                "type": "hp_",
+                                "value": 0.04
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconMaxHP.png"
+                    },
+                    "stat_5": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 3",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 3
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconSpeed.png"
+                    },
+                    "stat_6": {
+                        "name": "Effect RES Boost",
+                        "desc": "Effect RES resistance increases by 6.0%",
+                        "modifiers": [
+                            {
+                                "type": "effect_res",
+                                "value": 0.06
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
+                    },
+                    "stat_7": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 3",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 3
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconSpeed.png"
+                    },
+                    "stat_8": {
+                        "name": "HP Boost",
+                        "desc": "HP increases by 6.0%",
+                        "modifiers": [
+                            {
+                                "type": "hp_",
+                                "value": 0.06
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconMaxHP.png"
+                    },
+                    "stat_9": {
+                        "name": "Effect RES Boost",
+                        "desc": "Effect RES resistance increases by 8.0%",
+                        "modifiers": [
+                            {
+                                "type": "effect_res",
+                                "value": 0.08
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconStatusResistance.png"
+                    },
+                    "stat_10": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 4",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 4
+                            }
+                        ],
+                        "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/property/IconSpeed.png"
+                    }
+                },
+                "icon": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1409.png",
+                "splash": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1409.png",
+                "mini_icon": "https://raw.githubusercontent.com/kel-z/HSR-Data/v4/src/data/mini_icons/Hyacine.png"
             }
         },
         "Caelus": {

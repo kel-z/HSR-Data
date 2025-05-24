@@ -17,6 +17,7 @@
         "TrailblazerImaginaryM": 8005,
         "TrailblazerIceM": 8007,
         "Castorice": 1407,
+        "Cipher": 1406,
         "Clara": 1107,
         "DanHeng": 1002,
         "DanHengImbibitorLunae": 1213,
@@ -33,6 +34,7 @@
         "Himeko": 1003,
         "Hook": 1109,
         "Huohuo": 1217,
+        "Hyacine": 1409,
         "Jade": 1314,
         "Jiaoqiu": 1218,
         "JingYuan": 1204,
@@ -117,8 +119,10 @@
         "TheWindSoaringValorous": "The Wind-Soaring Valorous",
         "TheWondrousBananamusementPark": "The Wondrous BananAmusement Park",
         "ThiefOfShootingMeteor": "Thief of Shooting Meteor",
+        "WarriorGoddessOfSunAndThunder": "Warrior Goddess of Sun and Thunder",
         "WastelanderOfBanditryDesert": "Wastelander of Banditry Desert",
-        "WatchmakerMasterOfDreamMachinations": "Watchmaker, Master of Dream Machinations"
+        "WatchmakerMasterOfDreamMachinations": "Watchmaker, Master of Dream Machinations",
+        "WavestriderCaptain": "Wavestrider Captain"
     },
     "light_cones": {
         "AGroundedAscent": "A Grounded Ascent",
@@ -177,7 +181,9 @@
         "IntoTheUnreachableVeil": "Into the Unreachable Veil",
         "ItsShowtime": "It's Showtime",
         "LandausChoice": "Landau's Choice",
+        "LiesDanceOnTheBreeze": "Lies Dance on the Breeze",
         "LifeShouldBeCastToFlames": "Life Should Be Cast to Flames",
+        "LongMayRainbowsAdornTheSky": "Long May Rainbows Adorn the Sky",
         "LongRoadLeadsHome": "Long Road Leads Home",
         "Loop": "Loop",
         "MakeFarewellsMoreBeautiful": "Make Farewells More Beautiful",

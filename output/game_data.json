@@ -1,5 +1,5 @@
 {
-    "version": "3.2",
+    "version": "3.3",
     "light_cones": {
         "Arrows": {
             "id": 20000,
@@ -487,6 +487,14 @@
         },
         "Life Should Be Cast to Flames": {
             "id": 23041,
+            "rarity": 5
+        },
+        "Long May Rainbows Adorn the Sky": {
+            "id": 23042,
+            "rarity": 5
+        },
+        "Lies Dance on the Breeze": {
+            "id": 23043,
             "rarity": 5
         },
         "On the Fall of an Aeon": {
@@ -993,6 +1001,46 @@
         "Poet's Silver-Studded Shoes": {
             "set_id": 124,
             "set": "Poet of Mourning Collapse",
+            "slot": "Feet"
+        },
+        "Warrior Goddess's Winged Helm": {
+            "set_id": 125,
+            "set": "Warrior Goddess of Sun and Thunder",
+            "slot": "Head"
+        },
+        "Warrior Goddess's Cavalry Gauntlets": {
+            "set_id": 125,
+            "set": "Warrior Goddess of Sun and Thunder",
+            "slot": "Hands"
+        },
+        "Warrior Goddess's Dawn Cape": {
+            "set_id": 125,
+            "set": "Warrior Goddess of Sun and Thunder",
+            "slot": "Body"
+        },
+        "Warrior Goddess's Honor Spurs": {
+            "set_id": 125,
+            "set": "Warrior Goddess of Sun and Thunder",
+            "slot": "Feet"
+        },
+        "Captain's Navigator Hat": {
+            "set_id": 126,
+            "set": "Wavestrider Captain",
+            "slot": "Head"
+        },
+        "Captain's Lightcatcher Astrolabe": {
+            "set_id": 126,
+            "set": "Wavestrider Captain",
+            "slot": "Hands"
+        },
+        "Captain's Wind Mantle": {
+            "set_id": 126,
+            "set": "Wavestrider Captain",
+            "slot": "Body"
+        },
+        "Captain's Tidal Boots": {
+            "set_id": 126,
+            "set": "Wavestrider Captain",
             "slot": "Feet"
         },
         "Herta's Space Station": {
@@ -2033,6 +2081,19 @@
                 }
             }
         },
+        "Cipher": {
+            "Nihility": {
+                "id": 1406,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
+                }
+            }
+        },
         "Castorice": {
             "Remembrance": {
                 "id": 1407,
@@ -2049,6 +2110,25 @@
                     "talent": 2,
                     "memosprite": {
                         "skill": 1
+                    }
+                }
+            }
+        },
+        "Hyacine": {
+            "Remembrance": {
+                "id": 1409,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1,
+                    "memosprite": {
+                        "skill": 1
+                    }
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2,
+                    "memosprite": {
+                        "talent": 1
                     }
                 }
             }
