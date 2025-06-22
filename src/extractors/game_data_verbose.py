@@ -245,7 +245,7 @@ def _format_modifier(modifier: dict) -> dict:
     return modifier
 
 
-def _add_skills(traces: dict, character: dict, include_icons: bool) -> dict:
+def _add_skills(traces: dict, character: dict, include_icons: bool):
     """Add skill traces to the traces dictionary.
 
     :param traces: A dictionary for storing traces.
@@ -271,7 +271,7 @@ def _add_skills(traces: dict, character: dict, include_icons: bool) -> dict:
             traces[skill_type]["icon"] = IMG_BASE_URL + skill["icon"]
 
 
-def _add_technique_trace(traces: dict, character: dict, include_icons: bool) -> dict:
+def _add_technique_trace(traces: dict, character: dict, include_icons: bool):
     """Add technique trace to the traces dictionary.
 
     :param traces: A dictionary for storing traces.
@@ -302,7 +302,7 @@ def _add_technique_trace(traces: dict, character: dict, include_icons: bool) -> 
         traces["technique"]["icon"] = IMG_BASE_URL + skill["icon"]
 
 
-def _add_ability_traces(traces: dict, character: dict, include_icons: bool) -> dict:
+def _add_ability_traces(traces: dict, character: dict, include_icons: bool):
     """Add ability traces to the traces dictionary.
 
     :param traces: A dictionary for storing traces.
@@ -333,7 +333,7 @@ def _add_ability_traces(traces: dict, character: dict, include_icons: bool) -> d
             traces[f"ability_{i+1}"]["icon"] = IMG_BASE_URL + skill["icon"]
 
 
-def _add_passive_traces(traces: dict, character: dict, include_icons: bool) -> dict:
+def _add_passive_traces(traces: dict, character: dict, include_icons: bool):
     """Add passive traces to the traces dictionary.
 
     :param traces: A dictionary for storing traces.
@@ -357,7 +357,7 @@ def _add_passive_traces(traces: dict, character: dict, include_icons: bool) -> d
             traces[f"stat_{i+1}"]["icon"] = IMG_BASE_URL + skill["icon"]
 
 
-def _get_eidolons(character: dict, include_icons: bool) -> dict:
+def _get_eidolons(character: dict, include_icons: bool) -> list:
     """Get the eidolons of a character.
 
     :param character: A dictionary containing character data.
@@ -396,7 +396,7 @@ def _get_eidolons(character: dict, include_icons: bool) -> dict:
     return ranks
 
 
-def _format_desc_and_params(desc: str, params: list) -> str:
+def _format_desc_and_params(desc: str, params: list) -> tuple:
     """Format the description and parameters of a skill.
 
     :param desc: The description of a skill.

@@ -46,8 +46,8 @@ def get_game_data(include_icons: bool) -> dict:
         # check that all characters have a mini icon
         for k, v in characters.items():
             for variant in v.values():
-                if str(variant["id"]) not in res["mini_icons"]:
-                    print(f"WARN: Missing icon for character {k} ({variant["id"]})")
+                if str(variant["id"]) not in [x.split("#")[0] for x in res["mini_icons"].keys()]:
+                    print(f"WARN: Missing icon for character {k} ({variant['id']})")
 
     return res
 

@@ -28,7 +28,7 @@ def generate_sums(nums: list, n: int) -> list:
 
 def calculate_substat_value(
     value: int | dict, p: int, is_speed: bool, is_percentage: bool
-) -> int:
+) -> list:
     """
     Calculate substat value based on the base value and roll value.
 
@@ -39,6 +39,10 @@ def calculate_substat_value(
     :return: Calculated substat value.
     """
     if is_speed:
+        if isinstance(value, int):
+            raise ValueError(
+                "SPD substat value should be a dict with low, mid, and high values."
+            )
         low = (8, value["low"])
         mid = (9, value["mid"])
         high = (10, value["high"])
@@ -61,6 +65,8 @@ def calculate_substat_value(
         return sorted(list(results))
 
     elif is_percentage:
+        if isinstance(value, dict):
+            raise ValueError("Percentage substat value should be an int, not a dict.")
         return [
             (
                 ceil(value * p * 100) / 10
@@ -69,6 +75,10 @@ def calculate_substat_value(
             )
         ]
     else:
+        if isinstance(value, dict):
+            raise ValueError(
+                "Non-percentage substat value should be an int, not a dict."
+            )
         return [int(value * p / 10)]
 
 
