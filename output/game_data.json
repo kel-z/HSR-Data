@@ -1,5 +1,5 @@
 {
-    "version": "3.3",
+    "version": "3.4",
     "light_cones": {
         "Arrows": {
             "id": 20000,
@@ -301,6 +301,42 @@
             "id": 21052,
             "rarity": 4
         },
+        "Journey, Forever Peaceful": {
+            "id": 21053,
+            "rarity": 4
+        },
+        "The Story's Next Page": {
+            "id": 21054,
+            "rarity": 4
+        },
+        "Unto Tomorrow's Morrow": {
+            "id": 21055,
+            "rarity": 4
+        },
+        "In Pursuit of the Wind": {
+            "id": 21056,
+            "rarity": 4
+        },
+        "The Flower Remembers": {
+            "id": 21057,
+            "rarity": 4
+        },
+        "A Trail of Bygone Blood": {
+            "id": 21058,
+            "rarity": 4
+        },
+        "A Dream Scented in Wheat": {
+            "id": 21060,
+            "rarity": 4
+        },
+        "Holiday Thermae Escapade": {
+            "id": 21061,
+            "rarity": 4
+        },
+        "See You at the End": {
+            "id": 21062,
+            "rarity": 4
+        },
         "Before the Tutorial Mission Starts": {
             "id": 22000,
             "rarity": 4
@@ -495,6 +531,18 @@
         },
         "Lies Dance on the Breeze": {
             "id": 23043,
+            "rarity": 5
+        },
+        "Thus Burns the Dawn": {
+            "id": 23044,
+            "rarity": 5
+        },
+        "A Thankless Coronation": {
+            "id": 23045,
+            "rarity": 5
+        },
+        "The Hell Where Ideals Burn": {
+            "id": 23046,
             "rarity": 5
         },
         "On the Fall of an Aeon": {
@@ -1241,6 +1289,26 @@
         "Grove of Epiphany's Interwoven Veins": {
             "set_id": 320,
             "set": "Giant Tree of Rapt Brooding",
+            "slot": "Link Rope"
+        },
+        "Membrance Maze's Serene Treehouse": {
+            "set_id": 321,
+            "set": "Arcadia of Woven Dreams",
+            "slot": "Planar Sphere"
+        },
+        "Membrance Maze's Wishing Whistle": {
+            "set_id": 321,
+            "set": "Arcadia of Woven Dreams",
+            "slot": "Link Rope"
+        },
+        "Warbling Shores' Blazing Beacon": {
+            "set_id": 322,
+            "set": "Revelry by the Sea",
+            "slot": "Planar Sphere"
+        },
+        "Warbling Shores' Cantillation Trail": {
+            "set_id": 322,
+            "set": "Revelry by the Sea",
             "slot": "Link Rope"
         }
     },
@@ -2111,6 +2179,19 @@
                     "memosprite": {
                         "skill": 1
                     }
+                }
+            }
+        },
+        "Phainon": {
+            "Destruction": {
+                "id": 1408,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
                 }
             }
         },
