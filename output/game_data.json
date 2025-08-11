@@ -1441,6 +1441,32 @@
                 }
             }
         },
+        "Saber": {
+            "Destruction": {
+                "id": 1014,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
+                }
+            }
+        },
+        "Archer": {
+            "The Hunt": {
+                "id": 1015,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
+            }
+        },
         "Bronya": {
             "Harmony": {
                 "id": 1101,
