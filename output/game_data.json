@@ -557,6 +557,14 @@
             "id": 23048,
             "rarity": 5
         },
+        "To Evernight's Stars": {
+            "id": 23049,
+            "rarity": 5
+        },
+        "Though Worlds Apart": {
+            "id": 23051,
+            "rarity": 5
+        },
         "On the Fall of an Aeon": {
             "id": 24000,
             "rarity": 5
@@ -1101,6 +1109,46 @@
         "Captain's Tidal Boots": {
             "set_id": 126,
             "set": "Wavestrider Captain",
+            "slot": "Feet"
+        },
+        "Deliverer's Hood": {
+            "set_id": 127,
+            "set": "World-Remaking Deliverer",
+            "slot": "Head"
+        },
+        "Deliverer's Sword Gauntlet": {
+            "set_id": 127,
+            "set": "World-Remaking Deliverer",
+            "slot": "Hands"
+        },
+        "Deliverer's Robe of Legacy": {
+            "set_id": 127,
+            "set": "World-Remaking Deliverer",
+            "slot": "Body"
+        },
+        "Deliverer's Boots of Pioneering": {
+            "set_id": 127,
+            "set": "World-Remaking Deliverer",
+            "slot": "Feet"
+        },
+        "Recluse's Wide-Brimmed Fedora": {
+            "set_id": 128,
+            "set": "Self-Enshrouded Recluse",
+            "slot": "Head"
+        },
+        "Recluse's Refined Timepiece": {
+            "set_id": 128,
+            "set": "Self-Enshrouded Recluse",
+            "slot": "Hands"
+        },
+        "Recluse's Camel-Colored Coat": {
+            "set_id": 128,
+            "set": "Self-Enshrouded Recluse",
+            "slot": "Body"
+        },
+        "Recluse's Soft Suede Boots": {
+            "set_id": 128,
+            "set": "Self-Enshrouded Recluse",
             "slot": "Feet"
         },
         "Herta's Space Station": {
@@ -2274,6 +2322,38 @@
                 },
                 "e5": {
                     "ult": 2,
+                    "talent": 2
+                }
+            }
+        },
+        "Evernight": {
+            "Remembrance": {
+                "id": 1413,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1,
+                    "memosprite": {
+                        "talent": 1
+                    }
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2,
+                    "memosprite": {
+                        "skill": 1
+                    }
+                }
+            }
+        },
+        "Dan Heng \u2022 Permansor Terrae": {
+            "Preservation": {
+                "id": 1414,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
                     "talent": 2
                 }
             }
