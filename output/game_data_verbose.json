@@ -1,5 +1,5 @@
 {
-    "version": "3.6.0",
+    "version": "3.7.0",
     "light_cones": {
         "Arrows": {
             "rarity": 3,
@@ -13108,6 +13108,174 @@
                 ]
             }
         },
+        "Fly Into a Pink Tomorrow": {
+            "rarity": 4,
+            "path": "Remembrance",
+            "desc": "A gentle breeze scatters the clouds, revealing the face of the cosmos.\nThe golden glow shimmers, as epics echo through the starry sky.\n\"Shooting stars, encounters, promises!\"\nThe little fairy gazes at the sky, like their first meeting, like a reunion.\n\"Mem, waiting. Trailblaze, the world!\"\nThe little fairy's eyes are illuminated by starlight, twinkling like that pink tomorrow.",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 38.4,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 21.6,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 18,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 84.48,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 47.52,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 39.6,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 145.92,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 82.08,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 68.4,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 207.36,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 116.64,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 97.2,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 268.8,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 151.2,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 126,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 330.24,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 185.76,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 154.8,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 391.68,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 220.32,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 183.6,
+                        "step": 2.7
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Gaze",
+                "desc": "Increases the wearer's CRIT DMG by {0}%. When equipped by Trailblazer (Remembrance), increases all ally targets' DMG dealt by {1}% and increases the DMG dealt by the Enhanced Basic ATK \"Together, We Script Tomorrow!\" by {2}%.",
+                "params": [
+                    [
+                        "12",
+                        "8",
+                        "60"
+                    ],
+                    [
+                        "15",
+                        "10",
+                        "70"
+                    ],
+                    [
+                        "18",
+                        "12",
+                        "80"
+                    ],
+                    [
+                        "21",
+                        "14",
+                        "90"
+                    ],
+                    [
+                        "24",
+                        "16",
+                        "100"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "crit_dmg",
+                            "value": 0.12
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_dmg",
+                            "value": 0.15
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_dmg",
+                            "value": 0.18
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_dmg",
+                            "value": 0.21
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_dmg",
+                            "value": 0.24
+                        }
+                    ]
+                ]
+            }
+        },
         "Night on the Milky Way": {
             "rarity": 5,
             "path": "Erudition",
@@ -21596,6 +21764,179 @@
                 ]
             }
         },
+        "This Love, Forever": {
+            "rarity": 5,
+            "path": "Remembrance",
+            "desc": "The azure sky reflects a brilliant tomorrow.\nOne step, two steps... the maiden's path has been so long, but fortunately those cherished stories haven't been forgotten by the cycles of time.\nNow, written together by everyone, the epic has been completed, welcoming its finale.\nStars, flowers, birds, and a beautiful new world.\nGauze, wreaths, long dresses, and the wind that carries blessings.\nThe quest of thirty million lifetimes transformed into a single moment of happiness, enough to outweigh an eternity of words.\n\"Hee, it's a promise...\"\nThe girl turns around to give a gentle smile.\n\"One of us stays in the past, and the other walks toward the future... but our hearts have never been apart \u266a\"\nShe rises onto her toes and steps into the past.\nAnd memory, transforming into ripples of past reverie, drifts toward tomorrow.",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 57.6,
+                        "step": 8.64
+                    },
+                    "atk": {
+                        "base": 21.6,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 21,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 126.72,
+                        "step": 8.64
+                    },
+                    "atk": {
+                        "base": 47.52,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 46.2,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 218.88,
+                        "step": 8.64
+                    },
+                    "atk": {
+                        "base": 82.08,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 79.8,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 311.04,
+                        "step": 8.64
+                    },
+                    "atk": {
+                        "base": 116.64,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 113.4,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 403.2,
+                        "step": 8.64
+                    },
+                    "atk": {
+                        "base": 151.2,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 147,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 495.36,
+                        "step": 8.64
+                    },
+                    "atk": {
+                        "base": 185.76,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 180.6,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 587.52,
+                        "step": 8.64
+                    },
+                    "atk": {
+                        "base": 220.32,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 214.2,
+                        "step": 3.15
+                    }
+                }
+            ],
+            "ability": {
+                "name": "A Promise",
+                "desc": "Increases the wearer's SPD by {0}%. When the wearer's memosprite uses Memosprite Skill on one ally, gains \"Blank,\" which increases DMG taken by all enemies by {2}%. When the wearer's memosprite uses Memosprite Skill on an enemy, gains \"Verse,\" which increases CRIT DMG of all allies by {1}%. When the wearer's memosprite has both \"Blank\" and \"Verse,\" increases the effects of both \"Blank\" and \"Verse\" by {3}%.",
+                "params": [
+                    [
+                        "18",
+                        "16",
+                        "10",
+                        "60"
+                    ],
+                    [
+                        "21",
+                        "19",
+                        "12",
+                        "65"
+                    ],
+                    [
+                        "24",
+                        "22",
+                        "14",
+                        "70"
+                    ],
+                    [
+                        "27",
+                        "25",
+                        "16",
+                        "75"
+                    ],
+                    [
+                        "30",
+                        "28",
+                        "18",
+                        "80"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.18
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.21
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.24
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.27
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.3
+                        }
+                    ]
+                ]
+            }
+        },
         "On the Fall of an Aeon": {
             "rarity": 5,
             "path": "Destruction",
@@ -22066,7 +22407,7 @@
         "Solitary Healing": {
             "rarity": 5,
             "path": "Nihility",
-            "desc": "Things molded by the hands of secrecy are shapeless and incorporeal.\nIn the totality of emptiness, there yet exists a sudden dreaming.\nThose that court destruction will reap ruinous fruit, while those that clamor to live will survive.\nThat which is extinguished may yet spark, and that which has dried may yet be filled anew.\nIn compassion for the salvation of chaos, the elixir nurtures the shadows.\nWith back faced to the darkness between the stars, the encapsulation of this vessel can only be done in vain.\n\"Paradoxical these knowings are, in them shine the fullness of our pride.\"",
+            "desc": "Things molded by the hands of secrecy are shapeless and incorporeal.\nIn the totality of emptiness, there yet exists a sudden dreaming.\nThose that court destruction will reap ruinous fruit, while those that clamor to live will survive.\nThat which is extinguished may yet spark, and that which has dried may yet be filled anew.\nIn compassion for the salvation of chaos, the elixir nurtures the shadows.\nWith its back faced to the darkness between the stars, this vessel encapsulates futility and works in vain.\n\"Paradoxical these knowings are, in them shine the fullness of our pride.\"",
             "ascension": [
                 {
                     "hp": {
@@ -23814,6 +24155,48 @@
                     }
                 ]
             ]
+        },
+        "Amphoreus, The Eternal Land": {
+            "pieces": {
+                "Planar Sphere": {
+                    "name": "Last West Wind of Amphoreus"
+                },
+                "Link Rope": {
+                    "name": "Eternal Verses of Amphoreus"
+                }
+            },
+            "desc": [
+                "Increases the wearer's CRIT Rate by 8%. While the wearer's memosprite is on the field, increases all allies' SPD by 8%. This effect cannot be stacked."
+            ],
+            "modifiers": [
+                [
+                    {
+                        "type": "crit_rate",
+                        "value": 0.08
+                    }
+                ]
+            ]
+        },
+        "Tengoku@Livestream": {
+            "pieces": {
+                "Planar Sphere": {
+                    "name": "Livestream's Protean Vistas"
+                },
+                "Link Rope": {
+                    "name": "Livestream's Chatter Banter"
+                }
+            },
+            "desc": [
+                "Increases the wearer's CRIT DMG by 16%. If 3 or more Skill Points are consumed in the same turn, additionally increases the wearer's CRIT DMG by 32%, lasting for 3 turns."
+            ],
+            "modifiers": [
+                [
+                    {
+                        "type": "crit_dmg",
+                        "value": 0.16
+                    }
+                ]
+            ]
         }
     },
     "characters": {
@@ -24071,7 +24454,7 @@
                     "basic": {
                         "name": "Frigid Cold Arrow",
                         "max_level": 10,
-                        "desc": "Deals Ice DMG equal to {0}% of March 7th's ATK to a single enemy.",
+                        "desc": "Deals Ice DMG equal to {0}% of March 7th's ATK to one enemy.",
                         "params": [
                             [
                                 "50"
@@ -25244,7 +25627,7 @@
                     "basic": {
                         "name": "Cloudlancer Art: North Wind",
                         "max_level": 10,
-                        "desc": "Deals Wind DMG equal to {0}% of Dan Heng's ATK to a single enemy.",
+                        "desc": "Deals Wind DMG equal to {0}% of Dan Heng's ATK to one enemy.",
                         "params": [
                             [
                                 "50"
@@ -25281,7 +25664,7 @@
                     "skill": {
                         "name": "Cloudlancer Art: Torrent",
                         "max_level": 15,
-                        "desc": "Deals Wind DMG equal to {0}% of Dan Heng's ATK to a single enemy.\nWhen DMG dealt by Skill triggers CRIT Hit, there is a 100% base chance to reduce the target's SPD by 12%, lasting for 2 turn(s).",
+                        "desc": "Deals Wind DMG equal to {0}% of Dan Heng's ATK to one designated enemy.\nWhen DMG dealt by Skill triggers CRIT Hit, there is a 100% base chance to reduce the target's SPD by 12%, lasting for 2 turn(s).",
                         "params": [
                             [
                                 "130"
@@ -25824,7 +26207,7 @@
                     "basic": {
                         "name": "Sawblade Tuning",
                         "max_level": 10,
-                        "desc": "Deals Fire DMG equal to {0}% of Himeko's ATK to a single enemy.",
+                        "desc": "Deals Fire DMG equal to {0}% of Himeko's ATK to one enemy.",
                         "params": [
                             [
                                 "50"
@@ -25861,7 +26244,7 @@
                     "skill": {
                         "name": "Molten Detonation",
                         "max_level": 15,
-                        "desc": "Deals Fire DMG equal to {0}% of Himeko's ATK to a single enemy and Fire DMG equal to {1}% of Himeko's ATK to enemies adjacent to it.",
+                        "desc": "Deals Fire DMG equal to {0}% of Himeko's ATK to one designated enemy and Fire DMG equal to {1}% of Himeko's ATK to enemies adjacent to it.",
                         "params": [
                             [
                                 "100",
@@ -26404,7 +26787,7 @@
                     "basic": {
                         "name": "Gravity Suppression",
                         "max_level": 10,
-                        "desc": "Deals Imaginary DMG equal to {0}% of Welt's ATK to a single enemy.",
+                        "desc": "Deals Imaginary DMG equal to {0}% of Welt's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -26441,7 +26824,7 @@
                     "skill": {
                         "name": "Edge of the Void",
                         "max_level": 15,
-                        "desc": "Deals Imaginary DMG equal to {0}% of Welt's ATK to a single enemy and further deals DMG 2 extra times, with each time dealing Imaginary DMG equal to {0}% of Welt's ATK to a random enemy. On hit, there is a {1}% base chance to reduce the enemy's SPD by 10% for 2 turn(s).",
+                        "desc": "Deals Imaginary DMG equal to {0}% of Welt's ATK to one designated enemy and further deals DMG 2 extra times, with each time dealing Imaginary DMG equal to {0}% of Welt's ATK to a random enemy. On hit, there is a {1}% base chance to reduce the enemy's SPD by 10% for 2 turn(s).",
                         "params": [
                             [
                                 "36",
@@ -26999,7 +27382,7 @@
                     "basic": {
                         "name": "Midnight Tumult",
                         "max_level": 10,
-                        "desc": "Deals Lightning DMG equal to {0}% of Kafka's ATK to a single enemy.",
+                        "desc": "Deals Lightning DMG equal to {0}% of Kafka's ATK to a one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -27624,7 +28007,7 @@
                     "basic": {
                         "name": "System Warning",
                         "max_level": 10,
-                        "desc": "Deals Quantum DMG equal to {0}% of Silver Wolf's ATK to a single enemy.",
+                        "desc": "Deals Quantum DMG equal to {0}% of Silver Wolf's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -28294,7 +28677,7 @@
                     "basic": {
                         "name": "Lightning Rush",
                         "max_level": 10,
-                        "desc": "Deals Lightning DMG equal to {0}% of Arlan's ATK to a single enemy.",
+                        "desc": "Deals Lightning DMG equal to {0}% of Arlan's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -28331,7 +28714,7 @@
                     "skill": {
                         "name": "Shackle Breaker",
                         "max_level": 15,
-                        "desc": "Consumes Arlan's HP equal to 15% of his Max HP to deal Lightning DMG equal to {0}% of Arlan's ATK to a single enemy. If Arlan does not have sufficient HP, his HP will be reduced to 1 after using his Skill.",
+                        "desc": "Consumes Arlan's HP equal to 15% of his Max HP to deal Lightning DMG equal to {0}% of Arlan's ATK to one designated enemy. If Arlan does not have sufficient HP, his HP will be reduced to 1 after using his Skill.",
                         "params": [
                             [
                                 "120"
@@ -28383,7 +28766,7 @@
                     "ult": {
                         "name": "Frenzied Punishment",
                         "max_level": 15,
-                        "desc": "Deals Lightning DMG equal to {0}% of Arlan's ATK to a single enemy and Lightning DMG equal to {1}% of Arlan's ATK to enemies adjacent to it.",
+                        "desc": "Deals Lightning DMG equal to {0}% of Arlan's ATK to one designated enemy and Lightning DMG equal to {1}% of Arlan's ATK to enemies adjacent to it.",
                         "params": [
                             [
                                 "192",
@@ -28874,7 +29257,7 @@
                     "basic": {
                         "name": "Spectrum Beam",
                         "max_level": 10,
-                        "desc": "Deals Fire DMG equal to {0}% of Asta's ATK to a single enemy.",
+                        "desc": "Deals Fire DMG equal to {0}% of Asta's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -28911,7 +29294,7 @@
                     "skill": {
                         "name": "Meteor Storm",
                         "max_level": 15,
-                        "desc": "Deals Fire DMG equal to {0}% of Asta's ATK to a single enemy and further deals DMG for 4 extra times, with each time dealing Fire DMG equal to {0}% of Asta's ATK to a random enemy.",
+                        "desc": "Deals Fire DMG equal to {0}% of Asta's ATK to one designated enemy and further deals DMG for 4 extra times, with each time dealing Fire DMG equal to {0}% of Asta's ATK to a random enemy.",
                         "params": [
                             [
                                 "25"
@@ -29439,7 +29822,7 @@
                     "basic": {
                         "name": "What Are You Looking At?",
                         "max_level": 10,
-                        "desc": "Deals Ice DMG equal to {0}% of Herta's ATK to a single enemy.",
+                        "desc": "Deals Ice DMG equal to {0}% of Herta's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -31191,7 +31574,7 @@
                     "basic": {
                         "name": "Windrider Bullet",
                         "max_level": 10,
-                        "desc": "Deals Wind DMG equal to {0}% of Bronya's ATK to a single enemy.",
+                        "desc": "Deals Wind DMG equal to {0}% of Bronya's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -31786,7 +32169,7 @@
                     "basic": {
                         "name": "Thwack",
                         "max_level": 10,
-                        "desc": "Deals Quantum DMG equal to {0}% of Seele's ATK to a single enemy.",
+                        "desc": "Deals Quantum DMG equal to {0}% of Seele's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -31823,7 +32206,7 @@
                     "skill": {
                         "name": "Sheathed Blade",
                         "max_level": 15,
-                        "desc": "Increases Seele's SPD by 25% for 2 turn(s) and deals Quantum DMG equal to {0}% of Seele's ATK to a single enemy.",
+                        "desc": "Increases Seele's SPD by 25% for 2 turn(s) and deals Quantum DMG equal to {0}% of Seele's ATK to one designated enemy.",
                         "params": [
                             [
                                 "110"
@@ -31875,7 +32258,7 @@
                     "ult": {
                         "name": "Butterfly Flurry",
                         "max_level": 15,
-                        "desc": "Seele enters the Amplification state and deals Quantum DMG equal to {0}% of her ATK to a single enemy.",
+                        "desc": "Seele enters the Amplification state and deals Quantum DMG equal to {0}% of her ATK to one designated enemy.",
                         "params": [
                             [
                                 "254"
@@ -32351,7 +32734,7 @@
                     "basic": {
                         "name": "Roaring Thunderclap",
                         "max_level": 10,
-                        "desc": "Deals Lightning DMG equal to {0}% of Serval's ATK to a single enemy.",
+                        "desc": "Deals Lightning DMG equal to {0}% of Serval's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -32388,7 +32771,7 @@
                     "skill": {
                         "name": "Lightning Flash",
                         "max_level": 15,
-                        "desc": "Deals Lightning DMG equal to {0}% of Serval's ATK to a single enemy and Lightning DMG equal to {1}% of Serval's ATK to enemies adjacent to it, with a 80% base chance for enemies hit to become Shocked for 2 turn(s).\nWhile Shocked, enemies take Lightning DoT equal to {2}% of Serval's ATK at the beginning of each turn.",
+                        "desc": "Deals Lightning DMG equal to {0}% of Serval's ATK to one designated enemy and Lightning DMG equal to {1}% of Serval's ATK to enemies adjacent to it, with a 80% base chance for enemies hit to become Shocked for 2 turn(s).\nWhile Shocked, enemies take Lightning DoT equal to {2}% of Serval's ATK at the beginning of each turn.",
                         "params": [
                             [
                                 "70",
@@ -32946,7 +33329,7 @@
                     "basic": {
                         "name": "Fist of Conviction",
                         "max_level": 10,
-                        "desc": "Deals Ice DMG equal to {0}% of Gepard's ATK to a single enemy.",
+                        "desc": "Deals Ice DMG equal to {0}% of Gepard's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -32983,7 +33366,7 @@
                     "skill": {
                         "name": "Daunting Smite",
                         "max_level": 15,
-                        "desc": "Deals Ice DMG equal to {0}% of Gepard's ATK to a single enemy, with a 65% base chance to Freeze the enemy for 1 turn(s).\nWhile Frozen, the enemy cannot take action and will take Ice Additional DMG equal to {1}% of Gepard's ATK at the beginning of each turn.",
+                        "desc": "Deals Ice DMG equal to {0}% of Gepard's ATK to one designated enemy, with a 65% base chance to Freeze the enemy for 1 turn(s).\nWhile Frozen, the enemy cannot take action and will take Ice Additional DMG equal to {1}% of Gepard's ATK at the beginning of each turn.",
                         "params": [
                             [
                                 "100",
@@ -33541,7 +33924,7 @@
                     "basic": {
                         "name": "Behind the Kindness",
                         "max_level": 10,
-                        "desc": "Deals Physical DMG equal to {0}% of Natasha's ATK to a single enemy.",
+                        "desc": "Deals Physical DMG equal to {0}% of Natasha's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -34746,7 +35129,7 @@
                     "basic": {
                         "name": "I Want to Help",
                         "max_level": 10,
-                        "desc": "Deals Physical DMG equal to {0}% of Clara's ATK to a single enemy.",
+                        "desc": "Deals Physical DMG equal to {0}% of Clara's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -35341,7 +35724,7 @@
                     "basic": {
                         "name": "Dazzling Blades",
                         "max_level": 10,
-                        "desc": "Deals Wind DMG equal to {0}% of Sampo's ATK to a single enemy.",
+                        "desc": "Deals Wind DMG equal to {0}% of Sampo's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -35378,7 +35761,7 @@
                     "skill": {
                         "name": "Ricochet Love",
                         "max_level": 15,
-                        "desc": "Deals Wind DMG equal to {0}% of Sampo's ATK to a single enemy, and further deals DMG for 4 extra time(s), with each time dealing Wind DMG equal to {0}% of Sampo's ATK to a random enemy.",
+                        "desc": "Deals Wind DMG equal to {0}% of Sampo's ATK to one designated enemy, and further deals DMG for 4 extra time(s), with each time dealing Wind DMG equal to {0}% of Sampo's ATK to a random enemy.",
                         "params": [
                             [
                                 "28"
@@ -35921,7 +36304,7 @@
                     "basic": {
                         "name": "Hehe! Don't Get Burned!",
                         "max_level": 10,
-                        "desc": "Deals Fire DMG equal to {0}% of Hook's ATK to a single enemy.",
+                        "desc": "Deals Fire DMG equal to {0}% of Hook's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -35958,7 +36341,7 @@
                     "skill": {
                         "name": "Hey! Remember Hook?",
                         "max_level": 15,
-                        "desc": "Deals Fire DMG equal to {0}% of Hook's ATK to a single enemy. In addition, there is a 100% base chance to inflict Burn for 2 turn(s).\nWhen afflicted with Burn, enemies will take Fire DoT equal to {1}% of Hook's ATK at the beginning of each turn.",
+                        "desc": "Deals Fire DMG equal to {0}% of Hook's ATK to one designated enemy. In addition, there is a 100% base chance to inflict Burn for 2 turn(s).\nWhen afflicted with Burn, enemies will take Fire DoT equal to {1}% of Hook's ATK at the beginning of each turn.",
                         "params": [
                             [
                                 "120",
@@ -36025,7 +36408,7 @@
                     "ult": {
                         "name": "Boom! Here Comes the Fire!",
                         "max_level": 15,
-                        "desc": "Deals Fire DMG equal to {0}% of Hook's ATK to a single enemy.\nAfter using Ultimate, the next Skill to be used is Enhanced, which deals DMG to a single enemy and enemies adjacent to it.",
+                        "desc": "Deals Fire DMG equal to {0}% of Hook's ATK to one designated enemy.\nAfter using Ultimate, the next Skill to be used is Enhanced, which deals DMG to one designated enemy and enemies adjacent to it.",
                         "params": [
                             [
                                 "240"
@@ -36501,7 +36884,7 @@
                     "basic": {
                         "name": "Ice Crampon Technique",
                         "max_level": 10,
-                        "desc": "Deals Quantum DMG equal to {0}% of this character's Max HP to a single enemy.",
+                        "desc": "Deals Quantum DMG equal to {0}% of this character's Max HP to one designated enemy.",
                         "params": [
                             [
                                 "25"
@@ -37171,7 +37554,7 @@
                     "basic": {
                         "name": "Direct Punch",
                         "max_level": 10,
-                        "desc": "Deals Physical DMG equal to {0}% of Luka's ATK to a single enemy.",
+                        "desc": "Deals Physical DMG equal to {0}% of Luka's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -37208,7 +37591,7 @@
                     "skill": {
                         "name": "Lacerating Fist",
                         "max_level": 15,
-                        "desc": "Deals Physical DMG equal to {0}% of Luka's ATK to a single enemy target. In addition, there is a 100% base chance to inflict Bleed on them, lasting for 3 turn(s).\nWhile Bleeding, the enemy will take 24.0% of their Max HP as Physical DoT at the start of each turn. This DMG will not exceed more than {1}% of Luka's ATK.",
+                        "desc": "Deals Physical DMG equal to {0}% of Luka's ATK to one designated enemy target. In addition, there is a 100% base chance to inflict Bleed on them, lasting for 3 turn(s).\nWhile Bleeding, the enemy will take 24.0% of their Max HP as Physical DoT at the start of each turn. This DMG will not exceed more than {1}% of Luka's ATK.",
                         "params": [
                             [
                                 "60",
@@ -37275,7 +37658,7 @@
                     "ult": {
                         "name": "Coup de Gr\u00e2ce",
                         "max_level": 15,
-                        "desc": "Receives 2 stack(s) of Fighting Will, with a 100% base chance to increase a single enemy target's DMG received by {1}% for 3 turn(s). Then, deals Physical DMG equal to {0}% of Luka's ATK to the target.",
+                        "desc": "Receives 2 stack(s) of \"Fighting Will,\" with a 100% base chance to increase one designated enemy target's DMG received by {1}% for 3 turn(s). Then, deals Physical DMG equal to {0}% of Luka's ATK to the target.",
                         "params": [
                             [
                                 "198",
@@ -37766,7 +38149,7 @@
                     "basic": {
                         "name": "Deficit...",
                         "max_level": 10,
-                        "desc": "Deals Fire DMG equal to {0}% of Topaz's ATK to a single enemy.",
+                        "desc": "Deals Fire DMG equal to {0}% of Topaz's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -37937,7 +38320,7 @@
                     "talent": {
                         "name": "Trotter Market!?",
                         "max_level": 15,
-                        "desc": "Summons Numby at the start of battle. Numby has 80 SPD by default. When taking action, Numby launches Follow-up ATKs on a single enemy target afflicted with Proof of Debt, dealing Fire DMG equal to {0}% of Topaz's ATK.\nWhen enemies afflicted with Proof of Debt receive an ally's Follow-up ATKs, Numby's action is Advanced Forward by 50%. The action Advance Forward effect cannot be triggered during Numby's own turn.\nWhen Topaz is downed, Numby disappears.",
+                        "desc": "Summons Numby at the start of battle. Numby has 80 SPD by default. When taking action, Numby launches Follow-up ATKs on one enemy target afflicted with \"Proof of Debt,\" dealing Fire DMG equal to {0}% of Topaz's ATK.\nWhen enemies afflicted with \"Proof of Debt\" receive an ally's Follow-up ATKs, Numby's action is Advanced Forward by 50%. The action Advance Forward effect cannot be triggered during Numby's own turn.\nWhen Topaz is downed, Numby disappears.",
                         "params": [
                             [
                                 "75"
@@ -38361,7 +38744,7 @@
                     "basic": {
                         "name": "Flower Pick",
                         "max_level": 10,
-                        "desc": "Tosses 1 jade tile from the suit with the fewest tiles in hand to deal Quantum DMG equal to {0}% of Qingque's ATK to a single enemy.",
+                        "desc": "Tosses 1 jade tile from the suit with the fewest tiles in hand to deal Quantum DMG equal to {0}% of Qingque's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -38926,7 +39309,7 @@
                     "basic": {
                         "name": "Dislodged",
                         "max_level": 10,
-                        "desc": "Tingyun deals Lightning DMG equal to {0}% of her ATK to a single enemy.",
+                        "desc": "Tingyun deals Lightning DMG equal to {0}% of her ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -39521,7 +39904,7 @@
                     "basic": {
                         "name": "Thorns of the Abyss",
                         "max_level": 10,
-                        "desc": "Deals Imaginary DMG equal to {0}% of Luocha's ATK to a single enemy.",
+                        "desc": "Deals Imaginary DMG equal to {0}% of Luocha's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -40116,7 +40499,7 @@
                     "basic": {
                         "name": "Glistening Light",
                         "max_level": 10,
-                        "desc": "Jing Yuan deals Lightning DMG equal to {0}% of his ATK to a single enemy.",
+                        "desc": "Jing Yuan deals Lightning DMG equal to {0}% of his ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -40646,7 +41029,7 @@
                 "eidolons": [
                     {
                         "name": "Blade Cuts the Deepest in Hell",
-                        "desc": "Blade's Ultimate deals additionally increased DMG to a single enemy target, with the increased amount equal to 150% of the tally of Blade's HP loss in the current battle.\nThe tally of Blade's HP loss in the current battle is capped at 90% of his Max HP. The tally value will be reset and re-accumulated after his Ultimate has been used."
+                        "desc": "Blade's Ultimate deals additionally increased DMG to one designated enemy target, with the increased amount equal to 150% of the tally of Blade's HP loss in the current battle.\nThe tally of Blade's HP loss in the current battle is capped at 90% of his Max HP. The tally value will be reset and re-accumulated after his Ultimate has been used."
                     },
                     {
                         "name": "Ten Thousand Sorrows From One Broken Dream",
@@ -40770,7 +41153,7 @@
                     "ult": {
                         "name": "Death Sentence",
                         "max_level": 15,
-                        "desc": "Sets Blade's current HP to 50% of his Max HP and deals Wind DMG to a single enemy equal to the sum of {0}% of his ATK, {1}% of his Max HP, and {4}% of the tally of Blade's HP loss in the current battle. At the same time, deals Wind DMG to adjacent targets equal to the sum of {2}% of his ATK, {3}% of his Max HP, and {5}% of the tally of his HP loss in the current battle.\nThe tally of Blade's HP loss in the current battle is capped at 90% of his Max HP. This value will be reset and re-accumulated after his Ultimate has been used.",
+                        "desc": "Sets Blade's current HP to 50% of his Max HP and deals Wind DMG to one enemy equal to the sum of {0}% of his ATK, {1}% of his Max HP, and {4}% of the tally of Blade's HP loss in the current battle. At the same time, deals Wind DMG to adjacent targets equal to the sum of {2}% of his ATK, {3}% of his Max HP, and {5}% of the tally of his HP loss in the current battle.\nThe tally of Blade's HP loss in the current battle is capped at 90% of his Max HP. This value will be reset and re-accumulated after his Ultimate has been used.",
                         "params": [
                             [
                                 "24",
@@ -41336,7 +41719,7 @@
                     "basic": {
                         "name": "Cloudfencer Art: Starshine",
                         "max_level": 10,
-                        "desc": "Deals Physical DMG equal to {0}% of Sushang's ATK to a single enemy.",
+                        "desc": "Deals Physical DMG equal to {0}% of Sushang's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -41373,7 +41756,7 @@
                     "skill": {
                         "name": "Cloudfencer Art: Mountainfall",
                         "max_level": 15,
-                        "desc": "Deals Physical DMG equal to {0}% of Sushang's ATK to a single enemy. In addition, there is a 33% chance to trigger Sword Stance on the final hit, dealing Physical Additional DMG equal to {1}% of Sushang's ATK to the enemy.\nIf the enemy is inflicted with Weakness Break, Sword Stance is guaranteed to trigger.",
+                        "desc": "Deals Physical DMG equal to {0}% of Sushang's ATK to one designated enemy. In addition, there is a 33% chance to trigger \"Sword Stance\" on the final hit, dealing Physical Additional DMG equal to {1}% of Sushang's ATK to the enemy.\nIf the enemy is inflicted with Weakness Break, \"Sword Stance\" is guaranteed to trigger.",
                         "params": [
                             [
                                 "105",
@@ -41440,7 +41823,7 @@
                     "ult": {
                         "name": "Shape of Taixu: Dawn Herald",
                         "max_level": 15,
-                        "desc": "Deals Physical DMG equal to {0}% of Sushang's ATK to a single enemy target, and she immediately takes action. In addition, Sushang's ATK increases by {1}% and using her Skill has 2 extra chances to trigger Sword Stance for 2 turn(s).\nSword Stance triggered from the extra chances deals 50% of the original DMG.",
+                        "desc": "Deals Physical DMG equal to {0}% of Sushang's ATK to one designated enemy target, and she immediately takes action. In addition, Sushang's ATK increases by {1}% and using her Skill has 2 extra chances to trigger \"Sword Stance\" for 2 turn(s).\n\"Sword Stance\" triggered from the extra chances deals 50% of the original DMG.",
                         "params": [
                             [
                                 "192",
@@ -42020,7 +42403,7 @@
                     "ult": {
                         "name": "Diving Kestrel",
                         "max_level": 15,
-                        "desc": "If \"Roaring Bowstrings\" is active on Yukong when her Ultimate is used, additionally increases all allies' CRIT Rate by {1}% and CRIT DMG by {2}%. At the same time, deals Imaginary DMG equal to {0}% of Yukong's ATK to a single enemy.",
+                        "desc": "If \"Roaring Bowstrings\" is active on Yukong when her Ultimate is used, additionally increases all allies' CRIT Rate by {1}% and CRIT DMG by {2}%. At the same time, deals Imaginary DMG equal to {0}% of Yukong's ATK to one designated enemy.",
                         "params": [
                             [
                                 "227",
@@ -42526,7 +42909,7 @@
                     "basic": {
                         "name": "Novaburst",
                         "max_level": 10,
-                        "desc": "Deals Quantum DMG equal to {0}% of Fu Xuan's Max HP to a single enemy.",
+                        "desc": "Deals Quantum DMG equal to {0}% of Fu Xuan's Max HP to one designated enemy.",
                         "params": [
                             [
                                 "25"
@@ -43121,7 +43504,7 @@
                     "basic": {
                         "name": "Frost Thorn",
                         "max_level": 10,
-                        "desc": "Deals Ice DMG equal to {0}% of Yanqing's ATK to a single enemy.",
+                        "desc": "Deals Ice DMG equal to {0}% of Yanqing's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -43158,7 +43541,7 @@
                     "skill": {
                         "name": "Darting Ironthorn",
                         "max_level": 15,
-                        "desc": "Deals Ice DMG equal to {0}% of Yanqing's ATK to a single enemy and activates Soulsteel Sync for 1 turn.",
+                        "desc": "Deals Ice DMG equal to {0}% of Yanqing's ATK to one designated enemy and activates \"Soulsteel Sync\" for 1 turn.",
                         "params": [
                             [
                                 "110"
@@ -43210,7 +43593,7 @@
                     "ult": {
                         "name": "Amidst the Raining Bliss",
                         "max_level": 15,
-                        "desc": "Increases Yanqing's CRIT Rate by 60%. When Soulsteel Sync is active, increases Yanqing's CRIT DMG by an extra {0}%. This buff lasts for one turn. Afterwards, deals Ice DMG equal to {1}% of Yanqing's ATK to a single enemy.",
+                        "desc": "Increases Yanqing's CRIT Rate by 60%. When \"Soulsteel Sync\" is active, increases Yanqing's CRIT DMG by an extra {0}%. This buff lasts for one turn. Afterwards, deals Ice DMG equal to {1}% of Yanqing's ATK to one designated enemy.",
                         "params": [
                             [
                                 "30",
@@ -43761,7 +44144,7 @@
                     "basic": {
                         "name": "Standing Ovation",
                         "max_level": 10,
-                        "desc": "Deals Fire DMG equal to {0}% of Guinaifen's ATK to a single enemy.",
+                        "desc": "Deals Fire DMG equal to {0}% of Guinaifen's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -43798,7 +44181,7 @@
                     "skill": {
                         "name": "Blazing Welcome",
                         "max_level": 15,
-                        "desc": "Deals Fire DMG equal to {0}% of Guinaifen's ATK to a single enemy and Fire DMG equal to {1}% of Guinaifen's ATK to any adjacent enemies, with a 100% base chance to Burn the target and adjacent targets. When Burned, enemies will take a Fire DoT equal to {2}% of Guinaifen's ATK at the beginning of each turn, lasting for 2 turn(s).",
+                        "desc": "Deals Fire DMG equal to {0}% of Guinaifen's ATK to one designated enemy and Fire DMG equal to {1}% of Guinaifen's ATK to any adjacent enemies, with a 100% base chance to Burn the target and adjacent targets. When Burned, enemies will take a Fire DoT equal to {2}% of Guinaifen's ATK at the beginning of each turn, lasting for 2 turn(s).",
                         "params": [
                             [
                                 "60",
@@ -44371,7 +44754,7 @@
                     "basic": {
                         "name": "Diagnostic Kick",
                         "max_level": 10,
-                        "desc": "Deals Lightning DMG equal to {0}% of Bailu's ATK to a single enemy.",
+                        "desc": "Deals Lightning DMG equal to {0}% of Bailu's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -45011,7 +45394,7 @@
                     "basic": {
                         "name": "Lucent Moonglow",
                         "max_level": 10,
-                        "desc": "Deals Ice DMG equal to {0}% of Jingliu's ATK to a single enemy.",
+                        "desc": "Deals Ice DMG equal to {0}% of Jingliu's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -45048,7 +45431,7 @@
                     "skill": {
                         "name": "Transcendent Flash",
                         "max_level": 15,
-                        "desc": "Deals Ice DMG equal to {0}% of Jingliu's ATK to a single enemy and obtains 1 stack(s) of Syzygy.",
+                        "desc": "Deals Ice DMG equal to {0}% of Jingliu's ATK to one designated enemy and obtains 1 stack(s) of \"Syzygy.\"",
                         "params": [
                             [
                                 "100"
@@ -45100,7 +45483,7 @@
                     "ult": {
                         "name": "Florephemeral Dreamflux",
                         "max_level": 15,
-                        "desc": "Deals Ice DMG equal to {0}% of Jingliu's ATK to a single enemy, and deals Ice DMG equal to {1}% of Jingliu's ATK to any adjacent enemies. Gains 1 stack(s) of Syzygy after attack ends.",
+                        "desc": "Deals Ice DMG equal to {0}% of Jingliu's ATK to one designated enemy, and deals Ice DMG equal to {1}% of Jingliu's ATK to any adjacent enemies. Gains 1 stack(s) of \"Syzygy\" after attack ends.",
                         "params": [
                             [
                                 "180",
@@ -45606,7 +45989,7 @@
                     "basic": {
                         "name": "Beneficent Lotus",
                         "max_level": 10,
-                        "desc": "Uses a 2-hit attack and deals Imaginary DMG equal to {0}% of Dan Heng \u2022 Imbibitor Lunae's ATK to a single enemy target.",
+                        "desc": "Uses a 2-hit attack and deals Imaginary DMG equal to {0}% of Dan Heng \u2022 Imbibitor Lunae's ATK to one designated enemy target.",
                         "params": [
                             [
                                 "50"
@@ -45695,7 +46078,7 @@
                     "ult": {
                         "name": "Azure's Aqua Ablutes All",
                         "max_level": 15,
-                        "desc": "Uses a 3-hit attack and deals Imaginary DMG equal to {0}% of Dan Heng \u2022 Imbibitor Lunae's ATK to a single enemy target. At the same time, deals Imaginary DMG equal to {1}% of Dan Heng \u2022 Imbibitor Lunae's ATK to adjacent targets. Then, obtains 2 Squama Sacrosancta.\nIt's possible to hold up to 3 Squama Sacrosancta, which can be used to offset Dan Heng \u2022 Imbibitor Lunae's consumption of skill points. Consuming Squama Sacrosancta is considered equivalent to consuming skill points.",
+                        "desc": "Uses a 3-hit attack and deals Imaginary DMG equal to {0}% of Dan Heng \u2022 Imbibitor Lunae's ATK to one designated enemy target. At the same time, deals Imaginary DMG equal to {1}% of Dan Heng \u2022 Imbibitor Lunae's ATK to adjacent targets. Then, obtains 2 \"Squama Sacrosancta.\"\nIt's possible to hold up to 3 \"Squama Sacrosancta,\" which can be used to offset Dan Heng \u2022 Imbibitor Lunae's consumption of skill points. Consuming \"Squama Sacrosancta\" is considered equivalent to consuming skill points.",
                         "params": [
                             [
                                 "180",
@@ -46223,7 +46606,7 @@
                     "skill": {
                         "name": "Iniquity Obliteration",
                         "max_level": 15,
-                        "desc": "Deals Quantum DMG equal to {0}% of Xueyi's ATK to a single enemy, and Quantum DMG equal to {1}% of Xueyi's ATK to any adjacent enemies.",
+                        "desc": "Deals Quantum DMG equal to {0}% of Xueyi's ATK to one designated enemy, and Quantum DMG equal to {1}% of Xueyi's ATK to any adjacent enemies.",
                         "params": [
                             [
                                 "70",
@@ -46781,7 +47164,7 @@
                     "basic": {
                         "name": "Oracle Brush",
                         "max_level": 10,
-                        "desc": "Deals Physical DMG equal to {0}% of Hanya's ATK to a single enemy.",
+                        "desc": "Deals Physical DMG equal to {0}% of Hanya's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -50122,7 +50505,7 @@
                     "talent": {
                         "name": "Mistdance Manifest",
                         "max_level": 15,
-                        "desc": "When using Skill, summons Fuyuan, with an initial SPD of 90 and an initial action count of 3.\nWhen taking action, Fuyuan launches Follow-up ATK, dealing Fire DMG equal to {0}% of Lingsha's ATK to all enemies. Additionally deals Fire DMG equal to {3}% of Lingsha's ATK to a single random enemy, and this DMG prioritizes targets that have both Toughness greater than 0 and Fire Weakness. Dispels 1 debuff(s) from all allies and restores HP equal to {1}% of Lingsha's ATK plus {2}.\nFuyuan's action count can accumulate up to 5. When the action count reaches 0 or when Lingsha is knocked down, Fuyuan disappears.\nWhile Fuyuan is on the field, using Skill can increase Fuyuan's action count by 3.",
+                        "desc": "When using Skill, summons \"Fuyuan,\" with an initial SPD of 90 and an initial action count of 3.\nWhen taking action, \"Fuyuan\" launches Follow-up ATK, dealing Fire DMG equal to {0}% of Lingsha's ATK to all enemies. Additionally deals Fire DMG equal to {3}% of Lingsha's ATK to one random enemy, and this DMG prioritizes targets that have both Toughness greater than 0 and Fire Weakness. Dispels 1 debuff(s) from all allies and restores HP equal to {1}% of Lingsha's ATK plus {2}.\n\"Fuyuan's\" action count can accumulate up to 5. When the action count reaches 0 or when Lingsha is knocked down, \"Fuyuan\" disappears.\nWhile \"Fuyuan\" is on the field, using Skill can increase \"Fuyuan's\" action count by 3.",
                         "params": [
                             [
                                 "37",
@@ -53662,7 +54045,7 @@
                     "talent": {
                         "name": "Shot Loaded Right",
                         "max_level": 15,
-                        "desc": "For any single ally with Fortified Wager, their Effect RES increases by {1}%, and when they get attacked, Aventurine gains 1 point of Blind Bet. When Aventurine has Fortified Wager, he can resist Crowd Control debuffs. This effect can trigger again after 2 turn(s). Aventurine additionally gains 1 point(s) of Blind Bet after getting attacked. Upon reaching 7 points of Blind Bet, Aventurine consumes the 7 points to launch a 7-hit Follow-up ATK, with each hit dealing Imaginary DMG equal to {0}% of Aventurine's DEF to a single random enemy. Blind Bet is capped at 10 points.",
+                        "desc": "For any single ally with \"Fortified Wager,\" their Effect RES increases by {1}%, and when they get attacked, Aventurine gains 1 point of \"Blind Bet.\" When Aventurine has \"Fortified Wager,\" he can resist Crowd Control debuffs. This effect can trigger again after 2 turn(s). Aventurine additionally gains 1 point(s) of \"Blind Bet\" after getting attacked. Upon reaching 7 points of \"Blind Bet,\" Aventurine consumes the 7 points to launch a 7-hit Follow-up ATK, with each hit dealing Imaginary DMG equal to {0}% of Aventurine's DEF to one random enemy. \"Blind Bet\" is capped at 10 points.",
                         "params": [
                             [
                                 "12",
@@ -57870,7 +58253,7 @@
                     "ult": {
                         "name": "G\u2014Gonna Be Late!",
                         "max_level": 15,
-                        "desc": "Has 3 Hits Per Action by default. First, uses 1 hit to deal Ice DMG equal to {0}% of Misha's ATK to one designated enemy target. Then, the rest of the hits each deals Ice DMG equal to {0}% of Misha's ATK to a single random enemy. Just before each hit lands, there is a {1}% base chance to Freeze the target, lasting for 1 turn.\nWhile Frozen, enemy targets cannot take any actions, and at the start of their turn, they receive Ice Additional DMG equal to {2}% of Misha's ATK.\nThis Ultimate can possess up to 10 Hits Per Action. After the Ultimate is used, its Hits Per Action will be reset to the default level.",
+                        "desc": "Has 3 Hits Per Action by default. First, uses 1 hit to deal Ice DMG equal to {0}% of Misha's ATK to one designated enemy target. Then, the rest of the hits each deals Ice DMG equal to {0}% of Misha's ATK to one random enemy. Just before each hit lands, there is a {1}% base chance to Freeze the target, lasting for 1 turn.\nWhile Frozen, enemy targets cannot take any actions, and at the start of their turn, they receive Ice Additional DMG equal to {2}% of Misha's ATK.\nThis Ultimate can possess up to 10 Hits Per Action. After the Ultimate is used, its Hits Per Action will be reset to the default level.",
                         "params": [
                             [
                                 "36",
@@ -68401,6 +68784,573 @@
                 }
             }
         },
+        "Cyrene": {
+            "Remembrance": {
+                "rarity": 5,
+                "element": "Ice",
+                "ascension": [
+                    {
+                        "hp": {
+                            "base": 190.08,
+                            "step": 9.504
+                        },
+                        "atk": {
+                            "base": 60.72,
+                            "step": 3.036
+                        },
+                        "def": {
+                            "base": 79.2,
+                            "step": 3.96
+                        },
+                        "spd": {
+                            "base": 101,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 266.112,
+                            "step": 9.504
+                        },
+                        "atk": {
+                            "base": 85.008,
+                            "step": 3.036
+                        },
+                        "def": {
+                            "base": 110.88,
+                            "step": 3.96
+                        },
+                        "spd": {
+                            "base": 101,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 342.144,
+                            "step": 9.504
+                        },
+                        "atk": {
+                            "base": 109.296,
+                            "step": 3.036
+                        },
+                        "def": {
+                            "base": 142.56,
+                            "step": 3.96
+                        },
+                        "spd": {
+                            "base": 101,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 418.176,
+                            "step": 9.504
+                        },
+                        "atk": {
+                            "base": 133.584,
+                            "step": 3.036
+                        },
+                        "def": {
+                            "base": 174.24,
+                            "step": 3.96
+                        },
+                        "spd": {
+                            "base": 101,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 494.208,
+                            "step": 9.504
+                        },
+                        "atk": {
+                            "base": 157.872,
+                            "step": 3.036
+                        },
+                        "def": {
+                            "base": 205.92,
+                            "step": 3.96
+                        },
+                        "spd": {
+                            "base": 101,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 570.24,
+                            "step": 9.504
+                        },
+                        "atk": {
+                            "base": 182.16,
+                            "step": 3.036
+                        },
+                        "def": {
+                            "base": 237.6,
+                            "step": 3.96
+                        },
+                        "spd": {
+                            "base": 101,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 646.272,
+                            "step": 9.504
+                        },
+                        "atk": {
+                            "base": 206.448,
+                            "step": 3.036
+                        },
+                        "def": {
+                            "base": 269.28,
+                            "step": 3.96
+                        },
+                        "spd": {
+                            "base": 101,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    }
+                ],
+                "eidolons": [
+                    {
+                        "name": "Epics, Born on a Blank Slate",
+                        "desc": "When Demiurge triggers the Memosprite Skill \"Ode to Ego\" during the use of \"Minuet of Blooms and Plumes,\" gains 6 \"Recollection\" point(s) and increases the number of bounces for this attack by 12."
+                    },
+                    {
+                        "name": "A Tomorrow in Thirteen Shades",
+                        "desc": "When entering combat, additionally gains 12 \"Recollection\" point(s). For every 1 different ally character that gains the Memosprite Skill buff from Demiurge, the DMG multiplier for the True DMG dealt by ally targets via the Skill's Zone increases by 6%, up to a max increase of 24%."
+                    },
+                    {
+                        "name": "By Thy Being, As I've Written",
+                        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.\nMemosprite Skill Lv. +1, up to a maximum of Lv. 10.",
+                        "level_up_skills": {
+                            "ult": 2,
+                            "talent": 2,
+                            "memosprite_skill": 1
+                        }
+                    },
+                    {
+                        "name": "Please Write On, With a Smile",
+                        "desc": "After every 1 use of \"Minuet of Blooms and Plumes\" by Demiurge, the Bounce DMG multiplier for the triggered Memosprite Skill \"Ode to Ego\" increases by 6% in the current battle, stacking up to 24 times."
+                    },
+                    {
+                        "name": "Gaze, Steeped in Yesterbloom",
+                        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.\nMemosprite Talent Lv. +1, up to a maximum of Lv. 10.",
+                        "level_up_skills": {
+                            "skill": 2,
+                            "basic": 1,
+                            "memosprite_talent": 1
+                        }
+                    },
+                    {
+                        "name": "Remembrance, Sung in Ripples \u266a",
+                        "desc": "When Cyrene uses Ultimate for the first time, all allies advance action by 100%. Each time Demiurge triggers the Memosprite Skill \"Ode to Ego\" during the use of \"Minuet of Blooms and Plumes,\" gains the following effects based on the number of times it has been triggered in the current battle:\n1 time: When Demiurge is on the field, reduces all enemy targets' DEF by 20%.\n2 times and more: All allies advance action by 24%."
+                    }
+                ],
+                "skills": {
+                    "basic": {
+                        "name": "Lo, Hope Takes Flight!",
+                        "max_level": 10,
+                        "desc": "Gains 1 \"Recollection\" point(s) and deals Ice DMG equal to {0}% of Cyrene's Max HP to one designated enemy.",
+                        "params": [
+                            [
+                                "25"
+                            ],
+                            [
+                                "30"
+                            ],
+                            [
+                                "35"
+                            ],
+                            [
+                                "40"
+                            ],
+                            [
+                                "45"
+                            ],
+                            [
+                                "50"
+                            ],
+                            [
+                                "55"
+                            ],
+                            [
+                                "60"
+                            ],
+                            [
+                                "65"
+                            ],
+                            [
+                                "70"
+                            ]
+                        ]
+                    },
+                    "skill": {
+                        "name": "Bloom, Elysium of Beyond",
+                        "max_level": 15,
+                        "desc": "Gains 3 \"Recollection\" point(s) and deploys a Zone that lasts for 2 turns. The Zone's duration decreases by 1 at the start of Cyrene's every turn. While the Zone lasts, for each instance of DMG dealt by all ally targets, deals 1 additional instance of True DMG equal to {0}% of the original DMG. When Cyrene is downed, the Zone will also be dispelled.",
+                        "params": [
+                            [
+                                "12"
+                            ],
+                            [
+                                "13"
+                            ],
+                            [
+                                "14"
+                            ],
+                            [
+                                "15"
+                            ],
+                            [
+                                "16"
+                            ],
+                            [
+                                "18"
+                            ],
+                            [
+                                "19"
+                            ],
+                            [
+                                "21"
+                            ],
+                            [
+                                "22"
+                            ],
+                            [
+                                "24"
+                            ],
+                            [
+                                "25"
+                            ],
+                            [
+                                "26"
+                            ],
+                            [
+                                "27"
+                            ],
+                            [
+                                "28"
+                            ],
+                            [
+                                "30"
+                            ]
+                        ]
+                    },
+                    "ult": {
+                        "name": "Verse \u25e6 Vow \u221e",
+                        "max_level": 15,
+                        "desc": "Summons memosprite Demiurge, causes it to immediately gain 1 extra turn, and activates all teammates' Ultimate. Then, enters the \"Ripples of Past Reverie\" state. Enhances Basic ATK to \"To Love and Tomorrow \u266a\" and can only use this Basic ATK. Increases Cyrene's and Demiurge's CRIT Rate by {0}%, and deploys the Zone effect from Skill with no duration limit.\nCan only be used once per battle. Demiurge's initial Max HP equals to 100% of Cyrene's Max HP.",
+                        "params": [
+                            [
+                                "25"
+                            ],
+                            [
+                                "27"
+                            ],
+                            [
+                                "30"
+                            ],
+                            [
+                                "32"
+                            ],
+                            [
+                                "35"
+                            ],
+                            [
+                                "37"
+                            ],
+                            [
+                                "40"
+                            ],
+                            [
+                                "43"
+                            ],
+                            [
+                                "46"
+                            ],
+                            [
+                                "50"
+                            ],
+                            [
+                                "52"
+                            ],
+                            [
+                                "55"
+                            ],
+                            [
+                                "57"
+                            ],
+                            [
+                                "60"
+                            ],
+                            [
+                                "62"
+                            ]
+                        ]
+                    },
+                    "talent": {
+                        "name": "Hearts Gather as One",
+                        "max_level": 15,
+                        "desc": "When combat begins or after Cyrene takes action, other ally characters under any state and their memosprites gain \"Future.\" When ally targets with \"Future\" take action, consumes \"Future\" to grant Cyrene 1 \"Recollection\" point(s). When Cyrene has 24 \"Recollection\" points, can activate Ultimate and dispel all debuffs on her. When she has 12 \"Recollection\" points during the \"Ripples of Past Reverie\" state, can activate Ultimate. After reaching the maximum, it can overflow by up to 27 points. While Cyrene is on the field, increases DMG dealt by all ally targets by {0}%.",
+                        "params": [
+                            [
+                                "10.0"
+                            ],
+                            [
+                                "11.0"
+                            ],
+                            [
+                                "12.0"
+                            ],
+                            [
+                                "13.0"
+                            ],
+                            [
+                                "14.0"
+                            ],
+                            [
+                                "15.0"
+                            ],
+                            [
+                                "16.2"
+                            ],
+                            [
+                                "17.5"
+                            ],
+                            [
+                                "18.8"
+                            ],
+                            [
+                                "20.0"
+                            ],
+                            [
+                                "21.0"
+                            ],
+                            [
+                                "22.0"
+                            ],
+                            [
+                                "23.0"
+                            ],
+                            [
+                                "24.0"
+                            ],
+                            [
+                                "25.0"
+                            ]
+                        ]
+                    }
+                },
+                "traces": {
+                    "technique": {
+                        "name": "Peace at West Wind's End",
+                        "desc": "After using Technique, creates a Special Dimension that lasts for 30 second(s) around the character. Enemies within this Special Dimension enter the \"This Moment, Forever\" state. While in this state, enemies will cease all actions. Ally characters within this Special Dimension have 50% increased movement speed. After entering combat within the duration, deploys the Skill's Zone. Only 1 Dimension Effect created by allies can exist at the same time."
+                    },
+                    "ability_1": {
+                        "name": "Child of Remembrance",
+                        "desc": "When a teammate's memosprite is summoned, it gains \"Future.\" \"Future\" held by the memosprite won't be consumed."
+                    },
+                    "ability_2": {
+                        "name": "Ripples Across Time",
+                        "desc": "When there are 1/2/3 Chrysos Heir or Remembrance characters (excluding Cyrene) in the team, Cyrene gains 2/3/6 \"Recollection\" point(s) respectively at the start of combat."
+                    },
+                    "ability_3": {
+                        "name": "Causality in Trichotomy",
+                        "desc": "When Cyrene's SPD is 180 or higher, increases all allies' DMG dealt by 20%. Then, for every 1 SPD that exceeds 180, increases Cyrene's and Demiurge's Ice RES PEN by 2%. Up to a maximum of 60 excess SPD can be taken into account for this effect."
+                    },
+                    "stat_1": {
+                        "name": "CRIT DMG Boost",
+                        "desc": "CRIT DMG increases by 5.3%",
+                        "modifiers": [
+                            {
+                                "type": "crit_dmg",
+                                "value": 0.053
+                            }
+                        ]
+                    },
+                    "stat_2": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 2",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 2
+                            }
+                        ]
+                    },
+                    "stat_3": {
+                        "name": "CRIT DMG Boost",
+                        "desc": "CRIT DMG increases by 5.3%",
+                        "modifiers": [
+                            {
+                                "type": "crit_dmg",
+                                "value": 0.053
+                            }
+                        ]
+                    },
+                    "stat_4": {
+                        "name": "HP Boost",
+                        "desc": "HP increases by 4.0%",
+                        "modifiers": [
+                            {
+                                "type": "hp_",
+                                "value": 0.04
+                            }
+                        ]
+                    },
+                    "stat_5": {
+                        "name": "CRIT DMG Boost",
+                        "desc": "CRIT DMG increases by 8.0%",
+                        "modifiers": [
+                            {
+                                "type": "crit_dmg",
+                                "value": 0.08
+                            }
+                        ]
+                    },
+                    "stat_6": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 3",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 3
+                            }
+                        ]
+                    },
+                    "stat_7": {
+                        "name": "CRIT DMG Boost",
+                        "desc": "CRIT DMG increases by 8.0%",
+                        "modifiers": [
+                            {
+                                "type": "crit_dmg",
+                                "value": 0.08
+                            }
+                        ]
+                    },
+                    "stat_8": {
+                        "name": "HP Boost",
+                        "desc": "HP increases by 6.0%",
+                        "modifiers": [
+                            {
+                                "type": "hp_",
+                                "value": 0.06
+                            }
+                        ]
+                    },
+                    "stat_9": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 4",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 4
+                            }
+                        ]
+                    },
+                    "stat_10": {
+                        "name": "CRIT DMG Boost",
+                        "desc": "CRIT DMG increases by 10.7%",
+                        "modifiers": [
+                            {
+                                "type": "crit_dmg",
+                                "value": 0.107
+                            }
+                        ]
+                    }
+                }
+            }
+        },
         "Caelus": {
             "Destruction": {
                 "rarity": 5,
@@ -68655,7 +69605,7 @@
                     "basic": {
                         "name": "Farewell Hit",
                         "max_level": 10,
-                        "desc": "Deals Physical DMG equal to {0}% of the Trailblazer's ATK to a single enemy.",
+                        "desc": "Deals Physical DMG equal to {0}% of the Trailblazer's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -68692,7 +69642,7 @@
                     "skill": {
                         "name": "RIP Home Run",
                         "max_level": 15,
-                        "desc": "Deals Physical DMG equal to {0}% of the Trailblazer's ATK to a single enemy and enemies adjacent to it.",
+                        "desc": "Deals Physical DMG equal to {0}% of the Trailblazer's ATK to one designated enemy and enemies adjacent to it.",
                         "params": [
                             [
                                 "62"
@@ -68744,7 +69694,7 @@
                     "ult": {
                         "name": "Stardust Ace",
                         "max_level": 15,
-                        "desc": "Choose between two attack modes to deliver a full strike.\nBlowout: Farewell Hit deals Physical DMG equal to {0}% of the Trailblazer's ATK to a single enemy.\nBlowout: RIP Home Run deals Physical DMG equal to {1}% of the Trailblazer's ATK to a single enemy, and Physical DMG equal to {2}% of the Trailblazer's ATK to enemies adjacent to it.",
+                        "desc": "Choose between two attack modes to deliver a full strike.\n\"Blowout: Farewell Hit\" deals Physical DMG equal to {0}% of the Trailblazer's ATK to one designated enemy.\n\"Blowout: RIP Home Run\" deals Physical DMG equal to {1}% of the Trailblazer's ATK to one designated enemy, and Physical DMG equal to {2}% of the Trailblazer's ATK to enemies adjacent to it.",
                         "params": [
                             [
                                 "300",
@@ -69248,7 +70198,7 @@
                     "basic": {
                         "name": "Ice-Breaking Light",
                         "max_level": 10,
-                        "desc": "Deals Fire DMG equal to {0}% of the Trailblazer's ATK to a single enemy and gains 1 stack of Magma Will.",
+                        "desc": "Deals Fire DMG equal to {0}% of the Trailblazer's ATK to one designated enemy and gains 1 stack of \"Magma Will.\"",
                         "params": [
                             [
                                 "50"
@@ -69404,7 +70354,7 @@
                     "talent": {
                         "name": "Treasure of the Architects",
                         "max_level": 15,
-                        "desc": "Each time the Trailblazer is hit, they gain 1 stack of Magma Will for a max of 8 stack(s).\nWhen Magma Will has no fewer than 4 stacks, the Trailblazer's Basic ATK becomes enhanced, dealing DMG to a single enemy and enemies adjacent to it.\nWhen the Trailblazer uses Basic ATK, Skill, or Ultimate, apply a Shield to all allies that absorbs DMG equal to {0}% of the Trailblazer's DEF plus {1}. The Shield lasts for 2 turn(s).",
+                        "desc": "Each time the Trailblazer is hit, they gain 1 stack of \"Magma Will\" for a max of 8 stack(s).\nWhen \"Magma Will\" has no fewer than 4 stacks, the Trailblazer's Basic ATK becomes enhanced, dealing DMG to one designated enemy and enemies adjacent to it.\nWhen the Trailblazer uses Basic ATK, Skill, or Ultimate, apply a Shield to all allies that absorbs DMG equal to {0}% of the Trailblazer's DEF plus {1}. The Shield lasts for 2 turn(s).",
                         "params": [
                             [
                                 "4.0",
@@ -70986,7 +71936,7 @@
                     "basic": {
                         "name": "Farewell Hit",
                         "max_level": 10,
-                        "desc": "Deals Physical DMG equal to {0}% of the Trailblazer's ATK to a single enemy.",
+                        "desc": "Deals Physical DMG equal to {0}% of the Trailblazer's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
@@ -71023,7 +71973,7 @@
                     "skill": {
                         "name": "RIP Home Run",
                         "max_level": 15,
-                        "desc": "Deals Physical DMG equal to {0}% of the Trailblazer's ATK to a single enemy and enemies adjacent to it.",
+                        "desc": "Deals Physical DMG equal to {0}% of the Trailblazer's ATK to one designated enemy and enemies adjacent to it.",
                         "params": [
                             [
                                 "62"
@@ -71075,7 +72025,7 @@
                     "ult": {
                         "name": "Stardust Ace",
                         "max_level": 15,
-                        "desc": "Choose between two attack modes to deliver a full strike.\nBlowout: Farewell Hit deals Physical DMG equal to {0}% of the Trailblazer's ATK to a single enemy.\nBlowout: RIP Home Run deals Physical DMG equal to {1}% of the Trailblazer's ATK to a single enemy, and Physical DMG equal to {2}% of the Trailblazer's ATK to enemies adjacent to it.",
+                        "desc": "Choose between two attack modes to deliver a full strike.\n\"Blowout: Farewell Hit\" deals Physical DMG equal to {0}% of the Trailblazer's ATK to one designated enemy.\n\"Blowout: RIP Home Run\" deals Physical DMG equal to {1}% of the Trailblazer's ATK to one designated enemy, and Physical DMG equal to {2}% of the Trailblazer's ATK to enemies adjacent to it.",
                         "params": [
                             [
                                 "300",
@@ -71579,7 +72529,7 @@
                     "basic": {
                         "name": "Ice-Breaking Light",
                         "max_level": 10,
-                        "desc": "Deals Fire DMG equal to {0}% of the Trailblazer's ATK to a single enemy and gains 1 stack of Magma Will.",
+                        "desc": "Deals Fire DMG equal to {0}% of the Trailblazer's ATK to one designated enemy and gains 1 stack of \"Magma Will.\"",
                         "params": [
                             [
                                 "50"
@@ -71735,7 +72685,7 @@
                     "talent": {
                         "name": "Treasure of the Architects",
                         "max_level": 15,
-                        "desc": "Each time the Trailblazer is hit, they gain 1 stack of Magma Will for a max of 8 stack(s).\nWhen Magma Will has no fewer than 4 stacks, the Trailblazer's Basic ATK becomes enhanced, dealing DMG to a single enemy and enemies adjacent to it.\nWhen the Trailblazer uses Basic ATK, Skill, or Ultimate, apply a Shield to all allies that absorbs DMG equal to {0}% of the Trailblazer's DEF plus {1}. The Shield lasts for 2 turn(s).",
+                        "desc": "Each time the Trailblazer is hit, they gain 1 stack of \"Magma Will\" for a max of 8 stack(s).\nWhen \"Magma Will\" has no fewer than 4 stacks, the Trailblazer's Basic ATK becomes enhanced, dealing DMG to one designated enemy and enemies adjacent to it.\nWhen the Trailblazer uses Basic ATK, Skill, or Ultimate, apply a Shield to all allies that absorbs DMG equal to {0}% of the Trailblazer's DEF plus {1}. The Shield lasts for 2 turn(s).",
                         "params": [
                             [
                                 "4.0",
@@ -72172,7 +73122,7 @@
                     "basic": {
                         "name": "Swing Dance Etiquette",
                         "max_level": 10,
-                        "desc": "Deals Imaginary DMG equal to {0}% of the Trailblazer's ATK to a single enemy.",
+                        "desc": "Deals Imaginary DMG equal to {0}% of the Trailblazer's ATK to one designated enemy.",
                         "params": [
                             [
                                 "50"
