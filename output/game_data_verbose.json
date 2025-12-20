@@ -1,5 +1,5 @@
 {
-    "version": "3.7.0",
+    "version": "3.8.0",
     "light_cones": {
         "Arrows": {
             "rarity": 3,
@@ -3946,7 +3946,7 @@
             ],
             "ability": {
                 "name": "The Maiden in the Painting",
-                "desc": "Increases DMG dealt by the wearer's Follow-up ATKs by {0}%. If the current HP percentage of the target enemy is below or equal to 50%, increases DMG dealt by Follow-up ATKs by an extra {1}%.",
+                "desc": "Increases DMG dealt by the wearer's Follow-Up ATKs by {0}%. If the current HP percentage of the enemy target is below or equal to 50%, increases DMG dealt by Follow-Up ATKs by an extra {1}%.",
                 "params": [
                     [
                         "24",
@@ -10838,7 +10838,7 @@
             ],
             "ability": {
                 "name": "Sweet Dream",
-                "desc": "Increases the wearer's provided Shield Effect by {0}%. When an ally target has a Shield, the DMG dealt increases by {1}%.",
+                "desc": "Increases the wearer's provided Shield Effect by {0}% and while any ally target has a Shield, the wearer's DMG dealt increases by {1}%.",
                 "params": [
                     [
                         "12",
@@ -11747,7 +11747,7 @@
             ],
             "ability": {
                 "name": "Longing",
-                "desc": "Increases the wearer's CRIT Rate by {0}%. The Ultimate DMG and Follow-up ATK DMG dealt by the wearer increase by {1}%.",
+                "desc": "Increases the wearer's CRIT Rate by {0}%. The Ultimate DMG and Follow-Up ATK DMG dealt by the wearer increase by {1}%.",
                 "params": [
                     [
                         "12",
@@ -12073,7 +12073,7 @@
             ],
             "ability": {
                 "name": "Persistence",
-                "desc": "Increases the wearer's CRIT DMG by {0}%. The Skill DMG and Follow-up ATK DMG dealt by the wearer increase by {1}%.",
+                "desc": "Increases the wearer's CRIT DMG by {0}%. The Skill DMG and Follow-Up ATK DMG dealt by the wearer increase by {1}%.",
                 "params": [
                     [
                         "24",
@@ -15028,7 +15028,7 @@
             ],
             "ability": {
                 "name": "Long Night",
-                "desc": "Increases the wearer's CRIT DMG by {0}%. Increases DMG dealt by the wearer's Skill and Ultimate by {1}%. After the wearer uses Skill or Ultimate, gains Somnus Corpus. Upon triggering a Follow-up ATK, consumes Somnus Corpus, and increases DMG dealt by Follow-up ATK by {2}%.",
+                "desc": "Increases the wearer's CRIT DMG by {0}%. Increases DMG dealt by the wearer's Skill and Ultimate by {1}%. After the wearer uses Skill or Ultimate, gains \"Somnus Corpus.\" Upon triggering a Follow-Up ATK, consumes \"Somnus Corpus,\" and increases DMG dealt by Follow-Up ATK by {2}%.",
                 "params": [
                     [
                         "36",
@@ -16076,7 +16076,7 @@
             ],
             "ability": {
                 "name": "One At A Time",
-                "desc": "Increase the wearer's CRIT Rate by {0}% and increases DMG dealt by Follow-up ATK by {1}%. After the wearer uses a Follow-up ATK, inflicts the target with the Tame state, stacking up to 2 time(s). When allies hit enemy targets under the Tame state, each Tame stack increases the CRIT DMG dealt by {2}%.",
+                "desc": "Increase the wearer's CRIT Rate by {0}% and increases DMG dealt by Follow-Up ATK by {1}%. After the wearer uses a Follow-Up ATK, inflicts the target with the \"Tame\" state, stacking up to 2 time(s). When allies hit enemy targets under the \"Tame\" state, each \"Tame\" stack increases the CRIT DMG dealt by {2}%.",
                 "params": [
                     [
                         "18",
@@ -16575,7 +16575,7 @@
             ],
             "ability": {
                 "name": "The Plum Fragrance In My Bones",
-                "desc": "Increases the wearer's Break Effect by {0}%. When the wearer uses their Ultimate, increases all allies' DMG by {1}%, lasting for 3 turn(s). Should the wearer's Break Effect exceed or equal 150%, 1 Skill Point will be recovered.\nAt the start of each wave, all allies regenerate {2} Energy immediately. Abilities of the same type cannot stack.",
+                "desc": "Increases the wearer's Break Effect by {0}%. When the wearer uses their Ultimate, increases all allies' DMG by {1}%, lasting for 3 turn(s). If the wearer's Break Effect exceeds or equals 150%, 1 Skill Point will be recovered.\nAt the start of each wave, all allies regenerate {2} Energy immediately. Abilities of the same type cannot stack.",
                 "params": [
                     [
                         "60",
@@ -16743,7 +16743,7 @@
             ],
             "ability": {
                 "name": "Mental Training",
-                "desc": "Increases the wearer's CRIT DMG by {0}%. For every debuff on the enemy target, the wearer's CRIT DMG dealt against this target additionally increases by {1}%, stacking up to 3 times. When using Ultimate to attack the enemy target, the wearer receives the Disputation effect, which increases DMG dealt by {2}% and enables their Follow-up ATKs to ignore {3}% of the target's DEF. This effect lasts for 2 turns.",
+                "desc": "Increases the wearer's CRIT DMG by {0}%. For every debuff on the enemy target, the wearer's CRIT DMG dealt against this target additionally increases by {1}%, stacking up to 3 times. When using Ultimate to attack the enemy target, the wearer receives the \"Disputation\" effect, which increases DMG dealt by {2}% and enables their Follow-Up ATKs to ignore {3}% of the target's DEF. This effect lasts for 2 turns.",
                 "params": [
                     [
                         "20",
@@ -17252,7 +17252,7 @@
             ],
             "ability": {
                 "name": "All-In",
-                "desc": "Increases the wearer's DEF by {0}%. When the wearer provides a Shield to an ally, the wearer's CRIT DMG increases by {1}%, lasting for 2 turn(s). When the wearer's Follow-up ATK hits an enemy target, there is a {2}% base chance to increase the DMG taken by the attacked enemy target by {3}%, lasting for 2 turn(s).",
+                "desc": "Increases the wearer's DEF by {0}%. When the wearer provides a Shield to an ally, the wearer's CRIT DMG increases by {1}%, lasting for 2 turn(s). When the wearer's Follow-Up ATK hits an enemy target, there is a {2}% base chance to increase the DMG taken by the attacked enemy target by {3}%, lasting for 2 turn(s).",
                 "params": [
                     [
                         "40",
@@ -18060,7 +18060,7 @@
             ],
             "ability": {
                 "name": "Promise",
-                "desc": "Increases the wearer's CRIT Rate by {0}%. While the wearer is in battle, for every 20% CRIT DMG that exceeds 120%, the DMG dealt by Follow-up ATK increases by {1}%. This effect can stack up to 4 time(s). When the battle starts or after the wearer uses their Basic ATK, enables the DMG dealt by Ultimate or Follow-up ATK to ignore {2}% of the target's DEF, lasting for 2 turn(s).",
+                "desc": "Increases the wearer's CRIT Rate by {0}%. While the wearer is in battle, for every 20% CRIT DMG that exceeds 120%, the DMG dealt by Follow-Up ATK increases by {1}%. This effect can stack up to 4 time(s). When the battle starts or after the wearer uses their Basic ATK, enables the DMG dealt by Ultimate or Follow-Up ATK to ignore {2}% of the target's DEF, lasting for 2 turn(s).",
                 "params": [
                     [
                         "16",
@@ -18396,7 +18396,7 @@
             ],
             "ability": {
                 "name": "Deeply Engrossed",
-                "desc": "Greatly increases the wearer's chance of getting attacked and increases CRIT DMG by {0}%. After the wearer uses Ultimate, receives 1 stack of Firedance, lasting for 2 turns and stacking up to 2 time(s). Each stack of Firedance increases the DMG dealt by the wearer's Follow-up ATK by {1}%.",
+                "desc": "Greatly increases the wearer's chance of getting attacked and increases CRIT DMG by {0}%. After the wearer uses Ultimate, receives 1 stack of \"Firedance,\" lasting for 2 turns and stacking up to 2 time(s). Each stack of \"Firedance\" increases the DMG dealt by the wearer's Follow-Up ATK by {1}%.",
                 "params": [
                     [
                         "36",
@@ -18559,7 +18559,7 @@
             ],
             "ability": {
                 "name": "Intimidation",
-                "desc": "Increases the wearer's CRIT Rate by {0}%. When the wearer launches a Follow-up ATK, gains 1 stack of \"Luminflux,\" stacking up to 2 time(s). Each stack of \"Luminflux\" enables the Ultimate DMG dealt by the wearer to ignore {1}% of the target's DEF. When the wearer's turn ends, removes 1 stack of \"Luminflux.\"",
+                "desc": "Increases the wearer's CRIT Rate by {0}%. When the wearer launches a Follow-Up ATK, gains 1 stack of \"Luminflux,\" stacking up to 2 time(s). Each stack of \"Luminflux\" enables the Ultimate DMG dealt by the wearer to ignore {1}% of the target's DEF. When the wearer's turn ends, removes 1 stack of \"Luminflux.\"",
                 "params": [
                     [
                         "15.0",
@@ -19683,7 +19683,7 @@
             ],
             "ability": {
                 "name": "Aspiration",
-                "desc": "Increases the wearer's CRIT DMG by {0}%. After the wearer launches Follow-up ATK, additionally regenerates 12 Energy and gains \"Presage,\" lasting for 2 turn(s). While the wearer has \"Presage,\" all ally targets' CRIT DMG increases by {1}%. When entering battle, the wearer regenerates 21 Energy and gains \"Presage,\" lasting for 2 turn(s).",
+                "desc": "Increases the wearer's CRIT DMG by {0}%. After the wearer launches Follow-Up ATK, additionally regenerates 12 Energy and gains \"Presage,\" lasting for 2 turn(s). While the wearer has \"Presage,\" all ally targets' CRIT DMG increases by {1}%. When entering battle, the wearer regenerates 21 Energy and gains \"Presage,\" lasting for 2 turn(s).",
                 "params": [
                     [
                         "36",
@@ -21586,6 +21586,169 @@
                 ]
             }
         },
+        "Never Forget Her Flame": {
+            "rarity": 5,
+            "path": "Nihility",
+            "desc": "\"Come, come to me...\"\nA vivid memory, guided by flames, envelops her body and soul.\nThe bygone days had fallen into the grave, is that true?\n\"Hush, don't weep, don't resist...\"\nShe brands herself onto others' hearts, as strange gazes gradually turn familiar.\n\"Do you remember now?\"\nAs the embers of old memories scatter away, her face carries a trace of intoxicating floral fragrance...\n\"I am your memory.\"",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 52.8,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 24,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 21,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 116.16,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 52.8,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 46.2,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 200.64,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 91.2,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 79.8,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 285.12,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 129.6,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 113.4,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 369.6,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 168,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 147,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 454.08,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 206.4,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 180.6,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 538.56,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 244.8,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 214.2,
+                        "step": 3.15
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Immolation",
+                "desc": "Increases the wearer's Break Effect by {0}%. When entering combat, increases Break DMG dealt by the wearer and another teammate who triggered combat by {1}%. If there is no teammate who triggered combat, applies this effect to the wearer and the teammate with the highest Break Effect. Effects of the same type cannot be stacked. When the wearer applies Weakness to an enemy target, recovers 1 Skill Point. This effect can only trigger once. And resets this trigger count when using Ultimate.",
+                "params": [
+                    [
+                        "60",
+                        "32"
+                    ],
+                    [
+                        "75",
+                        "42"
+                    ],
+                    [
+                        "90",
+                        "52"
+                    ],
+                    [
+                        "105",
+                        "62"
+                    ],
+                    [
+                        "120",
+                        "72"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.6
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.75
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 0.9
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 1.05
+                        }
+                    ],
+                    [
+                        {
+                            "type": "break",
+                            "value": 1.2
+                        }
+                    ]
+                ]
+            }
+        },
         "Though Worlds Apart": {
             "rarity": 5,
             "path": "Preservation",
@@ -23328,8 +23491,8 @@
                 }
             },
             "desc": [
-                "Increases the DMG dealt by Follow-up ATK by 20%.",
-                "When the wearer uses a Follow-up ATK, increases the wearer's ATK by 6% for every time the Follow-up ATK deals DMG. This effect can stack up to 8 time(s) and lasts for 3 turn(s). This effect is removed the next time the wearer uses a Follow-up ATK."
+                "Increases the DMG dealt by Follow-Up ATK by 20%.",
+                "When the wearer uses a Follow-Up ATK, increases the wearer's ATK by 6% for every time the Follow-Up ATK deals DMG. This effect can stack up to 8 time(s) and lasts for 3 turn(s). This effect is removed the next time the wearer uses a Follow-Up ATK."
             ]
         },
         "Prisoner in Deep Confinement": {
@@ -23465,7 +23628,7 @@
             },
             "desc": [
                 "Increases ATK by 12%.",
-                "Increases the wearer's CRIT Rate by 6%. After the wearer uses a Follow-up ATK, increases DMG dealt by Ultimate by 36%, lasting for 1 turn(s)."
+                "Increases the wearer's CRIT Rate by 6%. After the wearer uses a Follow-Up ATK, increases DMG dealt by Ultimate by 36%, lasting for 1 turn(s)."
             ],
             "modifiers": [
                 [
@@ -23825,7 +23988,7 @@
                 }
             },
             "desc": [
-                "Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 50% or higher, the DMG dealt by the wearer's Ultimate and Follow-up ATK increases by 15%."
+                "Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 50% or higher, the DMG dealt by the wearer's Ultimate and Follow-Up ATK increases by 15%."
             ],
             "modifiers": [
                 [
@@ -24014,7 +24177,7 @@
                 }
             },
             "desc": [
-                "When an ally uses a Follow-up ATK, the wearer gains 1 stack of Merit, stacking up to 5 time(s). Each stack of Merit increases the DMG dealt by the wearer's Follow-up ATKs by 5%. When there are 5 stacks, additionally increases the wearer's CRIT DMG by 25%."
+                "When an ally character uses a Follow-Up ATK, the wearer gains 1 stack of \"Merit,\" stacking up to 5 time(s). Each stack of \"Merit\" increases the DMG dealt by the wearer's Follow-Up ATKs by 5%. When there are 5 stacks, additionally increases the wearer's CRIT DMG by 25%."
             ]
         },
         "Forge of the Kalpagni Lantern": {
@@ -25016,7 +25179,7 @@
                     },
                     {
                         "name": "Blade Dances on Waves' Fight",
-                        "desc": "After \"Shifu\" uses Basic ATK or Skill to attack an enemy target, March 7th immediately launches a Follow-up ATK and deals Imaginary DMG equal to 60% of March 7th's ATK to the primary target of this attack. Additionally, triggers the corresponding effect based on \"Shifu\"'s Path and then gains 1 point(s) of Charge. If there is no primary target available to attack, then she attacks a single random enemy instead. This effect can only trigger once per turn."
+                        "desc": "After \"Shifu\" uses Basic ATK or Skill to attack an enemy target, March 7th immediately launches a Follow-Up ATK and deals Imaginary DMG equal to 60% of March 7th's ATK to the primary target of this attack. Additionally, triggers the corresponding effect based on \"Shifu\"'s Path and then gains 1 point(s) of Charge. If there is no primary target available to attack, then she attacks a single random enemy instead. This effect can only trigger once per turn."
                     },
                     {
                         "name": "Sharp Wit in Martial Might",
@@ -26363,7 +26526,7 @@
                     "talent": {
                         "name": "Victory Rush",
                         "max_level": 15,
-                        "desc": "When an enemy is inflicted with Weakness Break, Himeko gains 1 point of Charge (max 3 points).\nIf Himeko is fully Charged when an ally performs an attack, Himeko immediately performs 1 Follow-up ATK and deals Fire DMG equal to {0}% of her ATK to all enemies, consuming all Charge points.\nAt the start of the battle, Himeko gains 1 point of Charge.",
+                        "desc": "When an enemy target is inflicted with Weakness Break, Himeko gains 1 point of Charge (max 3 points).\nIf Himeko is fully Charged when an ally target performs an attack, Himeko immediately performs 1 Follow-Up ATK and deals Fire DMG equal to {0}% of her ATK to all enemies, consuming all Charge points.\nAt the start of the battle, Himeko gains 1 point of Charge.",
                         "params": [
                             [
                                 "70"
@@ -27347,7 +27510,7 @@
                 "eidolons": [
                     {
                         "name": "Da Capo",
-                        "desc": "When the Talent triggers a Follow-up ATK, there is a 100% base chance to increase the DoT received by the target by 30% for 2 turn(s)."
+                        "desc": "When the Talent triggers a Follow-Up ATK, there is a 100% base chance to increase the DoT received by the target by 30% for 2 turn(s)."
                     },
                     {
                         "name": "Fortississimo",
@@ -27375,7 +27538,7 @@
                     },
                     {
                         "name": "Leggiero",
-                        "desc": "The Shock inflicted on the enemy target by the Ultimate, the Technique, or the Talent-triggered Follow-up ATK has a DMG multiplier increase of 156% and lasts 1 turn(s) longer."
+                        "desc": "The Shock state inflicted on the enemy target by the Ultimate, Technique, or the Talent-triggered Follow-Up ATK has a DMG multiplier increase of 156% and lasts 1 turn(s) longer."
                     }
                 ],
                 "skills": {
@@ -27583,7 +27746,7 @@
                     "talent": {
                         "name": "Gentle but Cruel",
                         "max_level": 15,
-                        "desc": "After Kafka's teammate uses Basic ATK on an enemy target, Kafka immediately launches Follow-up ATK and deals Lightning DMG equal to {0}% of her ATK to that target, with a 100% base chance to inflict Shock equivalent to that applied by her Ultimate to the attacked enemy target, lasting for 2 turns. This effect can only be triggered 1 time per turn.",
+                        "desc": "After Kafka's teammate uses Basic ATK on an enemy target, Kafka immediately launches Follow-Up ATK and deals Lightning DMG equal to {0}% of her ATK to that target, with a 100% base chance to inflict Shock equivalent to that applied by her Ultimate to the attacked enemy target, lasting for 2 turns. This effect can only be triggered 1 time per turn.",
                         "params": [
                             [
                                 "42"
@@ -27648,7 +27811,7 @@
                     },
                     "ability_3": {
                         "name": "Thorns",
-                        "desc": "The base chance for target enemies to be Shocked by the Ultimate, the Technique, and the Talent-triggered Follow-up ATK increases by 30%."
+                        "desc": "The base chance for target enemies to be Shocked by the Ultimate, the Technique, and the Talent-triggered Follow-Up ATK increases by 30%."
                     },
                     "stat_1": {
                         "name": "ATK Boost",
@@ -29963,7 +30126,7 @@
                     "talent": {
                         "name": "Fine, I'll Do It Myself",
                         "max_level": 15,
-                        "desc": "When an ally's attack causes an enemy's HP percentage to fall to 50% or lower, Herta will launch a Follow-up ATK, dealing Ice DMG equal to {0}% of Herta's ATK to all enemies.",
+                        "desc": "When an ally target's attack causes an enemy target's HP percentage to fall to 50% or lower, Herta will launch a Follow-Up ATK, dealing Ice DMG equal to {0}% of Herta's ATK to all enemies.",
                         "params": [
                             [
                                 "25"
@@ -31150,7 +31313,7 @@
                     "talent": {
                         "name": "Mind's Eye (True)",
                         "max_level": 15,
-                        "desc": "After Archer's teammates attack enemy targets, Archer consumes 1 Charge and immediately launches Follow-up ATK on the primary target, dealing Quantum DMG equal to {0}% of Archer's ATK and recovering 1 Skill Point. If the target is defeated before this Follow-up ATK is launched, the Follow-up ATK will be directed at one random enemy instead.",
+                        "desc": "After Archer's teammates attack enemy targets, Archer consumes 1 Charge and immediately launches Follow-Up ATK on the primary target, dealing Quantum DMG equal to {0}% of Archer's ATK and recovering 1 Skill Point. If the target is defeated before this Follow-Up ATK is launched, the Follow-Up ATK will be directed at one random enemy instead.",
                         "params": [
                             [
                                 "100"
@@ -31555,7 +31718,7 @@
                     },
                     {
                         "name": "Take by Surprise",
-                        "desc": "After any other ally character uses Basic ATK on an enemy target that has Wind Weakness, Bronya immediately launches 1 instance of Follow-up ATK, dealing Wind DMG to this target equal to 80% of her Basic ATK DMG. This effect can only trigger once per turn."
+                        "desc": "After any other ally character uses Basic ATK on an enemy target that has Wind Weakness, Bronya immediately launches 1 instance of Follow-Up ATK, dealing Wind DMG to this target equal to 80% of her Basic ATK DMG. This effect can only trigger once per turn."
                     },
                     {
                         "name": "Unstoppable",
@@ -38114,7 +38277,7 @@
                 "eidolons": [
                     {
                         "name": "Future Market",
-                        "desc": "When enemies afflicted with \"Proof of Debt\" receive Follow-up ATKs, they will enter the \"Debtor\" state. This can take effect only once within a single attack.\nThe \"Debtor\" state increases the CRIT DMG of Follow-up ATKs inflicted on the target enemies by 25%, stacking up to 2 time(s). When \"Proof of Debt\" is removed, the \"Debtor\" state is also removed."
+                        "desc": "When enemies afflicted with \"Proof of Debt\" receive Follow-Up ATKs, they will enter the \"Debtor\" state. This can take effect only once within a single attack.\nThe \"Debtor\" state increases the CRIT DMG of Follow-Up ATKs inflicted on the enemy target by 25%, stacking up to 2 time(s). When \"Proof of Debt\" is removed, the \"Debtor\" state is also removed."
                     },
                     {
                         "name": "Bona Fide Acquisition",
@@ -38186,7 +38349,7 @@
                     "skill": {
                         "name": "Difficulty Paying?",
                         "max_level": 15,
-                        "desc": "Inflicts one designated enemy target with a \"Proof of Debt\" state, increasing the Follow-up ATK DMG it receives by {1}%. \"Proof of Debt\" only takes effect on the most recent target it is applied to. If there are no enemies inflicted with \"Proof of Debt\" on the field when an ally's turn starts or when an ally takes action, Topaz will inflict a random enemy with \"Proof of Debt.\"\nNumby deals Fire DMG equal to {0}% of Topaz's ATK to this target. Using this Skill to deal DMG is considered as launching a Follow-up ATK.",
+                        "desc": "Inflicts one designated enemy target with a \"Proof of Debt\" state, increasing the Follow-Up ATK DMG it receives by {1}%. \"Proof of Debt\" only takes effect on the most recent target it is applied to. If there are no enemies inflicted with \"Proof of Debt\" on the field when an ally's turn starts or when an ally takes action, Topaz will inflict a random enemy with \"Proof of Debt.\"\nNumby deals Fire DMG equal to {0}% of Topaz's ATK to this target. Using this Skill to deal DMG is considered as launching a Follow-Up ATK.",
                         "params": [
                             [
                                 "75",
@@ -38320,7 +38483,7 @@
                     "talent": {
                         "name": "Trotter Market!?",
                         "max_level": 15,
-                        "desc": "Summons Numby at the start of battle. Numby has 80 SPD by default. When taking action, Numby launches Follow-up ATKs on one enemy target afflicted with \"Proof of Debt,\" dealing Fire DMG equal to {0}% of Topaz's ATK.\nWhen enemies afflicted with \"Proof of Debt\" receive an ally's Follow-up ATKs, Numby's action is Advanced Forward by 50%. The action Advance Forward effect cannot be triggered during Numby's own turn.\nWhen Topaz is downed, Numby disappears.",
+                        "desc": "Summons Numby at the start of battle. Numby has 80 SPD by default. When taking action, Numby launches Follow-Up ATKs on one enemy target afflicted with \"Proof of Debt,\" dealing Fire DMG equal to {0}% of Topaz's ATK.\nWhen enemies afflicted with \"Proof of Debt\" receive an ally's Follow-Up ATKs, Numby's action is Advanced Forward by 50%. The action Advance Forward effect cannot be triggered during Numby's own turn.\nWhen Topaz is downed, Numby disappears.",
                         "params": [
                             [
                                 "75"
@@ -38377,7 +38540,7 @@
                     },
                     "ability_1": {
                         "name": "Overdraft",
-                        "desc": "When Topaz uses Basic ATK to deal DMG, it is considered as a Follow-up ATK."
+                        "desc": "When Topaz uses Basic ATK to deal DMG, it is considered as a Follow-Up ATK."
                     },
                     "ability_2": {
                         "name": "Financial Turmoil",
@@ -38725,7 +38888,7 @@
                     },
                     {
                         "name": "Right on the Tiles",
-                        "desc": "After using Skill, there is a 24% fixed chance to gain \"Self-Sufficer,\" lasting until the end of the current turn. \nWhile \"Self-Sufficer\" is active, using Basic ATK or Enhanced Basic ATK immediately launches 1 Follow-up ATK on the same target, dealing Quantum DMG equal to 100% of Basic ATK DMG or Enhanced Basic ATK DMG."
+                        "desc": "After using Skill, there is a 24% fixed chance to gain \"Self-Sufficer,\" lasting until the end of the current turn. \nWhile \"Self-Sufficer\" is active, using Basic ATK or Enhanced Basic ATK immediately launches 1 Follow-Up ATK on the same target, dealing Quantum DMG equal to 100% of Basic ATK DMG or Enhanced Basic ATK DMG."
                     },
                     {
                         "name": "Gambit for the Tiles",
@@ -40640,7 +40803,7 @@
                     "talent": {
                         "name": "Prana Extirpated",
                         "max_level": 15,
-                        "desc": "Summons Lightning-Lord at the start of the battle. Lightning-Lord has 60 base SPD and 3 base Hits Per Action. When the Lightning-Lord takes action, its hits are considered as Follow-up ATKs, with each hit dealing Lightning DMG equal to {0}% of Jing Yuan's ATK to a random single enemy, and enemies adjacent to it also receive Lightning DMG equal to 25% of the DMG dealt to the primary target enemy.\nThe Lightning-Lord's Hits Per Action can reach a max of 10. Every time Lightning-Lord's Hits Per Action increases by 1, its SPD increases by 10. After the Lightning-Lord's action ends, its SPD and Hits Per Action return to their base values.\nWhen Jing Yuan is knocked down, the Lightning-Lord will disappear.\nWhen Jing Yuan is affected by Crowd Control debuff, the Lightning-Lord is unable to take action.",
+                        "desc": "Summons \"Lightning-Lord\" at the start of the battle. \"Lightning-Lord\" has 60 base SPD and 3 base Hits Per Action. When the Lightning-Lord takes action, its hits are considered as Follow-Up ATKs, with each hit dealing Lightning DMG equal to {0}% of Jing Yuan's ATK to a random single enemy, and enemies adjacent to it also receive Lightning DMG equal to 25% of the DMG dealt to the primary target enemy.\nThe Lightning-Lord's Hits Per Action can reach a max of 10. Every time \"Lightning-Lord's\" Hits Per Action increases by 1, its SPD increases by 10. After the \"Lightning-Lord's\" action ends, its SPD and Hits Per Action return to their base values.\nWhen Jing Yuan is knocked down, the \"Lightning-Lord\" will disappear.\nWhen Jing Yuan is affected by Crowd Control debuff, the \"Lightning-Lord\" is unable to take action.",
                         "params": [
                             [
                                 "33"
@@ -41057,7 +41220,7 @@
                     },
                     {
                         "name": "Reborn Into an Empty Husk",
-                        "desc": "The maximum number of Charge stacks is reduced to 4. The Follow-up ATK triggered by Talent deals additionally increased DMG equal to 50% of Blade's Max HP."
+                        "desc": "The maximum number of Charge stacks is reduced to 4. The Follow-Up ATK triggered by Talent deals additionally increased DMG, with the increased amount equal to 50% of Blade's Max HP."
                     }
                 ],
                 "skills": {
@@ -41280,7 +41443,7 @@
                     "talent": {
                         "name": "Shuhu's Gift",
                         "max_level": 15,
-                        "desc": "When Blade sustains DMG or consumes his HP, he gains 1 stack of Charge, stacking up to 5 times. A max of 1 Charge stack can be gained every time he is attacked.\nWhen Charge stack reaches maximum, immediately launches a Follow-up ATK on all enemies, dealing Wind DMG equal to {0}% of Blade's ATK plus {1}% of his Max HP. At the same time, restores Blade's HP by 25% of his Max HP. After the Follow-up ATK, all Charges are consumed.",
+                        "desc": "When Blade sustains DMG or consumes his HP, he gains 1 stack of Charge, stacking up to 5 times. A max of 1 Charge stack can be gained every time he is attacked.\nWhen Charge stack reaches maximum, immediately launches a Follow-Up ATK on all enemies, dealing Wind DMG equal to {0}% of Blade's ATK plus {1}% of his Max HP. At the same time, restores Blade's HP by 25% of his Max HP. After the Follow-Up ATK, all Charges are consumed.",
                         "params": [
                             [
                                 "22",
@@ -41360,7 +41523,7 @@
                     },
                     "ability_3": {
                         "name": "Cyclone of Destruction",
-                        "desc": "Increases DMG dealt by the Talent's Follow-up ATK by 20%."
+                        "desc": "Increases DMG dealt by the Talent's Follow-Up ATK by 20%."
                     },
                     "stat_1": {
                         "name": "HP Boost",
@@ -43660,7 +43823,7 @@
                     "talent": {
                         "name": "One With the Sword",
                         "max_level": 15,
-                        "desc": "When Soulsteel Sync is active, Yanqing is less likely to be attacked by enemies. Yanqing's CRIT Rate increases by {0}% and his CRIT DMG increases by {1}%. After Yanqing attacks an enemy, there is a {2}% fixed chance to launch Follow-up ATK, dealing Ice DMG equal to {3}% of Yanqing's ATK to the enemy, which has a 65% base chance to Freeze the enemy for 1 turn.\nThe Frozen target cannot take action and receives Ice Additional DMG equal to {4}% of Yanqing's ATK at the beginning of each turn.\nWhen Yanqing receives DMG, the Soulsteel Sync effect will disappear.",
+                        "desc": "When \"Soulsteel Sync\" is active, Yanqing is less likely to be attacked by enemies. Yanqing's CRIT Rate increases by {0}% and his CRIT DMG increases by {1}%. After Yanqing attacks an enemy, there is a {2}% fixed chance to launch Follow-Up ATK, dealing Ice DMG equal to {3}% of Yanqing's ATK to the enemy, which has a 65% base chance to Freeze the enemy for 1 turn.\nThe Frozen target cannot take action and receives Ice Additional DMG equal to {4}% of Yanqing's ATK at the beginning of each turn.\nWhen Yanqing receives DMG, the \"Soulsteel Sync\" effect will disappear.",
                         "params": [
                             [
                                 "15.0",
@@ -46534,11 +46697,11 @@
                 "eidolons": [
                     {
                         "name": "Dvesha, Inhibited",
-                        "desc": "Increases the DMG dealt by the Talent's Follow-up ATK by 40%."
+                        "desc": "Increases the DMG dealt by the Talent's Follow-Up ATK by 40%."
                     },
                     {
                         "name": "Klesha, Breached",
-                        "desc": "Talent's Follow-up ATK Reduces enemy Toughness regardless of Weakness types. At the same time, restores Xueyi's HP by an amount equal to 5% of her Max HP. When breaking Weakness, triggers the Quantum Break Effect."
+                        "desc": "Talent's Follow-Up ATK Reduces enemy Toughness regardless of Weakness types. At the same time, restores Xueyi's HP by an amount equal to 5% of her Max HP. When breaking Weakness, triggers the Quantum Break Effect."
                     },
                     {
                         "name": "Du\u1e25kha, Ceased",
@@ -46740,7 +46903,7 @@
                     "talent": {
                         "name": "Karmic Perpetuation",
                         "max_level": 15,
-                        "desc": "When Xueyi reduces enemy Toughness with attacks, Karma will be stacked. The more Toughness is reduced, the more stacks of Karma are added, up to 8 stacks.\nWhen Xueyi's teammates reduce enemy Toughness with attacks, Xueyi gains 1 stack(s) of Karma.\nWhen Karma reaches the max number of stacks, consumes all current Karma stacks and immediately launches Follow-up ATK against an enemy target, dealing DMG for 3 times, with each time dealing Quantum DMG equal to {0}% of Xueyi's ATK to a single random enemy. This Follow-up ATK will not add Karma stacks.",
+                        "desc": "When Xueyi reduces enemy Toughness with attacks, \"Karma\" will be stacked. The more Toughness is reduced, the more stacks of \"Karma\" are added, up to 8 stacks.\nWhen Xueyi's teammates reduce enemy Toughness with attacks, Xueyi gains 1 stack(s) of \"Karma.\"\nWhen \"Karma\" reaches the max number of stacks, consumes all current \"Karma\" stacks and immediately launches Follow-Up ATK against an enemy target, dealing DMG for 3 times, with each time dealing Quantum DMG equal to {0}% of Xueyi's ATK to a single random enemy. This Follow-Up ATK will not add \"Karma\" stacks.",
                         "params": [
                             [
                                 "45"
@@ -48993,7 +49156,7 @@
                     },
                     {
                         "name": "Moonward I Wish",
-                        "desc": "In the Talent's effect, for every 1 instance of Follow-up ATK launched by ally targets, Feixiao gains 1 point of \"Flying Aureus.\" This effect can trigger up to 6 time(s) per turn."
+                        "desc": "In the Talent's effect, for every 1 instance of Follow-Up ATK launched by ally targets, Feixiao gains 1 point of \"Flying Aureus.\" This effect can trigger up to 6 time(s) per turn."
                     },
                     {
                         "name": "Starward I Bode",
@@ -49005,7 +49168,7 @@
                     },
                     {
                         "name": "Stormward I Hear",
-                        "desc": "The Toughness Reduction from the Talent's Follow-up ATK increases by 100% and, when launched, increases this unit's SPD by 8%, lasting for 2 turn(s)."
+                        "desc": "The Toughness Reduction from the Talent's Follow-Up ATK increases by 100% and, when launched, increases this unit's SPD by 8%, lasting for 2 turn(s)."
                     },
                     {
                         "name": "Heavenward I Leap",
@@ -49017,7 +49180,7 @@
                     },
                     {
                         "name": "Homeward I Near",
-                        "desc": "Increases the All-Type RES PEN of Ultimate DMG dealt by Feixiao by 20%. Talent's Follow-up ATK DMG is considered as Ultimate DMG at the same time, and its DMG multiplier increases by 140%."
+                        "desc": "Increases the All-Type RES PEN of Ultimate DMG dealt by Feixiao by 20%. Talent's Follow-Up ATK DMG is considered as Ultimate DMG at the same time, and its DMG multiplier increases by 140%."
                     }
                 ],
                 "skills": {
@@ -49061,7 +49224,7 @@
                     "skill": {
                         "name": "Waraxe",
                         "max_level": 15,
-                        "desc": "Deals Wind DMG equal to {0}% of Feixiao's ATK to one designated enemy target. Then, immediately launches 1 extra instance of Talent's Follow-up ATK against the target.",
+                        "desc": "Deals Wind DMG equal to {0}% of Feixiao's ATK to one designated enemy target. Then, immediately launches 1 extra instance of Talent's Follow-Up ATK against the target.",
                         "params": [
                             [
                                 "100"
@@ -49180,7 +49343,7 @@
                     "talent": {
                         "name": "Thunderhunt",
                         "max_level": 15,
-                        "desc": "Can activate Ultimate when \"Flying Aureus\" reaches 6 points, accumulating up to 12 points. Feixiao gains 1 point of \"Flying Aureus\" for every 2 attacks by ally targets. Feixiao's Ultimate attacks do not count towards this number.\nAfter Feixiao's teammates attack an Enemy target, Feixiao immediately launches Follow-up ATK against the primary target, dealing Wind DMG equal to {0}% of Feixiao's ATK. If there is no primary target available to attack, Feixiao attacks a single random enemy instead. This effect can only trigger once per turn and the trigger count resets at the start of Feixiao's turn. When using this attack, increases DMG dealt by this unit by {1}%, lasting for 2 turn(s).",
+                        "desc": "Can activate Ultimate when \"Flying Aureus\" reaches 6 points, accumulating up to 12 points. Feixiao gains 1 point of \"Flying Aureus\" for every 2 attacks by ally targets. Feixiao's Ultimate attacks do not count towards this number.\nAfter Feixiao's teammates attack an Enemy target, Feixiao immediately launches Follow-Up ATK against the primary target, dealing Wind DMG equal to {0}% of Feixiao's ATK. If there is no primary target available to attack, Feixiao attacks a single random enemy instead. This effect can only trigger once per turn and the trigger count resets at the start of Feixiao's turn. When using this attack, increases DMG dealt by this unit by {1}%, lasting for 2 turn(s).",
                         "params": [
                             [
                                 "55",
@@ -49252,11 +49415,11 @@
                     },
                     "ability_1": {
                         "name": "Heavenpath",
-                        "desc": "When the battle starts, gains 3 point(s) of \"Flying Aureus.\"\nAt the start of a turn, if no Follow-up ATK was launched via Talent in the previous turn, then this counts as 1 toward the number of attacks required to gain \"Flying Aureus.\""
+                        "desc": "When the battle starts, gains 3 point(s) of \"Flying Aureus.\"\nAt the start of a turn, if no Follow-Up ATK was launched via Talent in the previous turn, then this counts as 1 toward the number of attacks required to gain \"Flying Aureus.\""
                     },
                     "ability_2": {
                         "name": "Formshift",
-                        "desc": "When using Ultimate to deal DMG to an enemy target, it is considered as a Follow-up ATK. Follow-up ATKs' CRIT DMG increases by 36%."
+                        "desc": "When using Ultimate to deal DMG to an enemy target, it is considered as a Follow-Up ATK. Follow-Up ATKs' CRIT DMG increases by 36%."
                     },
                     "ability_3": {
                         "name": "Boltcatch",
@@ -50505,7 +50668,7 @@
                     "talent": {
                         "name": "Mistdance Manifest",
                         "max_level": 15,
-                        "desc": "When using Skill, summons \"Fuyuan,\" with an initial SPD of 90 and an initial action count of 3.\nWhen taking action, \"Fuyuan\" launches Follow-up ATK, dealing Fire DMG equal to {0}% of Lingsha's ATK to all enemies. Additionally deals Fire DMG equal to {3}% of Lingsha's ATK to one random enemy, and this DMG prioritizes targets that have both Toughness greater than 0 and Fire Weakness. Dispels 1 debuff(s) from all allies and restores HP equal to {1}% of Lingsha's ATK plus {2}.\n\"Fuyuan's\" action count can accumulate up to 5. When the action count reaches 0 or when Lingsha is knocked down, \"Fuyuan\" disappears.\nWhile \"Fuyuan\" is on the field, using Skill can increase \"Fuyuan's\" action count by 3.",
+                        "desc": "When using Skill, summons \"Fuyuan,\" with an initial SPD of 90 and an initial action count of 3.\nWhen taking action, \"Fuyuan\" launches Follow-Up ATK, dealing Fire DMG equal to {0}% of Lingsha's ATK to all enemies. Additionally deals Fire DMG equal to {3}% of Lingsha's ATK to one random enemy, and this DMG prioritizes targets that have both Toughness greater than 0 and Fire Weakness. Dispels 1 debuff(s) from all allies and restores HP equal to {1}% of Lingsha's ATK plus {2}.\n\"Fuyuan's\" action count can accumulate up to 5. When the action count reaches 0 or when Lingsha is knocked down, \"Fuyuan\" disappears.\nWhile \"Fuyuan\" is on the field, using Skill can increase \"Fuyuan's\" action count by 3.",
                         "params": [
                             [
                                 "37",
@@ -50615,7 +50778,7 @@
                     },
                     "ability_3": {
                         "name": "Ember's Echo",
-                        "desc": "While \"Fuyuan\" is on the field and any ally character takes DMG or consumes HP, if a character in the team has their current HP percentage lower than or equal to 60%, \"Fuyuan\" will immediately launch the Talent's Follow-up ATK against enemies. This does not consume Fuyuan's action count. This effect can trigger again after 2 turn(s)."
+                        "desc": "While \"Fuyuan\" is on the field and any ally character takes DMG or consumes HP, if a character in the team has their current HP percentage lower than or equal to 60%, \"Fuyuan\" will immediately launch the Talent's Follow-Up ATK against enemies. This does not consume Fuyuan's action count. This effect can trigger again after 2 turn(s)."
                     },
                     "stat_1": {
                         "name": "Break Boost",
@@ -50967,7 +51130,7 @@
                     },
                     {
                         "name": "Faithbinder",
-                        "desc": "Increases the DMG multiplier of the Talent's Follow-up ATK by 25%."
+                        "desc": "Increases the DMG multiplier of the Talent's Follow-Up ATK by 25%."
                     }
                 ],
                 "skills": {
@@ -51063,7 +51226,7 @@
                     "ult": {
                         "name": "Dash In, Gash Out",
                         "max_level": 15,
-                        "desc": "Deals Lightning DMG equal to {0}% of Moze's ATK to one designated enemy target, and launches the Talent's Follow-up ATK against this target. If the target is defeated before this Follow-up ATK is used, then launches the Follow-up ATK against a random single enemy instead.",
+                        "desc": "Deals Lightning DMG equal to {0}% of Moze's ATK to one designated enemy target, and launches the Talent's Follow-Up ATK against this target. If the target is defeated before this Follow-Up ATK is used, then launches the Follow-Up ATK against a random single enemy instead.",
                         "params": [
                             [
                                 "162"
@@ -51115,7 +51278,7 @@
                     "talent": {
                         "name": "Cascading Featherblade",
                         "max_level": 15,
-                        "desc": "When \"Prey\" exists on the field, Moze will enter the Departed state.\nAfter allies attack \"Prey,\" Moze will additionally deal 1 instance of Lightning Additional DMG equal to {0}% of his ATK and consumes 1 point of Charge. For every 3 point(s) of Charge consumed, Moze launches 1 Follow-up ATK to \"Prey,\" dealing Lightning DMG equal to {1}% of his ATK. When Charge reaches 0, dispels the target's \"Prey\" state and resets the tally of Charge points required to launch Follow-up ATK. Talent's Follow-up ATK does not consume Charge.",
+                        "desc": "When \"Prey\" exists on the field, Moze will enter the Departed state.\nAfter ally targets attack \"Prey,\" Moze will additionally deal 1 instance of Lightning Additional DMG equal to {0}% of his ATK and consumes 1 point of Charge. For every 3 point(s) of Charge consumed, Moze launches 1 Follow-Up ATK to \"Prey,\" dealing Lightning DMG equal to {1}% of his ATK. When Charge reaches 0, dispels the target's \"Prey\" state and resets the tally of Charge points required to launch Follow-Up ATK. Talent's Follow-Up ATK does not consume Charge.",
                         "params": [
                             [
                                 "15",
@@ -51187,7 +51350,7 @@
                     },
                     "ability_1": {
                         "name": "Nightfeather",
-                        "desc": "After using Talent's Follow-up ATK, recovers 1 Skill Point(s). This effect can trigger again after 1 turn(s)."
+                        "desc": "After using Talent's Follow-Up ATK, recovers 1 Skill Point(s). This effect can trigger again after 1 turn(s)."
                     },
                     "ability_2": {
                         "name": "Daggerhold",
@@ -51195,7 +51358,7 @@
                     },
                     "ability_3": {
                         "name": "Vengewise",
-                        "desc": "When dealing DMG by using Ultimate, it is considered as having launched a Follow-up ATK. The Follow-up ATK DMG taken by the \"Prey\" increases by 25%."
+                        "desc": "When dealing DMG by using Ultimate, it is considered as having launched a Follow-Up ATK. The Follow-Up ATK DMG taken by the \"Prey\" increases by 25%."
                     },
                     "stat_1": {
                         "name": "CRIT DMG Boost",
@@ -53855,7 +54018,7 @@
                     },
                     {
                         "name": "Unexpected Hanging Paradox",
-                        "desc": "When triggering his Talent's Follow-up ATK, first increases Aventurine's DEF by 40% for 2 turn(s), and additionally increases the Hits Per Action for his talent's Follow-up ATK by 3."
+                        "desc": "When triggering his Talent's Follow-Up ATK, first increases Aventurine's DEF by 40% for 2 turn(s), and additionally increases the Hits Per Action for his talent's Follow-Up ATK by 3."
                     },
                     {
                         "name": "Ambiguity Aversion",
@@ -54045,7 +54208,7 @@
                     "talent": {
                         "name": "Shot Loaded Right",
                         "max_level": 15,
-                        "desc": "For any single ally with \"Fortified Wager,\" their Effect RES increases by {1}%, and when they get attacked, Aventurine gains 1 point of \"Blind Bet.\" When Aventurine has \"Fortified Wager,\" he can resist Crowd Control debuffs. This effect can trigger again after 2 turn(s). Aventurine additionally gains 1 point(s) of \"Blind Bet\" after getting attacked. Upon reaching 7 points of \"Blind Bet,\" Aventurine consumes the 7 points to launch a 7-hit Follow-up ATK, with each hit dealing Imaginary DMG equal to {0}% of Aventurine's DEF to one random enemy. \"Blind Bet\" is capped at 10 points.",
+                        "desc": "For any single ally with \"Fortified Wager,\" their Effect RES increases by {1}%, and when they get attacked, Aventurine gains 1 point of \"Blind Bet.\" When Aventurine has \"Fortified Wager,\" he can resist Crowd Control debuffs. This effect can trigger again after 2 turn(s). Aventurine additionally gains 1 point(s) of \"Blind Bet\" after getting attacked. Upon reaching 7 points of \"Blind Bet,\" Aventurine consumes the 7 points to launch a 7-hit Follow-Up ATK, with each hit dealing Imaginary DMG equal to {0}% of Aventurine's DEF to one random enemy. \"Blind Bet\" is capped at 10 points.",
                         "params": [
                             [
                                 "12",
@@ -54125,7 +54288,7 @@
                     },
                     "ability_3": {
                         "name": "Bingo!",
-                        "desc": "After a teammate with Fortified Wager launches Follow-up ATK, Aventurine accumulates 1 Blind Bet point. This effect can trigger up to 3 time(s). Its trigger count resets at the start of Aventurine's turn. After Aventurine launches his Talent's Follow-up ATK, provides all ally targets with a Fortified Wager that can block DMG equal to 7% of Aventurine's DEF plus 96, and additionally grants a Fortified Wager that can block DMG equal to 7% of Aventurine's DEF plus 96 to the ally with the lowest Shield Effect, lasting for 3 turns."
+                        "desc": "After a teammate with \"Fortified Wager\" launches Follow-Up ATK, Aventurine accumulates 1 \"Blind Bet\" point. This effect can trigger up to 3 time(s). Its trigger count resets at the start of Aventurine's turn. After Aventurine launches his Talent's Follow-Up ATK, provides all ally targets with a \"Fortified Wager\" that can offset DMG equal to 7% of Aventurine's DEF plus 96, and additionally grants a \"Fortified Wager\" that can block DMG equal to 7% of Aventurine's DEF plus 96 to the ally with the lowest Shield Effect, lasting for 3 turns."
                     },
                     "stat_1": {
                         "name": "DEF Boost",
@@ -54453,7 +54616,7 @@
                     },
                     {
                         "name": "The Divine Is in the Details",
-                        "desc": "When his Talent's Follow-up ATK hits a target, for every debuff the target has, deals Imaginary Additional DMG equal to 20% of Dr. Ratio's ATK. This effect can be triggered for a maximum of 4 time(s) during each Follow-up ATK."
+                        "desc": "When his Talent's Follow-Up ATK hits a target, for every debuff the target has, deals Imaginary Additional DMG equal to 20% of Dr. Ratio's ATK. This effect can be triggered for a maximum of 4 time(s) during each Follow-Up ATK."
                     },
                     {
                         "name": "Know Thyself",
@@ -54477,7 +54640,7 @@
                     },
                     {
                         "name": "Vincit Omnia Veritas",
-                        "desc": "Additionally increases the trigger count for \"Wiseman's Folly\" by 1. The DMG dealt by the Talent's Follow-up ATK increases by 50%."
+                        "desc": "Additionally increases the trigger count for \"Wiseman's Folly\" by 1. The DMG dealt by the Talent's Follow-Up ATK increases by 50%."
                     }
                 ],
                 "skills": {
@@ -54573,7 +54736,7 @@
                     "ult": {
                         "name": "Syllogistic Paradox",
                         "max_level": 15,
-                        "desc": "Deals Imaginary DMG equal to {0}% of Dr. Ratio's ATK to one designated enemy target and applies \"Wiseman's Folly.\" When Dr. Ratio's teammates attack a target afflicted with \"Wiseman's Folly,\" Dr. Ratio launches 1 instance of his Talent's Follow-up ATK against this target.\n\"Wiseman's Folly\" can be triggered for up to 2 times and only affects the most recent target of Dr. Ratio's Ultimate. This trigger count resets after Dr. Ratio's Ultimate is used.",
+                        "desc": "Deals Imaginary DMG equal to {0}% of Dr. Ratio's ATK to one designated enemy target and applies \"Wiseman's Folly.\" When Dr. Ratio's teammates attack a target afflicted with \"Wiseman's Folly,\" Dr. Ratio launches 1 instance of his Talent's Follow-Up ATK against this target.\n\"Wiseman's Folly\" can be triggered for up to 2 times and only affects the most recent target of Dr. Ratio's Ultimate. This trigger count resets after Dr. Ratio's Ultimate is used.",
                         "params": [
                             [
                                 "144"
@@ -54625,7 +54788,7 @@
                     "talent": {
                         "name": "Cogito, Ergo Sum",
                         "max_level": 15,
-                        "desc": "When using his Skill, Dr. Ratio has a 40% fixed chance of launching a Follow-up ATK against his target for 1 time, dealing Imaginary DMG equal to {0}% of Dr. Ratio's ATK. For each debuff the target enemy has, the fixed chance of launching Follow-up ATK increases by 20%. If the target enemy is defeated before the Follow-up ATK triggers, the Follow-up ATK will be directed at a single random enemy instead.",
+                        "desc": "When using his Skill, Dr. Ratio has a 40% fixed chance of launching a Follow-Up ATK against his target for 1 time, dealing Imaginary DMG equal to {0}% of Dr. Ratio's ATK. For each debuff the target enemy has, the fixed chance of launching Follow-Up ATK increases by 20%. If the target enemy is defeated before the Follow-Up ATK triggers, the Follow-Up ATK will be directed at a single random enemy instead.",
                         "params": [
                             [
                                 "135"
@@ -57176,7 +57339,7 @@
                     },
                     "ability_2": {
                         "name": "Impromptu Flourish",
-                        "desc": "While the Concerto state is active, the CRIT DMG dealt when all allies launch Follow-up ATK increases by 25%."
+                        "desc": "While the \"Concerto\" state is active, the CRIT DMG dealt when all allies launch Follow-Up ATK increases by 25%."
                     },
                     "ability_3": {
                         "name": "Sequential Passage",
@@ -57643,7 +57806,7 @@
                     "ult": {
                         "name": "Fyrefly Type-IV: Complete Combustion",
                         "max_level": 15,
-                        "desc": "Enters the Complete Combustion state, advances this unit's Action by 100%, and gains Enhanced Basic ATK and Enhanced Skill. While in Complete Combustion, increases SPD by {1}, and when using the Enhanced Basic ATK or Enhanced Skill, increases this unit's Weakness Break Efficiency by 50% and the Break DMG dealt by SAM to the enemy targets by {0}%, lasting until this current attack ends.\nA countdown timer for the Complete Combustion state appears in the Action Order. When the countdown timer's turn starts, SAM exits the Complete Combustion state. The countdown timer has a fixed SPD of 70.\nSAM cannot use Ultimate while in Complete Combustion.",
+                        "desc": "Enters the Complete Combustion state, advances this unit's Action by 100%, and gains Enhanced Basic ATK and Enhanced Skill. While in Complete Combustion, increases SPD by {1}, and when using the Enhanced Basic ATK or Enhanced Skill, increases this unit's Weakness Break Efficiency by 50% and increases the Break DMG dealt by SAM to the enemy targets by {0}%, lasting until this current attack ends.\nA countdown timer for the Complete Combustion state appears in the Action Order. When the countdown timer's turn starts, SAM exits the Complete Combustion state. The countdown timer has a fixed SPD of 70.\nSAM cannot use Ultimate while in Complete Combustion.",
                         "params": [
                             [
                                 "10.0",
@@ -59319,7 +59482,7 @@
                 "eidolons": [
                     {
                         "name": "Altruism? Nevertheless Tradable",
-                        "desc": "The Follow-up ATK DMG from Jade's Talent increases by 32%. After the \"Debt Collector\" character attacks and the number of the enemy target(s) hit is either 2 or 1, Jade additionally gains 1 or 2 point(s) of Charge respectively."
+                        "desc": "The Follow-Up ATK DMG from Jade's Talent increases by 32%. After the \"Debt Collector\" character attacks and the number of the enemy target(s) hit is either 2 or 1, Jade additionally gains 1 or 2 point(s) of Charge respectively."
                     },
                     {
                         "name": "Morality? Herein Authenticated",
@@ -59453,7 +59616,7 @@
                     "ult": {
                         "name": "Vow of the Deep",
                         "max_level": 15,
-                        "desc": "Deals Quantum DMG equal to {1}% of Jade's ATK to all enemies. At the same time, Jade enhances her Talent's Follow-up ATK, increasing its DMG multiplier by {0}%. This enhancement can take effect 2 time(s).",
+                        "desc": "Deals Quantum DMG equal to {1}% of Jade's ATK to all enemies. At the same time, Jade enhances her Talent's Follow-Up ATK, increasing its DMG multiplier by {0}%. This enhancement can take effect 2 time(s).",
                         "params": [
                             [
                                 "40",
@@ -59520,7 +59683,7 @@
                     "talent": {
                         "name": "Fang of Flare Flaying",
                         "max_level": 15,
-                        "desc": "After Jade or the Debt Collector unit attacks, gains 1 point of Charge for each enemy target hit. Upon reaching 8 points of Charge, consumes the 8 points to launch 1 instance of Follow-up ATK, dealing Quantum DMG equal to {1}% of Jade's ATK to all enemies. This Follow-up ATK does not generate Charge.\nWhen launching her Talent's Follow-up ATK, Jade immediately gains 5 stack(s) of Pawned Asset, with each stack increasing CRIT DMG by {0}%, stacking up to 50 times.",
+                        "desc": "After Jade or the \"Debt Collector\" unit attacks, gains 1 point of Charge for each enemy target hit. Upon reaching 8 points of Charge, consumes the 8 points to launch 1 instance of Follow-Up ATK, dealing Quantum DMG equal to {1}% of Jade's ATK to all enemies. This Follow-Up ATK does not generate Charge.\nWhen launching her Talent's Follow-Up ATK, Jade immediately gains 5 stack(s) of \"Pawned Asset,\" with each stack increasing CRIT DMG by {0}%, stacking up to 50 times.",
                         "params": [
                             [
                                 "1.2",
@@ -60889,6 +61052,616 @@
                             {
                                 "type": "atk_",
                                 "value": 0.08
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "The Dahlia": {
+            "Nihility": {
+                "rarity": 5,
+                "element": "Fire",
+                "ascension": [
+                    {
+                        "hp": {
+                            "base": 147.84,
+                            "step": 7.392
+                        },
+                        "atk": {
+                            "base": 92.4,
+                            "step": 4.62
+                        },
+                        "def": {
+                            "base": 82.5,
+                            "step": 4.125
+                        },
+                        "spd": {
+                            "base": 96,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 206.976,
+                            "step": 7.392
+                        },
+                        "atk": {
+                            "base": 129.36,
+                            "step": 4.62
+                        },
+                        "def": {
+                            "base": 115.5,
+                            "step": 4.125
+                        },
+                        "spd": {
+                            "base": 96,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 266.112,
+                            "step": 7.392
+                        },
+                        "atk": {
+                            "base": 166.32,
+                            "step": 4.62
+                        },
+                        "def": {
+                            "base": 148.5,
+                            "step": 4.125
+                        },
+                        "spd": {
+                            "base": 96,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 325.248,
+                            "step": 7.392
+                        },
+                        "atk": {
+                            "base": 203.28,
+                            "step": 4.62
+                        },
+                        "def": {
+                            "base": 181.5,
+                            "step": 4.125
+                        },
+                        "spd": {
+                            "base": 96,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 384.384,
+                            "step": 7.392
+                        },
+                        "atk": {
+                            "base": 240.24,
+                            "step": 4.62
+                        },
+                        "def": {
+                            "base": 214.5,
+                            "step": 4.125
+                        },
+                        "spd": {
+                            "base": 96,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 443.52,
+                            "step": 7.392
+                        },
+                        "atk": {
+                            "base": 277.2,
+                            "step": 4.62
+                        },
+                        "def": {
+                            "base": 247.5,
+                            "step": 4.125
+                        },
+                        "spd": {
+                            "base": 96,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 502.656,
+                            "step": 7.392
+                        },
+                        "atk": {
+                            "base": 314.16,
+                            "step": 4.62
+                        },
+                        "def": {
+                            "base": 280.5,
+                            "step": 4.125
+                        },
+                        "spd": {
+                            "base": 96,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    }
+                ],
+                "eidolons": [
+                    {
+                        "name": "When a Bud Readies to Bloom",
+                        "desc": "The Super Break DMG multiplier provided by Talent to \"Dance Partners\" now applies to all ally characters, with \"Dance Partners\" additionally receiving a 40% boost. After \"Dance Partners\" use an attack, additionally deals the attacked enemy targets a fixed amount of Toughness Reduction equal to 25% of their Max Toughness (minimum 10, maximum 300). This effect can only trigger once per enemy target, and this trigger count resets after the enemy target receives a killing blow."
+                    },
+                    {
+                        "name": "Fresh, Ethereal, and Beloved",
+                        "desc": "When The Dahlia is on the field, decreases all enemies' All-Type RES by 20%. When an enemy target enters the field, immediately inflicts \"Wilt\" on them, lasting for 3 turn(s)."
+                    },
+                    {
+                        "name": "Pity Its Petals Thin as Mist",
+                        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+                        "level_up_skills": {
+                            "ult": 2,
+                            "basic": 1
+                        }
+                    },
+                    {
+                        "name": "Pity Its Heart Gnawed by Worms",
+                        "desc": "Increases the number of DMG instances dealt by Talent's Follow-Up ATK by 5. Upon its use, the DMG taken by all enemy targets increases by 12%, lasting for 2 turn(s)."
+                    },
+                    {
+                        "name": "Fallen, Decayed, and Despised",
+                        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.",
+                        "level_up_skills": {
+                            "skill": 2,
+                            "talent": 2
+                        }
+                    },
+                    {
+                        "name": "And Yet, Always, Deathly Beautiful",
+                        "desc": "Increases Dance Partners' Break Effect by 150%. When using Talent's Follow-Up ATK, advances the next action of all \"Dance Partners\" by 20%."
+                    }
+                ],
+                "skills": {
+                    "basic": {
+                        "name": "Fiddle... Fissured Memory",
+                        "max_level": 10,
+                        "desc": "Deals Fire DMG equal to {0}% of The Dahlia's ATK to one designated enemy.",
+                        "params": [
+                            [
+                                "50"
+                            ],
+                            [
+                                "60"
+                            ],
+                            [
+                                "70"
+                            ],
+                            [
+                                "80"
+                            ],
+                            [
+                                "90"
+                            ],
+                            [
+                                "100"
+                            ],
+                            [
+                                "110"
+                            ],
+                            [
+                                "120"
+                            ],
+                            [
+                                "130"
+                            ],
+                            [
+                                "140"
+                            ]
+                        ]
+                    },
+                    "skill": {
+                        "name": "Lick... Enkindled Betrayal",
+                        "max_level": 15,
+                        "desc": "Deploys a Zone that lasts for 3 turn(s). This duration decreases by 1 at the start of The Dahlia's turn. Then, deals Fire DMG equal to {0}% of The Dahlia's ATK to one designated enemy and their adjacent targets.\nWhile the Zone lasts, increases all allies' Weakness Break Efficiency by 50%. Toughness Reduction taken by enemy targets while not Weakness Broken can also be converted into Super Break DMG.",
+                        "params": [
+                            [
+                                "80"
+                            ],
+                            [
+                                "88"
+                            ],
+                            [
+                                "96"
+                            ],
+                            [
+                                "104"
+                            ],
+                            [
+                                "112"
+                            ],
+                            [
+                                "120"
+                            ],
+                            [
+                                "130"
+                            ],
+                            [
+                                "140"
+                            ],
+                            [
+                                "150"
+                            ],
+                            [
+                                "160"
+                            ],
+                            [
+                                "168"
+                            ],
+                            [
+                                "176"
+                            ],
+                            [
+                                "184"
+                            ],
+                            [
+                                "192"
+                            ],
+                            [
+                                "200"
+                            ]
+                        ]
+                    },
+                    "ult": {
+                        "name": "Wallow... Entombed Ash",
+                        "max_level": 15,
+                        "desc": "Inflicts a \"Wilt\" state on all enemies, lasting for 4 turn(s). Then, deals Fire DMG equal to {0}% of The Dahlia's ATK, which is distributed evenly across all enemies.\nEnemy targets in the \"Wilt\" state have their DEF reduced by {1}% and will be implanted with Weakness of all Dance Partners' Types.",
+                        "params": [
+                            [
+                                "180",
+                                "8.0"
+                            ],
+                            [
+                                "192",
+                                "9.0"
+                            ],
+                            [
+                                "204",
+                                "10.0"
+                            ],
+                            [
+                                "216",
+                                "11.0"
+                            ],
+                            [
+                                "227",
+                                "12.0"
+                            ],
+                            [
+                                "240",
+                                "13.0"
+                            ],
+                            [
+                                "254",
+                                "14.2"
+                            ],
+                            [
+                                "270",
+                                "15.5"
+                            ],
+                            [
+                                "285",
+                                "16.8"
+                            ],
+                            [
+                                "300",
+                                "18.0"
+                            ],
+                            [
+                                "312",
+                                "19.0"
+                            ],
+                            [
+                                "324",
+                                "20.0"
+                            ],
+                            [
+                                "336",
+                                "21.0"
+                            ],
+                            [
+                                "348",
+                                "22.0"
+                            ],
+                            [
+                                "360",
+                                "23.0"
+                            ]
+                        ]
+                    },
+                    "talent": {
+                        "name": "Who's Afraid of Constance?",
+                        "max_level": 15,
+                        "desc": "When entering combat, The Dahlia regenerates 35 Energy and becomes \"Dance Partners\" along with the teammate that triggered combat. Whenever there is no other \"Dance Partner\" on the field, this unit and the teammate with the highest Break Effect become \"Dance Partners\" together. After a \"Dance Partner\" attacks a Weakness Broken enemy target, the Toughness Reduction from this attack will be converted into 1 instance of Super Break DMG at {2}%.\nAfter an enemy target gets attacked by the other \"Dance Partner,\" The Dahlia launches Follow-Up ATK and deals 5 instance(s) of DMG, each dealing Fire DMG equal to {0}% of The Dahlia's ATK to one random enemy. After each instance of DMG dealt to a Weakness Broken enemy target, the Toughness Reduction from this DMG will be converted into 1 instance of Super Break DMG at {1}%.\nThis effect can only trigger once per turn. If the target is defeated before the Follow-Up ATK is used, it will be launched at one random enemy instead.",
+                        "params": [
+                            [
+                                "15",
+                                "100",
+                                "30"
+                            ],
+                            [
+                                "16",
+                                "110",
+                                "33"
+                            ],
+                            [
+                                "18",
+                                "120",
+                                "36"
+                            ],
+                            [
+                                "19",
+                                "130",
+                                "39"
+                            ],
+                            [
+                                "21",
+                                "140",
+                                "42"
+                            ],
+                            [
+                                "22",
+                                "150",
+                                "45"
+                            ],
+                            [
+                                "24",
+                                "162",
+                                "48"
+                            ],
+                            [
+                                "26",
+                                "175",
+                                "52"
+                            ],
+                            [
+                                "28",
+                                "187",
+                                "56"
+                            ],
+                            [
+                                "30",
+                                "200",
+                                "60"
+                            ],
+                            [
+                                "31",
+                                "210",
+                                "63"
+                            ],
+                            [
+                                "33",
+                                "220",
+                                "66"
+                            ],
+                            [
+                                "34",
+                                "229",
+                                "69"
+                            ],
+                            [
+                                "36",
+                                "240",
+                                "72"
+                            ],
+                            [
+                                "37",
+                                "250",
+                                "75"
+                            ]
+                        ]
+                    }
+                },
+                "traces": {
+                    "technique": {
+                        "name": "The Heart Makes the Finest Tomb",
+                        "desc": "After using Technique, creates a Special Dimension that lasts for 20 second(s). Enemies within this dimension will not actively attack ally targets. After entering combat with enemies in the Special Dimension, The Dahlia immediately deploys her Skill's Zone, and converts the combat-triggering Toughness Reduction into 1 instance of Super Break DMG at 60% against enemy targets that are Weakness Broken.\nOnly 1 Dimension Effect created by allies can exist at the same time."
+                    },
+                    "ability_1": {
+                        "name": "Yet Another Funeral",
+                        "desc": "When entering combat, increases other characters' Break Effect by an amount equal to 24% of The Dahlia's Break Effect plus 50%, lasting for 1 turn(s). When The Dahlia receives healing or a Shield provided by a teammate, this effect triggers again, lasting for 3 turn(s). Cannot trigger repeatedly within one turn."
+                    },
+                    "ability_2": {
+                        "name": "Lament, Lost Soul",
+                        "desc": "When using Talent's Follow-Up ATK, recovers 1 Skill Point for allies. For every 2 instance(s) of Talent's Follow-Up ATK used, this effect can trigger once."
+                    },
+                    "ability_3": {
+                        "name": "Outgrow the Old, Espouse the New",
+                        "desc": "When an ally target adds Weakness to an enemy target, increases SPD by 30% for 2 turn(s). If a Fire ally character has implanted a Weakness when using an attack, then after the attack, additionally deals a fixed amount of 20 Fire Toughness Reduction to every target implanted with Weakness. Also, regenerates Energy equal to 10% of Max Energy. This effect can regenerate Energy up to 50% of Max Energy."
+                    },
+                    "stat_1": {
+                        "name": "Break Boost",
+                        "desc": "Break Effect increases by 5.3%",
+                        "modifiers": [
+                            {
+                                "type": "break",
+                                "value": 0.053
+                            }
+                        ]
+                    },
+                    "stat_2": {
+                        "name": "Effect RES Boost",
+                        "desc": "Effect RES resistance increases by 4.0%",
+                        "modifiers": [
+                            {
+                                "type": "effect_res",
+                                "value": 0.04
+                            }
+                        ]
+                    },
+                    "stat_3": {
+                        "name": "Break Boost",
+                        "desc": "Break Effect increases by 5.3%",
+                        "modifiers": [
+                            {
+                                "type": "break",
+                                "value": 0.053
+                            }
+                        ]
+                    },
+                    "stat_4": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 2",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 2
+                            }
+                        ]
+                    },
+                    "stat_5": {
+                        "name": "Break Boost",
+                        "desc": "Break Effect increases by 8.0%",
+                        "modifiers": [
+                            {
+                                "type": "break",
+                                "value": 0.08
+                            }
+                        ]
+                    },
+                    "stat_6": {
+                        "name": "Effect RES Boost",
+                        "desc": "Effect RES resistance increases by 6.0%",
+                        "modifiers": [
+                            {
+                                "type": "effect_res",
+                                "value": 0.06
+                            }
+                        ]
+                    },
+                    "stat_7": {
+                        "name": "Break Boost",
+                        "desc": "Break Effect increases by 8.0%",
+                        "modifiers": [
+                            {
+                                "type": "break",
+                                "value": 0.08
+                            }
+                        ]
+                    },
+                    "stat_8": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 3",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 3
+                            }
+                        ]
+                    },
+                    "stat_9": {
+                        "name": "Effect RES Boost",
+                        "desc": "Effect RES resistance increases by 8.0%",
+                        "modifiers": [
+                            {
+                                "type": "effect_res",
+                                "value": 0.08
+                            }
+                        ]
+                    },
+                    "stat_10": {
+                        "name": "Break Boost",
+                        "desc": "Break Effect increases by 10.7%",
+                        "modifiers": [
+                            {
+                                "type": "break",
+                                "value": 0.107
                             }
                         ]
                     }
@@ -62334,7 +63107,7 @@
                     },
                     {
                         "name": "Morrow of Star Shine",
-                        "desc": "After Tribbie uses Ultimate, launches her Talent's Follow-up ATK against all enemies. The DMG dealt by Talent's Follow-up ATK increases by 729%."
+                        "desc": "After Tribbie uses Ultimate, launches her Talent's Follow-Up ATK against all enemies. The DMG dealt by Talent's Follow-Up ATK increases by 729%."
                     }
                 ],
                 "skills": {
@@ -62522,7 +63295,7 @@
                     "talent": {
                         "name": "Busy as Tribbie",
                         "max_level": 15,
-                        "desc": "After other ally characters use Ultimate, Tribbie launches Follow-up ATK, dealing Quantum DMG equal to {0}% of Tribbie's Max HP to all enemies. This effect triggers up to 1 time per character. When Tribbie uses Ultimate, resets the trigger count for other ally characters. If the target was defeated before the Follow-up ATK is launched, then launches the Follow-up ATK against new enemy targets entering the battlefield.",
+                        "desc": "After other ally characters use Ultimate, Tribbie launches Follow-Up ATK, dealing Quantum DMG equal to {0}% of Tribbie's Max HP to all enemies. This effect triggers up to 1 time per character. When Tribbie uses Ultimate, resets the trigger count for other ally characters. If the target was defeated before the Follow-Up ATK is launched, then launches the Follow-Up ATK against new enemy targets entering the battlefield.",
                         "params": [
                             [
                                 "9.0"
@@ -62579,7 +63352,7 @@
                     },
                     "ability_1": {
                         "name": "Lamb Outside the Wall...",
-                        "desc": "After using Talent's Follow-up ATK, increases the DMG dealt by Tribbie by 72%. This effect can stack up to 3 time(s), lasting for 3 turn(s)."
+                        "desc": "After using Talent's Follow-Up ATK, increases the DMG dealt by Tribbie by 72%. This effect can stack up to 3 time(s), lasting for 3 turn(s)."
                     },
                     "ability_2": {
                         "name": "Glass Ball with Wings!",
@@ -64086,7 +64859,7 @@
                 "eidolons": [
                     {
                         "name": "Read the Room, Seek the Glee",
-                        "desc": "Cipher's tally of DMG is 150% of its original value. When using the Talent's Follow-up ATK, increases Cipher's ATK by 80%, lasting for 2 turn(s)."
+                        "desc": "Cipher's tally of DMG is 150% of its original value. When using the Talent's Follow-Up ATK, increases Cipher's ATK by 80%, lasting for 2 turn(s)."
                     },
                     {
                         "name": "In the Fray, Nab On a Spree",
@@ -64114,7 +64887,7 @@
                     },
                     {
                         "name": "The Thief's Game, Unsung and Free",
-                        "desc": "The DMG dealt by Follow-up ATK from Cipher's Talent increases by 350%. During the tally, an additional 16% of non-Overflow DMG dealt by this attack is tallied. After the tally is cleared by using Ultimate, 20% of the cleared tally is returned."
+                        "desc": "The DMG dealt by Follow-Up ATK from Cipher's Talent increases by 350%. During the tally, an additional 16% of non-Overflow DMG dealt by this attack is tallied. After the tally is cleared by using Ultimate, 20% of the cleared tally is returned."
                     }
                 ],
                 "skills": {
@@ -64292,7 +65065,7 @@
                     "talent": {
                         "name": "The Hospitable Dolosian",
                         "max_level": 15,
-                        "desc": "When there are no enemy targets in the \"Patron\" state on the battlefield, Cipher immediately causes one enemy target with the highest Max HP on the battlefield to become the \"Patron.\" When using Skill and Ultimate, the primary target becomes the \"Patron.\" The \"Patron\" state only takes effect on the most recent target.\nAfter the \"Patron\" gets attacked by other ally targets, Cipher immediately launches Follow-up ATK against the \"Patron,\" dealing Quantum DMG equal to {0}% of Cipher's ATK. This effect can trigger up to 1 time(s) per turn, and this trigger count resets at the start of Cipher's turn.\nCipher will tally 12% of the non-True DMG dealt by ally targets to the \"Patron.\" Overflow DMG will not be tallied. After using Ultimate, clears this tally.",
+                        "desc": "When there are no enemy targets in the \"Patron\" state on the battlefield, Cipher immediately causes one enemy target with the highest Max HP on the battlefield to become the \"Patron.\" When using Skill and Ultimate, the primary target becomes the \"Patron.\" The \"Patron\" state only takes effect on the most recent target.\nAfter the \"Patron\" gets attacked by other ally targets, Cipher immediately launches Follow-Up ATK against the \"Patron,\" dealing Quantum DMG equal to {0}% of Cipher's ATK. This effect can trigger up to 1 time(s) per turn, and this trigger count resets at the start of Cipher's turn.\nCipher will tally 12% of the non-True DMG dealt by ally targets to the \"Patron.\" Overflow DMG will not be tallied. After using Ultimate, clears this tally.",
                         "params": [
                             [
                                 "75"
@@ -64357,7 +65130,7 @@
                     },
                     "ability_3": {
                         "name": "Sleight of Sky",
-                        "desc": "Increases the CRIT DMG dealt by the Talent's Follow-up ATK by 100%. When Cipher is on the battlefield, DMG received by all enemy targets increases by 40%."
+                        "desc": "Increases the CRIT DMG dealt by the Talent's Follow-Up ATK by 100%. When Cipher is on the battlefield, DMG received by all enemy targets increases by 40%."
                     },
                     "stat_1": {
                         "name": "SPD Boost",
@@ -65508,7 +66281,7 @@
                 "traces": {
                     "technique": {
                         "name": "Attack",
-                        "desc": "Attacks an enemy, and after the battle starts, reduces their Toughness of the corresponding Type."
+                        "desc": "Attacks an enemy, and after entering combat, reduces their Toughness of the corresponding Type."
                     },
                     "ability_1": {
                         "name": "March to Oblivion",
@@ -68487,7 +69260,7 @@
                     "ult": {
                         "name": "A Dragon's Zenith Knows No Rue",
                         "max_level": 15,
-                        "desc": "Deals Physical DMG equal to {0}% of Dan Heng \u2022 Permansor Terrae's ATK to all enemies, and provides a Shield to all allies that can offset DMG equal to {2}% of Dan Heng \u2022 Permansor Terrae's ATK plus {3}, lasting for 3 turn(s). When repeatedly receiving Dan Heng \u2022 Permansor Terrae's Shield, can stack the Shield Effect, but it will not exceed 300% of the current Shield provided by Skill.\n\"Souldragon\" becomes enhanced. When \"Souldragon\" takes action, launches Follow-up ATK, dealing Physical DMG to all enemies equal to {1}% of Dan Heng \u2022 Permansor Terrae's ATK and Additional DMG of the Bondmate's Type to all enemies equal to {4}% of the Bondmate's ATK. The enhancement lasts for 2 \"Souldragon\" action(s).",
+                        "desc": "Deals Physical DMG equal to {0}% of Dan Heng \u2022 Permansor Terrae's ATK to all enemies, and provides a Shield to all allies that can offset DMG equal to {2}% of Dan Heng \u2022 Permansor Terrae's ATK plus {3}, lasting for 3 turn(s). When repeatedly receiving Dan Heng \u2022 Permansor Terrae's Shield, can stack the Shield Effect, but it will not exceed 300% of the current Shield provided by Skill.\n\"Souldragon\" becomes enhanced. When \"Souldragon\" takes action, launches Follow-Up ATK, dealing Physical DMG to all enemies equal to {1}% of Dan Heng \u2022 Permansor Terrae's ATK and Additional DMG of the Bondmate's Type to all enemies equal to {4}% of the Bondmate's ATK. The enhancement lasts for 2 \"Souldragon\" action(s).",
                         "params": [
                             [
                                 "150",

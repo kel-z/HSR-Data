@@ -565,6 +565,10 @@
             "id": 23049,
             "rarity": 5
         },
+        "Never Forget Her Flame": {
+            "id": 23050,
+            "rarity": 5
+        },
         "Though Worlds Apart": {
             "id": 23051,
             "rarity": 5
@@ -2189,6 +2193,19 @@
                 "e5": {
                     "ult": 2,
                     "basic": 1
+                }
+            }
+        },
+        "The Dahlia": {
+            "Nihility": {
+                "id": 1321,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
                 }
             }
         },
