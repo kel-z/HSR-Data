@@ -1,5 +1,5 @@
 {
-    "version": "3.8.0",
+    "version": "4.0.1",
     "light_cones": {
         "Arrows": {
             "rarity": 3,
@@ -2932,6 +2932,258 @@
                     ],
                     [
                         "12"
+                    ]
+                ]
+            }
+        },
+        "Sneering": {
+            "rarity": 3,
+            "path": "Elation",
+            "desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments weave together into a magnificent destiny.\n\"The origin of laughter is a grimace born of fear and intimidation.\"",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 33.6,
+                        "step": 5.04
+                    },
+                    "atk": {
+                        "base": 16.8,
+                        "step": 2.52
+                    },
+                    "def": {
+                        "base": 12,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 73.92,
+                        "step": 5.04
+                    },
+                    "atk": {
+                        "base": 36.96,
+                        "step": 2.52
+                    },
+                    "def": {
+                        "base": 26.4,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 127.68,
+                        "step": 5.04
+                    },
+                    "atk": {
+                        "base": 63.84,
+                        "step": 2.52
+                    },
+                    "def": {
+                        "base": 45.6,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 181.44,
+                        "step": 5.04
+                    },
+                    "atk": {
+                        "base": 90.72,
+                        "step": 2.52
+                    },
+                    "def": {
+                        "base": 64.8,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 235.2,
+                        "step": 5.04
+                    },
+                    "atk": {
+                        "base": 117.6,
+                        "step": 2.52
+                    },
+                    "def": {
+                        "base": 84,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 288.96,
+                        "step": 5.04
+                    },
+                    "atk": {
+                        "base": 144.48,
+                        "step": 2.52
+                    },
+                    "def": {
+                        "base": 103.2,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 342.72,
+                        "step": 5.04
+                    },
+                    "atk": {
+                        "base": 171.36,
+                        "step": 2.52
+                    },
+                    "def": {
+                        "base": 122.4,
+                        "step": 1.8
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Indulgence",
+                "desc": "When Aha Instant is activated, the wearer's Elation increases by {0}%, lasting until Aha Instant ends.",
+                "params": [
+                    [
+                        "16"
+                    ],
+                    [
+                        "20"
+                    ],
+                    [
+                        "24"
+                    ],
+                    [
+                        "28"
+                    ],
+                    [
+                        "32"
+                    ]
+                ]
+            }
+        },
+        "Lingering Tear": {
+            "rarity": 3,
+            "path": "Elation",
+            "desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.\n\"The deepest sorrow sheds no tears, just as ultimate joy and pain are one and the same.\"",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 38.4,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 14.4,
+                        "step": 2.16
+                    },
+                    "def": {
+                        "base": 12,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 84.48,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 31.68,
+                        "step": 2.16
+                    },
+                    "def": {
+                        "base": 26.4,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 145.92,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 54.72,
+                        "step": 2.16
+                    },
+                    "def": {
+                        "base": 45.6,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 207.36,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 77.76,
+                        "step": 2.16
+                    },
+                    "def": {
+                        "base": 64.8,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 268.8,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 100.8,
+                        "step": 2.16
+                    },
+                    "def": {
+                        "base": 84,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 330.24,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 123.84,
+                        "step": 2.16
+                    },
+                    "def": {
+                        "base": 103.2,
+                        "step": 1.8
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 391.68,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 146.88,
+                        "step": 2.16
+                    },
+                    "def": {
+                        "base": 122.4,
+                        "step": 1.8
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Mourning",
+                "desc": "When the Punchline held is 10 or more, the wearer's CRIT DMG increases by {0}%.",
+                "params": [
+                    [
+                        "20"
+                    ],
+                    [
+                        "25"
+                    ],
+                    [
+                        "30"
+                    ],
+                    [
+                        "35"
+                    ],
+                    [
+                        "40"
                     ]
                 ]
             }
@@ -10838,7 +11090,7 @@
             ],
             "ability": {
                 "name": "Sweet Dream",
-                "desc": "Increases the wearer's provided Shield Effect by {0}% and while any ally target has a Shield, the wearer's DMG dealt increases by {1}%.",
+                "desc": "Increases the wearer's provided Shield Effect by {0}%. While an ally target has a Shield, their DMG dealt increases by {1}%.",
                 "params": [
                     [
                         "12",
@@ -12125,6 +12377,332 @@
                         {
                             "type": "crit_dmg",
                             "value": 0.4
+                        }
+                    ]
+                ]
+            }
+        },
+        "Mushy Shroomy's Adventures": {
+            "rarity": 4,
+            "path": "Elation",
+            "desc": "\"Marchshroom, welcome to the flowery realm~\u2665~\"\n\"Danshroom, don't be so stiff, give us a smile!\"\n\"Grayie Shroom, have you already fallen for my irresistible charm? Wonderful!\"\n\"And as for Hoot-Hoot Shroom... I'll choose you, you're looking quite delicious~\"\nRun, run, the desires of a human are a bottomless rabbit hole.\nCome, come, put on a smile, become part of the flowery world!\n\"Welcome to Sparxie's special show: Everyone Can Become a Cute Sparxie!\"",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 38.4,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 21.6,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 18,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 84.48,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 47.52,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 39.6,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 145.92,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 82.08,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 68.4,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 207.36,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 116.64,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 97.2,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 268.8,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 151.2,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 126,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 330.24,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 185.76,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 154.8,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 391.68,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 220.32,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 183.6,
+                        "step": 2.7
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Rumble",
+                "desc": "Increases the wearer's Elation by {0}%. When the wearer uses an Elation Skill, increases Elation DMG taken by all enemies by {1}% for 2 turn(s).",
+                "params": [
+                    [
+                        "12",
+                        "6"
+                    ],
+                    [
+                        "14",
+                        "7"
+                    ],
+                    [
+                        "16",
+                        "8"
+                    ],
+                    [
+                        "18",
+                        "9"
+                    ],
+                    [
+                        "20",
+                        "10"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "elation",
+                            "value": 0.12
+                        }
+                    ],
+                    [
+                        {
+                            "type": "elation",
+                            "value": 0.14
+                        }
+                    ],
+                    [
+                        {
+                            "type": "elation",
+                            "value": 0.16
+                        }
+                    ],
+                    [
+                        {
+                            "type": "elation",
+                            "value": 0.18
+                        }
+                    ],
+                    [
+                        {
+                            "type": "elation",
+                            "value": 0.2
+                        }
+                    ]
+                ]
+            }
+        },
+        "Today's Good Luck": {
+            "rarity": 4,
+            "path": "Elation",
+            "desc": "\"My dear junior soror, are you absolutely certain?\"\n\"Hmph, without a doubt!\"\n\"The stakes are higher than just a bottle of hand cream this time.\"\n\"Such an easy game... what could possibly go wrong?\"\nThe pink-haired girl turned away, refusing to be bothered further.\n\"Judging by the way the tea leaves float, you should play that card.\"\nThe girl drew a lot and turned it over.\n\"Ah, my luck is turning around.\"\n\"One more time, this can't be possible...\"\n...\nThe girl forgot how many divination games she played with her senior soror, only remembering how her senior was always willing to play again and again with her.\nLater, the girl wanted to escape from the prophesied fate, and despite opposition, she went to the Luofu Divination Commission.\nUpon arriving at the Luofu, she suddenly discovered an exquisite divination bookmark between the pages of a divination folio. The familiar handwriting made the outland girl tear up:\n\"Who says destiny doesn't have a second chance? Here's my lucky charm for you~\"",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 43.2,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 24,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 18,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 95.04,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 52.8,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 39.6,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 164.16,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 91.2,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 68.4,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 233.28,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 129.6,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 97.2,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 302.4,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 168,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 126,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 371.52,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 206.4,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 154.8,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 440.64,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 244.8,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 183.6,
+                        "step": 2.7
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Decision",
+                "desc": "Increases the wearer's CRIT Rate by {0}%. When the wearer uses an Elation Skill, increases Elation by {1}%, stacking up to 2 times.",
+                "params": [
+                    [
+                        "12",
+                        "12"
+                    ],
+                    [
+                        "14",
+                        "14"
+                    ],
+                    [
+                        "16",
+                        "16"
+                    ],
+                    [
+                        "18",
+                        "18"
+                    ],
+                    [
+                        "20",
+                        "20"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.12
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.14
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.16
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.18
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.2
                         }
                     ]
                 ]
@@ -22100,6 +22678,347 @@
                 ]
             }
         },
+        "Dazzled by a Flowery World": {
+            "rarity": 5,
+            "path": "Elation",
+            "desc": "When she laughs, her fans laugh.\nWhen she cries, her fans shed tears.\nWhen she's angry, her fans rage.\n\"Cute, playful, popular. Sparxie is everything I want to be...\"\n\"Don't be fooled, Sparxie is a poison, she's a lie...\"\n\"I'll follow Sparxicle forever, she gave me the courage for rebirth...\"\n\"Sparxie should vanish from this world!\"\n...\nClicks, bullet comments, discussions... Sparxie burns ever brighter in everyone's eyes.\n\"I've received everyone's feelings~ I'll return them with the most passionate response~\u2665! For example...\"\nAs the stream draws to a close, the young girl winks, as if she sees through the hearts of everyone behind their screens...\n\"Here's your chance! Would you choose to become the cutesy Sparxie?\"",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 48,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 26.4,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 21,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 105.6,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 58.08,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 46.2,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 182.4,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 100.32,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 79.8,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 259.2,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 142.56,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 113.4,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 336,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 184.8,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 147,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 412.8,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 227.04,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 180.6,
+                        "step": 3.15
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 489.6,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 269.28,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 214.2,
+                        "step": 3.15
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Center of Attention",
+                "desc": "Increases the wearer's CRIT DMG by {0}%. While the wearer is on the field, for every 1 Elation character in the team, increases the Skill Point upper limit by 1, up to a max increase of 3. For every 1 Skill Point the wearer consumes, enables the Elation DMG dealt by this unit to ignore {2}% of enemy targets' DEF, stacking up to 4 times. If 4 or more Skill Points are consumed in the same turn, the wearer gains \"Stream Promo,\" which increases all allies' Elation by {1}%. Light Cone effects of the same type cannot stack.",
+                "params": [
+                    [
+                        "48",
+                        "20",
+                        "5.0"
+                    ],
+                    [
+                        "56",
+                        "24",
+                        "6.0"
+                    ],
+                    [
+                        "64",
+                        "28",
+                        "7.0"
+                    ],
+                    [
+                        "72",
+                        "32",
+                        "8.0"
+                    ],
+                    [
+                        "80",
+                        "36",
+                        "9.0"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "crit_dmg",
+                            "value": 0.48
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_dmg",
+                            "value": 0.56
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_dmg",
+                            "value": 0.64
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_dmg",
+                            "value": 0.72
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_dmg",
+                            "value": 0.8
+                        }
+                    ]
+                ]
+            }
+        },
+        "When She Decided to See": {
+            "rarity": 5,
+            "path": "Elation",
+            "desc": "Once again, within the Deca-Light Reflection Barrier, she watched as destiny intertwined like a shimmering web of pearls, reflecting and overlapping, with endless cause and effect.\n\"What do you see?\"\nHer master once asked her.\nSome diviners saw their own insignificance, and no longer believed that human effort could change destiny.\nOthers saw the great tides of the future, following the flow to find optimal solutions.\nAt that moment, the young girl gazed into the barrier, and saw boundless darkness. That is a future long predetermined.\nShe also saw \"starlight,\" the faint possibilities not yet devoured by the gods' gaze.\nThat gleam of starlight once slipped through her fingers, leaving the Fanghu in eternal night.\nYet she had also seized fleeting variables, flipping the Weal and Woe of the Yuque.\n\"A dead end is called such only because none dare defy fate.\"\nShe wanted to find her own answer, even if it meant stepping into destined peril.\n\"What I see matters not. What matters is what I can do.\"",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 48,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 24,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 24,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 105.6,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 52.8,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 52.8,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 182.4,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 91.2,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 91.2,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 259.2,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 129.6,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 129.6,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 336,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 168,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 168,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 412.8,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 206.4,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 206.4,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 489.6,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 244.8,
+                        "step": 3.6
+                    },
+                    "def": {
+                        "base": 244.8,
+                        "step": 3.6
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Game Changer",
+                "desc": "Increases the wearer's SPD by {0}%. When the wearer enters combat or uses Ultimate on an ally target, the wearer gains \"Great Fortune\" for 3 turn(s). While the wearer holds \"Great Fortune,\" all allies' CRIT Rate increases by {1}%, CRIT DMG increases by {2}%, and the wearer's Energy Regeneration Rate increases by {3}%.\nAt the start of each wave, the wearer regenerates a fixed amount of 15 Energy.",
+                "params": [
+                    [
+                        "18",
+                        "10",
+                        "30",
+                        "12"
+                    ],
+                    [
+                        "21",
+                        "11",
+                        "37",
+                        "14"
+                    ],
+                    [
+                        "24",
+                        "12",
+                        "45",
+                        "16"
+                    ],
+                    [
+                        "27",
+                        "13",
+                        "52",
+                        "18"
+                    ],
+                    [
+                        "30",
+                        "14",
+                        "60",
+                        "20"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.18
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.21
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.24
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.27
+                        }
+                    ],
+                    [
+                        {
+                            "type": "spd_",
+                            "value": 0.3
+                        }
+                    ]
+                ]
+            }
+        },
         "On the Fall of an Aeon": {
             "rarity": 5,
             "path": "Destruction",
@@ -23841,7 +24760,7 @@
             },
             "desc": [
                 "Increases CRIT Rate by 8%.",
-                "After the wearer uses Basic ATK or Skill, if the wearer's memosprite is on the field, increases Max HP of the wearer and their memosprite by 24%, and increases all allies' dealt DMG by 15%, lasting until after the wearer's next use of Basic ATK or Skill."
+                "After the wearer uses Basic ATK or Skill, if the wearer's memosprite is on the field, increases Max HP of the wearer and their memosprite by 24%, and increases all allies' DMG dealt by 15%, lasting until after the wearer's next use of Basic ATK or Skill."
             ],
             "modifiers": [
                 [
@@ -23871,6 +24790,64 @@
             "desc": [
                 "The provided Shield Effect increases by 10%.",
                 "Increases the Shield Effect provided by the wearer by 12%. When an ally target holds a Shield provided by the wearer, the ally target's CRIT DMG increases by 15%."
+            ]
+        },
+        "Ever-Glorious Magical Girl": {
+            "pieces": {
+                "Head": {
+                    "name": "Magical Girl's Shining Medal"
+                },
+                "Hands": {
+                    "name": "Magical Girl's Protective Gloves"
+                },
+                "Body": {
+                    "name": "Magical Girl's Everdance Battle Skirt"
+                },
+                "Feet": {
+                    "name": "Magical Girl's Contract Boots"
+                }
+            },
+            "desc": [
+                "Increases CRIT DMG by 16%.",
+                "The Elation DMG dealt by the wearer and their memosprites ignores 10% of targets' DEF. For every 5 accumulated Punchline allies gain, the Elation DMG dealt additionally ignores 1% of targets' DEF, stacking up to 10 time(s)."
+            ],
+            "modifiers": [
+                [
+                    {
+                        "type": "crit_dmg",
+                        "value": 0.16
+                    }
+                ],
+                []
+            ]
+        },
+        "Diviner of Distant Reach": {
+            "pieces": {
+                "Head": {
+                    "name": "Diviner's Extrapolation Jade Abacus"
+                },
+                "Hands": {
+                    "name": "Diviner's Ingenium Prosthetic Hand"
+                },
+                "Body": {
+                    "name": "Diviner's Astral Robe"
+                },
+                "Feet": {
+                    "name": "Diviner's Cloud-Soaring Boots"
+                }
+            },
+            "desc": [
+                "Increases SPD by 6%.",
+                "Before entering combat, if the wearer's SPD is greater than or equal to 120/160, increases the wearer's CRIT Rate by 10%/18%. When the wearer uses Elation Skill for the first time in each battle, increases all allies' Elation by 10%. This effect cannot stack."
+            ],
+            "modifiers": [
+                [
+                    {
+                        "type": "spd_",
+                        "value": 0.06
+                    }
+                ],
+                []
             ]
         },
         "Space Sealing Station": {
@@ -25247,7 +26224,7 @@
                     "skill": {
                         "name": "Master, It's Tea Time!",
                         "max_level": 15,
-                        "desc": "Designates a single ally (excluding this unit) as \"Shifu\" and increases \"Shifu\"'s SPD by {0}%. Only the most recent target of March 7th's Skill is considered as \"Shifu.\"\n\nWhenever using Basic ATK or dealing 1 hit of Enhanced Basic ATK's DMG, triggers the corresponding effect if \"Shifu\" with the specified Path is present on the field:\nErudition, Destruction, The Hunt, Remembrance: Deals Additional DMG (DMG Type based on \"Shifu\"'s Combat Type) equal to {1}% of March 7th's ATK.\nHarmony, Nihility, Preservation, Abundance: Increases the Toughness Reduction of this instance of DMG by 100%.",
+                        "desc": "Designates one ally (excluding this unit) as \"Shifu\" and increases \"Shifu\"'s SPD by {0}%. Only the most recent target of March 7th's Skill is considered as \"Shifu.\"\nWhenever using Basic ATK or dealing 1 hit of Enhanced Basic ATK's DMG, triggers the corresponding effect if \"Shifu\" with the specified Path is present on the field:\nErudition, Destruction, The Hunt, Remembrance, Elation: Deals Additional DMG (DMG Type based on \"Shifu\"'s Combat Type) equal to {1}% of March 7th's ATK.\nHarmony, Nihility, Preservation, Abundance: Increases the Toughness Reduction of this instance of DMG by 100%.",
                         "params": [
                             [
                                 "6.0",
@@ -28139,7 +29116,7 @@
                     },
                     {
                         "name": "Zombie Network",
-                        "desc": "When an enemy enters battle, reduces their Effect RES by 20%."
+                        "desc": "When an enemy enters combat, reduces their Effect RES by 20%."
                     },
                     {
                         "name": "Payload",
@@ -42701,7 +43678,7 @@
                 "traces": {
                     "technique": {
                         "name": "Windchaser",
-                        "desc": "After using her Technique, Yukong enters Sprint mode for 20 seconds. In Sprint mode, her movement speed increases by 35%, and Yukong gains 2 stack(s) of \"Roaring Bowstrings\" when she enters battle by attacking enemies."
+                        "desc": "After using her Technique, Yukong enters Sprint mode for 20 seconds. In Sprint mode, her movement speed increases by 35%, and Yukong gains 2 stack(s) of \"Roaring Bowstrings\" when she enters combat by attacking enemies."
                     },
                     "ability_1": {
                         "name": "Archerion",
@@ -43228,7 +44205,7 @@
                     "talent": {
                         "name": "Bleak Breeds Bliss",
                         "max_level": 15,
-                        "desc": "While Fu Xuan is still active in battle, Misfortune Avoidance is applied to the entire team. With Misfortune Avoidance, allies take {0}% less DMG.\nWhen Fu Xuan's current HP percentage falls to 50% of her Max HP or less, HP Restore will be triggered for Fu Xuan, restoring her HP by {1}% of the amount of HP she is currently missing. This effect cannot be triggered if she receives a killing blow. This effect has 1 trigger count by default and can hold up to a maximum of 2 trigger counts.",
+                        "desc": "While Fu Xuan is still active in combat, Misfortune Avoidance is applied to the entire team. With Misfortune Avoidance, allies take {0}% less DMG.\nWhen Fu Xuan's current HP percentage falls to 50% of her Max HP or less, HP Restore will be triggered for Fu Xuan, restoring her HP by {1}% of the amount of HP she is currently missing. This effect cannot be triggered if she receives a killing blow. This effect has 1 trigger count by default and can hold up to a maximum of 2 trigger counts.",
                         "params": [
                             [
                                 "10.0",
@@ -43296,7 +44273,7 @@
                 "traces": {
                     "technique": {
                         "name": "Of Fortune Comes Fate",
-                        "desc": "After the Technique is used, all team members receive a Barrier, lasting for 20 seconds. This Barrier can block all enemy attacks, and the team will not enter battle when attacked. Entering battle while the Barrier is active will have Fu Xuan automatically activate Matrix of Prescience at the start of the battle, lasting for 2 turn(s)."
+                        "desc": "After the Technique is used, all team members receive a Barrier, lasting for 20 seconds. This Barrier can block all enemy attacks, and the team will not enter combat when attacked. Entering battle while the Barrier is active will have Fu Xuan automatically activate Matrix of Prescience at the start of the battle, lasting for 2 turn(s)."
                     },
                     "ability_1": {
                         "name": "Taiyi, the Macrocosmic",
@@ -53079,7 +54056,7 @@
                     },
                     "ability_2": {
                         "name": "Generosity",
-                        "desc": "When enemy targets enter battle, immediately regenerates 2 Energy for self."
+                        "desc": "When enemy targets enter combat, immediately regenerates 2 Energy for self."
                     },
                     "ability_3": {
                         "name": "Courage",
@@ -53666,7 +54643,7 @@
                 "traces": {
                     "technique": {
                         "name": "Silken Serenade",
-                        "desc": "After using the Technique, gains Silken Serenade. At the start of the next battle, automatically triggers the Skill for 1 time(s) without consuming Skill Points.\nIn Simulated Universe or Divergent Universe, when Ruan Mei has Silken Serenade, the team actively attacking enemies will always be regarded as attacking their Weakness to enter battle, and this attack can reduce all enemies' Toughness regardless of Weakness types. When breaking Weakness, triggers Weakness Break Effect corresponding to the attacker's Type. For every Blessing in possession (up to a max of 20 Blessings will be taken into account), additionally increases the Toughness Reduction of this attack by 100%. After breaking an enemy target's Weakness, additionally deals to the enemy target Break DMG equal to 100% of Ruan Mei's Ice Break DMG."
+                        "desc": "After using the Technique, gains Silken Serenade. At the start of the next battle, automatically triggers the Skill for 1 time(s) without consuming Skill Points.\nIn Simulated Universe or Divergent Universe, when Ruan Mei has Silken Serenade, the team actively attacking enemies will always be regarded as attacking their Weakness to enter combat, and this attack can reduce all enemies' Toughness regardless of Weakness types. When breaking Weakness, triggers Weakness Break Effect corresponding to the attacker's Type. For every Blessing in possession (up to a max of 20 Blessings will be taken into account), additionally increases the Toughness Reduction of this attack by 100%. After breaking an enemy target's Weakness, additionally deals to the enemy target Break DMG equal to 100% of Ruan Mei's Ice Break DMG."
                     },
                     "ability_1": {
                         "name": "Inert Respiration",
@@ -55421,7 +56398,7 @@
                 "traces": {
                     "technique": {
                         "name": "Unreliable Narrator",
-                        "desc": "Using the Technique grants all allies Misdirect for 20 seconds. Characters with Misdirect will not be detected by enemies, and entering battle in the Misdirect state recovers 3 Skill Point(s) for the team."
+                        "desc": "After using Technique, grants all allies Misdirect for 20 seconds. Characters with Misdirect will not be detected by enemies, and entering combat in the Misdirect state recovers 3 Skill Point(s) for the team."
                     },
                     "ability_1": {
                         "name": "Almanac",
@@ -55757,7 +56734,7 @@
                 "eidolons": [
                     {
                         "name": "Seven Pillars of Wisdom",
-                        "desc": "While Black Swan is active in battle, enemies afflicted with Wind Shear, Bleed, Burn, or Shock will have their corresponding Wind, Physical, Fire, or Lightning RES respectively reduced by 25%."
+                        "desc": "While Black Swan is active in combat, enemies afflicted with Wind Shear, Bleed, Burn, or Shock will have their corresponding Wind, Physical, Fire, or Lightning RES respectively reduced by 25%."
                     },
                     {
                         "name": "Weep Not For Me, My Lamb",
@@ -55916,7 +56893,7 @@
                     "ult": {
                         "name": "Bliss of Otherworld's Embrace",
                         "max_level": 15,
-                        "desc": "Inflicts Epiphany on all enemies for 2 turn(s).\nWhile afflicted with Epiphany, enemies take {1}% increased DMG in their turn. Additionally, if enemies are also inflicted with Arcana, they are considered to be simultaneously afflicted with Wind Shear, Bleed, Burn, and Shock. After Arcana causes DMG at the start of each turn, its stacks are not reset. This non-reset effect of Arcana stacks can be triggered up to 1 time(s) for the duration of Epiphany. And the trigger count resets when Epiphany is applied again.\nDeals Wind DMG equal to {0}% of Black Swan's ATK to all enemies.",
+                        "desc": "Inflicts Epiphany on all enemies for 2 turn(s).\nWhile afflicted with Epiphany, enemies take {1}% increased DMG in their turn. Additionally, if enemies are also inflicted with Arcana, they are also considered to be simultaneously afflicted with Wind Shear, Bleed, Burn, and Shock. After Arcana causes DMG at the start of each turn, its stacks are not reset. This non-reset effect of Arcana stacks can be triggered up to 1 time(s) for the duration of Epiphany. And the trigger count resets when Epiphany is applied again.\nDeals Wind DMG equal to {0}% of Black Swan's ATK to all enemies.",
                         "params": [
                             [
                                 "72",
@@ -56089,7 +57066,7 @@
                     },
                     "ability_2": {
                         "name": "Goblet's Dredges",
-                        "desc": "When an enemy target enters battle, there is a 65% base chance for it to be inflicted with 1 stack of Arcana.\nEvery time an enemy target receives 1 instance of DoT during a single attack by an ally, there is a 65% base chance for the target to be inflicted with 1 stack of Arcana. The maximum number of stacks that can be inflicted during 1 single attack is 3."
+                        "desc": "When an enemy target enters combat, there is a 65% base chance for it to be inflicted with 1 stack of Arcana.\nEvery time an enemy target receives 1 instance of DoT during a single attack by an ally, there is a 65% base chance for the target to be inflicted with 1 stack of Arcana. The maximum number of stacks that can be inflicted during 1 single attack is 3."
                     },
                     "ability_3": {
                         "name": "Candleflame's Portent",
@@ -58959,7 +59936,7 @@
                     "skill": {
                         "name": "Benison of Paper and Rites",
                         "max_level": 15,
-                        "desc": "Enables one designated ally character and their summon to immediately take action, and increases their DMG dealt by {0}%. If the target has a summon, then the dealt DMG increase is further boosted by an additional {1}%, lasting for 2 turn(s).\nAfter using Skill on The Beatified, recovers 1 Skill Point.\nWhen Sunday uses this ability on characters following the Path of Harmony, cannot trigger the \"immediate action\" effect.",
+                        "desc": "Enables one designated ally character and their summon to immediately take action, and increases their DMG dealt by {0}%. If the target has a summon, then the DMG Boost effect is further boosted by an additional {1}%, lasting for 2 turn(s).\nAfter using Skill on The Beatified, recovers 1 Skill Point.\nWhen Sunday uses this ability on characters following the Path of Harmony, cannot trigger the \"immediate action\" effect.",
                         "params": [
                             [
                                 "15",
@@ -61891,7 +62868,7 @@
                     },
                     {
                         "name": "Wind Through Keyhole",
-                        "desc": "After The Herta enters battle or uses Ultimate, additionally gains 1 \"Inspiration\" stack. After using Enhanced Skill, advances The Herta's next action by 35%."
+                        "desc": "After The Herta enters combat or uses Ultimate, additionally gains 1 \"Inspiration\" stack. After using Enhanced Skill, advances The Herta's next action by 35%."
                     },
                     {
                         "name": "Door into Summer",
@@ -62078,7 +63055,7 @@
                     "talent": {
                         "name": "Hand Them Over",
                         "max_level": 15,
-                        "desc": "When enemy targets enter battle, The Herta inflicts 1 stack of \"Interpretation\" on them. At the start of each wave, applies 25 stack(s) of \"Interpretation\" to a random enemy target, prioritizing Elite-level targets and above. When the Enhanced Skill's primary target has \"Interpretation,\" the multiplier for the DMG dealt increases, with each stack granting an increase of {0}%/{1}% on the primary target/other targets respectively. If 2 or more characters follow the Path of Erudition in the team, each stack grants an additional increase of {0}%/{1}% on the primary target/other targets respectively. \"Interpretation\" can stack up to 42 time(s). When using the Enhanced Skill, resets the number of \"Interpretation\" stacks on the primary target to 1. After the enemy target leaves the field or gets defeated by any unit, \"Interpretation\" will be transferred, prioritizing the transfer to Elite-level targets and above.",
+                        "desc": "When enemy targets enter combat, The Herta inflicts 1 stack of \"Interpretation\" on them. At the start of each wave, applies 25 stack(s) of \"Interpretation\" to a random enemy target, prioritizing Elite-level targets and above. When the Enhanced Skill's primary target has \"Interpretation,\" the multiplier for the DMG dealt increases, with each stack granting an increase of {0}%/{1}% on the primary target/other targets respectively. If 2 or more characters follow the Path of Erudition in the team, each stack grants an additional increase of {0}%/{1}% on the primary target/other targets respectively. \"Interpretation\" can stack up to 42 time(s). When using the Enhanced Skill, resets the number of \"Interpretation\" stacks on the primary target to 1. After the enemy target leaves the field or gets defeated by any unit, \"Interpretation\" will be transferred, prioritizing the transfer to Elite-level targets and above.",
                         "params": [
                             [
                                 "4.0",
@@ -64523,7 +65500,7 @@
                 "traces": {
                     "technique": {
                         "name": "Prism of the Pupil",
-                        "desc": "After using Technique, inflicts the Terrified state on enemies in a set area. Terrified enemies will flee in a direction away from Anaxa for 10 second(s). When allies enter battle via actively attacking a Terrified enemy, it will always be considered as entering battle via attacking a Weakness. After entering battle, Anaxa applies 1 Weakness of the attacker's Type to every enemy target, lasting for 3 turn(s)."
+                        "desc": "After using Technique, inflicts the Terrified state on enemies in a set area. Terrified enemies will flee in a direction away from Anaxa for 10 second(s). When allies enter combat via actively attacking a Terrified enemy, it will always be considered as entering battle via attacking a Weakness. After entering battle, Anaxa applies 1 Weakness of the attacker's Type to every enemy target, lasting for 3 turn(s)."
                     },
                     "ability_1": {
                         "name": "Roaming Signifier",
@@ -70118,6 +71095,1165 @@
                             {
                                 "type": "crit_dmg",
                                 "value": 0.107
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "Sparxie": {
+            "Elation": {
+                "rarity": 5,
+                "element": "Fire",
+                "ascension": [
+                    {
+                        "hp": {
+                            "base": 142.56,
+                            "step": 7.128
+                        },
+                        "atk": {
+                            "base": 87.12,
+                            "step": 4.356
+                        },
+                        "def": {
+                            "base": 62.7,
+                            "step": 3.135
+                        },
+                        "spd": {
+                            "base": 107,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 199.584,
+                            "step": 7.128
+                        },
+                        "atk": {
+                            "base": 121.968,
+                            "step": 4.356
+                        },
+                        "def": {
+                            "base": 87.78,
+                            "step": 3.135
+                        },
+                        "spd": {
+                            "base": 107,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 256.608,
+                            "step": 7.128
+                        },
+                        "atk": {
+                            "base": 156.816,
+                            "step": 4.356
+                        },
+                        "def": {
+                            "base": 112.86,
+                            "step": 3.135
+                        },
+                        "spd": {
+                            "base": 107,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 313.632,
+                            "step": 7.128
+                        },
+                        "atk": {
+                            "base": 191.664,
+                            "step": 4.356
+                        },
+                        "def": {
+                            "base": 137.94,
+                            "step": 3.135
+                        },
+                        "spd": {
+                            "base": 107,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 370.656,
+                            "step": 7.128
+                        },
+                        "atk": {
+                            "base": 226.512,
+                            "step": 4.356
+                        },
+                        "def": {
+                            "base": 163.02,
+                            "step": 3.135
+                        },
+                        "spd": {
+                            "base": 107,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 427.68,
+                            "step": 7.128
+                        },
+                        "atk": {
+                            "base": 261.36,
+                            "step": 4.356
+                        },
+                        "def": {
+                            "base": 188.1,
+                            "step": 3.135
+                        },
+                        "spd": {
+                            "base": 107,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 484.704,
+                            "step": 7.128
+                        },
+                        "atk": {
+                            "base": 296.208,
+                            "step": 4.356
+                        },
+                        "def": {
+                            "base": 213.18,
+                            "step": 3.135
+                        },
+                        "spd": {
+                            "base": 107,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    }
+                ],
+                "eidolons": [
+                    {
+                        "name": "#GoingViral #WhoIsShe",
+                        "desc": "When Aha Instant ends, gains 5 Punchline. For every 1 Punchline owned, increases All-Type RES PEN for all allies by 1.5%, up to a max increase of 15%."
+                    },
+                    {
+                        "name": "#AudienceKnows",
+                        "desc": "When Aha Instant ends, Sparxie gains 1 extra turn and 2 \"Thrill.\" For every 1 \"Thrill\" consumed, increases this unit's CRIT DMG by 10%, lasting for 2 turn(s) and stacking up to 4 time(s)."
+                    },
+                    {
+                        "name": "#LinkUp #HeartSkip",
+                        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+                        "level_up_skills": {
+                            "skill": 2,
+                            "basic": 1,
+                            "elation": 1
+                        }
+                    },
+                    {
+                        "name": "#LockedIn #FaceCard",
+                        "desc": "When using Ultimate, additionally gains 5 Punchline and increases this unit's Elation by 36% for 3 turn(s)."
+                    },
+                    {
+                        "name": "#HealingTheWorld #GoodVibesOnly",
+                        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+                        "level_up_skills": {
+                            "ult": 2,
+                            "talent": 2,
+                            "elation": 1
+                        }
+                    },
+                    {
+                        "name": "#BuiltDifferent #GoingExtinct",
+                        "desc": "Increases All-Type RES PEN by 20%. For every 1 Punchline taken into account, the number of additional DMG instances dealt by the Elation Skill increases by 1, up to a max of 40."
+                    }
+                ],
+                "skills": {
+                    "basic": {
+                        "name": "Cat Got Your Flametongue?",
+                        "max_level": 10,
+                        "desc": "Deals Fire DMG equal to {0}% of Sparxie's ATK to one designated enemy.",
+                        "params": [
+                            [
+                                "50"
+                            ],
+                            [
+                                "60"
+                            ],
+                            [
+                                "70"
+                            ],
+                            [
+                                "80"
+                            ],
+                            [
+                                "90"
+                            ],
+                            [
+                                "100"
+                            ],
+                            [
+                                "110"
+                            ],
+                            [
+                                "120"
+                            ],
+                            [
+                                "130"
+                            ],
+                            [
+                                "140"
+                            ]
+                        ]
+                    },
+                    "skill": {
+                        "name": "Boom! Sparxicle's Poppin'",
+                        "max_level": 15,
+                        "desc": "Start a livestream to turn Basic ATK into \"Bloom! Winner Takes All\" and trigger \"Engagement Farming\" 1 time. During this ability, \"Engagement Farming\" can be triggered repeatedly, up to 20 time(s). Using this ability is not considered as using a Skill.",
+                        "params": [
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "ult": {
+                        "name": "Party's Wildin' and Camera's Rollin'",
+                        "max_level": 15,
+                        "desc": "Gains 2 Punchline point(s). Deals Fire DMG equal to (0.6 \u00d7 Elation + {0}%) of Sparxie's ATK to all enemies.",
+                        "params": [
+                            [
+                                "30.0"
+                            ],
+                            [
+                                "32.0"
+                            ],
+                            [
+                                "34.0"
+                            ],
+                            [
+                                "36.0"
+                            ],
+                            [
+                                "38.0"
+                            ],
+                            [
+                                "40.0"
+                            ],
+                            [
+                                "42.5"
+                            ],
+                            [
+                                "45.0"
+                            ],
+                            [
+                                "47.5"
+                            ],
+                            [
+                                "50.0"
+                            ],
+                            [
+                                "52.0"
+                            ],
+                            [
+                                "54.0"
+                            ],
+                            [
+                                "56.0"
+                            ],
+                            [
+                                "58.0"
+                            ],
+                            [
+                                "60.0"
+                            ]
+                        ]
+                    },
+                    "talent": {
+                        "name": "Sleight of Sparx Hand",
+                        "max_level": 15,
+                        "desc": "While Sparxie holds \"Certified Banger\":\nUsing Enhanced Basic ATK deals {2}% Fire Elation DMG to one designated enemy, and {3}% Fire Elation DMG to their adjacent targets. Additionally, for every 1 instance of \"Engagement Farming\" triggered, the Enhanced Basic ATK deals 1 extra instance of {0}% Fire Elation DMG to 1 random attacked enemy target.\nUsing Ultimate deals {1}% Fire Elation DMG to all enemies.",
+                        "params": [
+                            [
+                                "10.0",
+                                "24",
+                                "20",
+                                "10.0"
+                            ],
+                            [
+                                "11.0",
+                                "26",
+                                "22",
+                                "11.0"
+                            ],
+                            [
+                                "12.0",
+                                "28",
+                                "24",
+                                "12.0"
+                            ],
+                            [
+                                "13.0",
+                                "31",
+                                "26",
+                                "13.0"
+                            ],
+                            [
+                                "14.0",
+                                "33",
+                                "28",
+                                "14.0"
+                            ],
+                            [
+                                "15.0",
+                                "36",
+                                "30",
+                                "15.0"
+                            ],
+                            [
+                                "16.2",
+                                "39",
+                                "32",
+                                "16.2"
+                            ],
+                            [
+                                "17.5",
+                                "42",
+                                "35",
+                                "17.5"
+                            ],
+                            [
+                                "18.8",
+                                "45",
+                                "37",
+                                "18.8"
+                            ],
+                            [
+                                "20.0",
+                                "48",
+                                "40",
+                                "20.0"
+                            ],
+                            [
+                                "21.0",
+                                "50",
+                                "42",
+                                "21.0"
+                            ],
+                            [
+                                "22.0",
+                                "52",
+                                "44",
+                                "22.0"
+                            ],
+                            [
+                                "23.0",
+                                "55",
+                                "46",
+                                "23.0"
+                            ],
+                            [
+                                "24.0",
+                                "57",
+                                "48",
+                                "24.0"
+                            ],
+                            [
+                                "25.0",
+                                "60",
+                                "50",
+                                "25.0"
+                            ]
+                        ]
+                    }
+                },
+                "traces": {
+                    "technique": {
+                        "name": "Content Monetization",
+                        "desc": "After using the Technique, inflicts enemies within a set area with \"Block\" for 10 second(s). \"Blocked\" enemies cannot detect ally targets.\nAfter entering combat via actively attacking a \"Blocked\" enemy, deals Fire DMG to all enemies equal to 50% of Sparxie's ATK and recovers 2 Skill Point(s) for allies."
+                    },
+                    "ability_1": {
+                        "name": "Sweet! Punchline Signing",
+                        "desc": "For every 100 of Sparxie's ATK that exceeds 2000, increases this unit's Elation by 0.1%, up to a maximum increase of 0.8%."
+                    },
+                    "ability_2": {
+                        "name": "Dazzling! Persona Kaleidoscope",
+                        "desc": "When there are 1/2/(3 or more) Elation characters in the team, using Sparxie's Ultimate will additionally gain 2/4/8 Punchline and 1/1/4 \"Thrill\"."
+                    },
+                    "ability_3": {
+                        "name": "Frenzy! Palette of Truth and Lies",
+                        "desc": "For every 1 Punchline currently owned, increases all allies' CRIT DMG by 8%, up to a max increase of 80%."
+                    },
+                    "stat_1": {
+                        "name": "Elation Boost",
+                        "desc": "Unknown property: ElationDamageAddedRatioBase",
+                        "modifiers": [
+                            {
+                                "type": "elation",
+                                "value": 0.04
+                            }
+                        ]
+                    },
+                    "stat_2": {
+                        "name": "CRIT Rate Boost",
+                        "desc": "CRIT Rate increases by 2.7%",
+                        "modifiers": [
+                            {
+                                "type": "crit_rate",
+                                "value": 0.027
+                            }
+                        ]
+                    },
+                    "stat_3": {
+                        "name": "Elation Boost",
+                        "desc": "Unknown property: ElationDamageAddedRatioBase",
+                        "modifiers": [
+                            {
+                                "type": "elation",
+                                "value": 0.04
+                            }
+                        ]
+                    },
+                    "stat_4": {
+                        "name": "CRIT DMG Boost",
+                        "desc": "CRIT DMG increases by 5.3%",
+                        "modifiers": [
+                            {
+                                "type": "crit_dmg",
+                                "value": 0.053
+                            }
+                        ]
+                    },
+                    "stat_5": {
+                        "name": "Elation Boost",
+                        "desc": "Unknown property: ElationDamageAddedRatioBase",
+                        "modifiers": [
+                            {
+                                "type": "elation",
+                                "value": 0.06
+                            }
+                        ]
+                    },
+                    "stat_6": {
+                        "name": "CRIT Rate Boost",
+                        "desc": "CRIT Rate increases by 4.0%",
+                        "modifiers": [
+                            {
+                                "type": "crit_rate",
+                                "value": 0.04
+                            }
+                        ]
+                    },
+                    "stat_7": {
+                        "name": "Elation Boost",
+                        "desc": "Unknown property: ElationDamageAddedRatioBase",
+                        "modifiers": [
+                            {
+                                "type": "elation",
+                                "value": 0.06
+                            }
+                        ]
+                    },
+                    "stat_8": {
+                        "name": "CRIT DMG Boost",
+                        "desc": "CRIT DMG increases by 8.0%",
+                        "modifiers": [
+                            {
+                                "type": "crit_dmg",
+                                "value": 0.08
+                            }
+                        ]
+                    },
+                    "stat_9": {
+                        "name": "CRIT Rate Boost",
+                        "desc": "CRIT Rate increases by 5.3%",
+                        "modifiers": [
+                            {
+                                "type": "crit_rate",
+                                "value": 0.053
+                            }
+                        ]
+                    },
+                    "stat_10": {
+                        "name": "Elation Boost",
+                        "desc": "Unknown property: ElationDamageAddedRatioBase",
+                        "modifiers": [
+                            {
+                                "type": "elation",
+                                "value": 0.08
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "Yao Guang": {
+            "Elation": {
+                "rarity": 5,
+                "element": "Physical",
+                "ascension": [
+                    {
+                        "hp": {
+                            "base": 168.96,
+                            "step": 8.448
+                        },
+                        "atk": {
+                            "base": 63.36,
+                            "step": 3.168
+                        },
+                        "def": {
+                            "base": 89.1,
+                            "step": 4.455
+                        },
+                        "spd": {
+                            "base": 101,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 236.544,
+                            "step": 8.448
+                        },
+                        "atk": {
+                            "base": 88.704,
+                            "step": 3.168
+                        },
+                        "def": {
+                            "base": 124.74,
+                            "step": 4.455
+                        },
+                        "spd": {
+                            "base": 101,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 304.128,
+                            "step": 8.448
+                        },
+                        "atk": {
+                            "base": 114.048,
+                            "step": 3.168
+                        },
+                        "def": {
+                            "base": 160.38,
+                            "step": 4.455
+                        },
+                        "spd": {
+                            "base": 101,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 371.712,
+                            "step": 8.448
+                        },
+                        "atk": {
+                            "base": 139.392,
+                            "step": 3.168
+                        },
+                        "def": {
+                            "base": 196.02,
+                            "step": 4.455
+                        },
+                        "spd": {
+                            "base": 101,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 439.296,
+                            "step": 8.448
+                        },
+                        "atk": {
+                            "base": 164.736,
+                            "step": 3.168
+                        },
+                        "def": {
+                            "base": 231.66,
+                            "step": 4.455
+                        },
+                        "spd": {
+                            "base": 101,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 506.88,
+                            "step": 8.448
+                        },
+                        "atk": {
+                            "base": 190.08,
+                            "step": 3.168
+                        },
+                        "def": {
+                            "base": 267.3,
+                            "step": 4.455
+                        },
+                        "spd": {
+                            "base": 101,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 574.464,
+                            "step": 8.448
+                        },
+                        "atk": {
+                            "base": 215.424,
+                            "step": 3.168
+                        },
+                        "def": {
+                            "base": 302.94,
+                            "step": 4.455
+                        },
+                        "spd": {
+                            "base": 101,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    }
+                ],
+                "eidolons": [
+                    {
+                        "name": "Chuckle Chimes Where Jade Falls",
+                        "desc": "In Aha's extra turn triggered by Ultimate, the fixed amount of Punchline taken into account increases to 40. When dealing Elation DMG, all ally targets ignore 20% of the target's DEF."
+                    },
+                    {
+                        "name": "Blind Arrows Guided by Feathers",
+                        "desc": "While the Zone is active, increases all ally targets' SPD by 12%, and additionally increases Elation by 16%."
+                    },
+                    {
+                        "name": "Auspices Mirrored In Decalight",
+                        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+                        "level_up_skills": {
+                            "skill": 2,
+                            "basic": 1,
+                            "elation": 1
+                        }
+                    },
+                    {
+                        "name": "Threads of Fate Colored by Plumes",
+                        "desc": "In Aha's extra turn triggered by Yao Guang's Ultimate, the DMG dealt by all ally characters' Elation Skill becomes 150% of the original DMG."
+                    },
+                    {
+                        "name": "Bejeweled in Radiant Grace",
+                        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+                        "level_up_skills": {
+                            "ult": 2,
+                            "talent": 2,
+                            "elation": 1
+                        }
+                    },
+                    {
+                        "name": "Ferried Along the Astral Arc",
+                        "desc": "All ally targets' Elation DMG merrymakes by 25%. Increases the DMG multiplier of Yao Guang's Elation Skill by 100% of its original multiplier."
+                    }
+                ],
+                "skills": {
+                    "basic": {
+                        "name": "Whistlebolt Sings Joy",
+                        "max_level": 10,
+                        "desc": "Deals Physical DMG equal to {0}% of Yao Guang's ATK to one designated enemy and Physical DMG equal to {1}% of Yao Guang's ATK to targets adjacent to it. The Energy regenerated from Basic ATK increases to 30.",
+                        "params": [
+                            [
+                                "45",
+                                "15"
+                            ],
+                            [
+                                "54",
+                                "18"
+                            ],
+                            [
+                                "63",
+                                "21"
+                            ],
+                            [
+                                "72",
+                                "24"
+                            ],
+                            [
+                                "81",
+                                "27"
+                            ],
+                            [
+                                "90",
+                                "30"
+                            ],
+                            [
+                                "99",
+                                "33"
+                            ],
+                            [
+                                "108",
+                                "36"
+                            ],
+                            [
+                                "117",
+                                "39"
+                            ],
+                            [
+                                "126",
+                                "42"
+                            ]
+                        ]
+                    },
+                    "skill": {
+                        "name": "Decalight Unveils All",
+                        "max_level": 15,
+                        "desc": "Deploys a Zone for 3 turn(s). This duration decreases by 1 at the start of this unit's every turn. While the Zone is active, increases all allies' Elation by an amount equal to {0}% of Yao Guang's Elation. After Yao Guang uses Basic ATK or Skill, gains 3 Punchline.",
+                        "params": [
+                            [
+                                "10.0"
+                            ],
+                            [
+                                "11.0"
+                            ],
+                            [
+                                "12.0"
+                            ],
+                            [
+                                "13.0"
+                            ],
+                            [
+                                "14.0"
+                            ],
+                            [
+                                "15.0"
+                            ],
+                            [
+                                "16.2"
+                            ],
+                            [
+                                "17.5"
+                            ],
+                            [
+                                "18.8"
+                            ],
+                            [
+                                "20.0"
+                            ],
+                            [
+                                "21.0"
+                            ],
+                            [
+                                "22.0"
+                            ],
+                            [
+                                "23.0"
+                            ],
+                            [
+                                "24.0"
+                            ],
+                            [
+                                "25.0"
+                            ]
+                        ]
+                    },
+                    "ult": {
+                        "name": "Hexagram of Feathered Fortune",
+                        "max_level": 15,
+                        "desc": "Gains 5 Punchline. Aha immediately gains 1 extra turn where a fixed amount of 20 Punchline is taken into account. This turn, does not consume Punchline, and increases all allies' All-Type RES PEN by {0}% for 3 turn(s).",
+                        "params": [
+                            [
+                                "10.0"
+                            ],
+                            [
+                                "11.0"
+                            ],
+                            [
+                                "12.0"
+                            ],
+                            [
+                                "13.0"
+                            ],
+                            [
+                                "14.0"
+                            ],
+                            [
+                                "15.0"
+                            ],
+                            [
+                                "16.2"
+                            ],
+                            [
+                                "17.5"
+                            ],
+                            [
+                                "18.8"
+                            ],
+                            [
+                                "20.0"
+                            ],
+                            [
+                                "21.0"
+                            ],
+                            [
+                                "22.0"
+                            ],
+                            [
+                                "23.0"
+                            ],
+                            [
+                                "24.0"
+                            ],
+                            [
+                                "25.0"
+                            ]
+                        ]
+                    },
+                    "talent": {
+                        "name": "Behold Wherever Light Unfolds",
+                        "max_level": 15,
+                        "desc": "While Yao Guang holds \"Certified Banger\":\nAfter an ally target uses an attack, triggers the \"Great Boon\" effect, dealing 1 additional instance of {0}% Elation DMG of the corresponding Type to 1 random hit target. If this attack consumes Skill Points, then additionally triggers \"Great Boon\" 1 time.\nWhen triggering the \"Great Boon\" effect, if the attacker's Elation is lower than that of Yao Guang, then this instance of Elation DMG will take Yao Guang's Elation into calculation.\nTriggering the \"Great Boon\" effect is not considered as using 1 instance of attack.",
+                        "params": [
+                            [
+                                "10.0"
+                            ],
+                            [
+                                "11.0"
+                            ],
+                            [
+                                "12.0"
+                            ],
+                            [
+                                "13.0"
+                            ],
+                            [
+                                "14.0"
+                            ],
+                            [
+                                "15.0"
+                            ],
+                            [
+                                "16.2"
+                            ],
+                            [
+                                "17.5"
+                            ],
+                            [
+                                "18.8"
+                            ],
+                            [
+                                "20.0"
+                            ],
+                            [
+                                "21.0"
+                            ],
+                            [
+                                "22.0"
+                            ],
+                            [
+                                "23.0"
+                            ],
+                            [
+                                "24.0"
+                            ],
+                            [
+                                "25.0"
+                            ]
+                        ]
+                    }
+                },
+                "traces": {
+                    "technique": {
+                        "name": "Untethered Glimmer Sails Far",
+                        "desc": "After using Technique, automatically triggers Skill 1 time at the start of the next battle without consuming any Skill Points. When Yao Guang is in the team, breaking destructible objects immediately grants Fortune Pouch, up to 8 within every Earth Week."
+                    },
+                    "ability_1": {
+                        "name": "Amaze-In Grace",
+                        "desc": "When Yao Guang's SPD is 120 or higher, increases this unit's Elation by 30%. For every 1 SPD exceeded, increases this unit's Elation by 1%. Up to a max of 200 excess SPD can be taken into account for this effect."
+                    },
+                    "ability_2": {
+                        "name": "Poised and Sated",
+                        "desc": "Increases this unit's CRIT DMG by 60%. After using Elation Skill, recovers 1 Skill Point(s) for the team."
+                    },
+                    "ability_3": {
+                        "name": "Felicity Ensemble",
+                        "desc": "When Yao Guang gains \"Certified Banger,\" its duration increases by 1 turn(s)."
+                    },
+                    "stat_1": {
+                        "name": "CRIT Rate Boost",
+                        "desc": "CRIT Rate increases by 2.7%",
+                        "modifiers": [
+                            {
+                                "type": "crit_rate",
+                                "value": 0.027
+                            }
+                        ]
+                    },
+                    "stat_2": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 2",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 2
+                            }
+                        ]
+                    },
+                    "stat_3": {
+                        "name": "CRIT Rate Boost",
+                        "desc": "CRIT Rate increases by 2.7%",
+                        "modifiers": [
+                            {
+                                "type": "crit_rate",
+                                "value": 0.027
+                            }
+                        ]
+                    },
+                    "stat_4": {
+                        "name": "Elation Boost",
+                        "desc": "Unknown property: ElationDamageAddedRatioBase",
+                        "modifiers": [
+                            {
+                                "type": "elation",
+                                "value": 0.04
+                            }
+                        ]
+                    },
+                    "stat_5": {
+                        "name": "CRIT Rate Boost",
+                        "desc": "CRIT Rate increases by 4.0%",
+                        "modifiers": [
+                            {
+                                "type": "crit_rate",
+                                "value": 0.04
+                            }
+                        ]
+                    },
+                    "stat_6": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 3",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 3
+                            }
+                        ]
+                    },
+                    "stat_7": {
+                        "name": "CRIT Rate Boost",
+                        "desc": "CRIT Rate increases by 4.0%",
+                        "modifiers": [
+                            {
+                                "type": "crit_rate",
+                                "value": 0.04
+                            }
+                        ]
+                    },
+                    "stat_8": {
+                        "name": "Elation Boost",
+                        "desc": "Unknown property: ElationDamageAddedRatioBase",
+                        "modifiers": [
+                            {
+                                "type": "elation",
+                                "value": 0.06
+                            }
+                        ]
+                    },
+                    "stat_9": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 4",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 4
+                            }
+                        ]
+                    },
+                    "stat_10": {
+                        "name": "CRIT Rate Boost",
+                        "desc": "CRIT Rate increases by 5.3%",
+                        "modifiers": [
+                            {
+                                "type": "crit_rate",
+                                "value": 0.053
                             }
                         ]
                     }

@@ -240,6 +240,7 @@ def _format_modifier(modifier: dict) -> dict:
         "AllDamageTypeAddedRatio": "all_dmg",
         "BaseSpeed": "base_spd",
         "HealTakenRatio": "heal_taken_",
+        "ElationDamageAddedRatioBase": "elation"
     }
     modifier["type"] = type_map[modifier["type"]]
     return modifier
@@ -536,5 +537,7 @@ def _get_skill_type_name(skill_type: str) -> str:
             return "memosprite_talent"
         case "MemospriteSkill":
             return "memosprite_skill"
+        case "ElationDamage":
+            return "elation"
         case _:
             raise ValueError(f"Invalid skill type: {skill_type}")

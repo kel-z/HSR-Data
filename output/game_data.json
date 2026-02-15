@@ -1,5 +1,5 @@
 {
-    "version": "3.7",
+    "version": "4.0",
     "light_cones": {
         "Arrows": {
             "id": 20000,
@@ -91,6 +91,14 @@
         },
         "Reminiscence": {
             "id": 20022,
+            "rarity": 3
+        },
+        "Sneering": {
+            "id": 20023,
+            "rarity": 3
+        },
+        "Lingering Tear": {
+            "id": 20024,
             "rarity": 3
         },
         "Post-Op Conversation": {
@@ -337,6 +345,14 @@
             "id": 21062,
             "rarity": 4
         },
+        "Mushy Shroomy's Adventures": {
+            "id": 21064,
+            "rarity": 4
+        },
+        "Today's Good Luck": {
+            "id": 21065,
+            "rarity": 4
+        },
         "Before the Tutorial Mission Starts": {
             "id": 22000,
             "rarity": 4
@@ -575,6 +591,14 @@
         },
         "This Love, Forever": {
             "id": 23052,
+            "rarity": 5
+        },
+        "Dazzled by a Flowery World": {
+            "id": 23053,
+            "rarity": 5
+        },
+        "When She Decided to See": {
+            "id": 23054,
             "rarity": 5
         },
         "On the Fall of an Aeon": {
@@ -1161,6 +1185,46 @@
         "Recluse's Soft Suede Boots": {
             "set_id": 128,
             "set": "Self-Enshrouded Recluse",
+            "slot": "Feet"
+        },
+        "Magical Girl's Shining Medal": {
+            "set_id": 129,
+            "set": "Ever-Glorious Magical Girl",
+            "slot": "Head"
+        },
+        "Magical Girl's Protective Gloves": {
+            "set_id": 129,
+            "set": "Ever-Glorious Magical Girl",
+            "slot": "Hands"
+        },
+        "Magical Girl's Everdance Battle Skirt": {
+            "set_id": 129,
+            "set": "Ever-Glorious Magical Girl",
+            "slot": "Body"
+        },
+        "Magical Girl's Contract Boots": {
+            "set_id": 129,
+            "set": "Ever-Glorious Magical Girl",
+            "slot": "Feet"
+        },
+        "Diviner's Extrapolation Jade Abacus": {
+            "set_id": 130,
+            "set": "Diviner of Distant Reach",
+            "slot": "Head"
+        },
+        "Diviner's Ingenium Prosthetic Hand": {
+            "set_id": 130,
+            "set": "Diviner of Distant Reach",
+            "slot": "Hands"
+        },
+        "Diviner's Astral Robe": {
+            "set_id": 130,
+            "set": "Diviner of Distant Reach",
+            "slot": "Body"
+        },
+        "Diviner's Cloud-Soaring Boots": {
+            "set_id": 130,
+            "set": "Diviner of Distant Reach",
             "slot": "Feet"
         },
         "Herta's Space Station": {
@@ -2419,6 +2483,36 @@
                     "memosprite": {
                         "talent": 1
                     }
+                }
+            }
+        },
+        "Sparxie": {
+            "Elation": {
+                "id": 1501,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1,
+                    "elation": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2,
+                    "elation": 1
+                }
+            }
+        },
+        "Yao Guang": {
+            "Elation": {
+                "id": 1502,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1,
+                    "elation": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2,
+                    "elation": 1
                 }
             }
         },
