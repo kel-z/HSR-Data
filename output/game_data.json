@@ -1,5 +1,5 @@
 {
-    "version": "4.0",
+    "version": "4.2",
     "light_cones": {
         "Arrows": {
             "id": 20000,
@@ -381,6 +381,10 @@
             "id": 22006,
             "rarity": 4
         },
+        "Tomorrow, Together": {
+            "id": 22007,
+            "rarity": 4
+        },
         "Night on the Milky Way": {
             "id": 23000,
             "rarity": 5
@@ -601,6 +605,18 @@
             "id": 23054,
             "rarity": 5
         },
+        "The Finale of a Lie": {
+            "id": 23056,
+            "rarity": 5
+        },
+        "Welcome to the Cosmic City": {
+            "id": 23057,
+            "rarity": 5
+        },
+        "Until the Flowers Bloom Again": {
+            "id": 23058,
+            "rarity": 5
+        },
         "On the Fall of an Aeon": {
             "id": 24000,
             "rarity": 5
@@ -624,6 +640,10 @@
         "Memory's Curtain Never Falls": {
             "id": 24005,
             "rarity": 5
+        },
+        "Elation Brimming With Blessings": {
+            "id": 24006,
+            "rarity": 5
         }
     },
     "relics": {
@@ -637,7 +657,7 @@
             "set": "Passerby of Wandering Cloud",
             "slot": "Hands"
         },
-        "Passerby's Ragged Embroided Coat": {
+        "Passerby's Ragged Embroidered Coat": {
             "set_id": 101,
             "set": "Passerby of Wandering Cloud",
             "slot": "Body"
@@ -1465,6 +1485,26 @@
         "Livestream's Chatter Banter": {
             "set_id": 324,
             "set": "Tengoku@Livestream",
+            "slot": "Link Rope"
+        },
+        "Punklorde's Rainbow City": {
+            "set_id": 325,
+            "set": "Punklorde Stage Zero",
+            "slot": "Planar Sphere"
+        },
+        "Punklorde's Data Deluge": {
+            "set_id": 325,
+            "set": "Punklorde Stage Zero",
+            "slot": "Link Rope"
+        },
+        "Astropolis Media Headquarters": {
+            "set_id": 326,
+            "set": "City of Converging Stars",
+            "slot": "Planar Sphere"
+        },
+        "Astropolis Employee Credentials": {
+            "set_id": 326,
+            "set": "City of Converging Stars",
             "slot": "Link Rope"
         }
     },
@@ -2516,6 +2556,49 @@
                 }
             }
         },
+        "Ashveil": {
+            "The Hunt": {
+                "id": 1504,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
+                }
+            }
+        },
+        "Evanescia": {
+            "Elation": {
+                "id": 1505,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1,
+                    "elation": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2,
+                    "elation": 1
+                }
+            }
+        },
+        "Silver Wolf LV.999": {
+            "Elation": {
+                "id": 1506,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1,
+                    "elation": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2,
+                    "elation": 1
+                }
+            }
+        },
         "Caelus": {
             "Destruction": {
                 "id": 8001,
@@ -2565,6 +2648,19 @@
                     "memosprite": {
                         "skill": 1
                     }
+                }
+            },
+            "Elation": {
+                "id": 8009,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2,
+                    "elation": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1,
+                    "elation": 1
                 }
             }
         },
@@ -2617,6 +2713,19 @@
                     "memosprite": {
                         "skill": 1
                     }
+                }
+            },
+            "Elation": {
+                "id": 8010,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2,
+                    "elation": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1,
+                    "elation": 1
                 }
             }
         }
