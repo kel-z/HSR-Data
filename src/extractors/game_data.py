@@ -4,9 +4,8 @@ import os
 import base64
 from utils.helpers import get_path_from_avatar_base_type, get_slot_from_relic_type
 
-
 # game version that the output is up to date with
-HSR_VERSION = "4.2"
+HSR_VERSION = "4.3"
 
 STAR_RAIL_DATA_PATH = "src/data/repos/StarRailRes"
 LIGHT_CONE = STAR_RAIL_DATA_PATH + "/index_min/en/light_cones.json"

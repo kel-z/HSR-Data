@@ -1,5 +1,5 @@
 {
-    "version": "4.2",
+    "version": "4.3",
     "light_cones": {
         "Arrows": {
             "id": 20000,
@@ -615,6 +615,10 @@
         },
         "Until the Flowers Bloom Again": {
             "id": 23058,
+            "rarity": 5
+        },
+        "Reforged in Hellfire": {
+            "id": 23059,
             "rarity": 5
         },
         "On the Fall of an Aeon": {
@@ -1245,6 +1249,46 @@
         "Diviner's Cloud-Soaring Boots": {
             "set_id": 130,
             "set": "Diviner of Distant Reach",
+            "slot": "Feet"
+        },
+        "Navigator's Deep Space Mirror": {
+            "set_id": 131,
+            "set": "As Navigator Isee Sees It",
+            "slot": "Head"
+        },
+        "Navigator's Game Die": {
+            "set_id": 131,
+            "set": "As Navigator Isee Sees It",
+            "slot": "Hands"
+        },
+        "Navigator's Astral Chart Uniform": {
+            "set_id": 131,
+            "set": "As Navigator Isee Sees It",
+            "slot": "Body"
+        },
+        "Navigator's Everstride Boots": {
+            "set_id": 131,
+            "set": "As Navigator Isee Sees It",
+            "slot": "Feet"
+        },
+        "Smith's Fire Beast Mask": {
+            "set_id": 132,
+            "set": "Divine-Querying Master Smith",
+            "slot": "Head"
+        },
+        "Smith's Damascus Steel Gauntlets": {
+            "set_id": 132,
+            "set": "Divine-Querying Master Smith",
+            "slot": "Hands"
+        },
+        "Smith's Fireproof Garment": {
+            "set_id": 132,
+            "set": "Divine-Querying Master Smith",
+            "slot": "Body"
+        },
+        "Smith's Unbridled Boots": {
+            "set_id": 132,
+            "set": "Divine-Querying Master Smith",
             "slot": "Feet"
         },
         "Herta's Space Station": {
@@ -2596,6 +2640,19 @@
                     "ult": 2,
                     "talent": 2,
                     "elation": 1
+                }
+            }
+        },
+        "Mortenax Blade": {
+            "Nihility": {
+                "id": 1507,
+                "e3": {
+                    "ult": 2,
+                    "talent": 2
+                },
+                "e5": {
+                    "skill": 2,
+                    "basic": 1
                 }
             }
         },
