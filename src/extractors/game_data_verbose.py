@@ -539,5 +539,7 @@ def _get_skill_type_name(skill_type: str) -> str:
             return "memosprite_skill"
         case "ElationDamage":
             return "elation"
+        case "Assist":
+            return "assist"
         case _:
             raise ValueError(f"Invalid skill type: {skill_type}")

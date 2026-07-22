@@ -1,5 +1,5 @@
 {
-    "version": "4.3",
+    "version": "4.4",
     "light_cones": {
         "Arrows": {
             "id": 20000,
@@ -619,6 +619,18 @@
         },
         "Reforged in Hellfire": {
             "id": 23059,
+            "rarity": 5
+        },
+        "A Star That Lights the Night": {
+            "id": 23060,
+            "rarity": 5
+        },
+        "Flickering Stars": {
+            "id": 23061,
+            "rarity": 5
+        },
+        "I Am As You Behold": {
+            "id": 23062,
             "rarity": 5
         },
         "On the Fall of an Aeon": {
@@ -1549,6 +1561,26 @@
         "Astropolis Employee Credentials": {
             "set_id": 326,
             "set": "City of Converging Stars",
+            "slot": "Link Rope"
+        },
+        "Stranded Express at the Anchorage": {
+            "set_id": 327,
+            "set": "Fallen Star Anchorage",
+            "slot": "Planar Sphere"
+        },
+        "Silver Rails of the Anchorage": {
+            "set_id": 327,
+            "set": "Fallen Star Anchorage",
+            "slot": "Link Rope"
+        },
+        "Central Synapse of the Life Sciences Institute": {
+            "set_id": 328,
+            "set": "Cosmic Life Sciences Institute",
+            "slot": "Planar Sphere"
+        },
+        "Peripheral Conduits of the Life Sciences Institute": {
+            "set_id": 328,
+            "set": "Cosmic Life Sciences Institute",
             "slot": "Link Rope"
         }
     },
@@ -2653,6 +2685,45 @@
                 "e5": {
                     "skill": 2,
                     "basic": 1
+                }
+            }
+        },
+        "Rin Tohsaka": {
+            "Erudition": {
+                "id": 1508,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
+            }
+        },
+        "Gilgamesh": {
+            "Destruction": {
+                "id": 1509,
+                "e3": {
+                    "skill": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "talent": 2
+                }
+            }
+        },
+        "Himeko \u2022 Nova": {
+            "Erudition": {
+                "id": 1510,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2
                 }
             }
         },
