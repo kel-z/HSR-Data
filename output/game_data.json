@@ -1,5 +1,5 @@
 {
-    "version": "4.4",
+    "version": "4.6",
     "light_cones": {
         "Arrows": {
             "id": 20000,
@@ -353,6 +353,10 @@
             "id": 21065,
             "rarity": 4
         },
+        "A Little Getaway": {
+            "id": 21066,
+            "rarity": 4
+        },
         "Before the Tutorial Mission Starts": {
             "id": 22000,
             "rarity": 4
@@ -383,6 +387,10 @@
         },
         "Tomorrow, Together": {
             "id": 22007,
+            "rarity": 4
+        },
+        "Race to the Horizon": {
+            "id": 22008,
             "rarity": 4
         },
         "Night on the Milky Way": {
@@ -605,6 +613,10 @@
             "id": 23054,
             "rarity": 5
         },
+        "Colors for Tomorrow": {
+            "id": 23055,
+            "rarity": 5
+        },
         "The Finale of a Lie": {
             "id": 23056,
             "rarity": 5
@@ -631,6 +643,14 @@
         },
         "I Am As You Behold": {
             "id": 23062,
+            "rarity": 5
+        },
+        "Rise and Sing": {
+            "id": 23063,
+            "rarity": 5
+        },
+        "Summer Rides the Surf": {
+            "id": 23064,
             "rarity": 5
         },
         "On the Fall of an Aeon": {
@@ -1301,6 +1321,46 @@
         "Smith's Unbridled Boots": {
             "set_id": 132,
             "set": "Divine-Querying Master Smith",
+            "slot": "Feet"
+        },
+        "Actor's Weeping Masque": {
+            "set_id": 133,
+            "set": "Dreamlit Actor",
+            "slot": "Head"
+        },
+        "Actor's Vibrant Handfan": {
+            "set_id": 133,
+            "set": "Dreamlit Actor",
+            "slot": "Hands"
+        },
+        "Actor's Jester Garb": {
+            "set_id": 133,
+            "set": "Dreamlit Actor",
+            "slot": "Body"
+        },
+        "Actor's Crescent Dance Boots": {
+            "set_id": 133,
+            "set": "Dreamlit Actor",
+            "slot": "Feet"
+        },
+        "Heretic's Cranial Apparatus": {
+            "set_id": 134,
+            "set": "The Edacious Heretic",
+            "slot": "Head"
+        },
+        "Heretic's Injection Gloves": {
+            "set_id": 134,
+            "set": "The Edacious Heretic",
+            "slot": "Hands"
+        },
+        "Heretic's Straitjacket of Reason": {
+            "set_id": 134,
+            "set": "The Edacious Heretic",
+            "slot": "Body"
+        },
+        "Heretic's Ravenous Ankle-Boots": {
+            "set_id": 134,
+            "set": "The Edacious Heretic",
             "slot": "Feet"
         },
         "Herta's Space Station": {
@@ -2632,6 +2692,21 @@
                 }
             }
         },
+        "Pearl": {
+            "Elation": {
+                "id": 1503,
+                "e3": {
+                    "ult": 2,
+                    "basic": 1,
+                    "elation": 1
+                },
+                "e5": {
+                    "skill": 2,
+                    "talent": 2,
+                    "elation": 1
+                }
+            }
+        },
         "Ashveil": {
             "The Hunt": {
                 "id": 1504,
@@ -2724,6 +2799,40 @@
                 "e5": {
                     "skill": 2,
                     "talent": 2
+                }
+            }
+        },
+        "Robin \u2022 Summeretto": {
+            "Remembrance": {
+                "id": 1512,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2,
+                    "memosprite": {
+                        "talent": 1
+                    }
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1,
+                    "memosprite": {
+                        "skill": 1
+                    }
+                }
+            }
+        },
+        "Aventurine \u2022 Waveflair": {
+            "Elation": {
+                "id": 1513,
+                "e3": {
+                    "skill": 2,
+                    "talent": 2,
+                    "elation": 1
+                },
+                "e5": {
+                    "ult": 2,
+                    "basic": 1,
+                    "elation": 1
                 }
             }
         },

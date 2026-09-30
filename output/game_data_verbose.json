@@ -1,5 +1,5 @@
 {
-    "version": "4.4.0",
+    "version": "4.6.0",
     "light_cones": {
         "Arrows": {
             "rarity": 3,
@@ -12708,6 +12708,169 @@
                 ]
             }
         },
+        "A Little Getaway": {
+            "rarity": 4,
+            "path": "Elation",
+            "desc": "Night falls. Stars twinkle outside the window. The light casts two silhouettes on the wall.\n\"Sensing: Numby's Happiness Index: 97.9%.\"\n\"There's plenty of virtual currency here! Numby's bound to love it!\"\nThe Intellitron girl strokes the pet's ears and takes out an ancient gold coin.\n\"Numby, you can't eat this!\"\nThe pet leaps in joy, but she scoops it into her arms.\n\"If I remember correctly, this is a collection piece used to restore history.\"\nThe Intellitron girl smiles, recalling the long-obliterated civilization on that planet.\n\"It matters not, Jelena. The planet's historical prototype has entered the sketching phase. Progress: 85%.\"\n\"For now, let's just enjoy our vacation.\"",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 43.2,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 19.2,
+                        "step": 2.88
+                    },
+                    "def": {
+                        "base": 18,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 95.04,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 42.24,
+                        "step": 2.88
+                    },
+                    "def": {
+                        "base": 39.6,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 164.16,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 72.96,
+                        "step": 2.88
+                    },
+                    "def": {
+                        "base": 68.4,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 233.28,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 103.68,
+                        "step": 2.88
+                    },
+                    "def": {
+                        "base": 97.2,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 302.4,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 134.4,
+                        "step": 2.88
+                    },
+                    "def": {
+                        "base": 126,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 371.52,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 165.12,
+                        "step": 2.88
+                    },
+                    "def": {
+                        "base": 154.8,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 440.64,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 195.84,
+                        "step": 2.88
+                    },
+                    "def": {
+                        "base": 183.6,
+                        "step": 2.7
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Whisper",
+                "desc": "Increases the wearer's Elation by {0}%. During the use of Elation Skill by the wearer, ignores {1}% of the target's DEF.",
+                "params": [
+                    [
+                        "20",
+                        "8"
+                    ],
+                    [
+                        "25",
+                        "10"
+                    ],
+                    [
+                        "30",
+                        "12"
+                    ],
+                    [
+                        "35",
+                        "14"
+                    ],
+                    [
+                        "40",
+                        "16"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "elation",
+                            "value": 0.2
+                        }
+                    ],
+                    [
+                        {
+                            "type": "elation",
+                            "value": 0.25
+                        }
+                    ],
+                    [
+                        {
+                            "type": "elation",
+                            "value": 0.3
+                        }
+                    ],
+                    [
+                        {
+                            "type": "elation",
+                            "value": 0.35
+                        }
+                    ],
+                    [
+                        {
+                            "type": "elation",
+                            "value": 0.4
+                        }
+                    ]
+                ]
+            }
+        },
         "Before the Tutorial Mission Starts": {
             "rarity": 4,
             "path": "Nihility",
@@ -14011,6 +14174,169 @@
                     [
                         {
                             "type": "crit_dmg",
+                            "value": 0.24
+                        }
+                    ]
+                ]
+            }
+        },
+        "Race to the Horizon": {
+            "rarity": 4,
+            "path": "The Hunt",
+            "desc": "\"Team Trailblazer takes the lead! The finish line is within reach. Can Team Trailblazer clinch the final victory?\"\nOn the highly anticipated track, the roar of engines and the cheers of the crowd intertwine.\n\"Keep up this speed and charge straight ahead! Baseball Raccoon, you can do this!\"\nAn inner voice cheers them on, firm and resolute.\nIn the instant before breaking through the finish line, the heartbeat, the wind, the deafening voices, and the sound of the acceleration reach a synchronized frequency, fading into silence.\nAnd in the racer's eyes, all that remains is a vast track leading to the sky.\nSuddenly, thunderous applause and celebratory cannons erupt.\n\"I... won! Team Trailblazer won!\"\nAs the afterglow of the setting sun spills across the edge of the horizon, the euphoria of victory has arrived.",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 38.4,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 21.6,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 18,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 84.48,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 47.52,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 39.6,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 145.92,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 82.08,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 68.4,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 207.36,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 116.64,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 97.2,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 268.8,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 151.2,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 126,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 330.24,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 185.76,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 154.8,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 391.68,
+                        "step": 5.76
+                    },
+                    "atk": {
+                        "base": 220.32,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 183.6,
+                        "step": 2.7
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Overtake",
+                "desc": "Increases the wearer's ATK by {0}%. After the wearer uses Follow-Up ATK, increases their CRIT DMG by {1}% for 2 turn(s). This effect can stack up to 10 times.",
+                "params": [
+                    [
+                        "12",
+                        "3.0"
+                    ],
+                    [
+                        "15",
+                        "3.5"
+                    ],
+                    [
+                        "18",
+                        "4.0"
+                    ],
+                    [
+                        "21",
+                        "4.5"
+                    ],
+                    [
+                        "24",
+                        "5.0"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "atk_",
+                            "value": 0.12
+                        }
+                    ],
+                    [
+                        {
+                            "type": "atk_",
+                            "value": 0.15
+                        }
+                    ],
+                    [
+                        {
+                            "type": "atk_",
+                            "value": 0.18
+                        }
+                    ],
+                    [
+                        {
+                            "type": "atk_",
+                            "value": 0.21
+                        }
+                    ],
+                    [
+                        {
+                            "type": "atk_",
                             "value": 0.24
                         }
                     ]
@@ -23182,6 +23508,174 @@
                 ]
             }
         },
+        "Colors for Tomorrow": {
+            "rarity": 5,
+            "path": "Elation",
+            "desc": "\"Errant strokes corrected. Parameters adjusted.\"\nShe once tried to fit the curves of the sea into her artwork, extracting the form and spirit of water and analyzing the scattered specks of foam.\nTime and again, countless waves bloomed from her brush, but none was the one she had imagined.\n\"I wish to paint for all: not to trace their footsteps, but to illustrate their path forward.\"\nWith a sweep of her brush, she brought shelter to famished children.\nWith a wash of ink, she mended the rifts between the sky and the earth with her strokes.\nAnd her furthest stroke pierced the canvas of this world, extending into the vast cosmos.\nFor countless yesterdays, she painted the future for others...\nThe pale and the bleak, imbued with the color of hope.\nLooking back, every stroke she laid down also shaped the \"Pearl\" within her heart.",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 48,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 21.6,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 27,
+                        "step": 4.05
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 105.6,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 47.52,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 59.4,
+                        "step": 4.05
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 182.4,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 82.08,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 102.6,
+                        "step": 4.05
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 259.2,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 116.64,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 145.8,
+                        "step": 4.05
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 336,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 151.2,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 189,
+                        "step": 4.05
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 412.8,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 185.76,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 232.2,
+                        "step": 4.05
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 489.6,
+                        "step": 7.2
+                    },
+                    "atk": {
+                        "base": 220.32,
+                        "step": 3.24
+                    },
+                    "def": {
+                        "base": 275.4,
+                        "step": 4.05
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Ink Splash",
+                "desc": "Increases the wearer's DEF by {0}%. When the wearer uses Elation Skill on all allies, increases DMG taken by all enemies by {1}%, lasting for 3 turn(s). Regenerates a fixed 10 Energy for the wearer, and restores HP equal to {2}% of the wearer's DEF for all allies.",
+                "params": [
+                    [
+                        "48",
+                        "22",
+                        "10"
+                    ],
+                    [
+                        "60",
+                        "27",
+                        "12"
+                    ],
+                    [
+                        "72",
+                        "33",
+                        "15"
+                    ],
+                    [
+                        "84",
+                        "38",
+                        "17"
+                    ],
+                    [
+                        "96",
+                        "44",
+                        "20"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "def_",
+                            "value": 0.48
+                        }
+                    ],
+                    [
+                        {
+                            "type": "def_",
+                            "value": 0.6
+                        }
+                    ],
+                    [
+                        {
+                            "type": "def_",
+                            "value": 0.72
+                        }
+                    ],
+                    [
+                        {
+                            "type": "def_",
+                            "value": 0.84
+                        }
+                    ],
+                    [
+                        {
+                            "type": "def_",
+                            "value": 0.96
+                        }
+                    ]
+                ]
+            }
+        },
         "The Finale of a Lie": {
             "rarity": 5,
             "path": "The Hunt",
@@ -24351,6 +24845,342 @@
                         {
                             "type": "energy",
                             "value": 0.2
+                        }
+                    ]
+                ]
+            }
+        },
+        "Rise and Sing": {
+            "rarity": 5,
+            "path": "Remembrance",
+            "desc": "Seawater washes over her ankles, sea foam shattering beneath the moonlight. During a rare break from filming, the young girl accepted an invitation to the beach to attend a small campfire gathering.\nThe fire's light stretches out the children's shadows, their little faces painted with confusion. \"I don't know how to sing,\" \"I don't sing well,\" \"I'm too scared to sing.\" The children look up at her as they ask timidly: \"Miss Robin, what should we do?\"\nShe smiles gently, her fingertips lightly touching the strings in lieu of an answer.\n\"Come, follow my lead.\"\nThe sea breeze seemed to drown out the first strum, but the second tune takes on a shape of its own. As the waves crash against the shore and the lights flicker, she parts her lips and sings softly, pouring out the clear, sunny sky from within her heart.\n\"When you don't know how to sing, just listen to the melody in your own hearts.\"\nAt first, the notes are scattered, but gradually an outline of a melody forms, and that outline is breathed into life. She sings, and they sing, until the summer breeze brushes past.\n\"Listen, this is the song in our hearts. It has always been there, waiting to be heard.\"\nShe hears it, and so, she gently offers this blessing:\n\"Rise and sing, then spread your wings and take flight.\"",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 52.8,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 26.4,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 18,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 116.16,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 58.08,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 39.6,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 200.64,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 100.32,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 68.4,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 285.12,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 142.56,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 97.2,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 369.6,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 184.8,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 126,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 454.08,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 227.04,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 154.8,
+                        "step": 2.7
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 538.56,
+                        "step": 7.92
+                    },
+                    "atk": {
+                        "base": 269.28,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 183.6,
+                        "step": 2.7
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Improvisation",
+                "desc": "Increases the wearer's Max HP by {0}%. After the wearer uses their Ultimate, recovers 1 Skill Point for allies. When entering combat, advances the wearer's action by {1}% and grants the wearer \"New Melody\" for 2 turn(s). While the wearer has \"New Melody,\" all allies' SPD increases by {2}%.",
+                "params": [
+                    [
+                        "30",
+                        "30",
+                        "20"
+                    ],
+                    [
+                        "37",
+                        "32",
+                        "25"
+                    ],
+                    [
+                        "45",
+                        "35",
+                        "30"
+                    ],
+                    [
+                        "52",
+                        "37",
+                        "35"
+                    ],
+                    [
+                        "60",
+                        "40",
+                        "40"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "hp_",
+                            "value": 0.3
+                        }
+                    ],
+                    [
+                        {
+                            "type": "hp_",
+                            "value": 0.375
+                        }
+                    ],
+                    [
+                        {
+                            "type": "hp_",
+                            "value": 0.45
+                        }
+                    ],
+                    [
+                        {
+                            "type": "hp_",
+                            "value": 0.525
+                        }
+                    ],
+                    [
+                        {
+                            "type": "hp_",
+                            "value": 0.6
+                        }
+                    ]
+                ]
+            }
+        },
+        "Summer Rides the Surf": {
+            "rarity": 5,
+            "path": "Elation",
+            "desc": "Seawater washes over the board, the wave's crest tearing open a churning rift and shattering the sunlight into a million golden shards. He steps onto his surfboard, letting the roaring wave launch him into the air.\n\"High seas mean high risks, and high risks mean massive returns.\"\nHe challenges the waves time and time again, placing himself right at the eye of the storm. The height of summer, the blazing sun, the crisp sea breeze... The dizzying array of names, the fluctuating margins of profit and loss, the lies and schemes lurking in people's eyes... It all melts into blurry patches of color, no longer demanding his scrutiny.\n\"The tide has arrived. Now... just what will it leave in its wake?\"\nThe ocean is boundless, much like the endless prosperity of Astropolis. Before tossing down his next chip, he rides the ridge of the wave and wagers his very being, fixing his gaze on that singular moment as he looks down upon the surging tide.",
+            "ascension": [
+                {
+                    "hp": {
+                        "base": 43.2,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 26.4,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 24,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 95.04,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 58.08,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 52.8,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 164.16,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 100.32,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 91.2,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 233.28,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 142.56,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 129.6,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 302.4,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 184.8,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 168,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 371.52,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 227.04,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 206.4,
+                        "step": 3.6
+                    }
+                },
+                {
+                    "hp": {
+                        "base": 440.64,
+                        "step": 6.48
+                    },
+                    "atk": {
+                        "base": 269.28,
+                        "step": 3.96
+                    },
+                    "def": {
+                        "base": 244.8,
+                        "step": 3.6
+                    }
+                }
+            ],
+            "ability": {
+                "name": "Waveriding",
+                "desc": "Increases the wearer's CRIT Rate by {0}%. When the wearer uses Elation Skill, gains \"Updraft,\" which increases the wearer's SPD by {1}%. If the Elation Skill used is different from the one used last time, additionally gains \"Uptrend,\" which increases the wearer's Elation by {2}%.\nWhen every wave starts or after the wearer uses Elation Skill 3 time(s), recovers 1 Skill Point.",
+                "params": [
+                    [
+                        "18",
+                        "24",
+                        "40"
+                    ],
+                    [
+                        "21",
+                        "28",
+                        "55"
+                    ],
+                    [
+                        "24",
+                        "32",
+                        "70"
+                    ],
+                    [
+                        "27",
+                        "36",
+                        "85"
+                    ],
+                    [
+                        "30",
+                        "40",
+                        "100"
+                    ]
+                ],
+                "modifiers": [
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.18
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.21
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.24
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.27
+                        }
+                    ],
+                    [
+                        {
+                            "type": "crit_rate",
+                            "value": 0.3
                         }
                     ]
                 ]
@@ -26403,6 +27233,64 @@
                     {
                         "type": "hp_",
                         "value": 0.12
+                    }
+                ],
+                []
+            ]
+        },
+        "Dreamlit Actor": {
+            "pieces": {
+                "Head": {
+                    "name": "Actor's Weeping Masque"
+                },
+                "Hands": {
+                    "name": "Actor's Vibrant Handfan"
+                },
+                "Body": {
+                    "name": "Actor's Jester Garb"
+                },
+                "Feet": {
+                    "name": "Actor's Crescent Dance Boots"
+                }
+            },
+            "desc": [
+                "Increases SPD by 6%.",
+                "When the wearer uses their Skill or Ultimate on one other ally target, increases the ability target's Elation by 16%, lasting for 3 turn(s). If the wearer has 10 or more points of Certified Banger, additionally increases all ally targets' CRIT DMG by 12%, lasting for 3 turn(s)."
+            ],
+            "modifiers": [
+                [
+                    {
+                        "type": "spd_",
+                        "value": 0.06
+                    }
+                ],
+                []
+            ]
+        },
+        "The Edacious Heretic": {
+            "pieces": {
+                "Head": {
+                    "name": "Heretic's Cranial Apparatus"
+                },
+                "Hands": {
+                    "name": "Heretic's Injection Gloves"
+                },
+                "Body": {
+                    "name": "Heretic's Straitjacket of Reason"
+                },
+                "Feet": {
+                    "name": "Heretic's Ravenous Ankle-Boots"
+                }
+            },
+            "desc": [
+                "Increases CRIT DMG by 16%.",
+                "Increases DMG dealt by the wearer's Basic ATK by 36%. When the wearer uses Basic ATK, increases the wearer's ATK by 20%, lasting for 2 turn(s)."
+            ],
+            "modifiers": [
+                [
+                    {
+                        "type": "crit_dmg",
+                        "value": 0.16
                     }
                 ],
                 []
@@ -73886,6 +74774,588 @@
                 }
             }
         },
+        "Pearl": {
+            "Elation": {
+                "rarity": 5,
+                "element": "Ice",
+                "ascension": [
+                    {
+                        "hp": {
+                            "base": 163.68,
+                            "step": 8.184
+                        },
+                        "atk": {
+                            "base": 63.36,
+                            "step": 3.168
+                        },
+                        "def": {
+                            "base": 99,
+                            "step": 4.95
+                        },
+                        "spd": {
+                            "base": 99,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 229.152,
+                            "step": 8.184
+                        },
+                        "atk": {
+                            "base": 88.704,
+                            "step": 3.168
+                        },
+                        "def": {
+                            "base": 138.6,
+                            "step": 4.95
+                        },
+                        "spd": {
+                            "base": 99,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 294.624,
+                            "step": 8.184
+                        },
+                        "atk": {
+                            "base": 114.048,
+                            "step": 3.168
+                        },
+                        "def": {
+                            "base": 178.2,
+                            "step": 4.95
+                        },
+                        "spd": {
+                            "base": 99,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 360.096,
+                            "step": 8.184
+                        },
+                        "atk": {
+                            "base": 139.392,
+                            "step": 3.168
+                        },
+                        "def": {
+                            "base": 217.8,
+                            "step": 4.95
+                        },
+                        "spd": {
+                            "base": 99,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 425.568,
+                            "step": 8.184
+                        },
+                        "atk": {
+                            "base": 164.736,
+                            "step": 3.168
+                        },
+                        "def": {
+                            "base": 257.4,
+                            "step": 4.95
+                        },
+                        "spd": {
+                            "base": 99,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 491.04,
+                            "step": 8.184
+                        },
+                        "atk": {
+                            "base": 190.08,
+                            "step": 3.168
+                        },
+                        "def": {
+                            "base": 297,
+                            "step": 4.95
+                        },
+                        "spd": {
+                            "base": 99,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 556.512,
+                            "step": 8.184
+                        },
+                        "atk": {
+                            "base": 215.424,
+                            "step": 3.168
+                        },
+                        "def": {
+                            "base": 336.6,
+                            "step": 4.95
+                        },
+                        "spd": {
+                            "base": 99,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    }
+                ],
+                "eidolons": [
+                    {
+                        "name": "Nestle That Pearl in Uninked Tides",
+                        "desc": "When the number of Elation Path characters on the team equals 2/3/(4 or more), increases Elation for all allies by 10%/20%/60% respectively. If an ally target takes fatal damage, they will not get knocked down. Instead, immediately restores their HP by an amount equal to 50% of their Max HP. This effect can trigger 2 time(s) per battle."
+                    },
+                    {
+                        "name": "Crop That Dappled Dawn",
+                        "desc": "Merrymakes all ally targets' Elation DMG by 15%. When using Ultimate, causes other ally Elation characters (excluding Pearl and \"Aesthetic Archetype\") to also trigger the action advance effect. And the \"Certified Banger\" and Punchline gained at the start of the extra turn provided by the Ultimate increase by 100%."
+                    },
+                    {
+                        "name": "Sketch That Suspended Wave",
+                        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+                        "level_up_skills": {
+                            "ult": 2,
+                            "basic": 1,
+                            "elation": 1
+                        }
+                    },
+                    {
+                        "name": "Study That Veiled Smile",
+                        "desc": "The Elation DMG provided by Elation Skill to all ally targets has its multiplier increased by 100% of its original multiplier."
+                    },
+                    {
+                        "name": "Render Those Starlit Swirls",
+                        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+                        "level_up_skills": {
+                            "skill": 2,
+                            "talent": 2,
+                            "elation": 1
+                        }
+                    },
+                    {
+                        "name": "Compute Life From One Shell",
+                        "desc": "While \"Deep Learning,\" all ally targets' All-Type RES PEN increases by 20%. Pearl's Enhanced Basic ATK additionally deals 240% Ice Elation DMG, which is calculated based on the stats of \"Aesthetic Archetype.\""
+                    }
+                ],
+                "skills": {
+                    "basic": {
+                        "name": "Brushstroke: Trace the Severed Stream",
+                        "max_level": 10,
+                        "desc": "Deals Ice DMG equal to {0}% of Pearl's DEF to one designated enemy.",
+                        "params": [
+                            [
+                                "45"
+                            ],
+                            [
+                                "54"
+                            ],
+                            [
+                                "63"
+                            ],
+                            [
+                                "72"
+                            ],
+                            [
+                                "81"
+                            ],
+                            [
+                                "90"
+                            ],
+                            [
+                                "99"
+                            ],
+                            [
+                                "108"
+                            ],
+                            [
+                                "117"
+                            ],
+                            [
+                                "126"
+                            ]
+                        ]
+                    },
+                    "skill": {
+                        "name": "Relume Life's Light",
+                        "max_level": 15,
+                        "desc": "Gains 15 point(s) of \"Certified Banger,\" restores HP for all ally targets equal to {0}% of Pearl's DEF plus {1}, and additionally restores HP for the ally target with the lowest current HP percentage by an amount equal to {0}% of Pearl's DEF plus {1}.",
+                        "params": [
+                            [
+                                "6.0",
+                                "120"
+                            ],
+                            [
+                                "6.6",
+                                "132"
+                            ],
+                            [
+                                "7.2",
+                                "144"
+                            ],
+                            [
+                                "7.8",
+                                "156"
+                            ],
+                            [
+                                "8.4",
+                                "168"
+                            ],
+                            [
+                                "9.0",
+                                "180"
+                            ],
+                            [
+                                "9.8",
+                                "195"
+                            ],
+                            [
+                                "10.5",
+                                "210"
+                            ],
+                            [
+                                "11.2",
+                                "225"
+                            ],
+                            [
+                                "12.0",
+                                "240"
+                            ],
+                            [
+                                "12.6",
+                                "252"
+                            ],
+                            [
+                                "13.2",
+                                "264"
+                            ],
+                            [
+                                "13.8",
+                                "276"
+                            ],
+                            [
+                                "14.4",
+                                "288"
+                            ],
+                            [
+                                "15.0",
+                                "300"
+                            ]
+                        ]
+                    },
+                    "ult": {
+                        "name": "Appraise Soul's Ground",
+                        "max_level": 15,
+                        "desc": "Gains 20 point(s) of \"Certified Banger\". Uses \"Deep Learning\" on one designated ally character other than this unit, making the target the \"Aesthetic Archetype.\"\nWhen there are 1/2/(3 or more) Elation characters on the team, advances the \"Aesthetic Archetype's\" action by 10%/15%/30% respectively. When there are 4 or more Elation characters on the team, the \"Aesthetic Archetype\" gains 1 extra turn. At the start of this extra turn, the \"Aesthetic Archetype\" gains 30 point(s) of \"Certified Banger\" and 60 point(s) of Punchline, which are removed at the end of the extra turn.\nWhile \"Deep Learning,\" Basic ATK \"Brushstroke: Trace the Severed Stream\" gets enhanced to \"Brushstroke: Render the Great Wave.\" If the \"Aesthetic Archetype\" is on the Path of Elation, it is instead enhanced to \"Brushstroke: Imagenate the Starry Night.\" And after attacking, additionally deals {0}% Ice Elation DMG. This Elation DMG is calculated based on the \"Aesthetic Archetype's\" stats. \"Deep Learning\" has 3 point(s) of Charge. After Pearl uses an Enhanced Basic ATK, 1 point of Charge is consumed. If no Charge remains after taking action, \"Deep Learning\" ends.",
+                        "params": [
+                            [
+                                "30"
+                            ],
+                            [
+                                "33"
+                            ],
+                            [
+                                "36"
+                            ],
+                            [
+                                "39"
+                            ],
+                            [
+                                "42"
+                            ],
+                            [
+                                "45"
+                            ],
+                            [
+                                "48"
+                            ],
+                            [
+                                "52"
+                            ],
+                            [
+                                "56"
+                            ],
+                            [
+                                "60"
+                            ],
+                            [
+                                "63"
+                            ],
+                            [
+                                "66"
+                            ],
+                            [
+                                "69"
+                            ],
+                            [
+                                "72"
+                            ],
+                            [
+                                "75"
+                            ]
+                        ]
+                    },
+                    "talent": {
+                        "name": "Grow Grace from Grit",
+                        "max_level": 15,
+                        "desc": "Pearl can use \"Certified Banger\" as Repellency. Each point of \"Certified Banger\" is equivalent to 200 point(s) of Repellency. When an ally target takes DMG, Pearl can consume Repellency to offset 60% of that DMG for the ally target. Pearl's \"Certified Banger\" lasts indefinitely and has a max limit of 50.\nWhen an ally target's current HP percentage is 50% or lower, their DMG taken gets reduced by {0}%.",
+                        "params": [
+                            [
+                                "15"
+                            ],
+                            [
+                                "16"
+                            ],
+                            [
+                                "18"
+                            ],
+                            [
+                                "19"
+                            ],
+                            [
+                                "21"
+                            ],
+                            [
+                                "22"
+                            ],
+                            [
+                                "24"
+                            ],
+                            [
+                                "26"
+                            ],
+                            [
+                                "28"
+                            ],
+                            [
+                                "30"
+                            ],
+                            [
+                                "31"
+                            ],
+                            [
+                                "33"
+                            ],
+                            [
+                                "34"
+                            ],
+                            [
+                                "36"
+                            ],
+                            [
+                                "37"
+                            ]
+                        ]
+                    }
+                },
+                "traces": {
+                    "technique": {
+                        "name": "Recast Masterwork in Nacre",
+                        "desc": "After using Technique, gains \"Aesthetic Archetype.\" When switching active characters, \"Aesthetic Archetype\" transfers to the currently active character. At the start of the next battle, Pearl gains 20 \"Certified Banger\" and applies \"Deep Learning\" on the character with \"Aesthetic Archetype.\" This \"Deep Learning\" has 2 Charge. Pearl can only apply \"Deep Learning\" on characters other than herself."
+                    },
+                    "ability_1": {
+                        "name": "Panoptic Vision",
+                        "desc": "When Pearl's DEF is 2400 or higher, increases this unit's Elation by 32%. For every 100 DEF exceeding that threshold, increases this unit's Elation by 3%. Up to a max of 3600 excess DEF can be taken into account for this effect. Pearl gains Outgoing Healing Boost, equal to 20% of this unit's Elation."
+                    },
+                    "ability_2": {
+                        "name": "Sensory Latitude",
+                        "desc": "While holding \"Certified Banger,\" increases all ally targets' Effect RES by 50%. When an ally target's turn begins, Pearl gains 5 point(s) of \"Certified Banger,\" up to a max of 50 point(s) of \"Certified Banger.\" The obtainable amount of \"Certified Banger\" resets at the start of Pearl's turn. When using Enhanced Basic ATK or Skill, dispels 1 debuff(s) from all ally targets."
+                    },
+                    "ability_3": {
+                        "name": "Aesthetic Firewall",
+                        "desc": "After entering combat or using Ultimate, if the \"Aesthetic Archetype\" is an Elation character, their next use of Ultimate regenerates a fixed 90 Energy for Pearl. This effect cannot stack."
+                    },
+                    "stat_1": {
+                        "name": "DEF Boost",
+                        "desc": "DEF increases by 5.0%",
+                        "modifiers": [
+                            {
+                                "type": "def_",
+                                "value": 0.05
+                            }
+                        ]
+                    },
+                    "stat_2": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 2",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 2
+                            }
+                        ]
+                    },
+                    "stat_3": {
+                        "name": "Effect RES Boost",
+                        "desc": "Effect RES resistance increases by 4.0%",
+                        "modifiers": [
+                            {
+                                "type": "effect_res",
+                                "value": 0.04
+                            }
+                        ]
+                    },
+                    "stat_4": {
+                        "name": "Elation Boost",
+                        "desc": "Unknown property: ElationDamageAddedRatioBase",
+                        "modifiers": [
+                            {
+                                "type": "elation",
+                                "value": 0.04
+                            }
+                        ]
+                    },
+                    "stat_5": {
+                        "name": "DEF Boost",
+                        "desc": "DEF increases by 7.5%",
+                        "modifiers": [
+                            {
+                                "type": "def_",
+                                "value": 0.075
+                            }
+                        ]
+                    },
+                    "stat_6": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 3",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 3
+                            }
+                        ]
+                    },
+                    "stat_7": {
+                        "name": "Effect RES Boost",
+                        "desc": "Effect RES resistance increases by 6.0%",
+                        "modifiers": [
+                            {
+                                "type": "effect_res",
+                                "value": 0.06
+                            }
+                        ]
+                    },
+                    "stat_8": {
+                        "name": "Elation Boost",
+                        "desc": "Unknown property: ElationDamageAddedRatioBase",
+                        "modifiers": [
+                            {
+                                "type": "elation",
+                                "value": 0.06
+                            }
+                        ]
+                    },
+                    "stat_9": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 4",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 4
+                            }
+                        ]
+                    },
+                    "stat_10": {
+                        "name": "DEF Boost",
+                        "desc": "DEF increases by 10.0%",
+                        "modifiers": [
+                            {
+                                "type": "def_",
+                                "value": 0.1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
         "Ashveil": {
             "The Hunt": {
                 "rarity": 5,
@@ -77788,7 +79258,7 @@
                     },
                     {
                         "name": "The Colors We Never Strike",
-                        "desc": "The cap of Himeko \u2022 Nova's Assist Skill uses increases to 2, and the DMG dealt by Ultimate and Assist Skill becomes 130% of their original DMG. During the \"Navigator's Semaphore\" state, at the start of each turn , additionally recovers 1 use of Assist Skill immediately. When a non-Trailblaze Companions character uses Assist Skill, the Trace \"Hark! The Express's Pulse Roars\" now also grants them 1 extra turn."
+                        "desc": "The cap of Himeko \u2022 Nova's Assist Skill uses increases to 2, and the DMG dealt by Ultimate and Assist Skill becomes 130% of their original DMG. During the \"Navigator's Semaphore\" state, at the start of each turn, additionally recovers 1 use of Assist Skill immediately. When a non-Trailblaze Companions character uses Assist Skill, the Trace \"Hark! The Express's Pulse Roars\" now also grants them 1 extra turn."
                     },
                     {
                         "name": "We Who Are Starborn Muse Starward",
@@ -78170,6 +79640,1170 @@
                             {
                                 "type": "atk_",
                                 "value": 0.08
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "Robin \u2022 Summeretto": {
+            "Remembrance": {
+                "rarity": 5,
+                "element": "Wind",
+                "ascension": [
+                    {
+                        "hp": {
+                            "base": 163.68,
+                            "step": 8.184
+                        },
+                        "atk": {
+                            "base": 81.84,
+                            "step": 4.092
+                        },
+                        "def": {
+                            "base": 66,
+                            "step": 3.3
+                        },
+                        "spd": {
+                            "base": 95,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 229.152,
+                            "step": 8.184
+                        },
+                        "atk": {
+                            "base": 114.576,
+                            "step": 4.092
+                        },
+                        "def": {
+                            "base": 92.4,
+                            "step": 3.3
+                        },
+                        "spd": {
+                            "base": 95,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 294.624,
+                            "step": 8.184
+                        },
+                        "atk": {
+                            "base": 147.312,
+                            "step": 4.092
+                        },
+                        "def": {
+                            "base": 118.8,
+                            "step": 3.3
+                        },
+                        "spd": {
+                            "base": 95,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 360.096,
+                            "step": 8.184
+                        },
+                        "atk": {
+                            "base": 180.048,
+                            "step": 4.092
+                        },
+                        "def": {
+                            "base": 145.2,
+                            "step": 3.3
+                        },
+                        "spd": {
+                            "base": 95,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 425.568,
+                            "step": 8.184
+                        },
+                        "atk": {
+                            "base": 212.784,
+                            "step": 4.092
+                        },
+                        "def": {
+                            "base": 171.6,
+                            "step": 3.3
+                        },
+                        "spd": {
+                            "base": 95,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 491.04,
+                            "step": 8.184
+                        },
+                        "atk": {
+                            "base": 245.52,
+                            "step": 4.092
+                        },
+                        "def": {
+                            "base": 198,
+                            "step": 3.3
+                        },
+                        "spd": {
+                            "base": 95,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 556.512,
+                            "step": 8.184
+                        },
+                        "atk": {
+                            "base": 278.256,
+                            "step": 4.092
+                        },
+                        "def": {
+                            "base": 224.4,
+                            "step": 3.3
+                        },
+                        "spd": {
+                            "base": 95,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    }
+                ],
+                "eidolons": [
+                    {
+                        "name": "Stray Bird of Summer",
+                        "desc": "\"Summer Songbirds\" will keep a tally of 100% of the non-True DMG dealt by ally targets. When using the Memosprite Skill, additionally deals True DMG to the enemy target with the highest HP, equal to (11% + current Vibes \u00d7 0.1%) of the total tally. Then, clears 50% of the tally."
+                    },
+                    {
+                        "name": "A Heart of Still Water",
+                        "desc": "Ally targets' All-Type RES PEN increases by 18%. The upper limit of Robin \u2022 Summeretto's Vibes increases by 20. The first time an ally target uses an ability during any target's turn to cause Robin \u2022 Summeretto to gain Vibes, she gains an additional 2 points."
+                    },
+                    {
+                        "name": "Echoes Left Along the Way",
+                        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.\nMemosprite Talent Lv. +1, up to a maximum of Lv. 10.",
+                        "level_up_skills": {
+                            "skill": 2,
+                            "talent": 2,
+                            "memosprite_talent": 1
+                        }
+                    },
+                    {
+                        "name": "Her Variation on the Theme",
+                        "desc": "Upon entering the \"Fever\" state, immediately gains 12 Vibes, and increases the SPD of \"Summer Songbirds\" by an amount equal to (20% + current Vibes \u00d7 0.5%)."
+                    },
+                    {
+                        "name": "To Chase the Dawn Anew",
+                        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.\nMemosprite Skill Lv. +1, up to a maximum of Lv. 10.",
+                        "level_up_skills": {
+                            "ult": 2,
+                            "basic": 1,
+                            "memosprite_skill": 1
+                        }
+                    },
+                    {
+                        "name": "A Song Yet Unnamed",
+                        "desc": "Increases the Memosprite Skill's DMG multiplier by 100% of its original value. While in the \"Fever\" state, Robin \u2022 Summeretto can store her Ultimate up to 2 times. After entering the \"Fever\" state for the first time in this battle or when the the \"Fever\" countdown's turn starts, regenerates a fixed 140 Energy."
+                    }
+                ],
+                "skills": {
+                    "basic": {
+                        "name": "The Sea Sings in My Key",
+                        "max_level": 10,
+                        "desc": "Deals Wind DMG equal to {0}% of Robin \u2022 Summeretto's Max HP to one enemy.",
+                        "params": [
+                            [
+                                "25"
+                            ],
+                            [
+                                "30"
+                            ],
+                            [
+                                "35"
+                            ],
+                            [
+                                "40"
+                            ],
+                            [
+                                "45"
+                            ],
+                            [
+                                "50"
+                            ],
+                            [
+                                "55"
+                            ],
+                            [
+                                "60"
+                            ],
+                            [
+                                "65"
+                            ],
+                            [
+                                "70"
+                            ]
+                        ]
+                    },
+                    "skill": {
+                        "name": "Summer Strums the Soul",
+                        "max_level": 15,
+                        "desc": "Summons the memosprite \"Summer Songbirds\" Bessie. If any member of the \"Summer Songbirds\" is already on the field, restores their HP by an amount equal to {0}% of \"Summer Songbirds'\" Max HP, and gains 6 Vibes.",
+                        "params": [
+                            [
+                                "50"
+                            ],
+                            [
+                                "55"
+                            ],
+                            [
+                                "60"
+                            ],
+                            [
+                                "65"
+                            ],
+                            [
+                                "70"
+                            ],
+                            [
+                                "75"
+                            ],
+                            [
+                                "81"
+                            ],
+                            [
+                                "87"
+                            ],
+                            [
+                                "93"
+                            ],
+                            [
+                                "100"
+                            ],
+                            [
+                                "105"
+                            ],
+                            [
+                                "110"
+                            ],
+                            [
+                                "114"
+                            ],
+                            [
+                                "120"
+                            ],
+                            [
+                                "125"
+                            ]
+                        ]
+                    },
+                    "ult": {
+                        "name": "Ascend That Rhapsody in Blue",
+                        "max_level": 15,
+                        "desc": "Advances the action of one designated ally character (excluding Robin \u2022 Summeretto) by 100% and regenerates a fixed amount of Energy equal to {0}% of their Max Energy. Then, grants them the \"Special Guest\" effect. When the \"Special Guest\" character or their summon attacks, they additionally grant Robin \u2022 Summeretto 2 Vibes but cannot make other friendly targets gain the action advance effect. This lasts for 2 turn(s), and its duration decreases by 1 at the start of this character's turn.",
+                        "params": [
+                            [
+                                "12.0"
+                            ],
+                            [
+                                "12.8"
+                            ],
+                            [
+                                "13.6"
+                            ],
+                            [
+                                "14.4"
+                            ],
+                            [
+                                "15.2"
+                            ],
+                            [
+                                "16.0"
+                            ],
+                            [
+                                "17.0"
+                            ],
+                            [
+                                "18.0"
+                            ],
+                            [
+                                "19.0"
+                            ],
+                            [
+                                "20.0"
+                            ],
+                            [
+                                "20.8"
+                            ],
+                            [
+                                "21.6"
+                            ],
+                            [
+                                "22.4"
+                            ],
+                            [
+                                "23.2"
+                            ],
+                            [
+                                "24.0"
+                            ]
+                        ]
+                    },
+                    "talent": {
+                        "name": "Wings Heed No Borders",
+                        "max_level": 15,
+                        "desc": "Memosprite \"Summer Songbirds\" has an initial Max HP equal to 70% of Robin \u2022 Summeretto's Max HP and an initial SPD equal to 180% of Robin \u2022 Summeretto's SPD. When an ally target uses an attack, or when they provide healing or Shield for the first time in any target's turn, Robin \u2022 Summeretto gains Vibes by 1 point, capped at 50. While \"Summer Songbirds\" Bessie is on the field, if Robin \u2022 Summeretto's Vibes is 6 or higher, immediately summons \"Summer Songbirds\" Drummie, and if Vibes is 12 or higher, immediately summons \"Summer Songbirds\" Paddie. When all \"Summer Songbirds\" take the stage, dispels all Crowd Control debuffs inflicted upon Robin \u2022 Summeretto and the \"Summer Songbirds\", starts the \"Fever\" state, and deploys a Zone. When ally targets deal DMG within the Zone, they ignore a percentage of enemy targets' DEF equal to ({0}% + Vibes \u00d7 0.5%).\nWhile in the \"Fever\" state, Robin \u2022 Summeretto and the \"Summer Songbirds\" are immune to Crowd Control debuffs. Robin \u2022 Summeretto will not enter her turn until the \"Fever\" state ends.",
+                        "params": [
+                            [
+                                "10.0"
+                            ],
+                            [
+                                "10.5"
+                            ],
+                            [
+                                "11.0"
+                            ],
+                            [
+                                "11.5"
+                            ],
+                            [
+                                "12.0"
+                            ],
+                            [
+                                "12.5"
+                            ],
+                            [
+                                "13.1"
+                            ],
+                            [
+                                "13.8"
+                            ],
+                            [
+                                "14.4"
+                            ],
+                            [
+                                "15.0"
+                            ],
+                            [
+                                "15.5"
+                            ],
+                            [
+                                "16.0"
+                            ],
+                            [
+                                "16.5"
+                            ],
+                            [
+                                "17.0"
+                            ],
+                            [
+                                "17.5"
+                            ]
+                        ]
+                    }
+                },
+                "traces": {
+                    "technique": {
+                        "name": "We Are the Melody",
+                        "desc": "After using Technique, advances action by 20% at the start of the next battle, immediately gains 6 Vibes, and increases all allies' DMG dealt by 30%, lasting for 2 turn(s)."
+                    },
+                    "ability_1": {
+                        "name": "Deviated Chords",
+                        "desc": "When an ally target causes Robin \u2022 Summeretto to gain Vibes, if their ATK is higher than Robin \u2022 Summeretto's, increases that target's ATK by an amount equal to (16% + Vibes \u00d7 0.0%) of Robin \u2022 Summeretto's Max HP. Otherwise, increases that target's CRIT DMG by an amount equal to (40% + Vibes \u00d7 0.0%). Lasts for 2 turn(s)."
+                    },
+                    "ability_2": {
+                        "name": "Improvised Blues",
+                        "desc": "When Robin \u2022 Summeretto or the \"Summer Songbirds\" receive healing or Shield provided by teammates, causes Robin \u2022 Summeretto to gain 12 stack(s) of \"Groove,\" capped at 12. The first time Robin \u2022 Summeretto gains Vibes during any target's turn, if she has \"Groove,\" consumes 1 stack of \"Groove\" and regenerates a fixed 3 Energy."
+                    },
+                    "ability_3": {
+                        "name": "Rebuilt Harmony",
+                        "desc": "Increases the CRIT Rate of Robin \u2022 Summeretto and \"Summer Songbirds\" by 50%."
+                    },
+                    "stat_1": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 2",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 2
+                            }
+                        ]
+                    },
+                    "stat_2": {
+                        "name": "HP Boost",
+                        "desc": "HP increases by 4.0%",
+                        "modifiers": [
+                            {
+                                "type": "hp_",
+                                "value": 0.04
+                            }
+                        ]
+                    },
+                    "stat_3": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 2",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 2
+                            }
+                        ]
+                    },
+                    "stat_4": {
+                        "name": "CRIT Rate Boost",
+                        "desc": "CRIT Rate increases by 2.7%",
+                        "modifiers": [
+                            {
+                                "type": "crit_rate",
+                                "value": 0.027
+                            }
+                        ]
+                    },
+                    "stat_5": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 3",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 3
+                            }
+                        ]
+                    },
+                    "stat_6": {
+                        "name": "HP Boost",
+                        "desc": "HP increases by 6.0%",
+                        "modifiers": [
+                            {
+                                "type": "hp_",
+                                "value": 0.06
+                            }
+                        ]
+                    },
+                    "stat_7": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 3",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 3
+                            }
+                        ]
+                    },
+                    "stat_8": {
+                        "name": "CRIT Rate Boost",
+                        "desc": "CRIT Rate increases by 4.0%",
+                        "modifiers": [
+                            {
+                                "type": "crit_rate",
+                                "value": 0.04
+                            }
+                        ]
+                    },
+                    "stat_9": {
+                        "name": "HP Boost",
+                        "desc": "HP increases by 8.0%",
+                        "modifiers": [
+                            {
+                                "type": "hp_",
+                                "value": 0.08
+                            }
+                        ]
+                    },
+                    "stat_10": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 4",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 4
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "Aventurine \u2022 Waveflair": {
+            "Elation": {
+                "rarity": 5,
+                "element": "Quantum",
+                "ascension": [
+                    {
+                        "hp": {
+                            "base": 158.4,
+                            "step": 7.92
+                        },
+                        "atk": {
+                            "base": 66,
+                            "step": 3.3
+                        },
+                        "def": {
+                            "base": 82.5,
+                            "step": 4.125
+                        },
+                        "spd": {
+                            "base": 107,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 221.76,
+                            "step": 7.92
+                        },
+                        "atk": {
+                            "base": 92.4,
+                            "step": 3.3
+                        },
+                        "def": {
+                            "base": 115.5,
+                            "step": 4.125
+                        },
+                        "spd": {
+                            "base": 107,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 285.12,
+                            "step": 7.92
+                        },
+                        "atk": {
+                            "base": 118.8,
+                            "step": 3.3
+                        },
+                        "def": {
+                            "base": 148.5,
+                            "step": 4.125
+                        },
+                        "spd": {
+                            "base": 107,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 348.48,
+                            "step": 7.92
+                        },
+                        "atk": {
+                            "base": 145.2,
+                            "step": 3.3
+                        },
+                        "def": {
+                            "base": 181.5,
+                            "step": 4.125
+                        },
+                        "spd": {
+                            "base": 107,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 411.84,
+                            "step": 7.92
+                        },
+                        "atk": {
+                            "base": 171.6,
+                            "step": 3.3
+                        },
+                        "def": {
+                            "base": 214.5,
+                            "step": 4.125
+                        },
+                        "spd": {
+                            "base": 107,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 475.2,
+                            "step": 7.92
+                        },
+                        "atk": {
+                            "base": 198,
+                            "step": 3.3
+                        },
+                        "def": {
+                            "base": 247.5,
+                            "step": 4.125
+                        },
+                        "spd": {
+                            "base": 107,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    },
+                    {
+                        "hp": {
+                            "base": 538.56,
+                            "step": 7.92
+                        },
+                        "atk": {
+                            "base": 224.4,
+                            "step": 3.3
+                        },
+                        "def": {
+                            "base": 280.5,
+                            "step": 4.125
+                        },
+                        "spd": {
+                            "base": 107,
+                            "step": 0
+                        },
+                        "taunt": {
+                            "base": 100,
+                            "step": 0
+                        },
+                        "crit_rate": {
+                            "base": 0.05,
+                            "step": 0
+                        },
+                        "crit_dmg": {
+                            "base": 0.5,
+                            "step": 0
+                        }
+                    }
+                ],
+                "eidolons": [
+                    {
+                        "name": "A Holiday on the Line",
+                        "desc": "Increases All-Type RES PEN by 24%.\nTalent gets enhanced: When \"Fervor\" reaches 10/20/30 points, immediately uses \"Cheers! To Summer's Blaze.\""
+                    },
+                    {
+                        "name": "Idle as the Turning Tide",
+                        "desc": "Increases the upper limit of \"Fervor\" to 50 points. \"Fervor\" reaching 40/50 points can also trigger the Talent to use \"Cheers! To Summer's Blaze.\" After using Elation Skill, additionally gains 4 \"Fervor.\""
+                    },
+                    {
+                        "name": "A Rendezvous Served Chilled",
+                        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+                        "level_up_skills": {
+                            "skill": 2,
+                            "talent": 2,
+                            "elation": 1
+                        }
+                    },
+                    {
+                        "name": "Sunlight Runs No Tab",
+                        "desc": "When Aventurine \u2022 Waveflair uses Skill, enables the DMG dealt by all allies to ignore 18% of enemy targets' DEF, lasting for 3 turn(s)."
+                    },
+                    {
+                        "name": "Into the Eye of the Jackpot",
+                        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+                        "level_up_skills": {
+                            "ult": 2,
+                            "basic": 1,
+                            "elation": 1
+                        }
+                    },
+                    {
+                        "name": "The Past in Fast Lane",
+                        "desc": "Elation DMG dealt by Aventurine \u2022 Waveflair merrymakes by 25%. After Aventurine \u2022 Waveflair uses his Elation Skill 2 time(s), all subsequent Elation Skills used become \"All In! To Summer's Blaze.\" And when using the Elation Skill \"All In! To Summer's Blaze\" to additionally deal DMG outside of Aha Instant, it no longer consumes \"Fervor.\""
+                    }
+                ],
+                "skills": {
+                    "basic": {
+                        "name": "Dead Center, the Torrent Hits",
+                        "max_level": 10,
+                        "desc": "Deals Quantum DMG equal to {0}% of Aventurine \u2022 Waveflair's ATK to one designated enemy.",
+                        "params": [
+                            [
+                                "50"
+                            ],
+                            [
+                                "60"
+                            ],
+                            [
+                                "70"
+                            ],
+                            [
+                                "80"
+                            ],
+                            [
+                                "90"
+                            ],
+                            [
+                                "100"
+                            ],
+                            [
+                                "110"
+                            ],
+                            [
+                                "120"
+                            ],
+                            [
+                                "130"
+                            ],
+                            [
+                                "140"
+                            ]
+                        ]
+                    },
+                    "skill": {
+                        "name": "Kill Shot, the Sands Boil",
+                        "max_level": 15,
+                        "desc": "Deals Quantum DMG equal to {0}% of Aventurine \u2022 Waveflair's ATK to all enemies. Gains 4 Punchline and 4 \"Fervor.\"",
+                        "params": [
+                            [
+                                "120"
+                            ],
+                            [
+                                "132"
+                            ],
+                            [
+                                "144"
+                            ],
+                            [
+                                "156"
+                            ],
+                            [
+                                "168"
+                            ],
+                            [
+                                "180"
+                            ],
+                            [
+                                "195"
+                            ],
+                            [
+                                "210"
+                            ],
+                            [
+                                "225"
+                            ],
+                            [
+                                "240"
+                            ],
+                            [
+                                "252"
+                            ],
+                            [
+                                "264"
+                            ],
+                            [
+                                "276"
+                            ],
+                            [
+                                "288"
+                            ],
+                            [
+                                "300"
+                            ]
+                        ]
+                    },
+                    "ult": {
+                        "name": "Grand Slam, Crest That High Tide",
+                        "max_level": 15,
+                        "desc": "Deals Quantum DMG equal to {0}% of Aventurine \u2022 Waveflair's ATK to all enemies. Gains 6 Punchline and 8 \"Fervor.\" Increases this unit's SPD by {1}%, lasting for 4 turn(s).",
+                        "params": [
+                            [
+                                "240",
+                                "12"
+                            ],
+                            [
+                                "256",
+                                "13"
+                            ],
+                            [
+                                "272",
+                                "15"
+                            ],
+                            [
+                                "288",
+                                "17"
+                            ],
+                            [
+                                "304",
+                                "19"
+                            ],
+                            [
+                                "320",
+                                "21"
+                            ],
+                            [
+                                "340",
+                                "23"
+                            ],
+                            [
+                                "360",
+                                "25"
+                            ],
+                            [
+                                "380",
+                                "27"
+                            ],
+                            [
+                                "400",
+                                "30"
+                            ],
+                            [
+                                "416",
+                                "31"
+                            ],
+                            [
+                                "432",
+                                "33"
+                            ],
+                            [
+                                "448",
+                                "35"
+                            ],
+                            [
+                                "463",
+                                "37"
+                            ],
+                            [
+                                "480",
+                                "39"
+                            ]
+                        ]
+                    },
+                    "talent": {
+                        "name": "Ante Up, the Abyss Answers",
+                        "max_level": 15,
+                        "desc": "The duration of Aventurine \u2022 Waveflair's \"Certified Banger\" increases by 1 turn. After a teammate uses an attack, Aventurine \u2022 Waveflair gains 1 \"Fervor\" and 1 Punchline. \"Fervor\" is capped at 30 points.\nWhen \"Fervor\" reaches 10, Aventurine \u2022 Waveflair uses 1 instance of \"Cheers! To Summer's Blaze\" that takes into account a fixed amount of 20 Punchline. After this use, the next Elation Skill used by this unit in the Aha Instant gets enhanced into \"All In! To Summer's Blaze.\"\nWhile Aventurine \u2022 Waveflair holds \"Certified Banger,\" Skill additionally deals {0}% Quantum Elation DMG to all enemies, and Ultimate additionally deals {1}% Quantum Elation DMG to all enemies.",
+                        "params": [
+                            [
+                                "20",
+                                "36"
+                            ],
+                            [
+                                "22",
+                                "39"
+                            ],
+                            [
+                                "24",
+                                "43"
+                            ],
+                            [
+                                "26",
+                                "46"
+                            ],
+                            [
+                                "28",
+                                "50"
+                            ],
+                            [
+                                "30",
+                                "54"
+                            ],
+                            [
+                                "32",
+                                "58"
+                            ],
+                            [
+                                "35",
+                                "63"
+                            ],
+                            [
+                                "37",
+                                "67"
+                            ],
+                            [
+                                "40",
+                                "72"
+                            ],
+                            [
+                                "42",
+                                "75"
+                            ],
+                            [
+                                "44",
+                                "79"
+                            ],
+                            [
+                                "46",
+                                "82"
+                            ],
+                            [
+                                "48",
+                                "86"
+                            ],
+                            [
+                                "50",
+                                "90"
+                            ]
+                        ]
+                    }
+                },
+                "traces": {
+                    "technique": {
+                        "name": "Make Waves in Still Waters",
+                        "desc": "Moves forward rapidly for a set distance, attacking all enemies in contact and blocking all incoming attacks. After entering combat via actively attacking enemies, deals Quantum DMG to all enemies equal to 100% of Aventurine \u2022 Waveflair's ATK, and gains 2 \"Fervor\" and 20 \"Certified Banger.\" Technique Points are not consumed if no enemies are hit."
+                    },
+                    "ability_1": {
+                        "name": "Party in Perfect Paradise",
+                        "desc": "When SPD is 140 or higher, increases this unit's Elation by 30%. For every 1 SPD exceeding that threshold, additionally increases this unit's Elation by 1%. Up to a max of 200 excess SPD can be taken into account for this effect."
+                    },
+                    "ability_2": {
+                        "name": "Revel in Raging Tides",
+                        "desc": "At the start of the battle, if there are other Elation characters in the team besides Aventurine \u2022 Waveflair, while Aventurine \u2022 Waveflair is on the field, increases all allies' Elation by 20%, with Aventurine \u2022 Waveflair's Elation additionally increases by 80%.\nAt the start of the battle, if Aventurine \u2022 Waveflair is the only Elation character in the team, when Aventurine \u2022 Waveflair deals DMG using his Elation Skill, it is considered as launching a Follow-Up ATK. After a teammate uses an attack, Aventurine \u2022 Waveflair gains 2 point(s) of \"Certified Banger\" and 1 Punchline(s), and increases Aha's SPD by 25. The SPD Boost effect lasts until the end of Aha Instant."
+                    },
+                    "ability_3": {
+                        "name": "Sift Through Gilded Dreams",
+                        "desc": "Increases CRIT DMG by 48%. After a teammate uses Basic ATK, Skill, Follow-Up ATK, or Ultimate, all allies' CRIT DMG increases by 48%, lasting for 3 turn(s), and Aventurine \u2022 Waveflair additionally gains 2 \"Fervor.\" This effect can trigger up to 6 time(s), and the trigger count resets when Aventurine \u2022 Waveflair uses Skill."
+                    },
+                    "stat_1": {
+                        "name": "CRIT Rate Boost",
+                        "desc": "CRIT Rate increases by 2.7%",
+                        "modifiers": [
+                            {
+                                "type": "crit_rate",
+                                "value": 0.027
+                            }
+                        ]
+                    },
+                    "stat_2": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 2",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 2
+                            }
+                        ]
+                    },
+                    "stat_3": {
+                        "name": "CRIT Rate Boost",
+                        "desc": "CRIT Rate increases by 2.7%",
+                        "modifiers": [
+                            {
+                                "type": "crit_rate",
+                                "value": 0.027
+                            }
+                        ]
+                    },
+                    "stat_4": {
+                        "name": "Elation Boost",
+                        "desc": "Unknown property: ElationDamageAddedRatioBase",
+                        "modifiers": [
+                            {
+                                "type": "elation",
+                                "value": 0.04
+                            }
+                        ]
+                    },
+                    "stat_5": {
+                        "name": "CRIT Rate Boost",
+                        "desc": "CRIT Rate increases by 4.0%",
+                        "modifiers": [
+                            {
+                                "type": "crit_rate",
+                                "value": 0.04
+                            }
+                        ]
+                    },
+                    "stat_6": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 3",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 3
+                            }
+                        ]
+                    },
+                    "stat_7": {
+                        "name": "CRIT Rate Boost",
+                        "desc": "CRIT Rate increases by 4.0%",
+                        "modifiers": [
+                            {
+                                "type": "crit_rate",
+                                "value": 0.04
+                            }
+                        ]
+                    },
+                    "stat_8": {
+                        "name": "Elation Boost",
+                        "desc": "Unknown property: ElationDamageAddedRatioBase",
+                        "modifiers": [
+                            {
+                                "type": "elation",
+                                "value": 0.06
+                            }
+                        ]
+                    },
+                    "stat_9": {
+                        "name": "SPD Boost",
+                        "desc": "SPD increases by 4",
+                        "modifiers": [
+                            {
+                                "type": "spd",
+                                "value": 4
+                            }
+                        ]
+                    },
+                    "stat_10": {
+                        "name": "CRIT Rate Boost",
+                        "desc": "CRIT Rate increases by 5.3%",
+                        "modifiers": [
+                            {
+                                "type": "crit_rate",
+                                "value": 0.053
                             }
                         ]
                     }
