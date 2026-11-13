@@ -7,6 +7,7 @@ from utils.helpers import get_path_from_avatar_base_type, get_slot_from_relic_ty
 # game version that the output is up to date with
 HSR_VERSION = "4.7"
 
+AFFINITIVE_EIDOLON_KEY = "affinitive_eidolon"
 AFFINITIVE_EIDOLONS = {
     "1204": 120401,
     "1213": 121301,
@@ -135,7 +136,7 @@ def get_characters() -> dict:
             "e5": _parse_skill_levels(skills, e5["level_up_skills"]),
         }
         if str(char_id) in AFFINITIVE_EIDOLONS:
-            variant["affinitive_eidolon"] = AFFINITIVE_EIDOLONS[str(char_id)]
+            variant[AFFINITIVE_EIDOLON_KEY] = AFFINITIVE_EIDOLONS[str(char_id)]
         res[name][get_path_from_avatar_base_type(character["path"])] = variant
 
     return res
