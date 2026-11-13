@@ -5,7 +5,13 @@ import base64
 from utils.helpers import get_path_from_avatar_base_type, get_slot_from_relic_type
 
 # game version that the output is up to date with
-HSR_VERSION = "4.6"
+HSR_VERSION = "4.7"
+
+AFFINITIVE_EIDOLONS = {
+    "1204": 120401,
+    "1213": 121301,
+    "1308": 130801,
+}
 
 STAR_RAIL_DATA_PATH = "src/data/repos/StarRailRes"
 LIGHT_CONE = STAR_RAIL_DATA_PATH + "/index_min/en/light_cones.json"
@@ -123,11 +129,14 @@ def get_characters() -> dict:
             if eidolon["id"] == character["ranks"][4]
         )
 
-        res[name][get_path_from_avatar_base_type(character["path"])] = {
+        variant = {
             "id": int(char_id),
             "e3": _parse_skill_levels(skills, e3["level_up_skills"]),
             "e5": _parse_skill_levels(skills, e5["level_up_skills"]),
         }
+        if str(char_id) in AFFINITIVE_EIDOLONS:
+            variant["affinitive_eidolon"] = AFFINITIVE_EIDOLONS[str(char_id)]
+        res[name][get_path_from_avatar_base_type(character["path"])] = variant
 
     return res
 
